@@ -27,6 +27,11 @@ jobs_DS_filtered = jobs_DS[jobs_DS.date_posted >= (pd.Timestamp.now() - pd.Timed
 
 jobs = pd.concat([jobs_MLE_filtered, jobs_DS_filtered],axis=0)
 
+jobs = jobs.drop_duplicates(
+    subset="id",
+    keep="first"   # keep first occurrence
+)
+
 # Step 2: Build RSS items
 rss_items = ""
 
@@ -35,7 +40,7 @@ for _, job in jobs.iterrows():
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
     description = escape(str(job.get("description", ""))[:1000])
-
+    date_posted = escape(str(job.get("date_posted", "")))
     pub_date = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
 
     rss_items += f"""
@@ -43,6 +48,7 @@ for _, job in jobs.iterrows():
         <title>{title} - {company}</title>
         <link>{link}</link>
         <description>{description}</description>
+        <postDate>{date_posted}</postDate>
         <pubDate>{pub_date}</pubDate>
     </item>
     """
@@ -52,7 +58,7 @@ rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <channel>
     <title>DS&MLE Jobs</title>
     <link>https://indeed.com</link>
-    <description>Scraped jobs</description>
+    <description>jobs</description>
     {rss_items}
 </channel>
 </rss>
