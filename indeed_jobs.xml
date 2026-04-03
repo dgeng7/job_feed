@@ -6,124 +6,262 @@
     <description>jobs</description>
     
     <item>
-        <title>Computer Vision for High Energy Laser Alignment Systems - Postdoctoral Researcher - Lawrence Livermore National Laboratory</title>
-        <link>https://www.indeed.com/viewjob?jk=2f346e5d60a0ffb5</link>
-        <description>### **Company Description**
+        <title>AI / ML Developer (Senior) - Infogain</title>
+        <link>https://www.indeed.com/viewjob?jk=a8cd0039f54352ae</link>
+        <description>ROLES \&amp; RESPONSIBILITIES
 
 
-**Join us and make YOUR mark on the World!**
-
-
-Lawrence Livermore National Laboratory (LLNL) has turned bold ideas into world\-changing impact advancing science and technology to strengthen U.S. security and promote global stability.
-
-
-Our mission spans four critical national security areas nuclear deterrence, threat preparedness, energy security, and multi\-domain defense empowering teams to take on the toughest challenges of today and tomorrow. With a culture built on innovation and operational excellence, LLNL is a place where your expertise can make a real impact.
-
-
-### **Job Description**
-
-
-We have an opening for a highly qualified and motivated **Postdoctoral Researcher** to join the National Ignition Facility (NIF) Automated Alignment team. This team develops, sustains, and improves the operational software that automatically aligns NIF laser systems prior to experiments. The role is primarily focused on computer vision and image processing, with so</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Concept Prototype Intern - Mercedes-Benz Group</title>
-        <link>https://www.indeed.com/viewjob?jk=d96d688da7d8e722</link>
-        <description>At Mercedes\-Benz Research \&amp; Development North America (MBRDNA), we are committed to delivering world\-class automotive technologies that push the boundaries of what is possible. Our teams of highly skilled engineers and designers use cutting\-edge software and technology, to enhance the driving experience and reduce environmental impact.  
-
-We’re looking for a curious, driven UX/UI/Product Design and Prototype, AI Concept intern who is excited about emerging technologies across both software and hardware. You’ll help shape next\-generation automotive experiences by reimagining how drivers interact with intelligent systems inside and outside the vehicle.
-
-
-
-This goes far beyond visual polish. You’ll shape ideas at the concept level, experiment through rapid prototyping, and collaborate across disciplines to turn vision into tangible experiences. You’ll thrive in this role if you’re energized by ambiguity, excited by startup environments, and motivated to create meaningful impact.
-
-
-##</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Vehicle Dynamics Simulation Engineer - Zoox</title>
-        <link>https://www.indeed.com/viewjob?jk=378ba1628a8ec304</link>
-        <description>The Robot Dynamics team at Zoox is responsible for the vehicle dynamics performance of our robot.
-
-Our team is the engine behind Zoox’s vehicle dynamics development. We don't just "test" vehicles; we translate data into technical insights that drive critical engineering decisions. We are looking for an engineer with strong vehicle dynamics chops and a can\-do mindset—someone who can use modern data analysis tools to turn questions into answers rapidly, find the signal in the noise, and provide the broader team with clear options for advancing the vehicle dynamics performance of our robots.  
-
-
-### **In this role, you will:**
-
-* Conduct virtual ride and handling assessments to identify critical trade\-offs and lead testing activities
-* Analyze simulation and vehicle data to provide quick\-turnaround insights on vehicle behavior, identify performance gaps, and propose hardware or software solutions.
-* Distill complex vehicle dynamics phenomena into clear, data\-backed options for the bro</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>2026 PhD Residency - Protein Engineer (Early Stage Biology Project) - X Development</title>
-        <link>https://www.indeed.com/viewjob?jk=2452cb03e156946d</link>
-        <description>InternshipMountain View, CA
-
-
-
-#### **The Team:**
-
-
-
-The Bio Design Kitchen (BioDK) is X’s state\-of\-the\-art biology and chemistry lab that empowers Xers to tackle unique challenges to launch moonshots in biology and chemistry. Our team of resident scientists and engineers are experts at turning biochemical concepts into reality, whether it's rapid prototyping, in\-house development, or brainstorming novel solutions.
-
-
-#### **The Role:**
-
-
-
-We are looking for an exceptional PhD student with expertise in protein engineering, particularly with a focus on biocatalysis. Candidates should have substantial hands\-on experience in the implementation of protein engineering workflows in a wet\-lab setting. The ideal candidate should also have familiarity with the integration of ML methods with experimental protein\-function determination to accelerate protein engineering efforts and improve outcomes.
-
-
-You will be a part of X’s Design Kitchen, a world\-class team of builders and dreamers, and</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Oracle Database Administrator - Vantor</title>
-        <link>https://www.indeed.com/viewjob?jk=5149560ba93bbb28</link>
-        <description>**Please review the job details below.**
-----------------------------------------
-
-
-Lanteris Space is a leading provider of comprehensive space technologies. We deliver innovative solutions to government and commercial customers helping them unlock the promise of space to solve problems on Earth and beyond. We address a broad spectrum of needs for our customers, including mission systems engineering, product design, spacecraft manufacturing, assembly, integration and testing. Lanteris Space Systems is a trusted partner in commercial and government missions, combining more than 60 years of deep mission understanding with reliable performance and longevity.
-
-
-We are seeking an experienced Oracle Database Administrator to join our IT team. This role can be based in our Bay area offices or can be performed remotely. In this role, you will be responsible for the design, implementation, maintenance, and optimization of our Oracle database systems that support our spacecraft design, manufactu</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff AI Solutions Engineer - Checkr</title>
-        <link>https://www.indeed.com/viewjob?jk=f31cacb2a425f818</link>
-        <description>**About Checkr**  
-
-Checkr is building the data platform to power safe and fair decisions. Established in 2014, Checkr's innovative technology and robust data platform help customers assess risk and ensure safety and compliance to build trusted workplaces and communities. Checkr has over 100,000 customers including DoorDash, Coinbase, Lyft, Instacart, and Airtable.
-  
+We are seeking an experienced **AI/ML Infrastructure \&amp; Ops Engineer** to build, scale, and maintain the critical infrastructure that powers our AI models and autonomous agents. In this role, you will act as the bridge between our AI research/development teams and our production environments. You will not just be deploying models; you will be designing the high\-performance, distributed systems required to serve Large Language Models (LLMs), orchestrate multi\-agent workflows, and optimize GPU compute at scale.
 
   
 
-We're a team that thrives on solving complex problems with innovative solutions that advance our mission. Checkr is recognized on Forbes Cloud 100 2025 List and is a Y Combinator 2024 Breakthrough Company.
+If you are passionate about turning complex AI capabilities into highly reliable, scalable, and cost\-efficient production systems, this is the role for you.
+
+  
+
+Key Responsibilities
+
+**1\. Machine Learning Infrastructure \&amp; Serving**
+
+* Design, build, and manage scalable infrastructure for training, fine\-tuning, and serving LLMs and multimodal models.
+* Optimize inference latency, throughput, and cost using modern serving frameworks (e.g., vLL</description>
+        <postDate>2026-04-03</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Video AI Engineer - Zoom Communications</title>
+        <link>https://www.indeed.com/viewjob?jk=34d03e1c5252b937</link>
+        <description>* San Jose, California, United States
+* Full time
+
+  
+**What you can expect**
+
+As a Video AI Engineer, you’ll enhance video codecs, video generation, and real\-time 3D reconstruction to improve video quality, immersion, and performance in Zoom products. You will work across our stack, developing software ranging from Web Server to business application layers for our distributed, cloud\-hosted backend. Working alongside leading experts in the field, you’ll deliver happiness to our users and grow your knowledge base every day.
+
+**About the Team**
 
 
-Join the IT Engineering team as a Staff AI Solutions Engineer, where you will serve as the primary driver of AI enablement and solutions engineering across all departments at Checkr. This is a highly visible, hands\-on role that blends deep technical expertise with a passion for teaching and empowering others. You will lead the charge on understanding team\-specific requirements, configuring and evaluating AI too</description>
+With eight specialized departments, the engineering team functions as a highly collaborative, diverse powerhouse. Each department mission is to deliver seamless and innovative communication solutions. These range from software development and machine learning to quality assurance teams that work to create and maintain Zoom's user\-friendly interfaces and robust infrastructure. The team continues to push the boundaries of communication technolo</description>
+        <postDate>2026-04-03</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Sr Staff Machine Learning Platform Engineer (Prisma AIRS) - Palo Alto Networks</title>
+        <link>https://www.indeed.com/viewjob?jk=4c63422757565730</link>
+        <description>Santa Clara, California, United States Product Engineering Ref ID: JR\-015865  
+
+**Our Mission**
+
+
+At Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real\-world problems with cutting\-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place.
+
+**Who We Are**
+
+
+In order to be the cybersecurity partner of choice, we must trailblaze the path and shape the future of our industry. This is something our employees work at each day and is defined by our values: Disruption, Collaboration, Execution, Integrity, and Inclusion. We weave AI into the fabric of everything we do and use it to augment the impact every individual can have. If you are passionate about solving real\-world problems and ideating beside the best and t</description>
+        <postDate>2026-04-03</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Software Engineer - CyberArk</title>
+        <link>https://www.indeed.com/viewjob?jk=de998f58152935a4</link>
+        <description>R\&amp;D
+ \|
+United States
+ \|
+Job ID \- POS5297\_1  
+
+
+
+
+##### **Company Description**
+
+
+About CyberArk  
+
+CyberArk, a Palo Alto Networks company, is the global leader in identity security, trusted by organizations around the world to secure human and machine identities in the modern enterprise. CyberArk’s AI\-powered Identity Security Platform applies intelligent privilege controls to every identity with continuous threat prevention, detection and response across the identity lifecycle. With Identity Security, organizations can reduce operational and security risks by enabling zero trust and least privilege with complete visibility, empowering all users and identities, including workforce, IT, developers and machines, to securely access any resource, located anywhere, from everywhere. Learn more at cyberark.com.
+
+*Copyright © 2026 CyberArk Software. All Rights Reserved.* *All other brand names, product names, or trademarks belong to their respective holders.*
+
+
+##### **Job Description**
+</description>
+        <postDate>2026-04-03</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Software Engineer, Sensor/Imaging - Waymo</title>
+        <link>https://www.indeed.com/viewjob?jk=eff490b40aac1e68</link>
+        <description>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self\-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo's fully autonomous ride\-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider\-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15\+ U.S. states.
+
+
+Hardware Engineering is an innovative and collaborative group of electrical, mechanical, reliability, software and vehicle engineers. We design, build, and perfect the products which are the eyes and ears of Waymo's autonomous driving technology, and integrate those products into vehicle plat</description>
+        <postDate>2026-04-03</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Software Engineer - Trust &amp; Safety Solutions Engineer - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=3ceb939c3ee2b3de</link>
+        <description>Imagine what you could do here! At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The Trust \&amp; Safety group is responsible for protecting Apple services, customers and developers from fraud and abuse. On the solutions team, you will be tasked with building and supporting our Trust \&amp; Safety risking systems at Apple scale.  
+
+  
+
+**Description**  
+
+  
+
+Our ability to rapidly build and deploy effective fraud\-fighting solutions to production is critical in our fight with fraudsters and abusers. Our solutions team is at the heart of this, building and supporting Services to make high\-volume, low\-latency risking systems for making decisions at scale and working on integrations to make decisions that protect our customers.  
+
+  
+
+Not only must we be able to quickly respond to our adversaries, we also have to be able to run seamlessly across d</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer - Health AIML - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=100187c0de1ea98e</link>
+        <description>The Health AI team is at the forefront of machine learning and health science at Apple. We are a close\-knit team of highly accomplished, deeply technical research scientists, software and machine learning engineers passionate about delivering innovative technologies that impact millions of users. We are looking for a senior engineer excited about solving real\-world problems in the health domain that make a difference in our customers' lives.  
+
+  
+
+**Description**  
+
+  
+
+In this role, you will use your skills and experience in software, deep learning and generative AI to design, implement, tune and evaluate machine learning systems to solve ambitious problems involving unique data and high impact products. The successful candidate should possess excellent interpersonal skills and ability to work cross functionally to rapidly apply engineering best practices and novel research techniques at the intersection of Health, ML and consumer products.  
+
+  
+
+**Preferred Qualifications**  
+
+  </description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>AIML - Machine Learning Researcher, DMLI- Image/Video Generation - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=691acb4675693c7f</link>
+        <description>We are hiring a researcher with a strong technical background in Image/Video generation and editing, as well as Multimodal Foundation Models. You will play a critical role in the research and development of multimodal foundation models for image/video/3D generation, editing, animation, and many more. As a member of the team, you will have the opportunity to develop fundamental model capabilities, collaborate with team members with diverse backgrounds to work on ambitious projects, and collaborate broadly across Apple with world\-class engineers and researchers to advance our products and delight millions of users.  
+
+  
+
+**Description**  
+
+  
+
+As a member of our fast\-paced group, you’ll have the unique and rewarding opportunity to shape upcoming products from Apple. We are looking for people with excellent applied machine learning, computer vision/graphics experience, and solid engineering skills in creating outstanding model capabilities and product features. This role will have the </description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>ML Engineer, Apple Ray, Apple Data Platform - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=20645bd901792a51</link>
+        <description>The Apple Ray team is seeking a Senior / Staff Software Engineer with strong distributed systems expertise and a solid background in machine learning. In this hybrid role, you will design and build core components of Apple’s unified data\+ML platform powered by open\-source Ray, while also partnering with ML teams to ensure the platform meets the needs of large\-scale training and inference workloads.  
+
+  
+
+You will contribute to the distributed runtime, orchestration layer, and system APIs that power Apple’s intelligent features across products and services. This role is ideal for a software engineer who enjoys low\-level systems work but is also fluent in ML workflows and models at scale.  
+
+  
+
+**Description**  
+
+  
+
+Apple Ray integrates deeply with Apple’s data and ML ecosystem to provide a unified platform for building, orchestrating, and scaling complex ML and data pipelines. As a Software Engineer with ML background, you will design distributed systems that support large\-scale</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>AIML - Machine Learning Researcher, DMLI- Image/Video Generation - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=1d802a59a44244b7</link>
+        <description>We are hiring a researcher with a strong technical background in Image/Video generation and editing, as well as Multimodal Foundation Models. You will play a critical role in the research and development of multimodal foundation models for image/video/3D generation, editing, animation, and many more. As a member of the team, you will have the opportunity to develop fundamental model capabilities, collaborate with team members with diverse backgrounds to work on ambitious projects, and collaborate broadly across Apple with world\-class engineers and researchers to advance our products and delight millions of users.  
+
+  
+
+**Description**  
+
+  
+
+As a member of our fast\-paced group, you’ll have the unique and rewarding opportunity to shape upcoming products from Apple. We are looking for people with excellent applied machine learning, computer vision/graphics experience, and solid engineering skills in creating outstanding model capabilities and product features. This role will have the </description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>AIML - Applied ML Research Scientist, Accessibility - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=2f98770c8ffb0054</link>
+        <description>We are seeking an Applied Machine Learning Research Scientist to join our Accessibility efforts on the Human\-Centered Machine Intelligence (HCMI) team within AIML at Apple. Research Scientists in HCMI tackle significant technical and human\-centered research challenges, collaborate with partner teams across Apple to ship products, and shape the field of human\-centered AIML via external publication and engagement. Join us to design, study, and build intelligent interactive technologies that enable people of all abilities to use Apple technology.  
+
+  
+
+**Description**  
+
+  
+
+The Human Centered Machine Intelligence (HCMI) group designs, studies, and builds interactive technologies that enable people to benefit from machine learning. We are a close\-knit team of research scientists and engineers in a unique position to do research and work closely with product teams throughout Apple. Our work has resulted in numerous award\-winning research publications and groundbreaking technologies i</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist - Multimodal Training Data &amp; Tools - SIML - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=dd474c7116b6a3cf</link>
+        <description>Are you passionate about Generative AI? Are you interested in working on cutting edge generative modeling technologies to enrich billions of people?  
+
+  
+
+We are the Intelligence System Experience (ISE) team within Apple’s software organization. The team operates at the intersection of multimodal machine learning and system experiences. It oversees a range of experiences such as System Experience (Springboard, Settings), Image Generation, Genmoji, Writing tools, Keyboards, Pencil \&amp; Paper, Generative Shortcuts \- all powered by production scale ML workflows. Our multidisciplinary ML teams focus on a broad spectrum of areas, including Visual Generation Foundation Models, Multimodal Understanding, Visual Understanding of People, Text, Handwriting, and Scenes, Personalization, Knowledge Extraction, Conversation Analysis, Behavioral Modeling for Proactive Suggestions, and Privacy\-Preserving Learning. These innovations form the foundation of the seamless, intelligent experiences our users</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning System Software Engineer - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=3f1c66791a280d44</link>
+        <description>At Apple, we're on the cutting edge of delivering transformative experiences through Artificial Intelligence. If you're passionate about pushing the boundaries of AI and hardware optimization, we want you to join our team! As a Machine Learning System Software Engineer on the Apple Neural Engine (ANE) team, you'll work to bring high\-performance, low\-power AI solutions to life on iconic Apple products like the Vision Pro, iPhone, iPad, Mac, and more. This is a dynamic opportunity to work in a creative, collaborative environment while developing groundbreaking technologies that will shape the future of computing!  
+
+  
+
+We are looking for an engineer with deep expertise in system software technology who is eager to tackle new challenges and responsibilities as the role evolves. As the position progresses, there will be opportunities to demonstrate technical leadership, influence key design decisions, collaborate with and support other engineers, and help guide the direction of Apple’s </description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer - Health AIML - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=f9dd7a534805d27b</link>
+        <description>The Health AI team is at the forefront of machine learning and health science at Apple. We are a close\-knit team of highly accomplished, deeply technical research scientists and machine learning engineers passionate about delivering innovative technologies that impact millions of users. We are looking for a senior research lead passionate about solving real\-world problems in the health domain that make a difference in our customers' lives.  
+
+  
+
+**Description**  
+
+  
+
+In this role, you will use your skills and experience in ML and deep learning to design, implement and evaluate new machine learning models and algorithms to solve ambitious problems involving unique data and objectives. You will have the opportunity to explore and develop generative AI technologies. The successful candidate should possess excellent interpersonal skills and ability to work multi\-functionally to transform novel research at the intersection of Health and ML into customer features.  
+
+  
+
+**Preferred Qua</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
         <title>Software Development Engineer, AWS SDE Centralized Team - Amazon.com</title>
-        <link>https://www.indeed.com/viewjob?jk=a13361032c0b5355</link>
+        <link>https://www.indeed.com/viewjob?jk=f97d9980f8d52866</link>
         <description>**DESCRIPTION**
 ---------------
 
@@ -157,7 +295,483 @@ As an AWS Software Development Engineer, you will:
 * Design, develop, and maintain efficient, reusable, and reliable code
 * Implement complex software solutions t</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Emulation Engineer, Annapurna Labs - Cloud-Scale MLA - Amazon Web Services</title>
+        <link>https://www.indeed.com/viewjob?jk=7691aaba9de8d490</link>
+        <description>**DESCRIPTION**
+---------------
+
+
+As a member of the Cloud\-Scale Machine Learning Acceleration team you’ll be responsible for the design and optimization of hardware in our data centers including AWS Inferentia, our custom designed machine learning inference datacenter server. Our success depends on our world\-class server infrastructure; we’re handling massive scale and rapid integration of emergent technologies.  
+
+  
+
+We are seeking a passionate Emulation Engineer to build the next generation of our cloud server infrastructure using our emulation platform. You will work closely with various teams to determine the emulation platform requirements, models needed for functional testing and automation of various workflows. You will be delivering a state\-of\-the\-art testbench, integrate the ViP components into the SoC and ensure a high quality of the design delivered to the customers. You will be developing a strong understanding of the product and continuously raise the bar to ensurin</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Manufacturing Engineer Intern - Imperative Care</title>
+        <link>https://www.indeed.com/viewjob?jk=6fe3d9e43ec8e883</link>
+        <description>**Job Title:** **Manufacturing Engineering Intern**  
+
+**Location*****:****This position is based in our Campbell, California offices, on\-site \&amp; full\-time.* *Imperative Care does not provide relocation or additional housing compensation for the summer internship.*  
+
+  
+
+**Why Imperative Care?**  
+
+Do you want to make a real impact on patients? Imperative Care is a medical technology company redefining thrombus management. Every day, the technologies that we advance at Imperative Care directly impact people, and as part of our team, you’ll be developing breakthroughs that will benefit patients across the care continuum. Innovation, data, and secure digital platforms are critical to our mission, and the IT organization plays a key role in enabling scale, compliance, and speed across the enterprise.  
+
+  
+
+**What You’ll Do**  
+
+Our program gives students the opportunity to work with a dynamic medical device industry. The internship will provide the opportunity to gain valuable, hands\</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Scientist Intern (Global E-Commerce Content Recommendation) - 2026 Start (PhD) - TikTok</title>
+        <link>https://www.indeed.com/viewjob?jk=1ae521c2eacd6cfd</link>
+        <description>Algorithm
+  
+  
+
+Machine Learning Scientist Intern (Global E\-Commerce Content Recommendation) \- 2026 Start (PhD)
+  
+  
+
+Location
+  
+:
+  
+  
+
+San Jose
+  
+  
+
+Employment Type
+  
+:
+  
+  
+
+Intern
+  
+  
+
+Job Code
+  
+:
+  
+  
+
+A143873C
+  
+  
+
+Responsibilities
+  
+  
+
+Team Introduction
+  
+Global E\-Commerce Content Recommendation team plays a central role in the company, driving critical product decisions and platform growth. The team is made up of machine learning researchers and engineers, who support and innovate on production recommendation models and drive product impact. The team is fast\-pacing, collaborative and impact\-driven.
+  
+  
+
+We are looking for talented individuals to join us for an internship in 2026\. PhD Internships at our Company aim to provide students with the opportunity to actively contribute to our products and research, and to the organization's future plans and emerging technologies.
+  
+  
+
+PhD internships at Our Company provides students with the opportunity to ac</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer Intern - Global E-Commerce Content Recommendation - 2026 Summer (BS/MS) - TikTok</title>
+        <link>https://www.indeed.com/viewjob?jk=7368944cefb637ac</link>
+        <description>Algorithm
+  
+  
+
+Machine Learning Engineer Intern \- Global E\-Commerce Content Recommendation \- 2026 Summer (BS/MS)
+  
+  
+
+Location
+  
+:
+  
+  
+
+San Jose
+  
+  
+
+Employment Type
+  
+:
+  
+  
+
+Intern
+  
+  
+
+Job Code
+  
+:
+  
+  
+
+A245279
+  
+  
+
+Responsibilities
+  
+  
+
+Team Introduction
+  
+Global E\-Commerce Content Recommendation team plays a central role in the company, driving critical product decisions and platform growth. The team is made up of machine learning researchers and engineers, who support and innovate on production recommendation models and drive product impact. The team is fast\-pacing, collaborative and impact\-driven.
+  
+  
+
+We are looking for talented individuals to join us for an internship in 2026\. Internships at TikTok aim to offer students industry exposure and hands\-on experience. Watch your ambitions become reality as your inspiration brings infinite opportunities at TikTok.
+  
+  
+
+Internships at TikTok aim to provide students with hands\-on experience in developi</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff Engineer - Applied AI - GEICO</title>
+        <link>https://www.indeed.com/viewjob?jk=cf208712af27806b</link>
+        <description>**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.**
+
+**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.**
+
+**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
+
+
+GEICO is seeking a Staff Engineer, Applied AI to help shape how Generative AI enhances customer and associate experiences across the enterprise. This is a senior, hands\-on individual contributor role for someone with deep technical expertise, strong collaboration skills, and a proven ability to deliver scalable, resilient, production\-ready AI systems.
+
+
+You will partner with engineering teams, data scientists, and </description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Program Manager III, Software Engineering, Google Photos - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=f78e7a7e84398be1</link>
+        <description>### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 5 years of experience in program or project management.
+* Experience working on customer\-facing features.
+* Experience with the software development life\-cycle.
+
+  
+
+### **Preferred qualifications:**
+
+* 5 years of experience managing cross\-functional or cross\-team projects.
+* Experience with GenAI, machine learning, LLMs, or Agents.
+
+**About the job**
+-----------------
+
+
+A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help create opportunities for everyone, whether down the street or across the globe. As a Program Manager at Google, you’ll lead complex, multi\-disciplinary projects from start to finish — working with stakeholders to plan requirements, manage project schedules, identify risks, and communicate clearly with cross\-functional partners across the company. Your projects will often span offices, time zones, and hemispheres. It's your j</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Product Manager, Search Ads Relevance and User Quality - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=c9f0fa10c2a7b168</link>
+        <description>### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 5 years of experience in product management or a related technical role.
+* 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, 0 to 1, etc.).
+* Experience launching machine learning based products.
+* Experience leading products that leverage foundational models or LLMs.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree, PhD, or equivalent practical experience.
+* Experience with quality or modeling specific product management (e.g., ranking, content retrieval or disabling, automated evaluation or ground truth generation, etc.).
+* Experience in a product management role.
+* Ability to communicate topics, and switch between high\-level concerns (e.g., strategy, macroeconomic effects) and low\-level issues (e.g., how costs will move for a single query).
+* Excellent analytical and problem solving skills, with attention to detail.
+
+**About the </description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Staff Software Engineer, Search Personalization - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=6b33714f0b3640b1</link>
+        <description>### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 8 years of experience with one or more general purpose programming languages including but not limited to: Java, C/C\+\+ or Python.
+* 8 years of experience in software development.
+* 5 years of experience building and deploying recommendation systems models (retrieval, prediction, ranking, embedding) in production and experience building architecture in different modeling domains.
+* 5 years of experience with ML design and ML infrastructure (e.g., model deployment, model evaluation, data processing, debugging, fine tuning).
+* 5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture.
+
+  
+
+### **Preferred qualifications:**
+
+* 8 years of experience with data structures and algorithms.
+* 6 years of ML or Quality experience working on recommendation systems.
+* Experience in recommender systems, clustering algorithms, SQL, deep mode</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior UX Designer, Google Photos and Google One - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=324cf34bb947d76f</link>
+        <description>Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.  
+
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Mountain View, CA, USA; Cambridge, MA, USA; New York, NY, USA; San Francisco, CA, USA**.### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 6 years of interaction design experience in product design or UX design.
+* Experience working on AI prototyping tools.
+* Include a portfolio, website, or any other relevant link to your work in your resume (providing a viewable link or access instructions).
+
+  
+
+### **Preferred qualifications:**
+
+* Experience designing and shipping software design experiences for multiple device types and contexts.
+* Experience with Figma and other design tools.
+* Experience</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior UX Designer, Google Photos and Google One - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=f81026d3a62b092c</link>
+        <description>Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.  
+
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Mountain View, CA, USA; Cambridge, MA, USA; New York, NY, USA; San Francisco, CA, USA**.### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 6 years of interaction design experience in product design or UX design.
+* Experience working on AI prototyping tools.
+* Include a portfolio, website, or any other relevant link to your work in your resume (providing a viewable link or access instructions).
+
+  
+
+### **Preferred qualifications:**
+
+* Experience designing and shipping software design experiences for multiple device types and contexts.
+* Experience with Figma and other design tools.
+* Experience</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff Software Engineer, Generative AI, Google Cloud AI - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=f442f597c5793231</link>
+        <description>In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:  
+
+  
+
+* Health, dental, vision, life, disability insurance
+* Retirement Benefits: 401(k) with company match
+* Paid Time Off: 20 days of vacation per year, accruing at a rate of 6\.15 hours per pay period for the first five years of employment
+* Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance
+* Maternity Leave (Short\-Term Disability \+ Baby Bonding): 28\-30 weeks
+* Baby Bonding Leave: 18 weeks
+* Holidays: 13 paid days per year
+
+
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Kirkland, WA, USA; Sunnyvale, CA, USA**.### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 8 years of experience in software development.
+* 5 years </description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>ML Model Development Engineer (MMDE-2601) - TetraMem INC</title>
+        <link>https://www.indeed.com/viewjob?jk=a1232b22a47b6c59</link>
+        <description>**Title: ML Model Development Engineer (MMDE\-2601\)**  
+
+**Location: 1251 McKay Drive, San Jose, CA 95131**
+
+  
+
+  
+
+**Job Duties:** Develop and pioneer novel techniques for model compression to reduce  
+
+computational complexity and memory footprint maintaining high model performance.  
+
+Implement machine learning models, handle end\-to\-end development, from data preprocessing to  
+
+model training and evaluation. Improve existing machine learning models by exploring new  
+
+algorithms, fine\-tuning parameters, and integrating the research findings. Prototype and iterate  
+
+on different model designs, experimenting with various architectures and techniques to identify  
+
+optimal solutions. Implement efficient and optimized code to ensure fast and reliable model  
+
+inference on our new hardware platform.
+
+  
+
+  
+
+**Job Requirements:** Requires Master’s Degree in Computer Science, Computer \&amp; Systems  
+
+Engineering or related. Requires One year of experience in Job offered, Algorithm En</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Computer Vision for High Energy Laser Alignment Systems - Postdoctoral Researcher - Lawrence Livermore National Laboratory</title>
+        <link>https://www.indeed.com/viewjob?jk=2f346e5d60a0ffb5</link>
+        <description>### **Company Description**
+
+
+**Join us and make YOUR mark on the World!**
+
+
+Lawrence Livermore National Laboratory (LLNL) has turned bold ideas into world\-changing impact advancing science and technology to strengthen U.S. security and promote global stability.
+
+
+Our mission spans four critical national security areas nuclear deterrence, threat preparedness, energy security, and multi\-domain defense empowering teams to take on the toughest challenges of today and tomorrow. With a culture built on innovation and operational excellence, LLNL is a place where your expertise can make a real impact.
+
+
+### **Job Description**
+
+
+We have an opening for a highly qualified and motivated **Postdoctoral Researcher** to join the National Ignition Facility (NIF) Automated Alignment team. This team develops, sustains, and improves the operational software that automatically aligns NIF laser systems prior to experiments. The role is primarily focused on computer vision and image processing, with so</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Concept Prototype Intern - Mercedes-Benz Group</title>
+        <link>https://www.indeed.com/viewjob?jk=d96d688da7d8e722</link>
+        <description>At Mercedes\-Benz Research \&amp; Development North America (MBRDNA), we are committed to delivering world\-class automotive technologies that push the boundaries of what is possible. Our teams of highly skilled engineers and designers use cutting\-edge software and technology, to enhance the driving experience and reduce environmental impact.  
+
+We’re looking for a curious, driven UX/UI/Product Design and Prototype, AI Concept intern who is excited about emerging technologies across both software and hardware. You’ll help shape next\-generation automotive experiences by reimagining how drivers interact with intelligent systems inside and outside the vehicle.
+
+
+
+This goes far beyond visual polish. You’ll shape ideas at the concept level, experiment through rapid prototyping, and collaborate across disciplines to turn vision into tangible experiences. You’ll thrive in this role if you’re energized by ambiguity, excited by startup environments, and motivated to create meaningful impact.
+
+
+##</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Vehicle Dynamics Simulation Engineer - Zoox</title>
+        <link>https://www.indeed.com/viewjob?jk=378ba1628a8ec304</link>
+        <description>The Robot Dynamics team at Zoox is responsible for the vehicle dynamics performance of our robot.
+
+Our team is the engine behind Zoox’s vehicle dynamics development. We don't just "test" vehicles; we translate data into technical insights that drive critical engineering decisions. We are looking for an engineer with strong vehicle dynamics chops and a can\-do mindset—someone who can use modern data analysis tools to turn questions into answers rapidly, find the signal in the noise, and provide the broader team with clear options for advancing the vehicle dynamics performance of our robots.  
+
+
+### **In this role, you will:**
+
+* Conduct virtual ride and handling assessments to identify critical trade\-offs and lead testing activities
+* Analyze simulation and vehicle data to provide quick\-turnaround insights on vehicle behavior, identify performance gaps, and propose hardware or software solutions.
+* Distill complex vehicle dynamics phenomena into clear, data\-backed options for the bro</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>2026 PhD Residency - Protein Engineer (Early Stage Biology Project) - X Development</title>
+        <link>https://www.indeed.com/viewjob?jk=2452cb03e156946d</link>
+        <description>InternshipMountain View, CA
+
+
+
+#### **The Team:**
+
+
+
+The Bio Design Kitchen (BioDK) is X’s state\-of\-the\-art biology and chemistry lab that empowers Xers to tackle unique challenges to launch moonshots in biology and chemistry. Our team of resident scientists and engineers are experts at turning biochemical concepts into reality, whether it's rapid prototyping, in\-house development, or brainstorming novel solutions.
+
+
+#### **The Role:**
+
+
+
+We are looking for an exceptional PhD student with expertise in protein engineering, particularly with a focus on biocatalysis. Candidates should have substantial hands\-on experience in the implementation of protein engineering workflows in a wet\-lab setting. The ideal candidate should also have familiarity with the integration of ML methods with experimental protein\-function determination to accelerate protein engineering efforts and improve outcomes.
+
+
+You will be a part of X’s Design Kitchen, a world\-class team of builders and dreamers, and</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Oracle Database Administrator - Vantor</title>
+        <link>https://www.indeed.com/viewjob?jk=5149560ba93bbb28</link>
+        <description>**Please review the job details below.**
+----------------------------------------
+
+
+Lanteris Space is a leading provider of comprehensive space technologies. We deliver innovative solutions to government and commercial customers helping them unlock the promise of space to solve problems on Earth and beyond. We address a broad spectrum of needs for our customers, including mission systems engineering, product design, spacecraft manufacturing, assembly, integration and testing. Lanteris Space Systems is a trusted partner in commercial and government missions, combining more than 60 years of deep mission understanding with reliable performance and longevity.
+
+
+We are seeking an experienced Oracle Database Administrator to join our IT team. This role can be based in our Bay area offices or can be performed remotely. In this role, you will be responsible for the design, implementation, maintenance, and optimization of our Oracle database systems that support our spacecraft design, manufactu</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff AI Solutions Engineer - Checkr</title>
+        <link>https://www.indeed.com/viewjob?jk=f31cacb2a425f818</link>
+        <description>**About Checkr**  
+
+Checkr is building the data platform to power safe and fair decisions. Established in 2014, Checkr's innovative technology and robust data platform help customers assess risk and ensure safety and compliance to build trusted workplaces and communities. Checkr has over 100,000 customers including DoorDash, Coinbase, Lyft, Instacart, and Airtable.
+  
+
+  
+
+We're a team that thrives on solving complex problems with innovative solutions that advance our mission. Checkr is recognized on Forbes Cloud 100 2025 List and is a Y Combinator 2024 Breakthrough Company.
+
+
+Join the IT Engineering team as a Staff AI Solutions Engineer, where you will serve as the primary driver of AI enablement and solutions engineering across all departments at Checkr. This is a highly visible, hands\-on role that blends deep technical expertise with a passion for teaching and empowering others. You will lead the charge on understanding team\-specific requirements, configuring and evaluating AI too</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -177,7 +791,7 @@ At Bot Auto, we are revolutionizing the transportation of goods with our cutting
 * Explore and propose new ideas using your knowledge and experience in **deep learning**, **neural networks and large foundation models** in autonomous driving including: end\-to\-end object detection, tracking and prediction, end\-to\-end planning and control, and end\-to\-end autonomous driving system, end\-to\-end online mapping. SLAM in localization and etc..
 * Work on the **entire life cycle of machine learning projects** from data analysis, model experiment</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -187,7 +801,7 @@ At Bot Auto, we are revolutionizing the transportation of goods with our cutting
 Samsung, a world leader in advanced semiconductor technology, is founded on a simple philosophy – the endless pursuit of excellence will create a better world for all. At Samsung Austin Research and Development Center (SARC) and Advanced Computing Lab (ACL), we are building a center of excellence for Intellectual Property (IP) that is applied to high\-performance computing devices consumed by millions of people around the world. Come build with us!**Role and Responsibilities**
 As a SoC Architect, you will contribute to the architecture of SoC memory and cache subsystems for Samsung’s premium chipsets, with a strong focus on enabling on\-device machine learning. In this role, you will help define and implement innovative, high\-performance, and low\-power interconnect solutions that enable seamless communication between various IP blocks and subsystems within our SoCs. Your knowledge in SoC and coherent interconnect architectures will drive cutting\-edge solutions t</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -197,7 +811,7 @@ As a SoC Architect, you will contribute to the architecture of SoC memory and ca
 * Design agent workflows, tool routing strategies, and execution pipelines capable of handling long\-running tasks, multi\-agent coordination, and dynamic tool usage.
 * Take ownershi</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -220,7 +834,7 @@ We're looking for a Senior Software Engineer to join our team to help grow the U
 
 **What You'll Do*** Design, implementation, and maintenance of high\-performance recommendations and ranking</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -242,7 +856,7 @@ The Marketplace Signals team at Uber is responsible for building and optimizing 
 * Improve operational efficiency by building a centralized, scalable system for marketplace signals that serves multiple use cases.
 * Leverage cutting\-edge ML techniques (deep learning, probabilistic modeling, re</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -258,7 +872,7 @@ The Marketplace Signals team at Uber is responsible for building and optimizing 
 * Improve operational efficiency by building a centralized, scalable system for marketplace signals that serves multiple use cases.
 * Leverage cutting\-edge ML techniques (deep learning, probabilistic modeling, reinforcement learning, et</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -274,7 +888,7 @@ The Marketplace Signals team at Uber is responsible for building and optimizing 
 * Improve operational efficiency by building a centralized, scalable system for marketplace signals that serves multiple use cases.
 * Leverage cutting\-edge ML techniques (deep learning, probabilistic modeling, reinforcement learning, et</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -297,7 +911,7 @@ We're looking for a Senior Software Engineer to join our team to help grow the U
 
 **What You'll Do*** Design, implementation, and maintenance of high\-performance recommendations and ranking</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -316,7 +930,7 @@ We're in an active phase of platform modernization — redesigning and refactori
 
 The eCommerce Search engineering tea</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -341,7 +955,49 @@ Why join Handshake now:
 
 Handshake is hiring an Associate </description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff Software Engineer - nan</title>
+        <link>https://www.indeed.com/viewjob?jk=6dd09937483dc4d7</link>
+        <description>**About Us**
+
+
+Epia Neuro is a neural technology company developing intent\-driven systems designed to restore function and independence for people living with neurological conditions. Its platform integrates implantable neural interfaces, adaptive algorithms, and assistive devices to translate neural intent into real\-world action. The company’s initial focus is stroke\-related motor impairment, with expansion in cognitive decline and other neurological disorders, focusing on long\-term solutions for the growing aging population.
+
+
+**How We Work**
+
+* **We are intentional.** We prioritize and are thoughtful about how we use others’ time.
+* **We care for others.** We prioritize safety both for patients and one another.
+* **We own outcomes, not just tasks.** Our work demands the highest standards because it impacts real patients and real lives.
+* **Humility is a strength.** We are honest about what we know and what we don’t know. Getting it right matters more than being right.
+
+**The Rol</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Product Engineer - nan</title>
+        <link>https://www.indeed.com/viewjob?jk=85e72c098e049a1d</link>
+        <description>**About Us**
+
+
+Epia Neuro is a neural technology company developing intent\-driven systems designed to restore function and independence for people living with neurological conditions. Its platform integrates implantable neural interfaces, adaptive algorithms, and assistive devices to translate neural intent into real\-world action. The company’s initial focus is stroke\-related motor impairment, with expansion in cognitive decline and other neurological disorders, focusing on long\-term solutions for the growing aging population.
+
+
+**How We Work**
+
+* **We are intentional.** We prioritize and are thoughtful about how we use others’ time.
+* **We care for others.** We prioritize safety both for patients and one another.
+* **We own outcomes, not just tasks.** Our work demands the highest standards because it impacts real patients and real lives.
+* **Humility is a strength.** We are honest about what we know and what we don’t know. Getting it right matters more than being right.
+
+**The Rol</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -359,7 +1015,7 @@ You will be responsible for building the software and machine learning systems t
 * Build machine learning models for tasks such as computer vision, audio processing, and interaction understanding
 * Design and implement pipelines for training and </description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -389,7 +1045,7 @@ You will be responsible for building the software and machine learning systems t
 
 Like Google's own ambitions, the work of a Software Engineer goes beyond just Search. Software Engineering Managers have not only the technical expertise to ta</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -412,7 +1068,7 @@ Like Google's own ambitions, the work of a Software Engineer goes beyond just Se
 * Experience leading multiple workstreams to advance new initiatives and research directions.
 * Experience serving as a domain expert for a critical part of research growth by research trends and best</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -440,7 +1096,7 @@ Like Google's own ambitions, the work of a Software Engineer goes beyond just Se
 Familiarity with machine learning concepts and frameworks.  
 * </description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -469,457 +1125,23 @@ Familiarity with machine learning concepts and frameworks.
 
 We are dedicated to delivering laboratory infrastructure and expert engineers to facilitate Google Cloud in achieving excellence in hardware testing, automation, prototyping, product quality, an</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
-        <title>Software Engineer III, Machine Learning, Android AI - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=f58605ce921bd7f0</link>
-        <description>### **Minimum qualifications:**
-
-* Bachelor’s degree or equivalent practical experience.
-* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree (Python)
-* 1 year of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+        <title>Research Engineer, MRS AI - Meta</title>
+        <link>https://www.indeed.com/viewjob?jk=6ec3aadfbdf189e3</link>
+        <description>Meta is seeking a Research Engineer to join our Meta Recommendation Systems (MRS) AI Algorithm Team. Join us to build Meta’s User Intelligence Engine — a unified platform that models who the user is, what they need, and why they act by integrating state, representation, reasoning, and multi\-architecture modeling to power Meta’s Recommendation System with personalized, context\-aware experiences across the ecosystem.We’re bringing together two powerhouses:\- Generative AI/LLMs for semantic understanding and reasoning\- Meta’s world\-class ads \&amp; organic ranking expertise for optimized decision\-making at scaleAs part of a rapidly growing ML team, you’ll shape the next generation of User Understanding models and Meta Recommendation Systems, delivering personalization that feels intuitive, adaptive, and truly human.  
 
   
 
-### **Preferred qualifications:**
-
-* Master's degree or PhD in Computer Science or a related technical field.
-* 2 years of experience with data structures and algorithms.
-* 2 years of experience in applied machine learning and research.
-* Experience developing accessible technologies.
-* Experience in Natural Language Processing, Large Language Models, and Computer Vision.
-
-**About the job**
------------------
-
-
-Google's software engineers develop the next\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at mas</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>ASIC Power Design Engineer - Ascendion</title>
-        <link>https://www.indeed.com/viewjob?jk=fdb4d3b6379595a3</link>
-        <description>**About Ascendion**
-
-Ascendion is a full\-service digital engineering solutions company. We make and manage software platforms and products that power growth and deliver captivating experiences to consumers and employees. Our engineering, cloud, data, experience design, and talent solution capabilities accelerate transformation and impact for enterprise clients. Headquartered in New Jersey, our workforce of 11,000\+ Ascenders delivers solutions from around the globe. Ascendion is built differently to engineer the next.
-
-
-Ascendion \| Engineering to elevate life
-
-
-We have a culture built on opportunity, inclusion, and a spirit of partnership. Come, change the world with us:
-
-
-* Build the coolest tech for world’s leading brands
-* Solve complex problems – and learn new skills
-* Experience the power of transforming digital engineering for Fortune 500 clients
-* Master your craft with leading training programs and hands\-on experience
-
-**Experience a community of change makers!**
-
-Join a cul</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Distinguished, Software Engineer -AI/ML Engineer- Walmart Connect - Walmart</title>
-        <link>https://www.indeed.com/viewjob?jk=35c0d1b8260cc320</link>
-        <description>**Position Summary...**
------------------------
-
-**What you'll do...**
----------------------
-
-**About Walmart Connect:**  
-
-Walmart Connect is Walmart’s advertising platform, leveraging Walmart’s scale, data, and omnichannel presence to deliver impactful advertising solutions for brands and suppliers. Our mission is to help advertisers connect with Walmart’s customers in meaningful ways, driving measurable results and enhancing the shopping experience.  
-
   
 
-**Role Overview:**  
-
-As a Distinguished, Software Engineer \- AI/ML Engineer\- Walmart Connect , you will be a technical leader responsible for architecting, developing, and deploying advanced Gen AI and ML solutions that power Walmart’s advertising ecosystem. You will drive innovation in areas such as ad targeting, personalization, bidding optimization, attribution modeling, and campaign analytics. More specifically, you will own the end\-to\-end engineering \&amp; ML strategy and delivery of custom LLMs, multimodal generative model</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Director, Data Science (Operation Research) - Walmart</title>
-        <link>https://www.indeed.com/viewjob?jk=59aa4ae1ffbb400d</link>
-        <description>**Position Summary...**
------------------------
-
-**What you'll do...**
----------------------
-
-
-We are seeking a talented and passionate Director, Data Science, you will lead a high\-impact team responsible for driving pricing optimization across Walmart’s global retail platforms. You will develop and execute data science strategies for assortment, space design, and inventory flow, ensuring Walmart delivers the right value to customers while maximizing business performance.  
-
-  
-
-**About the Team**  
-
-Applied AI focuses on the development and deployment of innovative agentic AI and Machine Learning algorithms across all aspects of Walmart’s retail, grocery and logistics businesses. The team of more than 300 AI scientists and engineers use advanced **Applied AI**, **Agentic AI**, and **Mathematical Optimization** to revolutionize how Walmart manages its retail, grocery and pharmaceutical operations. Our mission is to build the next generation of intelligent systems that deliver **effici</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Director, Data Science- Forecasting - Walmart</title>
-        <link>https://www.indeed.com/viewjob?jk=0d5b1d9d7cee366a</link>
-        <description>**Position Summary...**
------------------------
-
-**What you'll do...**
----------------------
-
-
-We are seeking a talented and passionate Director, Data Science, you will lead a high\-impact team responsible for driving ML initiatives across Walmart’s global retail platforms. You will develop and execute data science strategies for forecasting and gen AI, ensuring Walmart delivers the right value to customers while maximizing business performance. **About the Team**  
-
-Applied AI focuses on the development and deployment of innovative agentic AI and Machine Learning algorithms across all aspects of Walmart’s retail, grocery and logistics businesses. The team of more than 300 AI scientists and engineers use advanced **Applied AI**, **Agentic AI**, and **Mathematical Optimization** to revolutionize how Walmart manages its retail, grocery and pharmaceutical operations. Our mission is to build the next generation of intelligent systems that deliver **efficiency** for our front\-line associat</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Group Product Manager II, Pricing - Lyft</title>
-        <link>https://www.indeed.com/viewjob?jk=c3ed48fe82abebcb</link>
-        <description>At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
-
-
-
-Lyft connects people to transportation to change the way we live and get around our communities. We are looking for product managers who bring exceptional creative, strategic, and analytical skills to drive forward a best in class product. Product management at Lyft leads the integration of engineering, data science, and design to achieve the company's vision for reinventing transportation. We are looking for entrepreneurial and passionate Product Managers to innovate and execute across a rapidly growing, fast paced company and industry.
-
-
-
-Pricing is the primary economic engine of Lyft's marketplace — a high\-precision, real\-time system that processes millions of fare calculations per hour, balancing rider affordability, driver earnings, and Lyft's sustainable growth. The Pricing team sits at the intersection of th</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist - Genentech</title>
-        <link>https://www.indeed.com/viewjob?jk=f0db6800eee6c113</link>
-        <description>THE POSITION**Job Summary**
-
-
-The Senior Data Scientist in Data, Analytics, and AI develops, deploys, and industrializes enterprise applications leveraging machine learning techniques to extract value from structured and unstructured data across Commercial and Medical domains. Acting as a strategic thought partner, the role involves shaping impactful business priorities, collaborating cross\-functionally, and delivering actionable insights. The position requires a strong execution mindset, commitment to data quality and governance, and the ability to communicate complex findings to different audiences—all while staying at the forefront of AI innovation and aligning with Genentech’s standards and compliance.
-
-**Key Job Responsibilities**
-
-* Drive the development, deployment, and industrialization of enterprise applications using machine learning techniques (e.g., classification, regression, and forecasting) to generate value from structured and unstructured data for Commercial and Medic</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist - Genentech</title>
-        <link>https://www.indeed.com/viewjob?jk=86d58bc1aadabfce</link>
-        <description>### **The Position**
-
-**Job Summary**
-
-
-The Senior Data Scientist in Data, Analytics, and AI develops, deploys, and industrializes enterprise applications leveraging machine learning techniques to extract value from structured and unstructured data across Commercial and Medical domains. Acting as a strategic thought partner, the role involves shaping impactful business priorities, collaborating cross\-functionally, and delivering actionable insights. The position requires a strong execution mindset, commitment to data quality and governance, and the ability to communicate complex findings to different audiences—all while staying at the forefront of AI innovation and aligning with Genentech’s standards and compliance.
-
-**Key Job Responsibilities**
-
-* Drive the development, deployment, and industrialization of enterprise applications using machine learning techniques (e.g., classification, regression, and forecasting) to generate value from structured and unstructured data for Commercial</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Software Engineering Manager- Core (FED) - Okta</title>
-        <link>https://www.indeed.com/viewjob?jk=6dbd6ad128eb39d7</link>
-        <description>**Secure Every Identity, from AI to Human**  
-
-  
-
-Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real\-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.  
-
-  
-
-This is an opportunity to do career\-defining work. We're all in on this mission. If you are too, let's talk.
-
-
-**The Core Engineering Team**
-
-
-
-Okta powers authentication and authorization for thousands of organizations worldwide. We make access to applications safe, secure, and seamless for billions of logins worldwide. Within Okta, the Core team builds software and frameworks and works with infrastructure teams to deliver 99\.99% uptime for our core authentication and authorization products.
-
-
-**The Software Engineering Manager Opportunity**
-
-
-
-Okta's Core Engin</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Technical Program Manager, Supply Chain Analytics, Google Cloud - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=a41370ad0efc32cd</link>
-        <description>### **Minimum qualifications:**
-
-* Bachelor's degree in a technical field, or equivalent practical experience.
-* 2 years of experience in program management.
-* Experience with SQL.
-* Experience with data science, Python, and applied machine learning.
-
-  
-
-### **Preferred qualifications:**
-
-* 5 years of experience in developing and managing supply chain analytics programs (e.g., Agile Sprint).
-* 2 years of experience with managing cross\-functional or cross\-team projects.
-* Experience in collaborating with teams and helping the supply chain business prioritize and define value.
-* Knowledge of advanced simulation and modeling tools.
-
-**About the job**
------------------
-
-
-Google's projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi\-disciplinary engineering projects using your engineering expertise. You</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Staff Software Engineer, Discover Ads Retrieval - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=b2d2c31284441b06</link>
-        <description>### **Minimum qualifications:**
-
-* Bachelor’s degree or equivalent practical experience.
-* 8 years of experience with software development in one or more programming languages.
-* 7 years of experience testing, maintaining or launching software products, and 1 year of experience with software design and architecture.
-* 7 years of experience with AI/ML algorithms and tools, deep learning and AI/ML modeling.
-* Experience building and deploying recommendation systems models (e.g., retrieval, prediction, ranking, personalization, search quality, embedding) in production.
-
-  
-
-### **Preferred qualifications:**
-
-* Master degree or PhD in Computer Science, or a related field.
-* 8 years of experience with data structures and algorithms and large language model applications.
-* 5 years of experience in a technical leadership role leading project teams and setting technical direction.
-* Experience developing algorithms (e.g., ranking, recommendations, prediction, search quality, personalization) a</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Product Manager, Gmail Search and Discovery - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=7fb02dcf6df62b43</link>
-        <description>### **Minimum qualifications:**
-
-* Bachelor's degree or equivalent practical experience.
-* 5 years of experience in product management or related technical role.
-* 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end\-to\-end, 0 to 1, etc).
-* Experience developing or launching products or technologies within artificial intelligence or Machine Learning (AI/ML).
-
-  
-
-### **Preferred qualifications:**
-
-* Master's degree in a technology or business related field.
-* 3 years of experience in a business function or role (e.g., strategic marketing, business operations, consulting).
-* 3 years of experience in a role preparing and delivering technical presentations to senior leadership.
-* 2 years of experience in software development or engineering.
-* 2 years of experience working cross\-functionally with engineering, UX/UI, sales finance, and other stakeholders.
-* 1 year of experience in technical leadership.
-
-**About the job**
-------------</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Software Engineer, AI/ML, AIR - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=98b0fde7192557ba</link>
-        <description>### **Minimum qualifications:**
-
-* Bachelor’s degree or equivalent practical experience.
-* 5 years of experience with software development in one or more programming languages.
-* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-* 3 years of experience with one or more of the following: Natural Language Processing or Large Language Models.
-
-  
-
-### **Preferred qualifications:**
-
-* Master's degree or PhD in Computer Science or related technical field.
-* 5 years of experience with data structures and algorithms.
-* Experience in natural language processing (NLP) and machine learning (ML), with developing and evaluating NLP/ML models.
-* Experience with training and evaluation pipelines for various model sizes, most importantly LLMs.
-* Familiarity with data collection methodologies, including user studies.
-* Ability to compile and organize large natural\-language datasets for ML.
-
-**About the job**
----</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Technical Program Manager II, Data Center NPI, Cloud Infrastructure - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=63b60992e746ac55</link>
-        <description>### **Minimum qualifications:**
-
-* Bachelor's degree in a technical field, or equivalent practical experience.
-* 2 years of experience in program management.
-* Experience with product life\-cycle in the data center hardware space.
-* Experience supporting data centers and system\-level new product introductions (NPI).
-
-  
-
-### **Preferred qualifications:**
-
-* 2 years of experience managing cross\-functional or cross\-team projects.
-* Experience in data center operations, infrastructure management, or a similar technical domain.
-* Experience with hybrid cloud architectures and public cloud providers.
-* Knowledge of data center infrastructure components (e.g., servers, machine learning, storage, power, cooling) and their interdependencies in the context of new technology integration.
-
-**About the job**
------------------
-
-
-A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help create opportunities for everyone, whether down the street or across</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Group Product Manager, YouTube Search and Discovery - Youtube</title>
-        <link>https://www.indeed.com/viewjob?jk=472065d10fc0b935</link>
-        <description>### **Minimum qualifications:**
-
-* Bachelor's degree or equivalent practical experience.
-* 10 years of experience in product management, including taking technical consumer products from conception to launch (e.g., ideation to execution, 0 to 1, etc.).
-* 5 years of experience with machine learning experimentation methodologies or global recommendation systems.
-* Experience in data analysis, leveraging product metrics to optimize algorithms, and information retrieval infrastructure.
-* Experience with product quality, ranking, and responsibility.
-
-  
-
-### **Preferred qualifications:**
-
-* Master's degree in a technology or business related field.
-* 7 years of experience working cross\-functionally with engineering, UX/UI, sales, finance, and other stakeholders.
-* 5 years of experience in people management, managing a team of product managers.
-* Experience delivering technical presentations to executive leadership and securing buy\-in for product ideas.
-* Knowledge of platform ecosystems s</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Systems Performance Engineer - NVIDIA</title>
-        <link>https://www.indeed.com/viewjob?jk=12f5a289a6aa3ab7</link>
-        <description>NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self\-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
-NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. NVIDIA is a</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Software Engineer, Simulation - Robotics - NVIDIA</title>
-        <link>https://www.indeed.com/viewjob?jk=8ddfa988882042e9</link>
-        <description>Today, NVIDIA is owning the dawn of physical AI, bringing intelligence into the real world and redefining industries from manufacturing to robotics. Our accelerated computing platforms, open models, and simulation frameworks now power intelligent machines. These robots reason, act, and adapt in physical environments. They include humanoids in factories and autonomous systems everywhere. Achieving what has never been accomplished before—scaling physical AI from simulation to deployment—requires foresight, creativity, and top\-tier talent from around the globe. At NVIDIA, you'll find yourself in a diverse, encouraging environment where everyone is motivated to perform at their highest level. Join us and help build the future of robotics—right at the intersection of simulation, foundation models, and real\-world deployment.
-We are seeking a technical solutions engineer to join us, providing critical user support and enablement for NVIDIA's flagship open\-source robot learning platform, Is</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Distinguished Engineer, Cloud Site Reliability Engineering - NVIDIA</title>
-        <link>https://www.indeed.com/viewjob?jk=84f499dac9552b99</link>
-        <description>NVIDIA is looking for a Cloud SRE Architect to work in IPP's (Infrastructure, Planning and Process) Cloud Infrastructure Team. IPP is a global organization within NVIDIA. This group works with various other groups within NVIDIA such as Graphics Processors, Mobile Processors, Deep Learning, Artificial Intelligence and Driverless Cars to cater to their infrastructure needs. These cloud services provide almost half a million automated jobs per day on thousands of servers helping with the efficiency of thousands of NVIDIA's software engineers worldwide. The cloud hosts various machines and devices with operating systems like Windows, Linux, and Android. It supports hardware platforms including NVIDIA GPUs and Tegra Processors. It delivers unified CI/CD solutions and cloud\-based software development. Are you passionate about distributed infrastructure and looking for sophisticated, critical issues, ready to build the next generation of cloud services, design creative solutions, mine throug</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Staff AI Scientist - Credit Karma - Intuit</title>
-        <link>https://www.indeed.com/viewjob?jk=a5824ab95d1f1863</link>
-        <description>**Overview**
-------------
-
-
-Intuit Credit Karma seeks a visionary Staff Data Scientist who will revolutionize our recommendation engine in ad technology by harnessing the latest advancements in machine learning and GenAI. As a technical leader and mentor, you will drive the development of next\-generation AI\-powered monetization strategies, collaborating and communicating with leadership across all lines of business, including their respective engineering, product, partnerships, and analytics teams.
-
-
-With a strong background in data science and machine learning paired with excellent communication skills, you will architect and implement scalable solutions w/ cross\-team alignment that create the best ML\-driven experiences for our members, propelling lifetime value and revenue growth for the company and partners. Your expertise will directly impact the direction of data science in facilitating business growth and will influence company\-wide strategies \- fostering a culture of innov</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Applied AI Software Engineer - Vision Products Group &amp; Siri - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=e8538e5d57eb0551</link>
-        <description>Apple builds products that are loved by people around the world\-products that enrich lives by making powerful technology feel simple, intuitive, and accessible. Through deep integration of hardware, software, services, and design, we deliver end\-to\-end experiences that fit naturally into everyday life. This is where ambitious ideas become real products, shipped at global scale and trusted by millions, and increasingly billions, of people.  
-
-  
-
-People use Apple products for their most personal activities\-from everyday communication to navigation, photos, health, fitness, and more\-and we strive to build experiences that work across these seamlessly and contextually with uncompromising privacy \&amp; security. We’re looking for software engineers to help harness cutting\-edge technologies like AI, machine learning, and computer vision to solve ambitious, high\-impact problems for our users. Our work sits at the intersection of AI, system software, and user experience, and aims to creat</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Applied Research Engineer - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=1aa9f25add9669d9</link>
-        <description>Shape the future of wearable technology! The Applied Research and Characterization team combines expertise in mechanical engineering, human factors, biomechanics, data analysis, statistics, software, and advance fabrication. We deliver data\-backed insights for design decisions across Apple's entire hardware portfolio, directly influencing products launched worldwide. You'll have access to cutting\-edge equipment and collaborate with multidisciplinary experts across our global sites. Few teams offer this breadth of impact combined with world\-class resources.  
-
-  
-
-As an Applied Research Engineer, you'll own studies that inform wearable product development on tight timelines. You'll balance rigor with speed, take smart risks, and iterate as designs evolve. This role demands enthusiasm for working directly with diverse study participants, collaborating with cross\-functional partners, strong communication skills, and the ability to excel in ambiguity. We champion continuous learning an</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Software Engineer, iOS Keyboard - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=00b2cb64488efda8</link>
-        <description>Are you passionate about helping people communicate all over the world? The iOS Keyboard is one of the most\-used software applications in the world and is used to type billions of messages every day. We build the keyboard and text editing experience for iPhone \&amp; iPad, including features such as QuickType, QuickPath, AutoFill, Writing Tools etc. as well as text input technologies on all Apple platforms\-iOS, macOS, tvOS, and watchOS\-including frameworks and developer APIs. We are looking for a creative and hardworking software engineer to help craft the next generation of Keyboard and Text Input experiences that are intuitive, personal, and inclusive of people all over the world, across many different languages and cultures, all while respecting each user’s privacy.  
-
-  
-
-**Description**  
-
-  
-
-Collaborate with a world\-class design team and hard\-working engineers to innovate and deliver high\-impact features that fuse best\-in\-class user interfaces with innovative machine learnin</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Staff Machine Learning Engineer - Ads Prediction, Signals &amp; Quality - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=0b4cb0ed9b38c3a1</link>
-        <description>At Apple, we focus deeply on our customers’ experience. Apple Ads brings this same approach to advertising, helping people find exactly what they’re looking for and helping advertisers grow their businesses!  
-
-  
-
-Our technology powers ads and sponsorships across Apple Services, including the App Store, Apple News, and MLS Season Pass. Everything we do is designed for trust, connection, and impact: We respect user privacy, integrate advertising thoughtfully into the experience, and deliver value for advertisers of all sizes\-from small app developers to big, global brands. Because when advertising is done right, it benefits everyone!  
-
-  
-
-**Description**  
-
-  
-
-We are seeking an experienced Machine Learning Engineer to drive innovation in ad prediction, quality, and privacy\-preserving signals. This role spans three critical areas: building large\-scale prediction models, designing signals that respect user privacy, and ensuring ad quality that aligns with Apple’s values of trust an</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+### **Research Engineer, MRS AI Responsibilities:**
+
+* Develop and implement large\-scale model architectures, leveraging model scaling and transfer learning techn</description>
+        <postDate>2026-04-01</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -936,133 +1158,206 @@ We are seeking an experienced Machine Learning Engineer to drive innovation in a
 * Design across disciplines: Use AI tools and agents to design user experiences that integrate visual, interaction, content, and front\-end elements — developing your experience to work fluidly across traditional product design and content design boundaries
 * Bring ideas to life in prototypes: Use AI to generate functional prototypes to explore and validate design directions, incorporating feedback from your manager and</description>
         <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
-        <title>Distinguished Software Data Engineer - Capital One</title>
-        <link>https://www.indeed.com/viewjob?jk=6c848a31ae5bbee5</link>
-        <description>Distinguished Software Data Engineer**As a Distinguished Engineer at Capital One, you will be a part of a community of technical experts working to define the future of banking in the cloud.**
-
-**You will work alongside our talented team of developers, machine learning experts, product managers and people leaders. Our Distinguished Engineers are leading experts in their domains, helping devise practical and reusable solutions to complex problems. You will drive innovation at multiple levels, helping optimize business outcomes while driving towards strong technology solutions.**
-
-**At Capital One, we believe diversity of thought strengthens our ability to influence, collaborate and provide the most innovative solutions across organizational boundaries. You will promote a culture of engineering excellence, and strike the right balance between lending expertise and providing an inclusive environment where the ideas of others can be heard and championed. You will lead the way in creating n</description>
-        <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist - Microsoft</title>
-        <link>https://www.indeed.com/viewjob?jk=c2b79d284bac3f38</link>
-        <description>**Overview**  
-
-A unique opportunity to join Bing Search, a global search engine powering billions of searches daily, both from humans and from Large\-Language Models
-
-
-The Bing Metrics team is looking for passionate Data scientist to work on the new generation of metrics and quality control for the Bing Grounding API. The team ensures that Bing returns high\-quality, error\-free, and authoritative results using a variety of different approaches. Our team builds complex pipeline including crowd judging and machine learning steps to verify our suspicions. Now, we actively use LLMs like ChatGPT as a judge to evaluate the quality of search results at multiple levels: query, answer, whole page and generate insights for the teams who are responsible this experience.
-
-
-As a part of an international and distributed team you will be responsible for RAG quality metrics within Bing Search. The job provides you with the opportunity to work with multiple teams across entire Bing (\&gt;80 different te</description>
-        <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>GenAI &amp; Innovative Solutions, Expert - Pacific Gas and Electric</title>
-        <link>https://www.indeed.com/viewjob?jk=e7936fb9d7f42e0d</link>
-        <description>Requisition ID \# 171633
-  
-  
-
-**Job Category:** Accounting / Finance
-  
-**Job Level:** Individual Contributor
-  
-**Business Unit:** Strategy \&amp; Growth
-  
-**Work Type:** Hybrid
-  
-**Job Location:** Oakland
-  
-  
-
-Department Overview
-  
-The Data Management and Analytics Product Management team supports the development and implementation of software tools used both internally and externally across the organization. These tools vary in size and technical complexity and are built on a range of platforms and applications. They help drive operational efficiency, support wildfire risk reduction, improve system reliability, ensure regulatory compliance, and enable the successful delivery of electric engineering projects.
-  
-  
-
-Position Summary
-  
-The GenAI and Innovative Solutions Expert provides a clear vision of the product that will be built. From the vision the GenAI and Innovative Solutions Expert forms well defined user stories, prioritizes user stories and backlog and provides a clear</description>
-        <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Manager, Innovative &amp; Emerging Solutions - Pacific Gas and Electric</title>
-        <link>https://www.indeed.com/viewjob?jk=c7772a4c23da1cdf</link>
-        <description>Requisition ID \# 171644
-  
-  
-
-**Job Category:** Accounting / Finance
-  
-**Job Level:** Manager/Principal
-  
-**Business Unit:** Strategy \&amp; Growth
-  
-**Work Type:** Hybrid
-  
-**Job Location:** Oakland
-  
-  
-
-Department Overview
-  
-The Data Management and Analytics Product Management team supports the development and implementation of software tools used both internally and externally across the organization. These tools vary in size and technical complexity and are built on a range of platforms and applications. They help drive operational efficiency, support wildfire risk reduction, improve system reliability, ensure regulatory compliance, and enable the successful delivery of electric engineering projects.
-  
-  
-
-Position Summary
-  
-The Innovative and Emerging Technology Manager leads a team of skilled technical product and project managers to deliver high\-value analytics and data products that support the strategic objectives of the Electric Engineering and Operations teams. This </description>
-        <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Product Manager - Security - PDF Solutions, Inc</title>
-        <link>https://www.indeed.com/viewjob?jk=b390175a988d0d23</link>
-        <description>Overview:
-
-PDF Solutions (NASDAQ: PDFS) offers an end\-to\-end analytics platform that empowers engineers and data scientists across the semiconductor ecosystem to rapidly improve the yield, quality, and profitability of their products. By combining industry\-leading data analytics and professional services with exclusive, differentiated product data generated during the manufacturing process, PDF Solutions is delivering on the promise of Industry 4\.0 today by transforming how the ecosystem collects, analyzes, and shares data. Key Fortune 500 organizations around the world rely on PDF Solutions to remove the data barriers that encumber and constrain new product introductions and to deliver the machine learning insights that drive efficient and profitable high\-volume manufacturing. Headquartered in Santa Clara, California, PDF Solutions also operates worldwide in Canada, China, France, Germany, Italy, Japan, Korea, and Taiwan.
-
-
-We are seeking a Product Manager to lead the development</description>
-        <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Sr Data Scientist - LendingClub</title>
-        <link>https://www.indeed.com/viewjob?jk=6446e40ffb418f9d</link>
-        <description>### **Current** **Employees** **of LendingClub: Please apply via your internal Workday Account**
-
-
-LendingClub Corporation (NYSE: LC) is the parent company of LendingClub Bank, National Association, Member FDIC. We are the leading digital marketplace bank in the U.S., having helped our nearly 5 million members secure over $90 billion in loans to refinance high\-cost debt and achieve their financial goals. Members today have mobile\-first access to a growing range of products and services designed to work seamlessly together to deliver value in new ways. Everyone deserves a better financial future, and our team is committed to making that a reality. Join the Club!
-
-**About the Role**
-------------------
-
-
-Our mission at LendingClub is to empower those who strive to achieve better financial health. The Data Intelligence team builds data\-driven capabilities that support business processes and decision\-making across LendingClub’s lending platform.  
+        <title>FindMy Data Scientist - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=716c2022f7139dd1</link>
+        <description>Apple Maps is changing, and data is in the driver’s seat. Our mission is to build the best map in the world. As Data Science organization, our goal is to harness the power of user data to help Maps make great decisions. We work in a data\-driven environment where Data Scientists are instrumental in keeping the data that powers Apple Maps up\-to\-date and relevant.  
 
   
 
-We are seeking a Sr Data Scientist</description>
+**Description**  
+
+  
+
+We are looking for a talented, experienced Data Scientist to join our cross\-functional team, focusing on the deep evaluation of Maps services and features. We work directly with the Engineering and Product teams responsible for search, routing, places, FindMy, and other products that impact our millions of users every day. Our day\-to\-day work crosses many functional areas, including experiment design, AB testing, exploratory data analysis, metrics design, generative analytics, data mining, and more.","responsibilities":"Build data products (datasets, analyses, models, etc.) and tools (typicall</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Assistant/Associate/Full Project Scientist - Machine Learning &amp; Data Analytics Advanced Bioimaging Center Department of Molecular and Cell Biology - University of California Berkeley</title>
+        <link>https://www.indeed.com/viewjob?jk=40f08c44bae9db36</link>
+        <description>**Position overview Position title:** Project Scientist
+  
+**Salary range:** The UC academic salary scales set the minimum pay determined by rank and step at appointment. See the following table for the current salary scale for this position: https://www.ucop.edu/academic\-personnel\-programs/\_files/2025\-26/represented\-july\-2025\-scales/t37\-b.pdf . A reasonable estimate for this position is $181,700 \- $229,700\.
+  
+  
+
+**Percent time:** 100%
+  
+  
+
+**Anticipated start:** Winter/Spring 2026
+  
+  
+
+**Position duration:** Initial appointment is for one year with the possibility of renewal based on performance and funding availability.
+  
+  
+
+Application Window
+  
+**Open date:** February 25, 2026
+  
+  
+
+**Most recent review date:** Monday, Mar 23, 2026 at 11:59pm (Pacific Time)
+  
+Applications received after this date will be reviewed by the search committee if the position has not yet been filled.
+  
+  
+
+**Final date:** Wednesday, Apr 15, 2026 at 11:59pm (Pacific Time)
+  
+Applicatio</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Sr. Large Model Training Acceleration Engineer - TikTok</title>
+        <link>https://www.indeed.com/viewjob?jk=e5040edef2897261</link>
+        <description>Technology
+  
+  
+
+Sr. Large Model Training Acceleration Engineer
+  
+  
+
+Location
+  
+:
+  
+  
+
+San Jose
+  
+  
+
+Employment Type
+  
+:
+  
+  
+
+Regular
+  
+  
+
+Job Code
+  
+:
+  
+  
+
+A10698
+  
+  
+
+Responsibilities
+  
+  
+
+Team Introduction
+  
+The Intelligent Creation \- AI Platform team is a team focusing on building advanced end\-to\-end AI production pipelines, including deep learning model training, optimization, deployment and applications. We provide AI capabilities to empower content creation and consumption on TikTok and serve billions of users.
+  
+  
+
+We are seeking an experienced AI model optimization engineer with expertise in optimizing AI model training and inference, including distributed training/inference and acceleration. The ideal candidate will work at the cutting edge of AI efficiency, enhancing the performance, scalability, and deployment of large\-scale generative AI models.
+  
+  
+
+Responsibilities
+  
+* Optimize large model training pipelines to improve efficiency, speed, and</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Software Engineer, AI/ML GenAI, Google Play - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=862b090aa6e19e47</link>
+        <description>### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 5 years of experience programming in Python or C\+\+.
+* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+* 3 years of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+* 1 year of experience with state of the art GenAI techniques (e.g., LLMs, Multi\-Modal, Large Vision Models) or with GenAI\-related concepts (language modeling, computer vision).
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or related technical field.
+* 5 years of experience with data structures/algorithms.
+* 1 year of experience in a technical leadership role.
+* Experience developing accessible technologies.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\-generation technologies that change how b</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Software Engineer III, AI/ML GenAI, YouTube - Youtube</title>
+        <link>https://www.indeed.com/viewjob?jk=3b303fc2ba995c8c</link>
+        <description>### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 2 years of experience programming in Python and C\+\+.
+* 1 year of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+* Experience with core GenAI concepts (LLM, Multi\-Modal, Large Vision Models) and experience with text, image, video, or audio generation.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or related technical fields.
+* 2 years of experience with data structures or algorithms.
+* Experience developing accessible technologies.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist 4 - Lam Research</title>
+        <link>https://www.indeed.com/viewjob?jk=0ecce17d1deb5a70</link>
+        <description>Requisition ID**197132**
+Date posted**04/02/2026**
+Work Location Model**On\-site Flex**
+Work Location**Fremont\-CA**
+Work Country**United States****The group you’ll be a part of**
+---------------------------------
+
+
+
+The Customer Support Business Group focuses on enabling our customers with premier customer support throughout their lifecycle with Lam. We drive performance, productivity, safety, and quality of customers installed base performance and deliver service and lifecycle solutions for their most critical equipment and processes.
+
+
+**The impact you’ll make**
+--------------------------
+
+
+
+Join Lam as an AI/ML Engineer, where you will design, develop, and program methods to analyze unstructured and diverse big data and transform it into actionable insights. You will develop algorithms and automated processes to evaluate large data sets from disparate sources. Your expertise in generating, interpreting, and clearly communicating actionable insights enables Lam to make informed, dat</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1079,7 +1374,7 @@ LendingClub Corporation (NYSE: LC) is the parent company of LendingClub Bank, Na
 
 LendingClub’s Risk and Decision Science organization is looking for a Director, Data Science \&amp; Machine Learning to lead the development and implementation of advanced machine learning and statistical solutions across our lending and deposit products. You will manage a team of experienc</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1103,7 +1398,7 @@ At Pinterest, AI isn't just a feature, it's a powerful partner that augments our
 
 Through our interview process, what matters most is that you can always explain your approach, show</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1119,7 +1414,7 @@ Summary of the role:
 
 The role of Contract Statistical Programmer is to help with statistical programming tasks associated with all ongoing clinical trials. The scope includes the creation of CDISC (SDTM and ADaM) data sets; tables, figures, and listings (TFLs) for clinical study reports (CSRs), development safety update reports (DSURs), investigator brochur</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1150,7 +1445,7 @@ The People Analytics team is looking for a senior data analyst who is passionate
 * Support survey reporting, interpretation, and storytelling to drive action across teams
 * Contrib</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1176,7 +1471,35 @@ If you're interested in joining an early stage AI startup building foundational 
 
 Augrade is on a mission to enable Humans to build infrastruc</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Software Engineer III, Machine Learning, Android AI - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=f58605ce921bd7f0</link>
+        <description>### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree (Python)
+* 1 year of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or a related technical field.
+* 2 years of experience with data structures and algorithms.
+* 2 years of experience in applied machine learning and research.
+* Experience developing accessible technologies.
+* Experience in Natural Language Processing, Large Language Models, and Computer Vision.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at mas</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1193,7 +1516,29 @@ At Albertsons Companies, we are looking for someone who’s not just seeking a j
 
 The Data Science team at Albertsons Companies is looking for a Lead Data Scientist to work for the most transformational food and drug retailers in the United States. Albertsons operates over 2,300 stores under 19 well\-known banners including Albertsons, Safeway, Vons, Jewel\-Osco, Shaw's, Acme, Tom Thumb, Randalls, United Supermarkets, Pavilions, Star Market, Haggen and Carrs. The company reported reve</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Distinguished, Software Engineer -AI/ML Engineer- Walmart Connect - Walmart</title>
+        <link>https://www.indeed.com/viewjob?jk=35c0d1b8260cc320</link>
+        <description>**Position Summary...**
+-----------------------
+
+**What you'll do...**
+---------------------
+
+**About Walmart Connect:**  
+
+Walmart Connect is Walmart’s advertising platform, leveraging Walmart’s scale, data, and omnichannel presence to deliver impactful advertising solutions for brands and suppliers. Our mission is to help advertisers connect with Walmart’s customers in meaningful ways, driving measurable results and enhancing the shopping experience.  
+
+  
+
+**Role Overview:**  
+
+As a Distinguished, Software Engineer \- AI/ML Engineer\- Walmart Connect , you will be a technical leader responsible for architecting, developing, and deploying advanced Gen AI and ML solutions that power Walmart’s advertising ecosystem. You will drive innovation in areas such as ad targeting, personalization, bidding optimization, attribution modeling, and campaign analytics. More specifically, you will own the end\-to\-end engineering \&amp; ML strategy and delivery of custom LLMs, multimodal generative model</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1211,7 +1556,7 @@ AI plays a ubiquitous role in Credit Karma’s product, serving as the foundatio
 
 With a strong background in data science and machine learning paired with excellent communication skills, you will drive innovation in the deve</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1226,7 +1571,7 @@ Architects scalable data pipelines and ETL processes using Python(Pandas, NumPy)
 
 Machine Learning Leadership:</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1249,7 +1594,100 @@ Our mission spans four critical national security areas nuclear deterrence, thre
 
 We have an opening for an **AI Solutions Engineer** with robust expertise in enhancing business applications with AI capabilities and leveraging Retrieval Augmented Generation (RAG) technologies. In this role, you will help design, develop, and deploy solutions that integrate AI technologies across our business systems application portfolio. You will work closely w</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Director, Data Science (Operation Research) - Walmart</title>
+        <link>https://www.indeed.com/viewjob?jk=59aa4ae1ffbb400d</link>
+        <description>**Position Summary...**
+-----------------------
+
+**What you'll do...**
+---------------------
+
+
+We are seeking a talented and passionate Director, Data Science, you will lead a high\-impact team responsible for driving pricing optimization across Walmart’s global retail platforms. You will develop and execute data science strategies for assortment, space design, and inventory flow, ensuring Walmart delivers the right value to customers while maximizing business performance.  
+
+  
+
+**About the Team**  
+
+Applied AI focuses on the development and deployment of innovative agentic AI and Machine Learning algorithms across all aspects of Walmart’s retail, grocery and logistics businesses. The team of more than 300 AI scientists and engineers use advanced **Applied AI**, **Agentic AI**, and **Mathematical Optimization** to revolutionize how Walmart manages its retail, grocery and pharmaceutical operations. Our mission is to build the next generation of intelligent systems that deliver **effici</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Director, Data Science- Forecasting - Walmart</title>
+        <link>https://www.indeed.com/viewjob?jk=0d5b1d9d7cee366a</link>
+        <description>**Position Summary...**
+-----------------------
+
+**What you'll do...**
+---------------------
+
+
+We are seeking a talented and passionate Director, Data Science, you will lead a high\-impact team responsible for driving ML initiatives across Walmart’s global retail platforms. You will develop and execute data science strategies for forecasting and gen AI, ensuring Walmart delivers the right value to customers while maximizing business performance. **About the Team**  
+
+Applied AI focuses on the development and deployment of innovative agentic AI and Machine Learning algorithms across all aspects of Walmart’s retail, grocery and logistics businesses. The team of more than 300 AI scientists and engineers use advanced **Applied AI**, **Agentic AI**, and **Mathematical Optimization** to revolutionize how Walmart manages its retail, grocery and pharmaceutical operations. Our mission is to build the next generation of intelligent systems that deliver **efficiency** for our front\-line associat</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Data Scientist - Genentech</title>
+        <link>https://www.indeed.com/viewjob?jk=f0db6800eee6c113</link>
+        <description>THE POSITION**Job Summary**
+
+
+The Senior Data Scientist in Data, Analytics, and AI develops, deploys, and industrializes enterprise applications leveraging machine learning techniques to extract value from structured and unstructured data across Commercial and Medical domains. Acting as a strategic thought partner, the role involves shaping impactful business priorities, collaborating cross\-functionally, and delivering actionable insights. The position requires a strong execution mindset, commitment to data quality and governance, and the ability to communicate complex findings to different audiences—all while staying at the forefront of AI innovation and aligning with Genentech’s standards and compliance.
+
+**Key Job Responsibilities**
+
+* Drive the development, deployment, and industrialization of enterprise applications using machine learning techniques (e.g., classification, regression, and forecasting) to generate value from structured and unstructured data for Commercial and Medic</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Data Scientist - Genentech</title>
+        <link>https://www.indeed.com/viewjob?jk=86d58bc1aadabfce</link>
+        <description>### **The Position**
+
+**Job Summary**
+
+
+The Senior Data Scientist in Data, Analytics, and AI develops, deploys, and industrializes enterprise applications leveraging machine learning techniques to extract value from structured and unstructured data across Commercial and Medical domains. Acting as a strategic thought partner, the role involves shaping impactful business priorities, collaborating cross\-functionally, and delivering actionable insights. The position requires a strong execution mindset, commitment to data quality and governance, and the ability to communicate complex findings to different audiences—all while staying at the forefront of AI innovation and aligning with Genentech’s standards and compliance.
+
+**Key Job Responsibilities**
+
+* Drive the development, deployment, and industrialization of enterprise applications using machine learning techniques (e.g., classification, regression, and forecasting) to generate value from structured and unstructured data for Commercial</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Staff Software Engineer, Discover Ads Retrieval - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=b2d2c31284441b06</link>
+        <description>### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 8 years of experience with software development in one or more programming languages.
+* 7 years of experience testing, maintaining or launching software products, and 1 year of experience with software design and architecture.
+* 7 years of experience with AI/ML algorithms and tools, deep learning and AI/ML modeling.
+* Experience building and deploying recommendation systems models (e.g., retrieval, prediction, ranking, personalization, search quality, embedding) in production.
+
+  
+
+### **Preferred qualifications:**
+
+* Master degree or PhD in Computer Science, or a related field.
+* 8 years of experience with data structures and algorithms and large language model applications.
+* 5 years of experience in a technical leadership role leading project teams and setting technical direction.
+* Experience developing algorithms (e.g., ranking, recommendations, prediction, search quality, personalization) a</description>
+        <postDate>2026-04-02</postDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1270,7 +1708,7 @@ We have an opening for an **AI Solutions Engineer** with robust expertise in enh
 * Master’s degree or PhD in Engineering, Computer Science, or a related technical field.
 * 8 years of experience with data </description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1291,7 +1729,7 @@ Note: By applying to this position you will have an opportunity to share your pr
 
 * Maste</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1312,68 +1750,49 @@ Note: By applying to this position you will have an opportunity to share your pr
 
 * Maste</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
-        <title>Data Scientist - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=a70ad40e5b3eb0f0</link>
-        <description>Apple Maps is changing, and data is in the driver’s seat. Our mission is to build the best map in the world. As Data Science organization, our goal is to harness the power of user data to help Maps make great decisions. We work in a data\-driven environment where Data Scientists are instrumental in keeping the data that powers Apple Maps up\-to\-date and relevant.  
+        <title>Senior Software Engineer, AI/ML, AIR - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=98b0fde7192557ba</link>
+        <description>### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 5 years of experience with software development in one or more programming languages.
+* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+* 3 years of experience with one or more of the following: Natural Language Processing or Large Language Models.
 
   
 
-**Description**  
+### **Preferred qualifications:**
 
-  
+* Master's degree or PhD in Computer Science or related technical field.
+* 5 years of experience with data structures and algorithms.
+* Experience in natural language processing (NLP) and machine learning (ML), with developing and evaluating NLP/ML models.
+* Experience with training and evaluation pipelines for various model sizes, most importantly LLMs.
+* Familiarity with data collection methodologies, including user studies.
+* Ability to compile and organize large natural\-language datasets for ML.
 
-We are looking for a talented, experienced Data Scientist to join our cross\-functional team, focusing on evaluating routing service quality, ensuring its accuracy and reliability, and identifying areas of improvements. We work directly with the Engineering, Product, and Operation teams responsible for routing data and service algorithms that impact our millions of users every day. Our day\-to\-day work crosses many functional areas, including experimental design, AB testing, exploratory data analysis, AI/ML modeling, data mining, and more.","responsibilities":"\* Build data products (feature dat</description>
+**About the job**
+---</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
-        <title>AI Engineering Intern - BillionToOne</title>
-        <link>https://www.indeed.com/viewjob?jk=dc05707a833ffbc0</link>
-        <description>**Ready to redefine what's possible in molecular diagnostics?**
----------------------------------------------------------------
+        <title>Senior Staff AI Scientist - Credit Karma - Intuit</title>
+        <link>https://www.indeed.com/viewjob?jk=a5824ab95d1f1863</link>
+        <description>**Overview**
+------------
 
 
-
-Join a team of brilliant, passionate innovators determined to transform healthcare. At BillionToOne, we've built a category\-defining, publicly traded company on Nasdaq where transparency fuels trust, collaboration drives breakthroughs, and every contribution moves the needle on our mission to make life\-changing diagnostics accessible to all. We don't just aim for incremental improvements; we build products that are 10x better than anything that exists today.
-
+Intuit Credit Karma seeks a visionary Staff Data Scientist who will revolutionize our recommendation engine in ad technology by harnessing the latest advancements in machine learning and GenAI. As a technical leader and mentor, you will drive the development of next\-generation AI\-powered monetization strategies, collaborating and communicating with leadership across all lines of business, including their respective engineering, product, partnerships, and analytics teams.
 
 
-With over 700 employees, half a million patients helped, and one of the most successful IPOs in medical diagnostics history behind us, we're just getting started. Our scientists, engineers, sales executives, and visionaries are united by an unwavering commitment to changing the standard of care in prenatal and cancer diagnostics. This is where cutting\-edge science meets human compassion, and every</description>
+With a strong background in data science and machine learning paired with excellent communication skills, you will architect and implement scalable solutions w/ cross\-team alignment that create the best ML\-driven experiences for our members, propelling lifetime value and revenue growth for the company and partners. Your expertise will directly impact the direction of data science in facilitating business growth and will influence company\-wide strategies \- fostering a culture of innov</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist - Model Optimization - QUADRIC PTY LTD</title>
-        <link>https://www.indeed.com/viewjob?jk=85469f5bdca24d04</link>
-        <description>Quadric has created an innovative general purpose neural processing unit (GPNPU) architecture. Quadric's co\-optimized software and hardware is targeted to run neural network (NN) inference workloads in a wide variety of edge and endpoint devices, ranging from battery operated smart\-sensor systems to high\-performance automotive or autonomous vehicle systems. Unlike other NPUs or neural network accelerators in the industry today that can only accelerate a portion of a machine learning graph, the Quadric GPNPU executes both NN graph code and conventional C\+\+ DSP and control code.
-
-
-Role:
-You will be joining the data science team focused on model optimization for Quadric's custom GPNPU architecture. You will research, prototype, and implement novel quantization algorithms tailored to our hardware constraints. Beyond applying existing techniques, you'll develop custom low\-precision methods that maximize performance on the Chimera GPNPU. Your work will directly shape the quantization c</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Forward Deployed Data Scientist/Engineer - Scale AI</title>
-        <link>https://www.indeed.com/viewjob?jk=f7a71a3b60fc2864</link>
-        <description>At Scale AI, we help leading enterprises turn AI from a promising capability into reliable systems that improve real workflows and deliver measurable business value. We are hiring a Senior Forward Deployed Data Scientist / Engineer to work directly with customers on ambiguous, high\-impact problems at the intersection of data science, product development, and AI deployment.
-
-
-
-This is **not** a traditional analytics role. On this team, data scientists do the core statistical and modeling work, but they also build real tools and products: evaluation explorers, operator workflows, decision\-support systems, experimentation surfaces, and customer\-specific AI/data applications that get used in production. In many cases, the data scientist builds the first usable version of the solution, proves value quickly, and helps drive it into a durable product or platform capability.
-
-
-
-The right candidate is strong in first\-principles problem solving, rigorous measurement, and technical execution.</description>
-        <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
@@ -1387,74 +1806,23 @@ Sia is a next\-generation, global management consulting group. Founded in 1999, 
 
 Sia’s **AI \&amp; Data Business Unit** is the powerhouse of our firm’s innovation—merging cutting\-edge Data Science, Generative AI, and advanced digital solutions to transform industries. With over 350 experts worldwide, we tackle projects from proof\-of\-concept to large\-scale deployment, always pushing the boun</description>
         <postDate>2026-04-02</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
     <item>
-        <title>Senior Machine Learning Engineer - Hybrid (San Francisco or Austin) - Zendesk</title>
-        <link>https://www.indeed.com/viewjob?jk=c190a827f8e23b77</link>
-        <description>**Job Description**
--------------------
+        <title>Data Scientist - Microsoft</title>
+        <link>https://www.indeed.com/viewjob?jk=c2b79d284bac3f38</link>
+        <description>**Overview**  
 
-The Enterprise Machine Learning team drives organizational value through scalable ML solutions and data\-driven insights, fundamentally changing how business decisions are made. We collaborate closely with stakeholders, applying the latest advances in machine learning, deep learning, and large language models (LLMs) to create highly impactful outcomes. Our commitment is to advance the state of AI, statistical modeling, and robust system design to enhance and expand our core business capabilities.
-
-
-**Location**
-------------
-
-San Francisco, CA or Austin, TX (Hybrid)
+A unique opportunity to join Bing Search, a global search engine powering billions of searches daily, both from humans and from Large\-Language Models
 
 
-**Schedule:** This is a hybrid role requiring an average of **2 days per week** in\-office, or as otherwise determined by the hiring manager
+The Bing Metrics team is looking for passionate Data scientist to work on the new generation of metrics and quality control for the Bing Grounding API. The team ensures that Bing returns high\-quality, error\-free, and authoritative results using a variety of different approaches. Our team builds complex pipeline including crowd judging and machine learning steps to verify our suspicions. Now, we actively use LLMs like ChatGPT as a judge to evaluate the quality of search results at multiple levels: query, answer, whole page and generate insights for the teams who are responsible this experience.
 
 
-**Role Overview**
------------------
-
-As a Machine Learning Engineer, you will serve as a technical and strategic member within the team, driving the development and deployment of advanced data science and machine learning solutions—particular</description>
+As a part of an international and distributed team you will be responsible for RAG quality metrics within Bing Search. The job provides you with the opportunity to work with multiple teams across entire Bing (\&gt;80 different te</description>
         <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Junior Applied AI Engineer- HRIS - Fortinet</title>
-        <link>https://www.indeed.com/viewjob?jk=19fc4813887bb16d</link>
-        <description>**About the Role**
-
-We are looking for a Junior Applied AI Engineer\- HRIS to join our HRIS team and help build intelligent, data\-driven solutions that enhance HR processes and employee experiences. This role will report to the Director of HRIS at Fortinet, and will work at the intersection of artificial intelligence, data engineering, and HR technology, contributing to the development of AI\-powered tools such as AI Agents, chatbots, analytics models, and workflow automation systems.
-
-
-This is an excellent opportunity for someone early in their career who is passionate about applying AI in real\-world business contexts, particularly in HR systems.
-
-
-**Key Responsibilities**
-
-* Assist in designing, developing, and deploying AI/ML models to support HR functions (e.g., recruiting, onboarding, employee engagement, retention).
-* Collaborate with HR, IT, and data teams to understand business needs and translate them into technical solutions.
-* Build and maintain data pipelines for HR data </description>
-        <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Software Engineer, AI/ML, Google Workspace - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=65225c9c0c3f2d8a</link>
-        <description>Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **New York, NY, USA; Sunnyvale, CA, USA**.### **Minimum qualifications:**
-
-* Bachelor’s degree or equivalent practical experience.
-* 5 years of experience programming in Python or C\+\+.
-* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-* 3 years of experience with one or more of the following: Speech/audio (e.g., technology duplicating and responding to the human voice), reinforcement learning (e.g., sequential decision making), ML infrastructure, or specialization in another ML field.
-* 3 years of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
-
-  
-
-### **Preferred qualifications:**
-
-* Master's degree or PhD in Computer Science or related technical field.
-* 5 years of experience with data structures </description>
-        <postDate>2026-04-01</postDate>
-        <pubDate>Fri, 03 Apr 2026 01:17:15 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 12:37:46 GMT</pubDate>
     </item>
     
 </channel>
