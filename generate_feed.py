@@ -99,10 +99,6 @@ for _, job in jobs.iterrows():
 
     date_posted = escape(str(job.get("date_posted", "")))
 
-    # pubDate in RSS convention is the time the item entered *this* feed,
-    # not the original posting date, so we use the current UTC time.
-    pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
-
     # Build the XML block for this job.  The f-string embeds each variable
     # directly into the template without manual string concatenation.
     rss_items += f"""
@@ -110,8 +106,7 @@ for _, job in jobs.iterrows():
         <title>{title} - {company}</title>
         <link>{link}</link>
         <description>{description}</description>
-        <postDate>{date_posted}</postDate>
-        <pubDate>{pub_date}</pubDate>
+        <pubDate>{date_posted}</pubDate>
     </item>
     """
 
@@ -125,13 +120,14 @@ for _, job in jobs.iterrows():
 rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>DS &amp; MLE Jobs</title>
+    <title>DS&MLE Jobs</title>
     <link>https://indeed.com</link>
     <description>jobs</description>
     {rss_items}
 </channel>
 </rss>
 """
+
 
 # ---------------------------------------------------------------------------
 # Step 5: Write the feed to disk
