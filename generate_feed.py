@@ -120,7 +120,7 @@ for _, job in jobs.iterrows():
 rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>DS&MLE Jobs</title>
+    <title>DS &amp; MLE Jobs</title>
     <link>https://indeed.com</link>
     <description>jobs</description>
     {rss_items}
