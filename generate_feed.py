@@ -53,7 +53,7 @@ jobs_DS_kw2 = scrape_jobs(
 )
 jobs_MLE = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"causal" "machine learning engineer" -manager -distinguished -director -head -consultant -infra',
+    search_term='"statistics" "machine learning engineer" -manager -distinguished -director -head -consultant -infra',
     results_wanted=200,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
@@ -93,9 +93,9 @@ for _, job in jobs.iterrows():
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
 
-    # Truncate descriptions to 1 000 characters — full descriptions can be
+    # Truncate descriptions to 3 000 characters — full descriptions can be
     # several thousand characters long and would unnecessarily bloat the feed.
-    description = escape(str(job.get("description", ""))[:1000])
+    description = escape(str(job.get("description", ""))[:3000])
 
     date_posted = escape(str(job.get("date_posted", "")))
 
