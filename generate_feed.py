@@ -110,6 +110,9 @@ for _, job in jobs.iterrows():
     # Pull each field from the row, falling back to an empty string when missing,
     # then escape it so special characters won't break the surrounding XML.
     title = escape(str(job.get("title", "")))
+    title_lc = str(job.get("title", "")).lower()
+    if not any(k in title_lc for k in ("scientist", "engineer", "analytics")):
+        continue
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
 
