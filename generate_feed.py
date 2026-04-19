@@ -36,7 +36,7 @@ import pandas as pd
 
 jobs_DS_kw1 = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"lifetime value" data (model OR ml OR stat OR causal) scientist -manager -distinguished -director -head -Consultant',
+    search_term='"lifetime value" data (model OR ml OR stat OR causal) scientist -manager -distinguished -director -head -consultant -chief -vp',
     results_wanted=200,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
@@ -45,15 +45,35 @@ jobs_DS_kw1 = scrape_jobs(
 
 jobs_DS_kw2 = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"unit economic" data (model OR ml OR stat OR causal) scientist -manager -distinguished -director -head -Consultant',
+    search_term='"unit economic" data (model OR ml OR stat OR causal) scientist -manager -distinguished -director -head -consultant -chief -vp',
     results_wanted=200,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
     hours_old=336,
 )
+
+jobs_DS_kw3 = scrape_jobs(
+    site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
+    search_term='"GTM" data (model OR ml OR stat OR causal) scientist -manager -distinguished -director -head -consultant -chief -vp',
+    results_wanted=200,
+    location="San Francisco Bay Area, CA",
+    country_indeed="USA",
+    hours_old=336,
+)
+
+jobs_DS_kw4 = scrape_jobs(
+    site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
+    search_term='"LTV" data (model OR ml OR stat OR causal) scientist -manager -distinguished -director -head -consultant -chief -vp',
+    results_wanted=200,
+    location="San Francisco Bay Area, CA",
+    country_indeed="USA",
+    hours_old=336,
+)
+
+
 jobs_MLE = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"statistics" "machine learning engineer" -manager -distinguished -director -head -consultant -infra',
+    search_term='"statistics" "machine learning engineer" -manager -distinguished -director -head -consultant -infra -chief -vp',
     results_wanted=200,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
@@ -69,7 +89,7 @@ jobs_MLE = scrape_jobs(
 # overlap window that prevents stale results from slipping through.
 
 # Combine all DataFrames into one by stacking rows vertically (axis=0).
-jobs = pd.concat([jobs_DS_kw1, jobs_DS_kw2, jobs_MLE], axis=0)
+jobs = pd.concat([jobs_DS_kw1, jobs_DS_kw2, jobs_DS_kw3, jobs_DS_kw4, jobs_MLE], axis=0)
 
 # A single posting may appear in both search results (e.g. a role titled
 # "Data Scientist / ML Engineer").  Drop duplicates by the unique job ID so
@@ -93,9 +113,9 @@ for _, job in jobs.iterrows():
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
 
-    # Truncate descriptions to 3 000 characters — full descriptions can be
+    # Truncate descriptions to 5 000 characters — full descriptions can be
     # several thousand characters long and would unnecessarily bloat the feed.
-    description = escape(str(job.get("description", ""))[:3000])
+    description = escape(str(job.get("description", ""))[:5000])
 
     date_posted = escape(str(job.get("date_posted", "")))
 
