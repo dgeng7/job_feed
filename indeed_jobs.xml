@@ -52,6 +52,80 @@ Intuit provides a competitive compensation package with a strong pay for perform
     </item>
     
     <item>
+        <title>Data Scientist, Finance Forecasting - clickhouse</title>
+        <link>https://www.indeed.com/viewjob?jk=331aeb2be2468b04</link>
+        <description>### **About ClickHouse**
+
+
+
+Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast\-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real\-time analytics, data warehousing, observability, and AI workloads.
+
+
+
+The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.
+
+
+
+We’re on a mission to transform how companies use data. Come be a part of our journey!
+
+
+ClickHouse is the fastest open\-source analytical database in the world, processing billions of rows per second for thousands of organizations. As we scale our cloud business, the decisions that shape pricing, capacity planning, and go\-to\-market strategy need to be grounded in rigorous quantitative modeling, and that capability is being built from the ground up.
+
+
+
+We're hiring a founding Data Scientist to build ClickHouse's Finance forecasting and measurement capability from the ground up. You'll own the forecasting models, causal measurement programs, and analytical frameworks that directly shape how leadership plans the business. You'll define the approach, build the infrastructure, and set the standard for how data science operates here.
+
+
+**Hybrid**: We intend to fill this role in the San Francisco Bay Area, and expect this position to go into our Menlo Park office 1\-2x per week.
+
+
+#### **What You'll Be Doing:**
+
+
+* Own production revenue forecasting end\-to\-end: model development, backtesting, deployment, monitoring, and iteration
+* Build forecasting systems that account for the dynamics of usage\-based pricing, consumption patterns, and customer lifecycle across our cloud platform
+* Design and implement causal measurement frameworks to quantify the revenue impact of product launches, pricing changes, and GTM motions
+* Establish backtesting discipline and accuracy tracking as standing Finance metrics, making forecast quality visible and continuously improving
+* Contribute to shared analytics infrastructure and internal tooling that accelerates data science workflows across the organization
+* Translate model outputs into clear, actionable recommendations for Finance, Sales, and executive leadership
+* Partner with Data Engineering, Revenue Operations, and Product to build the feature pipelines and data foundations your models depend on
+
+#### **What You Bring Along:**
+
+
+* Has an advanced degree in a quantitative discipline (Statistics, Mathematics, Computer Science, Physics, Economics) or equivalent depth through production experience
+* Hands\-on experience building and deploying ML and statistical systems, with meaningful time spent on forecasting or causal inference in production
+* Has deep applied statistics foundations, including comfort with time\-series methods, state\-space models, hierarchical approaches, or causal inference techniques
+* Is highly proficient in Python and SQL, with experience productionizing models in cloud\-scale data environments
+* Has worked with modern analytical platforms such as ClickHouse, Snowflake, BigQuery, or Spark
+* Has experience forecasting consumption\-based or usage\-billed businesses (cloud, API, marketplace)
+* Has a bias toward action in ambiguous, early\-stage environments and is comfortable defining the problem, not just solving it
+* Communicates clearly with executive stakeholders and can translate complex modeling work into actionable business recommendations
+* Is fluent with AI tools and workflows, including LLMs and AI coding assistants, and applies them effectively in analytical work
+* Is comfortable taking ownership of open\-ended problems and building new functions from scratch
+ **The typical starting salary for this role in the US is**
+$215,000 \- $240,000 USD**The typical starting salary for this role in US Premium Markets is**
+$239,000 \- $267,000 USD### **Compensation**
+
+
+
+For roles based in the **United States**, the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.
+
+
+
+These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.
+
+
+
+An individual’s placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.
+
+
+
+If you </description>
+        <pubDate>2026-04-15</pubDate>
+    </item>
+    
+    <item>
         <title>Staff Software Engineer - Qualcomm</title>
         <link>https://www.indeed.com/viewjob?jk=f30f405ca3d9bd56</link>
         <description>**Company:**
@@ -2518,105 +2592,6 @@ Apple is an equal opportunity employer that is committed to inclusion and divers
   
 
 At Apple, base pay is one part of our total compensation package and is determined within a ran</description>
-        <pubDate>2026-04-09</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer - Privacy-Preserving Personalization - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=f13f7ff5d85853ec</link>
-        <description>Our team crafts intelligent personalization experiences for platforms like the App Store, Apple Music, and Apple TV\+, reaching millions globally. Our work is guided by a steadfast dedication to user privacy. Looking ahead, we believe the future of personalization will prioritize on\-device processing and demand robust privacy safeguards.  
-
-  
-
-**Description**  
-
-  
-
-We are looking for a talented engineer to tackle one of tech's most significant challenges: creating highly personalized and beneficial AI systems that prioritize privacy and compliance from the ground up. As an integral part of this mission, you will design and develop on\-device machine learning solutions that not only enhance user experiences but also establish new benchmarks for trust and security in the industry.  
-
-  
-
-This role involves significant coding on Apple platforms, optimizing models for edge computing, and acting as a vital connection between our machine learning goals and our foundational commitment to privacy.","responsibilities":"Build Privacy\-Centric Systems: Deliver robust, production\-level on\-device machine learning solutions leveraging Apple frameworks such as CoreML.  
-
-  
-
-Champion Privacy and Compliance: Lead efforts to translate intricate privacy guidelines and international regulations (like GDPR and CCPA) into specific, verifiable engineering implementations. Your contributions will be essential to our compliance framework.  
-
-  
-
-Focus on Performance: Develop highly optimized, resource\-efficient code, balancing model accuracy, battery usage, and memory usage on mobile platforms.  
-
-  
-
-Comprehensive Ownership: Manage the entire on\-device ML process, from model quantization and rollout to ongoing performance tracking and field updates.  
-
-  
-
-Drive Collaboration and Leadership: Work closely with backend machine learning teams, legal and policy advisors, and app developers to create integrated, privacy\-focused user experiences.  
-
-  
-
-**Preferred Qualifications**  
-
-  
-
-Generative AI and Agentic Systems Proficiency: Experience with designing or developing Generative AI systems, e.g. autonomous agents.  
-
-  
-
-Implementing legal and policy mandates from regulations like GDPR and CCPA into engineering specifications and systems.  
-
-  
-
-Hands\-on experience utilizing Core ML and applying on\-device model optimization methods, including quantization and pruning.  
-
-  
-
-Familiarity with technologies like Differential Privacy and Federated Learning.  
-
-  
-
-**Minimum Qualifications**  
-
-  
-
-BS or MS in Computer Science, Statistics, or a related field, preferably with a focus on machine learning or data privacy.  
-
-  
-
-Minimum of 3 years in software engineering, with a demonstrated ability to release production\-quality code.  
-
-  
-
-Systems Programming Skills: Strong grasp of systems engineering principles, with proficiency in compiled languages such as C, C\+\+, Objective\-C, or Swift.  
-
-  
-
-Practical ML Experience: Involvement in developing and deploying machine learning models within a production environment (on\-device or server\-side).  
-
-  
-
-Dedication to Privacy: A keen interest in tackling user privacy challenges, safeguarding data, and addressing the engineering complexities of building dependable and secure systems.  
-
-  
-
-Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
-
-  
-
-**Pay \&amp; Benefits**  
-
-  
-
-At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $147,400 and $272,100, and your base pay will depend on your skills, qualifications, experience, and location.  
-
-  
-
-Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \- including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.  
-
-  
-
-Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</description>
         <pubDate>2026-04-09</pubDate>
     </item>
     
