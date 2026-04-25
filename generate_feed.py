@@ -112,7 +112,7 @@ for _, job in jobs.iterrows():
     # then escape it so special characters won't break the surrounding XML.
     title = escape(str(job.get("title", "")))
     title_lc = str(job.get("title", "")).lower()
-    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist",'ai/ml')):
+    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist")):
         continue
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
@@ -138,12 +138,12 @@ for _, job in jobs.iterrows():
     """
 
 
-for _, job in jobs.iterrows():
+for _, job in jobs_mle.iterrows():
     # Pull each field from the row, falling back to an empty string when missing,
     # then escape it so special characters won't break the surrounding XML.
     title = escape(str(job.get("title", "")))
     title_lc = str(job.get("title", "")).lower()
-    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist",'ai/ml')):
+    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist")):
         continue
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
