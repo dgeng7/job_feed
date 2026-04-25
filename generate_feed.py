@@ -37,20 +37,39 @@ import pandas as pd
 
 jobs_indeed = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='("customer" OR "GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "machine learning engineer" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra',
+    search_term='("GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
-    hours_old=72
+    hours_old=168
 )
 
 jobs_linkedin = scrape_jobs(
     site_name=["linkedin"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='("customer" OR "GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "machine learning engineer" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra',
+    search_term='("GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     linkedin_fetch_description=True,
-    hours_old=72
+    hours_old=168
+)
+
+
+jobs_indeed_mle = scrape_jobs(
+    site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
+    search_term='"customer" "statistics" "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
+    results_wanted=300,
+    location="San Francisco Bay Area, CA",
+    country_indeed="USA",
+    hours_old=168
+)
+
+jobs_linkedin_mle = scrape_jobs(
+    site_name=["linkedin"],  # "glassdoor", "bayt", "naukri", "bdjobs"
+    search_term='"customer" "statistics" "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
+    results_wanted=300,
+    location="San Francisco Bay Area, CA",
+    linkedin_fetch_description=True,
+    hours_old=168
 )
 
 
@@ -65,10 +84,17 @@ jobs_linkedin = scrape_jobs(
 # Combine all DataFrames into one by stacking rows vertically (axis=0).
 jobs = pd.concat([jobs_indeed, jobs_linkedin], axis=0)
 
+jobs_mle = pd.concat([jobs_indeed_mle, jobs_linkedin_mle], axis=0)
+
 # A single posting may appear in both search results (e.g. a role titled
 # "Data Scientist / ML Engineer").  Drop duplicates by the unique job ID so
 # each posting appears only once in the final feed.
 jobs = jobs.drop_duplicates(
+    subset="id",
+    keep="first",  # keep the first occurrence and discard all others
+)
+
+jobs_mle = jobs_mle.drop_duplicates(
     subset="id",
     keep="first",  # keep the first occurrence and discard all others
 )
@@ -79,13 +105,14 @@ jobs = jobs.drop_duplicates(
 # RSS 2.0 is XML-based, so each job becomes an <item> element.  We accumulate
 # all items as a single string and embed it in the channel envelope later.
 rss_items = ""
+rss_mle_items = ""
 
 for _, job in jobs.iterrows():
     # Pull each field from the row, falling back to an empty string when missing,
     # then escape it so special characters won't break the surrounding XML.
     title = escape(str(job.get("title", "")))
     title_lc = str(job.get("title", "")).lower()
-    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist")):
+    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist",'ai/ml')):
         continue
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
@@ -94,11 +121,45 @@ for _, job in jobs.iterrows():
     # several thousand characters long and would unnecessarily bloat the feed.
     description = escape(str(job.get("description", ""))[:8000])
 
-    date_posted = escape(str(job.get("date_posted", "")))
+    raw_date = job.get("date_posted", "")
+    if pd.isna(raw_date) or str(raw_date).strip().lower() == "nan":
+        raw_date = datetime.now(timezone.utc)
+    date_posted = escape(str(raw_date))
 
     # Build the XML block for this job.  The f-string embeds each variable
     # directly into the template without manual string concatenation.
     rss_items += f"""
+    <item>
+        <title>{title} - {company}</title>
+        <link>{link}</link>
+        <description>{description}</description>
+        <pubDate>{date_posted}</pubDate>
+    </item>
+    """
+
+
+for _, job in jobs.iterrows():
+    # Pull each field from the row, falling back to an empty string when missing,
+    # then escape it so special characters won't break the surrounding XML.
+    title = escape(str(job.get("title", "")))
+    title_lc = str(job.get("title", "")).lower()
+    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist",'ai/ml')):
+        continue
+    link = escape(str(job.get("job_url", "")))
+    company = escape(str(job.get("company", "")))
+
+    # Truncate descriptions to 8 000 characters — full descriptions can be
+    # several thousand characters long and would unnecessarily bloat the feed.
+    description = escape(str(job.get("description", ""))[:8000])
+
+    raw_date = job.get("date_posted", "")
+    if pd.isna(raw_date) or str(raw_date).strip().lower() == "nan":
+        raw_date = datetime.now(timezone.utc)
+    date_posted = escape(str(raw_date))
+
+    # Build the XML block for this job.  The f-string embeds each variable
+    # directly into the template without manual string concatenation.
+    rss_mle_items += f"""
     <item>
         <title>{title} - {company}</title>
         <link>{link}</link>
@@ -117,7 +178,7 @@ for _, job in jobs.iterrows():
 rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>DS &amp; MLE Jobs</title>
+    <title>DS &amp; AS Jobs</title>
     <link>https://indeed.com</link>
     <description>jobs</description>
     {rss_items}
@@ -125,14 +186,28 @@ rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 </rss>
 """
 
-
+rss_mle_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>MLE Jobs</title>
+    <link>https://indeed.com</link>
+    <description>jobs</description>
+    {rss_mle_items}
+</channel>
+</rss>
+"""
 # ---------------------------------------------------------------------------
 # Step 5: Write the feed to disk
 # ---------------------------------------------------------------------------
 # Open the file with UTF-8 encoding to match the declaration in the XML header.
 # If the file already exists it will be overwritten, which is the desired
 # behaviour for a periodically regenerated feed.
-with open("indeed_jobs.xml", "w", encoding="utf-8") as f:
+with open("ds_as.xml", "w", encoding="utf-8") as f:
     f.write(rss_feed)
 
-print("RSS file generated: indeed_jobs.xml")
+print("RSS file generated: ds_as.xml")
+
+with open("mle.xml", "w", encoding="utf-8") as f:
+    f.write(rss_mle_feed)
+
+print("RSS file generated: mle.xml")
