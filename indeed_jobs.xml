@@ -1284,56 +1284,5 @@ Minimum qualifications
         <pubDate>2026-04-11</pubDate>
     </item>
     
-    <item>
-        <title>Senior, Data Scientist (Machine Learning Engineer) - Walmart</title>
-        <link>https://www.indeed.com/viewjob?jk=da6a0ec941febb61</link>
-        <description>**Position Summary...**
------------------------
-
-**What you'll do...**
----------------------
-
-**Position Summary...**
-
-
-The Catalog Data Science team at Walmart plays a pivotal role in maintaining and enhancing the data quality of Walmart's massive catalog. We aid supplier onboarding, merchandise acquisition, inventory management, and shopper experience by leveraging cutting\-edge technologies in GenAI, Machine Learning, Deep Learning, and Engineering. We tackle complex problems spanning natural language understanding, image classification, and recommendation to outlier detection, visualization, and model serving. We take pride in writing solid production code in Python, deploying and supporting model services and pipelines, and pushing the boundaries in latency, throughput, and scalability.
-
-
-Trust and Safety (T\&amp;S) is an integral part of the Catalog Data Science Org, responsible for maintaining customer trust in the Walmart marketplace. We employ state\-of\-the\-art GenAI and ML models to identify products that violate Walmart's marketplace policies. Our end\-to\-end ML pipelines are designed to scale and detect policy violations across hundreds of violation classes and billions of catalog items — ensuring a safe marketplace for our customers. Our work carries high visibility, directly impacting marketplace growth and compliance at Walmart.
-
-
-As a Senior Data Scientist (Machine Learning Engineer) on the Trust and Safety team, you will collaborate with other Data Scientists and ML Engineers to develop, deploy, and scale machine learning models in production. You will play a key role in building the next generation of our compliance detection platform — driving model serving, pipeline reliability, and the adoption of GenAI\-powered solutions to more accurately detect items that violate compliance policies.
-
-**What you'll do…**
-
-* Design and deploy production\-grade ML systems for Walmart's Catalog Trust \&amp; Safety platform — spanning classification, detection, and segmentation
-* Apply GenAI, NLP, and Computer Vision techniques to build and continuously improve models for compliance detection, content moderation, and policy violation classification
-* Own the full model lifecycle — from experimentation and offline evaluation through serving, monitoring, and iterative improvement in production
-* Build and optimize high\-throughput batch and real\-time inference pipelines using frameworks like Ray, Triton, and vLLM, with a focus on latency, cost, and reliability
-* Drive ML architecture decisions — including model selection, distillation, quantization, and serving strategies
-* Partner with Compliance, Product, and Operations teams to translate business requirements into model KPIs, evaluation frameworks, and measurable impact
-* Establish and enforce ML engineering best practices across the team: reproducible training, robust evaluation datasets, versioned artifacts, and production readiness standards
-* Contribute to the broader ML engineering community at Walmart through technical documentation, internal talks, and cross\-team knowledge sharing
-
-**What you'll bring…**
-
-* PhD or Master's in Computer Science, or equivalent experience; 3\+ years building and deploying production ML systems at scale
-* Deep expertise in model serving and inference optimization — experience with Triton Inference Server, vLLM, TorchServe, or comparable frameworks
-* Hands\-on experience with Generative AI technologies: LLMs, multimodal models, RAG architectures, prompt engineering, and fine\-tuning (LoRA/QLoRA, PEFT)
-* Strong foundation in classical ML, deep learning, and modern architectures — CNNs, Transformers, and domain\-specific variants
-* Proven ability to build and operate large\-scale batch and real\-time inference pipelines handling high QPS with strict latency and throughput SLAs
-* Proficiency in Python and ML ecosystem tooling — PyTorch, HuggingFace, scikit\-learn, NumPy; familiarity with distributed compute frameworks (Ray, Spark)
-* Experience deploying and managing ML workloads on Kubernetes; solid working knowledge of Docker, Helm, and container orchestration
-* Familiarity with ML observability — model monitoring, data drift detection, performance degradation alerting, and online evaluation strategies
-* Practical experience with MLOps tooling: experiment tracking (MLflow, W\&amp;B), pipeline orchestration (Airflow, Kubeflow), and CI/CD for ML
-* Hands\-on with at least one major cloud platform (GCP, Azure etc.) and comfort with managed ML services and GPU infrastructure
-* Working knowledge of relational and NoSQL databases
-* Experience with vector databases (Pinecone, Weaviate, pgvector) and hybrid retrieval systems for GenAI applications
-* Experience with Version Control Systems, especially Git
-* Strong verbal and written communication skills; ability to translate complex ML systems into clear technical and business narratives
-* Proactive in tracking the latest AI/ML research and translating advancements into production\-grade</description>
-        <pubDate>2026-04-10</pubDate>
-    </item>
-    
 </channel>
 </rss>
