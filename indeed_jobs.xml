@@ -52,77 +52,285 @@ Intuit provides a competitive compensation package with a strong pay for perform
     </item>
     
     <item>
-        <title>Data Scientist, Finance Forecasting - clickhouse</title>
-        <link>https://www.indeed.com/viewjob?jk=331aeb2be2468b04</link>
-        <description>### **About ClickHouse**
+        <title>Machine Learning Engineer - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=86cb5ec746646409</link>
+        <description>As a Machine Learning Engineer, you will design and build cutting\-edge AI/ML systems that drive meaningful business outcomes at scale. You will work cross\-functionally to bring innovative machine learning solutions from research and experimentation through to robust, production\-grade deployment.  
 
+  
 
+**Description**  
 
-Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast\-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real\-time analytics, data warehousing, observability, and AI workloads.
+  
 
+The MLE will collaborate with other MLEs to build scalable, production\-ready ML solutions, taking algorithms from initial concept through to deployment. This hire will design end\-to\-end AI/ML solutions with clear business impact, from concept to deployment, with a strong focus on feasibility, scalability, and performance. You will benchmark, adapt, and integrate AI/ML models into existing systems.","responsibilities":"Deploy, monitor, and support AI tools in production environments, ensuring reliability and performance.  
 
+  
 
-The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.
+Contribute to the ongoing improvement of ML infrastructure, tooling, and best practices.  
 
+  
 
+Partner with data scientists, and engineers to translate business requirements into technical ML solutions.  
 
-We’re on a mission to transform how companies use data. Come be a part of our journey!
+  
 
+Conduct rigorous model evaluation, testing, and iteration to continuously improve model quality and efficiency.  
 
-ClickHouse is the fastest open\-source analytical database in the world, processing billions of rows per second for thousands of organizations. As we scale our cloud business, the decisions that shape pricing, capacity planning, and go\-to\-market strategy need to be grounded in rigorous quantitative modeling, and that capability is being built from the ground up.
+  
 
+Design and integrate LLM\-powered features and AI agent workflows into production systems, ensuring reliability, scalability, and performance.  
 
+  
 
-We're hiring a founding Data Scientist to build ClickHouse's Finance forecasting and measurement capability from the ground up. You'll own the forecasting models, causal measurement programs, and analytical frameworks that directly shape how leadership plans the business. You'll define the approach, build the infrastructure, and set the standard for how data science operates here.
+Build and maintain agentic pipelines that leverage tool use, memory, and multi\-step reasoning to automate complex business processes.  
 
+  
 
-**Hybrid**: We intend to fill this role in the San Francisco Bay Area, and expect this position to go into our Menlo Park office 1\-2x per week.
+Evaluate and benchmark LLM outputs as part of the model evaluation lifecycle, assessing quality, latency, and safety in production contexts.  
 
+  
 
-#### **What You'll Be Doing:**
+**Preferred Qualifications**  
 
+  
 
-* Own production revenue forecasting end\-to\-end: model development, backtesting, deployment, monitoring, and iteration
-* Build forecasting systems that account for the dynamics of usage\-based pricing, consumption patterns, and customer lifecycle across our cloud platform
-* Design and implement causal measurement frameworks to quantify the revenue impact of product launches, pricing changes, and GTM motions
-* Establish backtesting discipline and accuracy tracking as standing Finance metrics, making forecast quality visible and continuously improving
-* Contribute to shared analytics infrastructure and internal tooling that accelerates data science workflows across the organization
-* Translate model outputs into clear, actionable recommendations for Finance, Sales, and executive leadership
-* Partner with Data Engineering, Revenue Operations, and Product to build the feature pipelines and data foundations your models depend on
+10 years of related experience building high\-throughput, scalable applications or machine learning models in a production environment.  
 
-#### **What You Bring Along:**
+  
 
+Solid understanding of ML fundamentals including supervised/unsupervised learning, model evaluation, and feature engineering.  
 
-* Has an advanced degree in a quantitative discipline (Statistics, Mathematics, Computer Science, Physics, Economics) or equivalent depth through production experience
-* Hands\-on experience building and deploying ML and statistical systems, with meaningful time spent on forecasting or causal inference in production
-* Has deep applied statistics foundations, including comfort with time\-series methods, state\-space models, hierarchical approaches, or causal inference techniques
-* Is highly proficient in Python and SQL, with experience productionizing models in cloud\-scale data environments
-* Has worked with modern analytical platforms such as ClickHouse, Snowflake, BigQuery, or Spark
-* Has experience forecasting consumption\-based or usage\-billed businesses (cloud, API, marketplace)
-* Has a bias toward action in ambiguous, early\-stage environments and is comfortable defining the problem, not just solving it
-* Communicates clearly with executive stakeholders and can translate complex modeling work into actionable business recommendations
-* Is fluent with AI tools and workflows, including LLMs and AI coding assistants, and applies them effectively in analytical work
-* Is comfortable taking ownership of open\-ended problems and building new functions from scratch
- **The typical starting salary for this role in the US is**
-$215,000 \- $240,000 USD**The typical starting salary for this role in US Premium Markets is**
-$239,000 \- $267,000 USD### **Compensation**
+  
 
+Strong problem\-solving skills with the ability to translate ambiguous business problems into well\-defined ML solutions.  
 
+  
 
-For roles based in the **United States**, the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.
+Excellent cross\-functional communication skills with the ability to collaborate effectively across engineering and data science teams.  
 
+  
 
+Familiarity with LLM evaluation practices including output quality assessment, hallucination detection, and latency benchmarking in production environments.  
 
-These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.
+  
 
+**Minimum Qualifications**  
 
+  
 
-An individual’s placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.
+8 years of related experience building high\-throughput, scalable applications or machine learning models in a production environment.  
 
+  
 
+Bachelor's Degree in Computer Science, Statistics, Data Mining, Machine Learning, Operations Research, or related field.  
 
-If you </description>
-        <pubDate>2026-04-15</pubDate>
+  
+
+Proficiency in one or more object\-oriented programming languages such as Python, Java, or C\+\+, with hands\-on experience building distributed systems.  
+
+  
+
+Experience building large\-scale machine learning systems using big data technologies such as Spark, SQL, Snowflake, or similar platforms.  
+
+  
+
+Experience with ML frameworks such as TensorFlow, PyTorch, or scikit\-learn.  
+
+  
+
+Familiarity with MLOps practices including model versioning, CI/CD pipelines, and experiment tracking tools such as MLflow or similar.  
+
+  
+
+Experience building and deploying applications using large language models (e.g., GPT\-4, Claude, Gemini, or open\-source alternatives) via APIs or self\-hosted inference.  
+
+  
+
+Hands\-on experience with agentic frameworks such as LangChain, LlamaIndex, or AutoGen to build multi\-step, tool\-augmented AI workflows.  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+**Pay \&amp; Benefits**  
+
+  
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $212,000 and $318,400, and your base pay will depend on your skills, qualifications, experience, and location.  
+
+  
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \- including tuition. Additionally, this role might be eligible for discretionary bonuses or commission paymen</description>
+        <pubDate>2026-04-24</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer - Speech &amp; Multimodal Language Modeling - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=9f92aa08867800f0</link>
+        <description>Apple is where individual imaginations gather together, committing to the values that lead to  
+
+  
+
+great work. Every new product we build, service we create, or experience we deliver is the  
+
+  
+
+result of us making each other’s ideas stronger. The diversity of our people and their thinking  
+
+  
+
+inspires the innovation that runs through everything we do. When we bring everybody in, we  
+
+  
+
+can do the best work of our lives. Here, you’ll do more than join something \- you’ll add  
+
+  
+
+something.  
+
+  
+
+**Description**  
+
+  
+
+The Special Projects team at Apple is developing novel user\-facing features that leverage the  
+
+  
+
+multimodal capabilities of state\-of\-the\-art foundation language models. We are looking for a  
+
+  
+
+highly skilled Machine Learning Engineer to build and evaluate these experiences, with a  
+
+  
+
+specific focus on Multimodal and Speech Language Models. A successful candidate is  
+
+  
+
+experienced in evaluating complex foundation model\-driven systems end\-to\-end, translating  
+
+  
+
+subjective product requirements into objective criteria, has strong statistical analysis skills, and  
+
+  
+
+has worked with Speech Language Models.","responsibilities":"Design and implement processes for evaluating and improving multi\-modal generative  
+
+  
+
+models to meet end\-to\-end product requirements.  
+
+  
+
+Work with Data Engineers to process large scale speech audio data for foundation model  
+
+  
+
+training  
+
+  
+
+Fine\-tune Large Language Models (LLMs) and Speech Language Models (SpeechLMs) to  
+
+  
+
+improve performance for specific use cases  
+
+  
+
+Work closely with other ML Researchers to define evaluation criteria and methodology to  
+
+  
+
+systematically evaluate foundation models  
+
+  
+
+Experimental design for testing models/systems under test  
+
+  
+
+Conduct robust statistical analysis to identify model deficiencies and failure states  
+
+  
+
+**Preferred Qualifications**  
+
+  
+
+PhD in Computer Science, Machine Learning, Statistics, or other STEM field  
+
+  
+
+5\+ years of hands\-on experience with SpeechLMs or LLMs  
+
+  
+
+Experience with large\-scale audio data processing on distributed systems  
+
+  
+
+Experience with prompt evaluation and optimization for generative AI models  
+
+  
+
+Proficiency in training, fine\-tuning, and evaluation of foundation models and frameworks  
+
+  
+
+A track record of publications or technical presentations in Machine Learning journals or  
+
+  
+
+conferences  
+
+  
+
+Excellent communication skills and cross\-functional collaboration  
+
+  
+
+**Minimum Qualifications**  
+
+  
+
+Master’s degree in Computer Science or Machine Learning  
+
+  
+
+2\+ years of hands\-on experience building and evaluating generative AI models  
+
+  
+
+Proficiency in Python and ML frameworks (Pytorch or Tensorflow)  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+**Pay \&amp; Benefits**  
+
+  
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $147,400 and $272,100, and your base pay will depend on your skills, qualifications, experience, and location.  
+
+  
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \- including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.  
+
+  
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</description>
+        <pubDate>2026-04-24</pubDate>
     </item>
     
     <item>
@@ -1226,62 +1434,6 @@ Apple employees also have the opportunity to become an Apple shareholder through
 
 Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</description>
         <pubDate>2026-04-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Staff Machine Learning Engineer - GEICO</title>
-        <link>https://www.indeed.com/viewjob?jk=9cbbc6b99115389e</link>
-        <description>**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.**
-
-**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.**
-
-**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
-
-
-At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities. Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers' expectations while making a real impact for our company through our shared purpose. When you join our company, we want you to feel valued, supported and proud to work here. That's why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers
-
-
-GEICO is seeking a Senior Staff Machine Learning Engineer to help shape how Generative AI enhances customer and associate experiences across the enterprise. This is a hands\-on technical role who will be leading the strategy, architecture, and delivery of ML systems for the Claims organization—designing predictive models, robust data/feature pipelines, and production\-grade MLOps to drive measurable business outcomes.  
-
-You will work alongside engineering teams, data scientists, and product leaders to design, build, and integrate AI\-powered capabilities that automate workflows, improve decision\-making, and elevate user experience. You will contribute to a culture of learning, curiosity, and innovation while growing your expertise in cutting\-edge AI technologies
-
-
-About the role
-
-* Staff\+ individual contributor role focused on end\-to\-end ML: data and feature engineering, modeling, deployment, monitoring, and continuous improvement.
-* Partner with Claims Operations, Product, and Engineering to deliver ML capabilities such as severity/triage predictions, claim outcome forecasting, and automation accelerators.
-* GenAI (e.g., LLMs and agentic workflows) may be leveraged where it augments ML systems; strong ML depth is primary.
-
-
-What you’ll do
-
-* Own ML platform architecture: data/feature pipelines, experiment tracking, model registries, serving layers, offline/online evaluation, and observability.
-* Define standards for reliability, performance, cost efficiency, security, governance, and model risk management across ML services.
-* Lead design and implementation of models across classical ML and deep learning (e.g., gradient boosted trees, sequence models, Transformers for tabular/time\-series/NLP where relevant).
-* Translate business goals into measurable ML objectives and experiment plans; ensure robust offline metrics and real\-world impact.
-* Build scalable training and inference pipelines; establish CI/CD for ML, automated evaluations, canary releases, and rollback strategies.
-* Implement monitoring for data quality, drift, fairness, latency, reliability, and cost; lead incident response and postmortems.
-* Partner with Claims, Product, Data Science, Platform/SRE, Security, and Legal/Compliance to gather requirements, define scope, and prioritize backlogs.
-* Maintain pragmatic technical roadmaps balancing business outcomes, release timelines, and engineering excellence.
-* Own build\-vs\-buy decisions and tooling/service selection (speed to market, extensibility, TCO); guide platform evolution with clear architectural principles.
-* Lead experienced engineers through complex platform implementations; drive system\-wide architectural improvements and reliability practices.
-* Mentor engineers and junior tech leads; codify best practices; contribute to internal documentation and promote enterprise\-wide ML standards.
-* Where appropriate, collaborate on retrieval\-augmented workflows, prompt/context management, and LLM evaluation and safety guardrails to complement ML systems.
-
-
-Minimum qualifications
-
-* Bachelor’s degree or above in Computer Science, Engineering, Statistics, or related field.
-* 10\+ years of professional software development experience using at least two general\-purpose languages (e.g., Java, C\+\+, Python, C\#).
-* 10\+ years architecting, designing, and building multi\-component ML platforms leveraging open\-source/cloud\-agnostic components:
-	+ Search/vector: ElasticSearch, Qdrant (as applicable to ML features and retrieval)
-	+ Data warehouse/lakehouse: Snowflake; familiarity with Parquet/Delta/Iceberg
-	+ Streaming: Kafka; plus Flink/Spark Streaming experience
-	+ Datastores: PostgreSQL; NoSQL (MongoDB, Cassandra)
-	+ Distributed compute: Spark, Ray
-	+ Workflow orchestration: Airflow, Temporal
-* 6\+ years managing end\-to\-end SDLC for ML systems: version control, C</description>
-        <pubDate>2026-04-11</pubDate>
     </item>
     
 </channel>
