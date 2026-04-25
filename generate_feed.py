@@ -41,16 +41,16 @@ jobs_indeed = scrape_jobs(
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
-    hours_old=336
+    hours_old=72
 )
 
 jobs_linkedin = scrape_jobs(
     site_name=["linkedin"],  # "glassdoor", "bayt", "naukri", "bdjobs"
     search_term='("customer" OR "GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "machine learning engineer" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra',
-    results_wanted=200,
+    results_wanted=300,
     location="San Francisco Bay Area, CA",
     linkedin_fetch_description=True,
-    hours_old=336
+    hours_old=72
 )
 
 
@@ -85,7 +85,7 @@ for _, job in jobs.iterrows():
     # then escape it so special characters won't break the surrounding XML.
     title = escape(str(job.get("title", "")))
     title_lc = str(job.get("title", "")).lower()
-    if not any(k in title_lc for k in ("scientist", "engineer", "analytics")):
+    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist")):
         continue
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
