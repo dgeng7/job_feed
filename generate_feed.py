@@ -56,7 +56,7 @@ jobs_linkedin = scrape_jobs(
 
 jobs_indeed_mle = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"customer" "statistics" "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
+    search_term='("customer" OR "statistics") "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
@@ -65,7 +65,7 @@ jobs_indeed_mle = scrape_jobs(
 
 jobs_linkedin_mle = scrape_jobs(
     site_name=["linkedin"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"customer" "statistics" "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
+    search_term='("customer" OR "statistics") "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     linkedin_fetch_description=True,
