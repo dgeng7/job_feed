@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add indeed_jobs.xml
+          git add ds_as.xml
+          git add mle.xml
           git commit -m "Auto update job feed" || echo "No changes"
           git push
