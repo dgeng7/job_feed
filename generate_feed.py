@@ -34,51 +34,25 @@ import pandas as pd
 #   country_indeed – country context required by Indeed's API
 #   hours_old      – only return listings posted within this many hours
 
-jobs_DS_kw1 = scrape_jobs(
+
+jobs_indeed = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"lifetime value" "data scientist" (model OR ml OR stat OR causal) -manager -distinguished -director -head -consultant -chief -vp',
-    results_wanted=200,
+    search_term='("customer" OR "GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "machine learning engineer" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra',
+    results_wanted=300,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
-    hours_old=336,
+    hours_old=336
 )
 
-jobs_DS_kw2 = scrape_jobs(
-    site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"unit economic" "data scientist" (model OR ml OR stat OR causal) -manager -distinguished -director -head -consultant -chief -vp -intern',
+jobs_linkedin = scrape_jobs(
+    site_name=["linkedin"],  # "glassdoor", "bayt", "naukri", "bdjobs"
+    search_term='("customer" OR "GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "machine learning engineer" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra',
     results_wanted=200,
     location="San Francisco Bay Area, CA",
-    country_indeed="USA",
-    hours_old=336,
+    linkedin_fetch_description=True,
+    hours_old=336
 )
 
-jobs_DS_kw3 = scrape_jobs(
-    site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"GTM" "data scientist" (model OR ml OR stat OR causal) -manager -distinguished -director -head -consultant -chief -vp -intern',
-    results_wanted=200,
-    location="San Francisco Bay Area, CA",
-    country_indeed="USA",
-    hours_old=336,
-)
-
-jobs_DS_kw4 = scrape_jobs(
-    site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"LTV" "data scientist" (model OR ml OR stat OR causal) -manager -distinguished -director -head -consultant -chief -vp -intern',
-    results_wanted=200,
-    location="San Francisco Bay Area, CA",
-    country_indeed="USA",
-    hours_old=336,
-)
-
-
-jobs_MLE = scrape_jobs(
-    site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='"statistics" "machine learning engineer" -manager -distinguished -director -head -consultant -infra -chief -vp -intern',
-    results_wanted=200,
-    location="San Francisco Bay Area, CA",
-    country_indeed="USA",
-    hours_old=336,
-)
 
 # ---------------------------------------------------------------------------
 # Step 2: Filter and merge results
@@ -89,7 +63,7 @@ jobs_MLE = scrape_jobs(
 # overlap window that prevents stale results from slipping through.
 
 # Combine all DataFrames into one by stacking rows vertically (axis=0).
-jobs = pd.concat([jobs_DS_kw1, jobs_DS_kw2, jobs_DS_kw3, jobs_DS_kw4, jobs_MLE], axis=0)
+jobs = pd.concat([jobs_indeed, jobs_linkedin], axis=0)
 
 # A single posting may appear in both search results (e.g. a role titled
 # "Data Scientist / ML Engineer").  Drop duplicates by the unique job ID so
@@ -116,9 +90,9 @@ for _, job in jobs.iterrows():
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
 
-    # Truncate descriptions to 5 000 characters — full descriptions can be
+    # Truncate descriptions to 8 000 characters — full descriptions can be
     # several thousand characters long and would unnecessarily bloat the feed.
-    description = escape(str(job.get("description", ""))[:5000])
+    description = escape(str(job.get("description", ""))[:8000])
 
     date_posted = escape(str(job.get("date_posted", "")))
 
