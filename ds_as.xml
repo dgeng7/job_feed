@@ -6,6 +6,123 @@
     <description>jobs</description>
     
     <item>
+        <title>Data Scientist, Supply - Anthropic</title>
+        <link>https://www.indeed.com/viewjob?jk=62cf415da9d13740</link>
+        <description>**About Anthropic**
+-------------------
+
+
+
+Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
+**About the role**
+------------------
+
+
+
+Anthropic is compute\-constrained, and how we allocate that compute is one of the highest\-leverage decisions we make as a company. Today, those allocation choices are only loosely tied to the user outcomes we ultimately care about — retention, lifetime value, and the experience of people relying on Claude. You will change that.
+
+
+
+As a hands\-on technical IC on the Supply pillar of our Data Science \&amp; Analytics team, you'll sit alongside the infrastructure engineers who run our compute and help decide how our scarcest resource gets used. You'll design and run the analyses, observational and synthetic experiments, and optimization frameworks that turn opaque supply decisions into shared, measurable understanding across the company. Your work will directly shape how frontier AI reaches the world at scale, and your findings will go in front of senior leadership, including our CTO and his staff.
+
+
+
+This role is a fit for someone who thinks natively in terms of constrained allocation and queueing, who enjoys getting close to the system rather than analyzing it from a distance, and who wants their analyses to translate into operational changes that ship.
+
+
+**Responsibilities:**
+---------------------
+
+
+* Build and run testing frameworks — observational and synthetic — to quantify how different inputs affect compute allocation outcomes
+* Connect compute allocation decisions to downstream user outcomes (retention, LTV, revenue) so we stop optimizing in a vacuum
+* Partner closely with infrastructure engineers, product, and research to instrument the system, measure what matters, and ship operational changes
+* Develop the metric hierarchies, dashboards, and reporting that turn supply decisions into shared understanding across the company
+* Contribute analyses and recommendations to executive forums, and co\-author the supply narrative the team takes to the CTO and his staff
+* Measure and improve how AI affects developer productivity inside Anthropic
+
+**You may be a good fit if you have:**
+--------------------------------------
+
+
+* Strong technical IC background in data science, analytics, or operations research
+* Operations research foundation — you think natively in terms of optimization, constrained allocation, and queueing
+* Deep proficiency with Python, SQL, and data visualization tools
+* Track record of owning analyses end\-to\-end and communicating results clearly to engineering and product leadership
+* Direct experience working closely with engineering teams on production systems
+* A passion for Anthropic's mission of building helpful, honest, and harmless AI
+
+**Strong candidates may have:**
+-------------------------------
+
+
+* 5\+ years of technical IC experience in data science, analytics, or operations research; 8\+ years for candidates targeting a Staff\-level scope
+* Experience with highly complex systems with many interacting components (ad networks, payment processing, marketplace matching, routing, etc.)
+* Experience with causal inference methods applied to operational decisions (synthetic controls, geo\-experiments, switchbacks)
+* Experience contributing to or designing experimentation platforms, not just using them
+* Exposure to AI/ML products, large language models, or large\-scale inference systems
+* Track record of setting technical direction across multiple workstreams or mentoring senior ICs without formal management responsibility
+
+
+**Deadline to apply:** None. Applications are accepted on a rolling basis.
+
+
+The annual compensation range for this role is listed below.
+
+
+
+For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+
+**Annual Salary:**
+$275,000 \- $370,000 USD**Logistics**
+-------------
+
+
+**Minimum education:** Bachelor’s degree or an equivalent combination of education, training, and/or experience
+
+
+**Required field of study:** A field relevant to the role as demonstrated through coursework, training, or professional experience
+
+
+**Minimum years of experience:** Years of experience required will correlate with the internal job level requirements for the position
+
+
+**Location\-based hybrid policy:** Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+
+
+**Visa sponsorship:** We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+
+
+**We encourage you to apply even if you do not believe you meet every single qualification.** Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.  
+
+  
+
+**Your safety matters to us.** To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.
+
+
+**How we're different**
+-----------------------
+
+
+
+We believe that the highest\-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large\-scale research efforts. And we value impact — advancing our long\-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest\-impact work at any given time. As such, we greatly value communication skills.
+
+
+
+The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT\-3, Circuit\-Based Interpretability, Multimodal Neurons, Scaling Laws, AI \&amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
+
+
+**Come work with us!**
+----------------------
+
+
+
+Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. **Guidance on Candidates' AI Usage:** Learn about our policy for using AI in our application process</description>
+        <pubDate>2026-05-07</pubDate>
+    </item>
+    
+    <item>
         <title>Data Scientist - Embedding VC</title>
         <link>https://www.indeed.com/viewjob?jk=5954f70b968e55a9</link>
         <description>### **About OpenArt**
@@ -208,7 +325,7 @@ Compensation Range: $160K \- $180K</description>
     
     <item>
         <title>Applied Scientist, Sponsored Products and Brands - Amazon.com</title>
-        <link>https://www.indeed.com/viewjob?jk=367c9cb303464f3a</link>
+        <link>https://www.indeed.com/viewjob?jk=d8b1e1d6cdf7a499</link>
         <description>**DESCRIPTION**
 ---------------
 
@@ -637,6 +754,162 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
     </item>
     
     <item>
+        <title>Data Scientist - Replit</title>
+        <link>https://www.linkedin.com/jobs/view/4411238230</link>
+        <description>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.
+   
+
+  
+
+**About The Role**
+ Replit is redefining how software is built and who gets to build it. Our mission is Autonomy for All — making programming accessible, collaborative, and powered by AI.
+   
+
+  
+
+ This role owns how Replit understands its customers across every touchpoint. You'll build the analytics and intelligence layer that spans marketing performance, customer signals, and support — turning massive volumes of behavioral data, feedback, and interaction signals into insights that drive growth, retention, and revenue.
+   
+
+  
+
+ This isn't a traditional marketing analytics seat. You'll work across paid and organic channels, lifecycle marketing, customer feedback, social signals, and support data — and you'll use AI to do it at a scale that would be impossible manually. You'll build agents and automated systems that deliver insights directly to the teams that need them, not just dashboards that sit untouched.
+   
+
+  
+
+ You will:
+   
+
+  
+
+* Design and analyze marketing experiments across paid, lifecycle, and content channels; optimize CAC, LTV, and ROAS
+* Build multi\-touch attribution and marketing mix models to understand what's driving growth
+* Synthesize customer signals — support tickets, social, reviews, CSAT — into automated intelligence that reaches the teams who need it
+* Build churn and retention models to identify at\-risk users and inform lifecycle intervention strategies
+* Define and maintain customer segmentations and personas that drive targeting, messaging, and product decisions
+* Build the analytical foundation for Voice of the Customer — connecting qualitative feedback signals to quantitative behavior data at scale
+* Detect emerging product issues and bugs faster by surfacing support signal early enough to shape engineering priorities
+* Optimize automation and deflection to reduce support load and improve self\-serve resolution rates
+* Build the measurement foundation to fully optimize ROI across all support activities
+* Use LLMs and agentic workflows to analyze unstructured data at scale and automate recurring analysis
+* Create automated reporting that put key metrics to inform the company
+
+
+**Required Skills And Experience**
+* 6\+ years of experience in data science with a focus on marketing, growth, or customer analytics
+* Strong SQL skills and experience with large\-scale event\-level user behavior data; experience designing ETL workflows using dbt
+* Proficiency in Python and data science libraries (pandas, scikit\-learn, statsmodels, etc.)
+* Experience designing and analyzing A/B tests with statistical rigor (sample sizing, significance testing, causal inference)
+* Experience building dashboards and visualizations (Hex, Looker, Tableau, Mode, or similar) —\&gt; ideally automating them.
+* Demonstrated experience using LLMs/AI tools in analytics workflows — not just prompting, but building automated systems
+* Track record of partnering cross\-functionally with Marketing, Product, Engineering, Support, and Revenue/Sales teams — not just serving a single stakeholder
+
+
+**Preferred Qualifications**
+* Experience with modern data stack (dbt, BigQuery, Snowflake, Fivetran, Segment, etc.)
+* Background in growth analytics, marketing analytics, or conversion rate optimization at a SaaS or PLG company
+* Experience with marketing technology platforms (Google Analytics, Segment, Iterable, Salesforde)
+* Experience with attribution modeling, marketing mix modeling, or incrementality testing
+* Experience analyzing unstructured customer data (support tickets, reviews, social mentions) using NLP or LLM\-based approaches
+* Understanding of PLG motions and self\-serve conversion funnels
+* Experience with support analytics, CSAT analysis, or customer experience measurement
+
+
+ Bonus Points
+   
+
+  
+
+* Experience analyzing freemium or usage\-based pricing models
+* Understanding of developer tools, collaborative coding environments, or technical products
+* Experience with causal inference methods (difference\-in\-differences, synthetic control, propensity score matching)
+* Experience building AI agents or automated analytical pipelines using LLM APIs
+
+
+*This is a full\-time role that can be held from our Foster City, CA office. The role has an in\-office requirement of Monday, Wednesday, and Friday.*
+**Full\-Time Employee Benefits Include:**
+ 💰 Competitive Salary \&amp; Equity
+   
+
+  
+
+ 💹 401(k) Program with a 4% match
+   
+
+  
+
+ ⚕️ Health, Dental, Vision and Life Insurance
+   
+
+  
+
+ 🩼 Short Term and Long Term Disability
+   
+
+  
+
+ 🚼 Paid Parental, Medical, Caregiver Leave
+   
+
+  
+
+ 🚗 Commuter Benefits
+   
+
+  
+
+ 📱 Monthly Wellness Stipend
+   
+
+  
+
+ 🧑‍💻 Autonomous Work Environment
+   
+
+  
+
+ 🖥 In Office Set\-Up Reimbursement
+   
+
+  
+
+ 🏝 Flexible Time Off (FTO) \+ Holidays
+   
+
+  
+
+ 🚀 Quarterly Team Gatherings
+   
+
+  
+
+ ☕ In Office Amenities
+   
+
+  
+
+**Want to learn more about what we are up to?**
+* Meet the Replit Agent
+* Replit: Make an app for that
+* Replit Blog
+* Amjad TED Talk
+
+
+**Interviewing \+ Culture at Replit**
+* Operating Principles
+* Reasons not to work at Replit
+
+
+ To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non\-traditional backgrounds.
+   
+
+  
+
+ Compensation Range: $150 \- $250,000</description>
+        <pubDate>2026-05-06</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Data Scientist, Analytics - Discord</title>
         <link>https://www.linkedin.com/jobs/view/4388983970</link>
         <description>Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform:
@@ -844,7 +1117,7 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
 
   
 
- Compensation Range: $347K \- $440K</description>
+ Compensation Range: $290K \- $441K</description>
         <pubDate>2026-05-03</pubDate>
     </item>
     
@@ -1290,99 +1563,70 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
     </item>
     
     <item>
-        <title>Senior Data Scientist, Borrow - SoFi</title>
-        <link>https://www.linkedin.com/jobs/view/4399461705</link>
-        <description>**Employee Applicant Privacy Notice**
-**Who we are:**
- Shape a brighter financial future with us.
-   
+        <title>Senior Data Scientist - Analytic Recruiting Inc.</title>
+        <link>https://www.linkedin.com/jobs/view/4411629741</link>
+        <description>**Senior Data Scientist \- Marketplace Product** 
+
+
+
 
   
 
- Together with our members, we’re changing the way people think about and interact with personal finance.
-   
+
+
+
+
+ A venture backed marketplace used by leading technology companies in the world is seeking a
+ **Senior Data Scientist** 
+ to own the models, metrics, and decision systems that power AI native workflows. If you love working end to end, from framing ambiguous problems to deploying production models, this role puts you at the center of product, growth, and marketplace strategy.
+ 
+
+
 
   
 
- We’re a next\-generation financial services company and national bank using innovative, mobile\-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way.
- **Join us to invest in yourself, your career, and the financial world.**
-**The Role**
- The Borrow Data Science team is seeking a Senior Data Scientist who will help drive growth in our Lending businesses by transforming raw data into a compelling narrative for success. This is an exciting role for a proactive data scientist who is naturally curious and possesses a deep\-seated drive to uncover insights before they are even requested.
-   
+
+
+
+
+**Responsibilities:** 
+
+
+
+* Define the metrics and causal questions that guide product decisions
+* Build models \+ decision systems that improve outcomes for customers
+* Ship analyses and data products that directly shape product behavior
+* Partner with Product, Engineering, Design, and GTM to drive measurable impact
+* Establish the foundations for experimentation, measurement, and applied ML
+
+
+
+**Requirements \&amp; Qualifications** 
+
+
+
+* Quant degree
+* Product minded thinking and strong causal reasoning
+* Fluency in SQL \+ rigorous analysis in Python
+* Experience building \+ monitoring production models
+* Clear communication and cross functional alignment
+* High ownership: you take problems from 0 to 1
+* 4\+ years in data science, applied ML, or analytics
+* Strong experimentation and/or causal inference experience
+* Experience shipping models, metrics, or data products with engineering
+* Bonus: marketplaces, growth, incentives, pricing, data pipelines, AI assisted workflows
+
+
 
   
 
- Success in this role hinges on your ability to act as a strategic partner; you are not just a technical executor but an analytical storyteller who can bridge the gap between complex data and business strategy. While you have the technical aptitude to leverage tools like SQL, Python, dbt, and Airflow to build robust pipelines in Snowflake, your true impact lies in your ability to lead cross\-functional initiatives and influence the product roadmap through data\-driven advocacy.
-   
-
-  
-
-**What You’ll Do**
-* Drive Proactive Insights: Use your curiosity to dig deep into data, identifying trends and opportunities that others might miss, and proactively presenting these findings to leadership.
-* Champion AI Productivity: Act as a pioneer for AI integration within the team. Identify and implement AI tools and workflows that streamline data engineering tasks, accelerate analysis, and drive outsized business impact.
-* Analytical Storytelling: Translate complex quantitative analyses into simple, persuasive narratives that enable business leaders to make informed, high\-stakes decisions.
-* Strategic Leadership: Partner with cross\-functional teams to lead the optimization of core product decisions, including funnel conversion, experimentation, and unit economics.
-* Build Technical Foundations: Design and maintain scalable reporting pipelines in Snowflake using dbt and Airflow, ensuring business logic is efficiently encapsulated for company\-wide use.
-* Champion KPI Consistency: Create frameworks that ensure a "single source of truth" for KPIs across various platforms and BI tools.
-* Mentor and Innovate: Stay ahead of industry trends and technical features to continuously improve our data stack, while mentoring peers on best practices in analytical rigor.
 
 
-**What You’ll Need**
-* Education: B.S., M.S., or M.B.A. in a quantitative field (Statistics, Economics, Engineering, CS, Mathematics, etc.).
-* Experience: 5\+ years of experience in an Analytics, Data Science, or Engineering role, preferably within Finance or Tech.
-* Communication \&amp; Influence: Exceptional communication skills with a proven track record of influencing stakeholders and leading projects from conception to completion.
-* Innate Curiosity: A self\-starter mindset with a passion for problem\-solving and an ability to thrive in dynamic, ambiguous environments.
-* Technical Proficiency: Strong programming skills in SQL and Python, with hands\-on experience using dbt and Airflow to build data pipelines in Snowflake.
-* Data Visualization: Experience building intuitive and impactful dashboards in tools like Tableau to support your storytelling.
-* Collaboration: Strong relationship\-building skills and the ability to work seamlessly across diverse, cross\-functional teams
 
 
-**Compensation And Benefits**
- The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.
-   
-
-  
-
- To view all of our comprehensive and competitive benefits, visit our
- **Benefits at SoFi** 
- page!
-   
-
-  
-
- SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
-   
-
-  
-
- The Company hires the best qualified candidate for the job, without regard to protected characteristics.
-   
-
-  
-
- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-
- New York applicants: Notice of Employee Rights
-   
-
-  
-
- SoFi is committed to an inclusive culture. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.
-   
-
-  
-
- Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.
-   
-
-  
-
-**Internal Employees**
- If you are a current employee, do not apply here \- please navigate to our Internal Job Board in Greenhouse to apply to our open roles.</description>
-        <pubDate>2026-04-30</pubDate>
+**Tech Stack:** 
+ SQL, Python</description>
+        <pubDate>2026-05-08 01:57:11.202386+00:00</pubDate>
     </item>
     
     <item>
@@ -1474,163 +1718,142 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
 * Bay Area preferred (hybrid allowed)
 * Visa sponsorship available
 * We’ll consider remote</description>
-        <pubDate>2026-05-07 13:26:35.427613+00:00</pubDate>
+        <pubDate>2026-05-08 01:57:11.202492+00:00</pubDate>
     </item>
     
     <item>
-        <title>Data Scientist - Replit</title>
-        <link>https://www.linkedin.com/jobs/view/4411238230</link>
-        <description>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.
+        <title>Data Scientist, Supply - Anthropic</title>
+        <link>https://www.linkedin.com/jobs/view/4410837539</link>
+        <description>**About Anthropic**
+ Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
    
 
   
 
 **About The Role**
- Replit is redefining how software is built and who gets to build it. Our mission is Autonomy for All — making programming accessible, collaborative, and powered by AI.
+ Anthropic is compute\-constrained, and how we allocate that compute is one of the highest\-leverage decisions we make as a company. Today, those allocation choices are only loosely tied to the user outcomes we ultimately care about — retention, lifetime value, and the experience of people relying on Claude. You will change that.
    
 
   
 
- This role owns how Replit understands its customers across every touchpoint. You'll build the analytics and intelligence layer that spans marketing performance, customer signals, and support — turning massive volumes of behavioral data, feedback, and interaction signals into insights that drive growth, retention, and revenue.
+ As a hands\-on technical IC on the Supply pillar of our Data Science \&amp; Analytics team, you'll sit alongside the infrastructure engineers who run our compute and help decide how our scarcest resource gets used. You'll design and run the analyses, observational and synthetic experiments, and optimization frameworks that turn opaque supply decisions into shared, measurable understanding across the company. Your work will directly shape how frontier AI reaches the world at scale, and your findings will go in front of senior leadership, including our CTO and his staff.
    
 
   
 
- This isn't a traditional marketing analytics seat. You'll work across paid and organic channels, lifecycle marketing, customer feedback, social signals, and support data — and you'll use AI to do it at a scale that would be impossible manually. You'll build agents and automated systems that deliver insights directly to the teams that need them, not just dashboards that sit untouched.
+ This role is a fit for someone who thinks natively in terms of constrained allocation and queueing, who enjoys getting close to the system rather than analyzing it from a distance, and who wants their analyses to translate into operational changes that ship.
    
 
   
 
- You will:
+**Responsibilities**
+* Build and run testing frameworks — observational and synthetic — to quantify how different inputs affect compute allocation outcomes
+* Connect compute allocation decisions to downstream user outcomes (retention, LTV, revenue) so we stop optimizing in a vacuum
+* Partner closely with infrastructure engineers, product, and research to instrument the system, measure what matters, and ship operational changes
+* Develop the metric hierarchies, dashboards, and reporting that turn supply decisions into shared understanding across the company
+* Contribute analyses and recommendations to executive forums, and co\-author the supply narrative the team takes to the CTO and his staff
+* Measure and improve how AI affects developer productivity inside Anthropic
+
+
+**You May Be a Good Fit If You Have**
+* Strong technical IC background in data science, analytics, or operations research
+* Operations research foundation — you think natively in terms of optimization, constrained allocation, and queueing
+* Deep proficiency with Python, SQL, and data visualization tools
+* Track record of owning analyses end\-to\-end and communicating results clearly to engineering and product leadership
+* Direct experience working closely with engineering teams on production systems
+* A passion for Anthropic's mission of building helpful, honest, and harmless AI
+
+
+**Strong Candidates May Have**
+* 5\+ years of technical IC experience in data science, analytics, or operations research; 8\+ years for candidates targeting a Staff\-level scope
+* Experience with highly complex systems with many interacting components (ad networks, payment processing, marketplace matching, routing, etc.)
+* Experience with causal inference methods applied to operational decisions (synthetic controls, geo\-experiments, switchbacks)
+* Experience contributing to or designing experimentation platforms, not just using them
+* Exposure to AI/ML products, large language models, or large\-scale inference systems
+* Track record of setting technical direction across multiple workstreams or mentoring senior ICs without formal management responsibility
+
+
+**Deadline to apply:** 
+ None. Applications are accepted on a rolling basis.
    
 
   
 
-* Design and analyze marketing experiments across paid, lifecycle, and content channels; optimize CAC, LTV, and ROAS
-* Build multi\-touch attribution and marketing mix models to understand what's driving growth
-* Synthesize customer signals — support tickets, social, reviews, CSAT — into automated intelligence that reaches the teams who need it
-* Build churn and retention models to identify at\-risk users and inform lifecycle intervention strategies
-* Define and maintain customer segmentations and personas that drive targeting, messaging, and product decisions
-* Build the analytical foundation for Voice of the Customer — connecting qualitative feedback signals to quantitative behavior data at scale
-* Detect emerging product issues and bugs faster by surfacing support signal early enough to shape engineering priorities
-* Optimize automation and deflection to reduce support load and improve self\-serve resolution rates
-* Build the measurement foundation to fully optimize ROI across all support activities
-* Use LLMs and agentic workflows to analyze unstructured data at scale and automate recurring analysis
-* Create automated reporting that put key metrics to inform the company
-
-
-**Required Skills And Experience**
-* 6\+ years of experience in data science with a focus on marketing, growth, or customer analytics
-* Strong SQL skills and experience with large\-scale event\-level user behavior data; experience designing ETL workflows using dbt
-* Proficiency in Python and data science libraries (pandas, scikit\-learn, statsmodels, etc.)
-* Experience designing and analyzing A/B tests with statistical rigor (sample sizing, significance testing, causal inference)
-* Experience building dashboards and visualizations (Hex, Looker, Tableau, Mode, or similar) —\&gt; ideally automating them.
-* Demonstrated experience using LLMs/AI tools in analytics workflows — not just prompting, but building automated systems
-* Track record of partnering cross\-functionally with Marketing, Product, Engineering, Support, and Revenue/Sales teams — not just serving a single stakeholder
-
-
-**Preferred Qualifications**
-* Experience with modern data stack (dbt, BigQuery, Snowflake, Fivetran, Segment, etc.)
-* Background in growth analytics, marketing analytics, or conversion rate optimization at a SaaS or PLG company
-* Experience with marketing technology platforms (Google Analytics, Segment, Iterable, Salesforde)
-* Experience with attribution modeling, marketing mix modeling, or incrementality testing
-* Experience analyzing unstructured customer data (support tickets, reviews, social mentions) using NLP or LLM\-based approaches
-* Understanding of PLG motions and self\-serve conversion funnels
-* Experience with support analytics, CSAT analysis, or customer experience measurement
-
-
- Bonus Points
+ The annual compensation range for this role is listed below.
    
 
   
 
-* Experience analyzing freemium or usage\-based pricing models
-* Understanding of developer tools, collaborative coding environments, or technical products
-* Experience with causal inference methods (difference\-in\-differences, synthetic control, propensity score matching)
-* Experience building AI agents or automated analytical pipelines using LLM APIs
-
-
-*This is a full\-time role that can be held from our Foster City, CA office. The role has an in\-office requirement of Monday, Wednesday, and Friday.*
-**Full\-Time Employee Benefits Include:**
- 💰 Competitive Salary \&amp; Equity
+ For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
    
 
   
 
- 💹 401(k) Program with a 4% match
+**Annual Salary**
+ $275,000—$370,000 USD
    
 
   
 
- ⚕️ Health, Dental, Vision and Life Insurance
+**Logistics**
+**Minimum education:** 
+ Bachelor’s degree or an equivalent combination of education, training, and/or experience
    
 
   
 
- 🩼 Short Term and Long Term Disability
+**Required field of study:** 
+ A field relevant to the role as demonstrated through coursework, training, or professional experience
    
 
   
 
- 🚼 Paid Parental, Medical, Caregiver Leave
+**Minimum years of experience:** 
+ Years of experience required will correlate with the internal job level requirements for the position
    
 
   
 
- 🚗 Commuter Benefits
+**Location\-based hybrid policy:** 
+ Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
    
 
   
 
- 📱 Monthly Wellness Stipend
+**Visa sponsorship:** 
+ We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
    
 
   
 
- 🧑‍💻 Autonomous Work Environment
+**We encourage you to apply even if you do not believe you meet every single qualification.** 
+ Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
    
 
   
 
- 🖥 In Office Set\-Up Reimbursement
+**Your safety matters to us.** 
+ To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.
    
 
   
 
- 🏝 Flexible Time Off (FTO) \+ Holidays
+**How We're Different**
+ We believe that the highest\-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large\-scale research efforts. And we value impact — advancing our long\-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest\-impact work at any given time. As such, we greatly value communication skills.
    
 
   
 
- 🚀 Quarterly Team Gatherings
+ The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT\-3, Circuit\-Based Interpretability, Multimodal Neurons, Scaling Laws, AI \&amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
    
 
   
 
- ☕ In Office Amenities
-   
-
-  
-
-**Want to learn more about what we are up to?**
-* Meet the Replit Agent
-* Replit: Make an app for that
-* Replit Blog
-* Amjad TED Talk
-
-
-**Interviewing \+ Culture at Replit**
-* Operating Principles
-* Reasons not to work at Replit
-
-
- To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non\-traditional backgrounds.
-   
-
-  
-
- Compensation Range: $150 \- $250,000</description>
-        <pubDate>2026-05-07 13:26:35.427768+00:00</pubDate>
+**Come work with us!**
+ Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues.
+ **Guidance on Candidates' AI Usage:** 
+ Learn about our policy for using AI in our application process</description>
+        <pubDate>2026-05-08 01:57:11.202620+00:00</pubDate>
     </item>
     
     <item>
@@ -1766,7 +1989,7 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
   
 
  TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA\-request</description>
-        <pubDate>2026-05-07 13:26:35.427879+00:00</pubDate>
+        <pubDate>2026-05-08 01:57:11.202732+00:00</pubDate>
     </item>
     
 </channel>
