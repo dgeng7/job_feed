@@ -324,79 +324,70 @@ Compensation Range: $160K \- $180K</description>
     </item>
     
     <item>
-        <title>Applied Scientist, Sponsored Products and Brands - Amazon.com</title>
-        <link>https://www.indeed.com/viewjob?jk=3d131526b10d0da8</link>
-        <description>**DESCRIPTION**
----------------
+        <title>Senior Data Scientist - Analytic Recruiting Inc.</title>
+        <link>https://www.linkedin.com/jobs/view/4411629741</link>
+        <description>**Senior Data Scientist \- Marketplace Product** 
 
 
-About Sponsored Products and Brands:
-  
 
-The Sponsored Products and Brands team at Amazon Ads is re\-imagining the advertising landscape through industry leading generative AI technologies, revolutionizing how millions of customers discover products and engage with brands across Amazon.com and beyond. We are at the forefront of re\-inventing advertising experiences, bridging human creativity with artificial intelligence to transform every aspect of the advertising lifecycle from ad creation and optimization to performance analysis and customer insights. We are a passionate group of innovators dedicated to developing responsible and intelligent AI technologies that balance the needs of advertisers, enhance the shopping experience, and strengthen the marketplace. If you're energized by solving complex challenges and pushing the boundaries of what's possible with AI, join us in shaping the future of advertising.
-  
 
   
 
-About Our Team:
-  
 
-The Sponsored Brands Impressions\-based Offerings team is responsible for evolving the value proposition of Sponsored Brands to drive brand advertising in retail media at scale, helping brands get discovered, acquire new customers and sustainably grow customer lifetime value. We build end\-to\-end solutions that enable brands to drive discovery, visibility and share of voice. This includes building advertiser controls, shopper experiences, monetization strategies and optimization features. We succeed when (1\) shoppers discover, engage and build affinity with brands and (2\) brands can grow their business at scale with our advertising products.
-  
 
-  
 
-About This Role:
-  
 
-As an Applied Scientist on our team, you will:
-  
+ A venture backed marketplace used by leading technology companies in the world is seeking a
+ **Senior Data Scientist** 
+ to own the models, metrics, and decision systems that power AI native workflows. If you love working end to end, from framing ambiguous problems to deploying production models, this role puts you at the center of product, growth, and marketplace strategy.
+ 
+
+
 
   
 
-* Develop AI solutions for Sponsored Brands advertiser and shopper experiences. Build monetization and optimization systems that leverage generative models to value and improve campaign performance.
-* Define a long\-term science vision and roadmap for our Sponsored Brands advertising business, driven from our customers' needs, translating that direction into specific plans for applied scientists and engineering teams. This role combines science leadership, organizational ability, technical strength, product focus, and business understanding.
-* Design and conduct A/B experiments to evaluate proposed solutions based on in\-depth data analyses.
-* Effectively communicate technical and non\-technical ideas with teammates and stakeholders;
-* Stay up\-to\-date with advancements and the latest modeling techniques in the field.
-* Think big about the arc of development of Gen AI over a multi\-year horizon and identify new opportunities to apply these technologies to solve real\-world problems.
+
+
+
+
+**Responsibilities:** 
+
+
+
+* Define the metrics and causal questions that guide product decisions
+* Build models \+ decision systems that improve outcomes for customers
+* Ship analyses and data products that directly shape product behavior
+* Partner with Product, Engineering, Design, and GTM to drive measurable impact
+* Establish the foundations for experimentation, measurement, and applied ML
+
+
+
+**Requirements \&amp; Qualifications** 
+
+
+
+* Quant degree
+* Product minded thinking and strong causal reasoning
+* Fluency in SQL \+ rigorous analysis in Python
+* Experience building \+ monitoring production models
+* Clear communication and cross functional alignment
+* High ownership: you take problems from 0 to 1
+* 4\+ years in data science, applied ML, or analytics
+* Strong experimentation and/or causal inference experience
+* Experience shipping models, metrics, or data products with engineering
+* Bonus: marketplaces, growth, incentives, pricing, data pipelines, AI assisted workflows
+
+
 
   
 
-\#GenAI**BASIC QUALIFICATIONS**
-------------------------
 
-* 3\+ years of building models for business application experience
-* PhD, or Master's degree and 4\+ years of CS, CE, ML or related field experience
-* Experience programming in Java, C\+\+, Python or related language
-* Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high\-performance computing
-* 3\+ years in digital advertising technology.
 
-**PREFERRED QUALIFICATIONS**
-----------------------------
 
-* Demonstrated track record of innovative AI solution development.
-* Experience with generative model architectures.
-* Research publications or patents in generative AI technologies.
 
-  
-
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
-
-  
-
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\-we\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
-
-The base salary range for this position is listed below. Your Amazon package will include sign\-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life \&amp; AD\&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
-
-  
-
-USA, CA, Palo Alto \- 171,600\.00 \- 222,200\.00 USD annually  
-
-USA, NY, New York \- 172,400\.00 \- 223,400\.00 USD annually  
-
-USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
-        <pubDate>2026-01-28</pubDate>
+**Tech Stack:** 
+ SQL, Python</description>
+        <pubDate>2026-05-07</pubDate>
     </item>
     
     <item>
@@ -488,6 +479,141 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
 * Bay Area preferred (hybrid allowed)
 * Visa sponsorship available
 * We’ll consider remote</description>
+        <pubDate>2026-05-07</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist, Supply - Anthropic</title>
+        <link>https://www.linkedin.com/jobs/view/4410837539</link>
+        <description>**About Anthropic**
+ Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+   
+
+  
+
+**About The Role**
+ Anthropic is compute\-constrained, and how we allocate that compute is one of the highest\-leverage decisions we make as a company. Today, those allocation choices are only loosely tied to the user outcomes we ultimately care about — retention, lifetime value, and the experience of people relying on Claude. You will change that.
+   
+
+  
+
+ As a hands\-on technical IC on the Supply pillar of our Data Science \&amp; Analytics team, you'll sit alongside the infrastructure engineers who run our compute and help decide how our scarcest resource gets used. You'll design and run the analyses, observational and synthetic experiments, and optimization frameworks that turn opaque supply decisions into shared, measurable understanding across the company. Your work will directly shape how frontier AI reaches the world at scale, and your findings will go in front of senior leadership, including our CTO and his staff.
+   
+
+  
+
+ This role is a fit for someone who thinks natively in terms of constrained allocation and queueing, who enjoys getting close to the system rather than analyzing it from a distance, and who wants their analyses to translate into operational changes that ship.
+   
+
+  
+
+**Responsibilities**
+* Build and run testing frameworks — observational and synthetic — to quantify how different inputs affect compute allocation outcomes
+* Connect compute allocation decisions to downstream user outcomes (retention, LTV, revenue) so we stop optimizing in a vacuum
+* Partner closely with infrastructure engineers, product, and research to instrument the system, measure what matters, and ship operational changes
+* Develop the metric hierarchies, dashboards, and reporting that turn supply decisions into shared understanding across the company
+* Contribute analyses and recommendations to executive forums, and co\-author the supply narrative the team takes to the CTO and his staff
+* Measure and improve how AI affects developer productivity inside Anthropic
+
+
+**You May Be a Good Fit If You Have**
+* Strong technical IC background in data science, analytics, or operations research
+* Operations research foundation — you think natively in terms of optimization, constrained allocation, and queueing
+* Deep proficiency with Python, SQL, and data visualization tools
+* Track record of owning analyses end\-to\-end and communicating results clearly to engineering and product leadership
+* Direct experience working closely with engineering teams on production systems
+* A passion for Anthropic's mission of building helpful, honest, and harmless AI
+
+
+**Strong Candidates May Have**
+* 5\+ years of technical IC experience in data science, analytics, or operations research; 8\+ years for candidates targeting a Staff\-level scope
+* Experience with highly complex systems with many interacting components (ad networks, payment processing, marketplace matching, routing, etc.)
+* Experience with causal inference methods applied to operational decisions (synthetic controls, geo\-experiments, switchbacks)
+* Experience contributing to or designing experimentation platforms, not just using them
+* Exposure to AI/ML products, large language models, or large\-scale inference systems
+* Track record of setting technical direction across multiple workstreams or mentoring senior ICs without formal management responsibility
+
+
+**Deadline to apply:** 
+ None. Applications are accepted on a rolling basis.
+   
+
+  
+
+ The annual compensation range for this role is listed below.
+   
+
+  
+
+ For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+   
+
+  
+
+**Annual Salary**
+ $275,000—$370,000 USD
+   
+
+  
+
+**Logistics**
+**Minimum education:** 
+ Bachelor’s degree or an equivalent combination of education, training, and/or experience
+   
+
+  
+
+**Required field of study:** 
+ A field relevant to the role as demonstrated through coursework, training, or professional experience
+   
+
+  
+
+**Minimum years of experience:** 
+ Years of experience required will correlate with the internal job level requirements for the position
+   
+
+  
+
+**Location\-based hybrid policy:** 
+ Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+   
+
+  
+
+**Visa sponsorship:** 
+ We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+   
+
+  
+
+**We encourage you to apply even if you do not believe you meet every single qualification.** 
+ Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+   
+
+  
+
+**Your safety matters to us.** 
+ To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.
+   
+
+  
+
+**How We're Different**
+ We believe that the highest\-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large\-scale research efforts. And we value impact — advancing our long\-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest\-impact work at any given time. As such, we greatly value communication skills.
+   
+
+  
+
+ The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT\-3, Circuit\-Based Interpretability, Multimodal Neurons, Scaling Laws, AI \&amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
+   
+
+  
+
+**Come work with us!**
+ Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues.
+ **Guidance on Candidates' AI Usage:** 
+ Learn about our policy for using AI in our application process</description>
         <pubDate>2026-05-07</pubDate>
     </item>
     
@@ -1391,312 +1517,6 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
     </item>
     
     <item>
-        <title>Staff Data Scientist - Okta</title>
-        <link>https://www.linkedin.com/jobs/view/4385491119</link>
-        <description>**Secure Every Identity, from AI to Human** 
-
-
-
-
- Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real\-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.
- 
-
-
-
-  
-
-
-
-
-
- This is an opportunity to do career\-defining work. We're all in on this mission. If you are too, let's talk.
- 
-
-
-
-  
-
-
-
-
-
-**The Technology, Data, and Intelligence Team** 
-
-
-
-
- Okta is the leading independent identity provider. The Technology, Data, and Intelligence (TDI) organization is the engine that powers Okta's global workforce, providing the technology and systems that enable our employees to do their best work.
- 
-
-
-
-  
-
-
-
-
-
-**The Staff Data Scientist Opportunity** 
-
-
-
-
- We are looking for a
- **Staff Product Data Scientist** 
- to join our Data \&amp; Insights team. This role will lead the strategy, development, and operationalization of advanced analytics and machine learning solutions that power data intelligence for Okta’s Product Management teams, uncovering actionable insights on customer behavior, product engagement, and opportunities that will drive our product growth strategy. You’ll define the long\-term data science roadmap while partnering closely with Okta’s diverse Product Management teams and executive leadership.
- 
-
-
-
-  
-
-
-
-
-
-**What you’ll be doing** 
-
-
-
-* **Strategic Product Influence:** 
- Collaborate closely with Product Managers and leadership to provide insights that will help drive product strategy and roadmaps, ensuring decisions are grounded in a data\-driven approach.
-* **Advanced Analytics and Modeling:** 
- Build and deploy statistical and machine learning models (e.g., predicting churn, lifetime value, feature adoption) to forecast user behavior and product growth opportunities in order to help influence roadmap decisions.
-* **Deep\-Dive Insight Generation:** 
- Conduct thorough exploratory analysis on extensive, complex datasets to uncover key drivers of user adoption and engagement, identifying unseen opportunities for significant product improvement.
-* **Data Ecosystem Partnership:** 
- Work with data engineering, analytics engineering, and data analysts to shape and enhance the foundational data infrastructure necessary for scalable ML and advanced analytics initiatives.
-* **Data Preparation and Curation:** 
- Develop and construct usable data sets by integrating and manipulating information from various disparate data sources as needed.
-* **Executive Communication and Influence:** 
- Translate intricate data insights into clear, compelling narratives for executives, product managers, and engineers, effectively influencing crucial business and product decisions.
-
-
-
-  
-
-
-
-
-
-**What you’ll bring to the role** 
-
-
-
-* 7\+ years of experience in data science or ML, including 3–5 years in a senior, staff, or technical leadership role.
-* Deep understanding of product analytics and data science frameworks, with a proven history of designing and analyzing product data to solve complex, ambiguous business problems and deliver measurable results.
-* Demonstrated ability to apply cutting\-edge AI tools to accelerate the discovery of deep, actionable insights from complex product data.
-* Demonstrated ability to translate data insights into product impact and formulate strategic, data\-driven recommendations.
-* Deep expertise in machine learning algorithms (supervised, unsupervised, NLP, forecasting, optimization) and statistical modeling.
-* Strong proficiency in Python, SQL, and leading ML libraries.
-* Excellent communication skills and a proven ability to influence Product and executive partners.
-
-
-
-  
-
-
-
-
-
-**And extra credit if you have experience in any of the following!** 
-
-
-
-* Experience in high\-growth SaaS, cybersecurity, identity, or enterprise software environments.
-* Prior ownership of ML platform/tooling decisions and evaluations.
-* Experience enabling self\-service analytics or citizen data science capabilities.
-
-
-
-  
-
-
-
-
-
- \#P23809\_3392886
- 
-
-
-
-  
-
-
-
-
-
- The annual base salary range for this position for candidates located in the San Francisco Bay area is between: : $184,000 USD \- $253,000 USD
- 
-
-
-
-  
-
-
-
-
-
- Below is the annual base salary range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit: https://rewards.okta.com/us.
- 
-
-
-
-  
-
-
-
-
-
- The annual base salary range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:: $164,000 USD \- $226,000 USD
- 
-
-
-
-  
-
-
-
-
-
-**The Okta Experience** 
-
-
-
-
-  
-
-
-
-
-* Supporting Your Well\-Being
-* Driving Social Impact
-* Developing Talent and Fostering Connection \+ Community
-
-
-
-  
-
-
-
-
-
- We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in\-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.
- 
-
-
-
-  
-
-
-
-
-
- Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.
- 
-
-
-
-  
-
-
-
-
-
- If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation.
- 
-
-
-
-  
-
-
-
-
-
- Notice for New York City Applicants \&amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please click here to view our full NYC AEDT Notice.
- 
-
-
-
-  
-
-
-
-
-
- Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at https://www.okta.com/legal/personnel\-policy/.</description>
-        <pubDate>2026-05-01</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist - Analytic Recruiting Inc.</title>
-        <link>https://www.linkedin.com/jobs/view/4411629741</link>
-        <description>**Senior Data Scientist \- Marketplace Product** 
-
-
-
-
-  
-
-
-
-
-
- A venture backed marketplace used by leading technology companies in the world is seeking a
- **Senior Data Scientist** 
- to own the models, metrics, and decision systems that power AI native workflows. If you love working end to end, from framing ambiguous problems to deploying production models, this role puts you at the center of product, growth, and marketplace strategy.
- 
-
-
-
-  
-
-
-
-
-
-**Responsibilities:** 
-
-
-
-* Define the metrics and causal questions that guide product decisions
-* Build models \+ decision systems that improve outcomes for customers
-* Ship analyses and data products that directly shape product behavior
-* Partner with Product, Engineering, Design, and GTM to drive measurable impact
-* Establish the foundations for experimentation, measurement, and applied ML
-
-
-
-**Requirements \&amp; Qualifications** 
-
-
-
-* Quant degree
-* Product minded thinking and strong causal reasoning
-* Fluency in SQL \+ rigorous analysis in Python
-* Experience building \+ monitoring production models
-* Clear communication and cross functional alignment
-* High ownership: you take problems from 0 to 1
-* 4\+ years in data science, applied ML, or analytics
-* Strong experimentation and/or causal inference experience
-* Experience shipping models, metrics, or data products with engineering
-* Bonus: marketplaces, growth, incentives, pricing, data pipelines, AI assisted workflows
-
-
-
-  
-
-
-
-
-
-**Tech Stack:** 
- SQL, Python</description>
-        <pubDate>2026-05-08 13:07:02.009903+00:00</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Data Scientist - MeshyAI</title>
         <link>https://www.linkedin.com/jobs/view/4371683088</link>
         <description>**About Meshy**
@@ -1814,7 +1634,7 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
 * 401(k) plan for employees.
 * Comprehensive health, dental, and vision insurance.
 * The latest and best office equipment.</description>
-        <pubDate>2026-05-08 13:07:02.009984+00:00</pubDate>
+        <pubDate>2026-05-09 01:51:19.617713+00:00</pubDate>
     </item>
     
     <item>
@@ -1890,142 +1710,7 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
   
 
  Compensation Range: $125K \- $200K</description>
-        <pubDate>2026-05-08 13:07:02.010061+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, Supply - Anthropic</title>
-        <link>https://www.linkedin.com/jobs/view/4410837539</link>
-        <description>**About Anthropic**
- Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
-   
-
-  
-
-**About The Role**
- Anthropic is compute\-constrained, and how we allocate that compute is one of the highest\-leverage decisions we make as a company. Today, those allocation choices are only loosely tied to the user outcomes we ultimately care about — retention, lifetime value, and the experience of people relying on Claude. You will change that.
-   
-
-  
-
- As a hands\-on technical IC on the Supply pillar of our Data Science \&amp; Analytics team, you'll sit alongside the infrastructure engineers who run our compute and help decide how our scarcest resource gets used. You'll design and run the analyses, observational and synthetic experiments, and optimization frameworks that turn opaque supply decisions into shared, measurable understanding across the company. Your work will directly shape how frontier AI reaches the world at scale, and your findings will go in front of senior leadership, including our CTO and his staff.
-   
-
-  
-
- This role is a fit for someone who thinks natively in terms of constrained allocation and queueing, who enjoys getting close to the system rather than analyzing it from a distance, and who wants their analyses to translate into operational changes that ship.
-   
-
-  
-
-**Responsibilities**
-* Build and run testing frameworks — observational and synthetic — to quantify how different inputs affect compute allocation outcomes
-* Connect compute allocation decisions to downstream user outcomes (retention, LTV, revenue) so we stop optimizing in a vacuum
-* Partner closely with infrastructure engineers, product, and research to instrument the system, measure what matters, and ship operational changes
-* Develop the metric hierarchies, dashboards, and reporting that turn supply decisions into shared understanding across the company
-* Contribute analyses and recommendations to executive forums, and co\-author the supply narrative the team takes to the CTO and his staff
-* Measure and improve how AI affects developer productivity inside Anthropic
-
-
-**You May Be a Good Fit If You Have**
-* Strong technical IC background in data science, analytics, or operations research
-* Operations research foundation — you think natively in terms of optimization, constrained allocation, and queueing
-* Deep proficiency with Python, SQL, and data visualization tools
-* Track record of owning analyses end\-to\-end and communicating results clearly to engineering and product leadership
-* Direct experience working closely with engineering teams on production systems
-* A passion for Anthropic's mission of building helpful, honest, and harmless AI
-
-
-**Strong Candidates May Have**
-* 5\+ years of technical IC experience in data science, analytics, or operations research; 8\+ years for candidates targeting a Staff\-level scope
-* Experience with highly complex systems with many interacting components (ad networks, payment processing, marketplace matching, routing, etc.)
-* Experience with causal inference methods applied to operational decisions (synthetic controls, geo\-experiments, switchbacks)
-* Experience contributing to or designing experimentation platforms, not just using them
-* Exposure to AI/ML products, large language models, or large\-scale inference systems
-* Track record of setting technical direction across multiple workstreams or mentoring senior ICs without formal management responsibility
-
-
-**Deadline to apply:** 
- None. Applications are accepted on a rolling basis.
-   
-
-  
-
- The annual compensation range for this role is listed below.
-   
-
-  
-
- For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
-   
-
-  
-
-**Annual Salary**
- $275,000—$370,000 USD
-   
-
-  
-
-**Logistics**
-**Minimum education:** 
- Bachelor’s degree or an equivalent combination of education, training, and/or experience
-   
-
-  
-
-**Required field of study:** 
- A field relevant to the role as demonstrated through coursework, training, or professional experience
-   
-
-  
-
-**Minimum years of experience:** 
- Years of experience required will correlate with the internal job level requirements for the position
-   
-
-  
-
-**Location\-based hybrid policy:** 
- Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
-   
-
-  
-
-**Visa sponsorship:** 
- We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
-   
-
-  
-
-**We encourage you to apply even if you do not believe you meet every single qualification.** 
- Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
-   
-
-  
-
-**Your safety matters to us.** 
- To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.
-   
-
-  
-
-**How We're Different**
- We believe that the highest\-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large\-scale research efforts. And we value impact — advancing our long\-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest\-impact work at any given time. As such, we greatly value communication skills.
-   
-
-  
-
- The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT\-3, Circuit\-Based Interpretability, Multimodal Neurons, Scaling Laws, AI \&amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
-   
-
-  
-
-**Come work with us!**
- Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues.
- **Guidance on Candidates' AI Usage:** 
- Learn about our policy for using AI in our application process</description>
-        <pubDate>2026-05-08 13:07:02.010140+00:00</pubDate>
+        <pubDate>2026-05-09 01:51:19.617802+00:00</pubDate>
     </item>
     
     <item>
@@ -2135,7 +1820,111 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
   
 
  Click the links to access the following statements: EEO Policy Statement, Pay Transparency, EEOC Know Your Rights (English/Spanish)</description>
-        <pubDate>2026-05-08 13:07:02.010222+00:00</pubDate>
+        <pubDate>2026-05-09 01:51:19.617864+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Principal Data Scientist &amp; Analytics - Microsoft AI</title>
+        <link>https://www.linkedin.com/jobs/view/4412401440</link>
+        <description>**Overview**
+ We are inviting you to join the
+ **Microsoft Monetization Marketplace Management** 
+ Team. The Microsoft Advertising platform is a single stop shop for global publisher and advertiser monetization needs. Our team owns the health and performance of the marketplace—monitoring and defining business metrics, building analytics and experimentation frameworks, and enabling leadership to make high‑confidence, data‑driven decisions. We partner closely across Engineering, Product, and Business to solve complex data science, analytics, and product operations challenges spanning users, advertisers, and publishers.
+   
+
+  
+
+ We are looking for high‑energy, creative science and analytics leaders with a solid strategic product and GTM mindset who thrive in fast‑moving environments and enjoy solving real‑world problems using data. In this role, you will help drive data‑informed go‑to‑market strategy, product‑led growth, and monetization initiatives across diverse industries, shaping how products scale from early experimentation through broad adoption.
+   
+
+  
+
+ The ideal candidate brings proven experience launching and scaling products from beta to public release, achieving rapid user and revenue growth through disciplined experimentation, solid product adoption strategies, continuous UX improvement, and developing metrics. You are comfortable operating in ambiguity, challenging the status quo, and translating insights into clear actions that accelerate business impact.
+   
+
+  
+
+ You will also play a key leadership role—building and scaling high‑impact teams, fostering solid cross‑team collaboration, and bridging strategy and execution to deliver measurable outcomes in entrepreneurial, fast‑paced environments. We are especially excited about candidates who are AI‑native and passionate about product and technology innovation, with a desire to empower creators, enable partners, and build scalable ecosystems that amplify both creative expression and business results.
+   
+
+  
+
+ If you are curious, analytically rigorous, and motivated to drive durable growth at the intersection of data, product, and marketplace dynamics, this role offers a unique opportunity to shape the future of monetization at Microsoft.
+   
+
+  
+
+ Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+   
+
+  
+
+ Starting January 26, 2026, Microsoft AI (MAI) employees who live within a 50\- mile commute of a designated Microsoft office in the U.S. or 25\-mile commute of a non\-U.S., country\-specific location are expected to work from the office at least four days per week. This expectation is subject to local law and may vary by jurisdiction.
+   
+
+  
+
+**Responsibilities**
+* Product Insights: Deliver and interpret the results of analyses, validate approaches, and learn to monitor, analyze, and iterate to continuously improve products.
+* Measurement: Define, invent, and deliver metrics which accurately measure user and business value across various products and marketplace components.
+* Experimental Design \&amp; Implementation: Think critically about sampling and experimental design across User and Demand dimensions. Translate strategy into plans that are clear and measurable, with progress shared out to stakeholders.
+* Collaboration: Partner effectively with program management, engineers, and other areas of the business across our Consumer online business.
+* Influence: Engage with stakeholders to produce clear, compelling, and actionable insights and data\-driven workflows that influence product and service improvements.
+* Make independent decisions for the team and handle difficult tradeoffs .
+* Translate strategy into plans that are clear, actionable and measurable to drive impact.
+
+
+**Qualifications**
+**Required Qualifications:**
+* Doctorate in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 5\+ years data\-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
++ OR Master's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 7\+ years data\-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
++ OR Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 10\+ years data science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
++ OR equivalent experience.
+
+
+**Preferred Qualifications**
+* Doctorate in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 8\+ years data\-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
++ OR Master's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 10\+ years data\-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
++ OR Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 12\+ years data\-science experience (e.g., managing structured and unstructured data, applying statistical techniques and reporting results)
++ OR equivalent experience.
+
+* Great organizational, analytical, data science skills and intuition.
+* Fantastic problem solver: Ability to solve problems that the world has not solved before
+* Interpersonal skills: Cross\-group and cross\-culture collaboration.
+* Experience with real world system building and data collection, including design, coding and evaluation.
+* Excellent communication to be able to communicate insights to senior leaders.
+* Experience with driving large collaboration across multiple teams.
+* Experience with communicating with different audiences to provide insights.
+* Demonstrated experience in applying statistics, experimentation and metrics to generate clear actionable insights.
+
+
+ \#MicrosoftAI
+   
+
+  
+
+ Data Science IC5 \- The typical base pay range for this role across the U.S. is USD $139,900 \- $274,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $188,000 \- $304,200 per year.
+   
+
+  
+
+ Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:
+   
+
+  
+
+ https://careers.microsoft.com/us/en/us\-corporate\-pay
+   
+
+  
+
+ This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+   
+
+  
+
+ Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application proce</description>
+        <pubDate>2026-05-09 01:51:19.617927+00:00</pubDate>
     </item>
     
     <item>
@@ -2271,7 +2060,7 @@ USA, WA, SEATTLE \- 142,800\.00 \- 193,200\.00 USD annually</description>
   
 
  TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA\-request</description>
-        <pubDate>2026-05-08 13:07:02.010298+00:00</pubDate>
+        <pubDate>2026-05-09 01:51:19.617992+00:00</pubDate>
     </item>
     
 </channel>
