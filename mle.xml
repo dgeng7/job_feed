@@ -6,6 +6,69 @@
     <description>jobs</description>
     
     <item>
+        <title>Machine Learning Engineer - Health AIML - Apple</title>
+        <link>https://www.indeed.com/viewjob?jk=0885d99143f16eb5</link>
+        <description>The Health AI team is at the forefront of machine learning and health science at Apple. We are a close\-knit team of highly accomplished, deeply technical research scientists, software engineers, and machine learning engineers passionate about delivering innovative technologies that impact millions of users. We are looking for a senior engineer excited about solving real\-world problems in the health domain that make a difference in our customers' lives.  
+
+  
+
+**Description**  
+
+  
+
+In this role, you will use your skills and experience in software engineering, machine learning, deep learning, and generative AI to design, implement, tune, and evaluate machine learning models and systems. You will solve ambitious problems involving unique data and high\-impact products, including state\-of\-the\-art generative AI technologies. The successful candidate should possess excellent interpersonal skills and the ability to work cross\-functionally to rapidly apply engineering best practices and novel research techniques at the intersection of Health, ML, and consumer products.  
+
+  
+
+**Preferred Qualifications**  
+
+  
+
+Ph.D. in Computer Science, Machine Learning, Bioinformatics, or a related field.  
+
+  
+
+Strong background in generative models, natural language processing (NLP), and large language models (LLMs).  
+
+  
+
+5\+ years of hands\-on experience in state\-of\-the\-art machine learning and deep learning applied to large\-scale datasets and/or production applications.  
+
+  
+
+**Minimum Qualifications**  
+
+  
+
+7\+ years of professional experience, either in industry or academia.  
+
+  
+
+Experience leading a team and/or a proven track record of cross\-functional collaboration to deliver systems with machine learning capabilities.  
+
+  
+
+BS/MS/Ph.D. in Computer Science, Computer Engineering, Machine Learning, Bioinformatics, or related fields (or equivalent qualification).","internalDetails":null  
+
+  
+
+**Pay \&amp; Benefits**  
+
+  
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $212,000 and $318,400, and your base pay will depend on your skills, qualifications, experience, and location.  
+
+  
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \- including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  
+
+  
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</description>
+        <pubDate>2026-05-14</pubDate>
+    </item>
+    
+    <item>
         <title>Staff Machine Learning Engineer 2, Ads - Coupang</title>
         <link>https://www.indeed.com/viewjob?jk=65f0748dd76774e9</link>
         <description>We exist to wow our customers. We know we're doing the right thing when we hear our customers say, "How did we ever live without Coupang?" Born out of an obsession to make shopping, eating, and living easier than ever, we're collectively disrupting the multi\-billion dollar e\-commerce industry from the ground up. We are one of the fastest\-growing e\-commerce companies that established an unparalleled reputation for being a dominant and reliable force in South Korean commerce.
@@ -1012,15 +1075,7 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     <item>
         <title>Staff/Sr. Machine Learning Engineer, Foundation Models - AI, Search &amp; Knowledge Platforms - Apple</title>
         <link>https://www.indeed.com/viewjob?jk=1f19d0e7ef9f1ba3</link>
-        <description>Do you feel you think differently, you are eager to break status quo, are bold and ambitious, aren’t afraid to take risks and are passionate to build the best of class technology. If yes, what better place to be at and do this than Apple? At Apple, “we think different, we push the boundaries of computing and intelligence. We build products that bring smile to people’s face”.  
-
-  
-
-Foundation Model Infrastructure team, within AI, Search \&amp; Knowledge Platforms Technologies organization is the back\-bone of Apple Intelligence. It builds frameworks, services and tools that power the largest Apple foundation models on servers. Our Infrastructure powers a wide gamut of services at Apple including Apple Search, Apple Music, AppleTV, AppStore, iMessages, Photos \&amp; Camera, Spotlight, Safari, Siri and upcoming ever exciting Apple products serving millions of queries every day with incredible low latencies, drawing every ounce of compute from our hardware.  
-
-  
-
-As part of this group, you will get a chance to bring Intelligence to billions of users across the world. You will have an opportunity to make a difference in life of people. You will have a chance to work on optimizing billions of parameter languge and vision and speech models using state of the art technologies and make it run at scale of Apple.  
+        <description>We are Foundation Model Inference Team, within AI, Search \&amp; Knowledge Platform Technologies organization. Our team is responsible to build Inference stack to power Apple Intelligence. It builds frameworks, services and tools that power the largest Apple foundation models on servers. Our Infrastructure powers a wide gamut of services at Apple including Apple Search, Apple Music, AppleTV, AppStore, iMessages, Photos \&amp; Camera, Spotlight, Safari, Siri and upcoming ever exciting Apple products serving millions of queries every day with incredible low latencies, drawing every ounce of compute from our hardware. As part of this group, you will get a chance to bring Intelligence to billions of users across the world. You will have an opportunity to make difference in life of people by empowering them with AI. You will have a chance to work on optimizing billions of parameter langauge and vision and speech models using state of the art technologies and make it run at scale of Apple.  
 
   
 
@@ -1040,7 +1095,19 @@ Build tools to understand bottlenecks in Inference for different hardwares and u
 
   
 
-Mentor and guide engineers in the organization.  
+Mentor and guide engineers in the organization.","responsibilities":"Collaborate with the Foundation Model Research team to optimize inference for cutting edge model architectures  
+
+  
+
+Work closely with product teams to build Production grade solutions to launch models serving millions of customers in real time  
+
+  
+
+Build profiling tools, simulators to understand the bottlenecks  
+
+  
+
+Mentor and guide engineers in the organization  
 
   
 
@@ -1048,7 +1115,7 @@ Mentor and guide engineers in the organization.
 
   
 
-Proficient in building and maintaining systems written in modern languages (eg: Golang, python)  
+Proficient in building and maintaining systems written in modern languages (eg: Golang, Python)  
 
   
 
@@ -1072,7 +1139,19 @@ MS in Computer Science, Artificial Intelligence, Machine Learning, Information R
 
   
 
-7\+ years of experience leading and driving complex, ambiguous projects.  
+5\+ years of experience leading and driving complex, ambiguous projects.  
+
+  
+
+Experience with LLM inference stack  
+
+  
+
+Familiarity with GPU programming concepts using CUDA.  
+
+  
+
+Familiarity with one of the popular ML Frameworks like Pytorch, Tensorflow.  
 
   
 
@@ -1081,10 +1160,6 @@ Have experience with high throughput services particularly at supercomputing sca
   
 
 Proficient with running applications on Cloud (AWS / Azure or equivalent) using Kubernetes, Docker etc.  
-
-  
-
-Familiar with GPU programming concepts using CUDA.  
 
   
 
@@ -1115,15 +1190,7 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     <item>
         <title>Staff/Sr. Machine Learning Engineer, Foundation Models - AI, Search &amp; Knowledge Platforms - Apple</title>
         <link>https://www.indeed.com/viewjob?jk=face822632a59f35</link>
-        <description>Do you feel you think differently, you are eager to break status quo, are bold and ambitious, aren’t afraid to take risks and are passionate to build the best of class technology. If yes, what better place to be at and do this than Apple? At Apple, “we think different, we push the boundaries of computing and intelligence. We build products that bring smile to people’s face”.  
-
-  
-
-Foundation Model Infrastructure team, within AI, Search \&amp; Knowledge Platforms Technologies organization is the back\-bone of Apple Intelligence. It builds frameworks, services and tools that power the largest Apple foundation models on servers. Our Infrastructure powers a wide gamut of services at Apple including Apple Search, Apple Music, AppleTV, AppStore, iMessages, Photos \&amp; Camera, Spotlight, Safari, Siri and upcoming ever exciting Apple products serving millions of queries every day with incredible low latencies, drawing every ounce of compute from our hardware.  
-
-  
-
-As part of this group, you will get a chance to bring Intelligence to billions of users across the world. You will have an opportunity to make a difference in life of people. You will have a chance to work on optimizing billions of parameter languge and vision and speech models using state of the art technologies and make it run at scale of Apple.  
+        <description>We are Foundation Model Inference Team, within AI, Search \&amp; Knowledge Platform Technologies organization. Our team is responsible to build Inference stack to power Apple Intelligence. It builds frameworks, services and tools that power the largest Apple foundation models on servers. Our Infrastructure powers a wide gamut of services at Apple including Apple Search, Apple Music, AppleTV, AppStore, iMessages, Photos \&amp; Camera, Spotlight, Safari, Siri and upcoming ever exciting Apple products serving millions of queries every day with incredible low latencies, drawing every ounce of compute from our hardware. As part of this group, you will get a chance to bring Intelligence to billions of users across the world. You will have an opportunity to make difference in life of people by empowering them with AI. You will have a chance to work on optimizing billions of parameter langauge and vision and speech models using state of the art technologies and make it run at scale of Apple.  
 
   
 
@@ -1143,7 +1210,19 @@ Build tools to understand bottlenecks in Inference for different hardwares and u
 
   
 
-Mentor and guide engineers in the organization.  
+Mentor and guide engineers in the organization.","responsibilities":"Collaborate with the Foundation Model Research team to optimize inference for cutting edge model architectures  
+
+  
+
+Work closely with product teams to build Production grade solutions to launch models serving millions of customers in real time  
+
+  
+
+Build profiling tools, simulators to understand the bottlenecks  
+
+  
+
+Mentor and guide engineers in the organization  
 
   
 
@@ -1151,7 +1230,7 @@ Mentor and guide engineers in the organization.
 
   
 
-Proficient in building and maintaining systems written in modern languages (eg: Golang, python)  
+Proficient in building and maintaining systems written in modern languages (eg: Golang, Python)  
 
   
 
@@ -1175,7 +1254,19 @@ MS in Computer Science, Artificial Intelligence, Machine Learning, Information R
 
   
 
-7\+ years of experience leading and driving complex, ambiguous projects.  
+5\+ years of experience leading and driving complex, ambiguous projects.  
+
+  
+
+Experience with LLM inference stack  
+
+  
+
+Familiarity with GPU programming concepts using CUDA.  
+
+  
+
+Familiarity with one of the popular ML Frameworks like Pytorch, Tensorflow.  
 
   
 
@@ -1184,10 +1275,6 @@ Have experience with high throughput services particularly at supercomputing sca
   
 
 Proficient with running applications on Cloud (AWS / Azure or equivalent) using Kubernetes, Docker etc.  
-
-  
-
-Familiar with GPU programming concepts using CUDA.  
 
   
 
@@ -6562,6 +6649,113 @@ As part of our culture, we also offer employee engagement and recognition progra
     </item>
     
     <item>
+        <title>Senior Machine Learning Engineer - GEICO</title>
+        <link>https://www.linkedin.com/jobs/view/4404271334</link>
+        <description>**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.**
+**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.**
+**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
+**Overview:** 
+ We are seeking an accomplished Senior ML Engineer to serve as an individual contributor to the generative AI space at GEICO. In this role, you will be collaborating with a dynamic team of AI and software engineers to design, develop, and deploy systems that drive business value. Your passion for scalability, reliability, and usability of generative AI workflows and approaches will allow you to provide hands\-on guidance, ensure architectural excellence, and lead by example to solve complex, large\-scale, cross\-functional problems.
+   
+
+  
+
+**Responsibilities:** 
+
+* Contribute to the design, development and maintenance of high\-performance AI solutions that utilize agentic workflows to deliver concrete business value for internal stakeholders. Examples include knowledge assistants, voice/text\-based conversational AI solutions, document/audio processing copilots, voice agents, robotic process automation, etc.
+* Collaborate with cross\-functional teams, including data scientists, ML engineers, software engineers, product managers, designers to gather requirements, help define project scope and prioritize feature backlogs. Execute pragmatic technical visions \&amp; roadmaps that balance business outcomes, product release timelines and engineering excellence.
+* Integrate and build solutions using GEICO AI platform architecture. Partner with platform teams to communicate requirements, understand current capabilities and gaps, and contribute to platform development.
+* Work on first\-of\-its\-kind solutions within GEICO, with a deep understanding of business and technical processes, applications, and architecture to guide development.
+* Participate in project planning and stakeholder management, ensuring the efficient allocation of resources and timely delivery of solutions.
+* Mentor and guide junior engineers via code reviews and design sessions, fostering a collaborative and high\-performance team culture.
+
+
+**Basic Qualifications**
+* 5 years of experience designing and building scalable production AIML applications and systems in cloud environments,
+* Proficient in Python, Java and similar general\-purpose programming languages.
+* 3 years managing end\-to\-end software development life cycle (e.g. CICD pipelines, Kubernetes\-based deployments, testing, monitoring \&amp; alerting, production support etc.) for backend systems and APIs
+* 2 years in training, finetuning, real\-time/batch inferencing and evaluation systems for AIML models and LLMs
+* 2 years owning end\-to\-end development, monitoring, maintenance, and continuous improvement of scalable, robust AIML applications.
+* Bachelor’s degree or above in Computer Science, Engineering, Statistics or a related field
+
+
+
+**Preferred** 
+**Qualifications** 
+**:**
+* 2 years interfacing directly with internal business stakeholders and/or external stakeholders on AIML initiatives
+* 2 years working with cloud provider solutions such as Azure and AWS
+* 2 years with tools that power LLM\-based AI agents: eval frameworks, agent tooling, RAG pipelines, prompt engineering, etc.
+* Strong communication and problem\-solving skills to excel in dynamic, cross\-functional and ambiguous decision\-making environments
+
+
+**Annual Salary**
+ $115,000\.00 \- $230,000\.00
+   
+
+  
+
+ The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
+   
+
+  
+
+ GEICO will consider sponsoring a new qualified applicant for employment authorization for this position.
+   
+
+  
+
+**The GEICO Pledge**
+**Great Company:** 
+ At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.
+   
+
+  
+
+ We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.
+   
+
+  
+
+**Great Careers:** 
+ We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.
+   
+
+  
+
+**Great Culture:** 
+ We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi\-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose.
+   
+
+  
+
+ As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers.
+   
+
+  
+
+**Great Rewards:** 
+ We offer compensation and benefits built to enhance your physical well\-being, mental and emotional health and financial future.
+   
+
+  
+
+* Comprehensive Total Rewards program that offers personalized coverage tailor\-made for you and your family’s overall well\-being.
+* Financial benefits including market\-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition\-based incentives; and tuition assistance.
+* Access to additional benefits like mental healthcare as well as fertility and adoption assistance.
+* Supports flexibility\- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year.
+
+
+ The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+   
+
+  
+
+ GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.</description>
+        <pubDate>2026-05-14</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Machine Learning Engineer, Rider (Multiple Teams) - Uber</title>
         <link>https://www.linkedin.com/jobs/view/4413963295</link>
         <description>**About The Teams**
@@ -6969,6 +7163,69 @@ As part of our culture, we also offer employee engagement and recognition progra
     </item>
     
     <item>
+        <title>Senior Machine Learning Engineer- Credit Karma - Intuit</title>
+        <link>https://www.linkedin.com/jobs/view/4404932450</link>
+        <description>**Overview**
+ Intuit Credit Karma is looking for a results\-oriented and skilled Senior Machine Learning Engineer to join
+   
+
+  
+
+ our team, focusing on building and deploying the infrastructure, services, and SDKs enabling
+   
+
+  
+
+ Credit Karma’s Data Science teams to prototype, deploy, score, and monitor predictive models
+   
+
+  
+
+ at scale. The ideal candidate will have expertise in MLOps, big data technologies, software
+   
+
+  
+
+ development, data engineering, deep learning ML frameworks, and is driven to stay current
+   
+
+  
+
+ with the fast moving ML \&amp; AI landscape and integrate innovations into our platforms.
+   
+
+  
+
+**Responsibilities**
+* Training Platform : Design, build, and maintain our Next Generation federated ML Platform \- built on Vertex AI and Kubernetes. Contribute to our python SDK, which enables Data Scientists to efficiently develop, define, and deploy no\-human\-in\-the\-loop auto\-refreshing deep learning and tree\-based ML Models.
+* ML Features Platform: Design, build, and maintain our feature engineering and feature stores services supporting batch and streaming features \- built on Vertex featurestore, Chronon, Databricks Tecton.
+* Training Data: Design and build out capabilities supporting training data pipelines and centralized modeling training datasetsm. Integrate labelbox, snorkel, and Intuit’s GenAI and human\-backed AI labeling platform.
+* Technical Support \&amp; Collaboration: Provide technical support for owned products, including performing on\-call duties, resolving production site issues, and improving the performance and scalability of services. Collaborate with cross\-functional stakeholders to identify high\-impact opportunities, translate business and analytical requirements, develop project plans, and report business value.
+* Production Deployment and Monitoring: Platform\-level monitoring for features, training data, training, and offline batch scoring. Provide utilities and capabilities to enable Data Scientists to do pipeline\-level monitoring for training and scoring.
+* Innovation \&amp; Mentorship: Stay current on innovation trends and propose solutions that integrate those back into our platform. Support \&amp; mentor other members of our team on current trends, best practices, and their projects.
+
+
+**Qualifications**
+* MS in Computer Science, Mathematics, Statistics, Machine Learning, or a related quantitative discipline
+* 7\+ years of industry experience in Machine Learning, Data Science and related areas, ideally in hyper\-growth consumer Internet scenarios
+* Deep understanding and ability to architect and develop next\-generation ML systems, staying ahead of industry trends and integrating latest advancements (e.g. GenAI)
+* Strong background in programming languages (e.g., Python, Java, SQL)
+* Experience with deep learning frameworks (e.g., Tensorflow, PyTorch)
+
+
+**Preferred Qualifications**
+* MLOps \&amp; Infrastructure: Experience with managing a large\-scale platform that services many hundreds of auto\-refreshing machine learning models deploying into production with no human\-in\-the\-loop.
+* Communication: Exceptional ability to communicate technical concepts to non\-technical stakeholders and drive organizational alignment.
+* Distributed Processing: Experience with high\-volume data processing and frameworks like Spark, Dataflow, Dask, Ray.
+* Deep Learning: Extensive Experience with deep learning frameworks such as Tensorflow or PyTorch.
+* Google Cloud: Experience with managing platforms backed by Google Cloud ML and AI services.
+
+
+ Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at \[1] Intuit®: Careers \| Benefits). Pay offered is based on factors such as job\-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is: Bay Area: $202,500\-274,000 References Visible links 1\. https://www.intuit.com/careers/benefits/full\-time\-employees/ Oakland $171000 \- $231500</description>
+        <pubDate>2026-05-13</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Machine Learning Engineer - Instrumental Inc.</title>
         <link>https://www.linkedin.com/jobs/view/4407444700</link>
         <description>Building hardware is like writing software with no debugger, no logs, and only three compile attempts—before mass production. This lack of visibility leads to costly waste.
@@ -7299,393 +7556,6 @@ As part of our culture, we also offer employee engagement and recognition progra
   
 
  TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA\-request</description>
-        <pubDate>2026-05-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Machine Learning Engineer - PayPal</title>
-        <link>https://www.linkedin.com/jobs/view/4414284373</link>
-        <description>**The Company**
- PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.
-   
-
-  
-
- We operate a global, two\-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third\-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.
-   
-
-  
-
- We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end\-to\-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross\-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross\-border trade.
-   
-
-  
-
- Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.
-   
-
-  
-
-**Job Summary:**
- This job will lead the design, development, and implementation of advanced machine learning models and algorithms to solve complex problems. You will work closely with data scientists, software engineers, and product teams to enhance services through innovative AI/ML solutions. Your role will involve building scalable ML pipelines, ensuring data quality, and deploying models into production environments to drive business insights and improve customer experiences.
-   
-
-  
-
-**Job Description:**
-**Essential Responsibilities:**
-* Lead the development and optimization of advanced machine learning models.
-* Oversee the preprocessing and analysis of large datasets.
-* Deploy and maintain ML solutions in production environments.
-* Collaborate with cross\-functional teams to integrate ML models into products and services.
-* Monitor and evaluate the performance of deployed models, making necessary adjustments.
-
-
-**Minimum Qualifications:**
-* 5\+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience.
-* Extensive experience with ML frameworks like TensorFlow, PyTorch, or scikit\-learn.
-* Expertise in cloud platforms (AWS, Azure, GCP) and tools for data processing and model deployment.
-
-
-**Additional Responsibilities \&amp; Preferred Qualifications:**
-**Subsidiary:**
- PayPal
-   
-
-  
-
-**Travel Percent:**
- 0
-   
-
-  
-
- The base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by location is:
-   
-
-  
-
-**Primary Location : Pay Range:**
- San Jose, California : ($196,500\.00 \- $291,500\.00 Annually)
-   
-
-  
-
-**Additional Location(s) : Pay Range:**
- Austin, Texas : ($178,500\.00 \- $265,100\.00 Annually)
-   
-
-  
-
- Additional compensation for this role may include an annual performance bonus, equity, or other incentive compensation, as applicable.
-   
-
-  
-
- PayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application directly, we will never ask you to share passwords, one\-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam. All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact\-us.
-   
-
-  
-
- For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in\-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.
-   
-
-  
-
-**Our Benefits:**
- At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset\-you. That’s why we offer comprehensive, choice\-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it matters most. We strive to create a flexible, balanced work culture with a holistic approach to benefits, including generous paid time off, healthcare coverage for you and your family, and resources to create financial security and support your mental health.
-   
-
-  
-
-**Who We Are:**
- Click Here to learn more about our culture and community.
-   
-
-  
-
-**Commitment to Diversity and Inclusion**
- PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.
-   
-
-  
-
-**Belonging at PayPal:**
- Our employees are central to advancing our mission, and we strive to create an environment where everyone can do their best work with a sense of purpose and belonging. Belonging at PayPal means creating a workplace with a sense of acceptance and security where all employees feel included and valued. We are proud to have a diverse workforce reflective of the merchants, consumers, and communities that we serve, and we continue to take tangible actions to cultivate inclusivity and belonging at PayPal.
-   
-
-  
-
- Any general requests for consideration of your skills, please Join our Talent Community.
-   
-
-  
-
- We know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don’t hesitate to apply.</description>
-        <pubDate>2026-05-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Machine Learning Engineer - Intuitive</title>
-        <link>https://www.linkedin.com/jobs/view/4343533543</link>
-        <description>**Company Description**
- It started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at
- **Intuitive** 
- . As a global leader in
- **robotic\-assisted surgery** 
- and
- **minimally invasive care** 
- , our technologies—like the
- **da Vinci surgical system** 
- and
- **Ion** 
- —have transformed how care is delivered for millions of patients worldwide.
-   
-
-  
-
- We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.
-   
-
-  
-
- The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.
-   
-
-  
-
- If you’re ready to contribute to something bigger than yourself and help
- **transform the future of healthcare** 
- , you’ll find your purpose here.
-   
-
-  
-
-**Job Description**
-**About This Opportunity:**
- As a Staff Machine Learning Engineer, you will be responsible for driving the design, development, and deployment of novel machine learning solutions for pathology image analysis. You will work with alongside research, engineering, regulatory, and clinical teams to develop and test algorithms and translate them into robust, validated, and scalable medical device software. The ideal candidate will have a proven track record of leading efforts to build and deploy cutting\-edge deep learning models on large\-scale image data. Ability to work in person in San Carlos, CA office is preferred.
-   
-
-  
-
-**Responsibilities**
-* Independently lead projects to conceive, develop, and implement AI/ML approaches to extract novel insights from large\-scale microscopy image data sets
-* Perform analysis of neural networks, propose and execute experiments to improve key performance metrics
-* Update and improve primary machine learning models as more data is generated
-* Support software infrastructure and data engineering required to store, annotate, train, and test on large pathology image sets
-* Implement semi\-supervised and self\-supervised methods to reduce image annotation burden
-* Collaborate with physicians and product teams to ensure clinical relevance, robustness, and usability of models
-* Stay up to date with the latest pathology CV/ML literature, use this to inform research \&amp; product direction
-* Optimize and validate models for integration into production systems, ensuring performance in real\-world clinical settings
-* Develop applications to be deployed and scaled
-
-
-**Qualifications**
-**Required Qualifications:**
-* PhD or Master’s degree in Computer Science or related field with a focus on ML/CV
-* 7\+ years of industry experience developing and deploying ML models or 4\+ years of industry experience with a PhD
-* Previously deployed CV/ML projects to users/customers
-* Strong background in deep learning for computer vision
-* Expert knowledge of the latest machine learning approaches for image analysis
-* Able to read, understand and implement the latest algorithms from research papers
-* Able to implement and experiment with own architecture ideas
-* Fluent in Python and experience with ML frameworks and models (Pytorch, Yolo, etc.)
-* Experience with distributed training and cloud\-based ML workflows
-* Experience with large\-scale image datasets
-
-
-**Preferred Qualifications**
-* Experience with pathology whole\-slide images or biomedical image analysis
-* Familiarity with multimodal data integration (imaging \+ clinical / molecular data)
-* Expertise in industrial\-scale ML engineering, including model deployment for real\-time inference, GPU/throughput optimization (e.g., TensorRT, ONNX Runtime, mixed precision), and building scalable, production\-ready ML pipelines with MLOps best practices
-* Familiarity with containerized deployments (Docker, Kubernetes) and scaling ML systems in production
-* Experience with CI/CD and MLOps pipelines for automated model deployment and monitoring
-* Track record of leading CV/ML projects from conception through deployment
-* Published research in the CV/ML domain
-
-
- Additional Information
-   
-
-  
-
- Due to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination against certain diseases including COVID\-19\. Details can vary by role.
-   
-
-  
-
- Intuitive is an Equal Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws.
-   
-
-  
-
- Mandatory Notices
-   
-
-  
-
- U.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR
-   
-
-  
-
-* 743\.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on embargo or sanctions status.
-
-
- Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6\+ months) or (ii) implement a Technology Control Plan (“TCP”) (note: typically adds 2 weeks to the hiring process).
-   
-
-  
-
- For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable, candidates will be notified and instructed on any requirements for these purposes.
-   
-
-  
-
- We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.
-   
-
-  
-
- Preference will be given to qualified candidates who do not reside, or plan to reside, in Alabama, Arkansas, Delaware, Florida, Indiana, Iowa, Louisiana, Maryland, Mississippi, Missouri, Oklahoma, Pennsylvania, South Carolina, or Tennessee.
-   
-
-  
-
- This position may be filled at a different job level than listed here depending on
-   
-
-  
-
- business need and/or on the selected candidate’s experience, knowledge and skills.
-   
-
-  
-
- Compensation will be based primarily on the job level at which the role is filled and the
-   
-
-  
-
-**Candidate’s Qualifications, Consistent With Applicable Law.**
- We provide market\-competitive compensation packages, inclusive of base pay, incentives, benefits, and equity. It would not be typical for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including experience, skills, and qualifications. The target compensation ranges are listed.
-   
-
-  
-
-**Base Salary Range Region 1:** 
- $229,600 \- $330,400
-   
-
-  
-
-**Base Salary Range Region 2:** 
- $195,200 \- $280,800
-   
-
-  
-
-**Shift:** 
- Day
-   
-
-  
-
-**Workplace Type:** 
- Set Schedule \- This job will be onsite weekly, the percentage of onsite work will be defined by the leader.</description>
-        <pubDate>2026-05-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Lead Machine Learning Engineer - Capital One</title>
-        <link>https://www.linkedin.com/jobs/view/4413978760</link>
-        <description>As a Capital One Machine Learning Engineer (MLE), you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You’ll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. You’ll focus on machine learning architectural design, develop and review model and application code, and ensure high availability and performance of our machine learning applications. You'll have the opportunity to continuously learn and apply the latest innovations and best practices in machine learning engineering.
-   
-
-  
-
-**About the Team:**
- The Transaction Core team, a key part of the PINT (Payments Intelligence) organization, is dedicated to building and maintaining the foundational data platforms that empower Capital One to understand and act on customer spend. Our mission is to provide an actionable understanding of purchase transactions to enrich our customer's financial lives through real\-time, intelligent, and resilient platform\-based services. We manage the core services like the Transaction Datastore (TDS), which processes billions of transactions annually and serves as the 'transaction core' for numerous machine learning models, including those for fraud and subscription detection. We are currently focused on completing the Transaction Core to include a universal view of all payment types—Card, Bank (Debit \&amp; ACH), and External FI transactions. This modernization effort involves componentizing our data assets for technical flexibility and improving the velocity of our recurring insights models. Our work is critical, powering engaging digital experiences like subscription management and enhanced transaction views in customer\-facing applications (EASE) and agent tools (Empath). If you are passionate about solving complex, large\-scale data and ML challenges to deliver 'platinum grade' customer experiences, this is the place to make a broad impact across the company.
-   
-
-  
-
-****What you’ll do in the role:****
- The MLE role overlaps with many disciplines, such as Ops, Modeling, and Data Engineering. In this role, you'll be expected to perform many ML engineering activities, including one or more of the following:
-   
-
-  
-
-* Design, build, and/or deliver ML models and components that solve real\-world business problems, while working in collaboration with the Product and Data Science teams
-* Inform your ML infrastructure decisions using your understanding of ML modeling techniques and issues, including choice of model, data, and feature selection, model training, hyperparameter tuning, dimensionality, bias/variance, and validation)
-* Solve complex problems by writing and testing application code, developing and validating ML models, and automating tests and deployment
-* Collaborate as part of a cross\-functional Agile team to create and enhance software that enables state\-of\-the\-art big data and ML applications
-* Retrain, maintain, and monitor models in production
-* Leverage or build cloud\-based architectures, technologies, and/or platforms to deliver optimized ML models at scale.
-* Construct optimized data pipelines to feed ML models
-* Leverage continuous integration and continuous deployment best practices, including test automation and monitoring, to ensure successful deployment of ML models and application code
-* Ensure all code is well\-managed to reduce vulnerabilities, models are well\-governed from a risk perspective, and the ML follows best practices in Responsible and Explainable AI
-* Use programming languages like Python, Scala, or Java
-
-
-****Basic Qualifications:****
-* Bachelor’s Degree
-* At least 6 years of experience designing and building data\-intensive solutions using distributed computing (Internship experience does not apply)
-* At least 4 years of experience programming with Python, Scala, or Java
-* At least 2 years of experience building, scaling, and optimizing ML systems
-
-
-****Preferred Qualifications:****
-* Master's or Doctoral Degree in computer science, electrical engineering, mathematics, or a similar field
-* 3\+ years of experience building production\-ready data pipelines that feed ML models
-* 3\+ years of on\-the\-job experience with an industry recognized ML framework such as scikit\-learn, PyTorch, Dask, Spark, or TensorFlow
-* 2\+ years of experience developing performant, resilient, and maintainable code
-* 2\+ years of experience with data gathering and preparation for ML models
-* 2\+ years of people leader experience
-* 1\+ years of experience leading teams developing ML solutions using industry best practices, patterns, and automation
-* Experience developing and deploying ML solutions in a public cloud such as AWS, Azure, or Google Cloud Platform
-* Experience designing, implementing, and scaling complex data pipelines for ML models and evaluating their performance
-* ML industry impact through conference presentations, papers, blog posts, open source contributions, or patents
-* Experience leveraging interactive AI tooling to accelerate productivity, utilizing capabilities beyond basic code completion
-
-
-***At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F\-1 OPT, F\-1 STEM OPT, F\-1 CPT, J\-1, TN, E\-2, E\-3, L\-1 and O\-1, or any EADs or other forms of work authorization that require immigration support from an employer).***
- The minimum and maximum full\-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part\-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
-   
-
-  
-
- San Francisco, CA: $215,200 \- $245,600 for Lead Machine Learning Engineer
-   
-
-  
-
- Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
-   
-
-  
-
- This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
-   
-
-  
-
- Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well\-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part\-time status, exempt or non\-exempt status, and management level.
-   
-
-  
-
- This role is expected to accept applications for a minimum of 5 business days.
-   
-
-  
-
- No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non\-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug\-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23\-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901\-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
-   
-
-  
-
- If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1\-800\-304\-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kep</description>
         <pubDate>2026-05-13</pubDate>
     </item>
     
@@ -8943,188 +8813,6 @@ As part of our culture, we also offer employee engagement and recognition progra
     </item>
     
     <item>
-        <title>Forward Deployed Machine Learning Engineer - Federato</title>
-        <link>https://www.linkedin.com/jobs/view/4409107814</link>
-        <description>Federato is on a mission to defend the right to efficient, equitable insurance for all. We enable insurers to provide affordable coverage to people and organizations facing the issues of today \- the climate crisis, cyber\-attacks, social inflation, etc. Our vision is understood and well funded by those behind Salesforce, Veeva, Zoom, Box, etc.
-   
-
-  
-
- Federato is the only AI\-native platform that spans the full policy lifecycle and changes the way insurance work gets done. Better decisioning is built\-in, not bolted on: insurers' unique portfolio goals, strategies, rules, and appetite are part of the workflow so underwriters win the right deals, faster. From the moment a submission hits an underwriter’s inbox, AI is put to work, triaging submissions with a focus on high\-appetite business, delivering real\-time feedback on the portfolio, and consolidating workflows into a single proven system. Federato drives better business outcomes.
-   
-
-  
-
-**What You'll Be Doing**
-* Work directly on building, deploying, and iterating on machine learning models and agentic workflow features that address real customer needs
-* Apply ML techniques to improve accuracy and overall system performance, ensuring solutions are robust, reliable, and production\-ready for customers
-* Improve, implement, and validate ML models and agentic workflows supporting submission intake, underwriting decision\-making, and automation tasks
-* Deploy and adapt autonomous agent behaviors into customer\-specific workflows, translating core AI capabilities into practical solutions
-* Develop and maintain evaluation pipelines, monitoring systems, and performance metrics to ensure reliability under evolving production conditions
-* Monitor production systems via logs, metrics, and user feedback to diagnose issues, debug failures, and drive resolution
-* Take end\-to\-end ownership of problems — implementing fixes or coordinating with engineering and infrastructure teams as needed
-* Partner closely with Data Science and Engineering teams to iterate quickly and deliver high\-impact solutions
-
-
-**Who We Hope You Are**
-* Bachelor's or master’s degree in Mathematics, Operations Research, Data Science, Artificial Intelligence, or a related field with foundational knowledge in machine learning, deep learning, and natural language processing.
-* Experience working in a fast\-paced, cross\-functional environment
-* 2\+ years of experience as a Machine Learning Engineer, Applied Scientist, or similar role delivering ML solutions in production
-* Experience working directly with customers or stakeholders to translate business needs into technical solutions
-* Hands\-on experience adapting, extending, and deploying ML/LLM systems (including agentic workflows and prompt engineering) in real\-world use cases
-* Strong experience with experimentation, evaluation, and monitoring pipelines, including analyzing production logs and debugging systems
-* Experience deploying and iterating on ML systems in cloud environments in collaboration with engineering teams
-* Proven track record of ownership — driving issues through to resolution in production systems
-
-
- Base Salary Range: $155,000 \- $180,000
-   
-
-  
-
- Final offer amounts are determined by multiple factors including candidate location, experience and expertise and may vary from the amounts listed above. Total compensation package also includes bonus, stock options, benefits and additional perks.
-   
-
-  
-
- Here at Federato, your capabilities are important, but culture fit is essential. We move fast, are eager to listen to our users, take a first principles approach to solving problems, and value learning and the ability to change our minds. Most importantly, we're here to have fun. Our ability to make a difference starts with our people. We would love to work with you!
-   
-
-  
-
-*We are an equal\-opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender expression, sexual orientation, age, marital status, veteran status or disability status. We will provide reasonable accommodation to individuals with disabilities to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at talent@federato.ai*</description>
-        <pubDate>2026-05-11</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Machine Learning Engineer, GAI Search Relevance - Ranking - Moveworks - ServiceNow</title>
-        <link>https://www.linkedin.com/jobs/view/4363089832</link>
-        <description>**Company Description**
- It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI\-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud\-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
-   
-
-  
-
-**Job Description**
-**Principal Machine Learning Engineer, GAI Search Relevance \- Ranking \- Moveworks**
-**What You Will Do**
- We are seeking a Principal Engineer to lead the technical vision and long\-term architecture of our GenAI Search Platform. This platform powers Moveworks’ conversational search and question\-answering systems, combining advanced information retrieval with large language models (LLMs) to deliver instant, enterprise\-grade answers at scale.
-   
-
-  
-
- As a Principal Engineer, you will operate at the intersection of search, generative AI, and platform infrastructure. You will define and drive the multi\-year technical strategy for our search ecosystem — ensuring it is scalable, extensible, secure, and capable of supporting the next generation of agentic and LLM\-enabled experiences across the enterprise.
-   
-
-  
-
- You will partner closely with ranking, ML, product, infrastructure, data science, and customer teams to evolve our search platform into a foundational capability that enables rapid innovation while maintaining rigorous guarantees around quality, privacy, and reliability.
-   
-
-  
-
-**Key Responsibilities**
- Set Technical Vision \&amp; Architecture
-   
-
-  
-
-* Define and evolve the long\-term architecture of our GenAI search platform, balancing classical information retrieval techniques with LLM\-driven retrieval\-augmented generation (RAG) systems.
-* Architect scalable abstractions and frameworks that enable multiple teams (ranking, product, ML) to safely and independently build on top of the platform.
-* Establish durable design principles for performance, enterprise readiness, extensibility, and observability.
-
-
- Drive Next\-Generation Search Capabilities
-   
-
-  
-
-* Lead the development of advanced conversational search systems, including multi\-turn, multi\-hop, and agentic workflows.
-* Define architectural patterns for integrating LLMs into search systems in a secure, cost\-efficient, and production\-grade manner.
-* Ensure the platform can support rapid experimentation while enforcing guarantees around security, privacy, and compliance in enterprise environments.
-
-
- Platform Quality \&amp; Evaluation Strategy
-   
-
-  
-
-* Establish systematic evaluation methodologies and metrics for search and generative systems, including LLM\-assisted evaluation frameworks.
-* Lead the definition of quality standards for ranking, retrieval accuracy, hallucination mitigation, and user trust.
-* Champion performance optimization, scalability, and operational excellence across the platform.
-
-
- Cross\-Functional Technical Leadership
-   
-
-  
-
-* Influence product and engineering roadmaps to align with platform strategy and long\-term scalability goals.
-* Serve as a technical advisor across teams, ensuring architectural coherence and reducing fragmentation.
-* Drive high\-leverage initiatives that unlock velocity for multiple product teams.
-
-
- Organizational Impact
-   
-
-  
-
-* Mentor and elevate senior and staff engineers.
-* Shape hiring strategy and help close top technical talent.
-* Raise the bar for engineering excellence, documentation, design rigor, and code quality across the organization.
-
-
-**Qualifications**
-**What You Bring to the Table**
-* 8\+ years of engineering experience, with a track record of leading large\-scale technical initiatives across teams.
-* Demonstrated experience operating at Staff/Principal scope, driving architecture and influencing technical direction beyond a single team.
-* Deep expertise in search systems, information retrieval, ranking, recommendation systems, or large\-scale question\-answering platforms.
-* Strong background in text processing, natural language understanding, and/or applied machine learning.
-* Experience designing distributed systems that operate at enterprise scale with high reliability and performance requirements.
-* A systems thinker who balances innovation with pragmatism in production environments.
-
-
-**Nice to Have**
-* Experience with large language models, retrieval\-augmented generation (RAG), or agent\-based architectures.
-* Experience productionizing LLM systems with attention to cost, latency, evaluation, and safety.
-* Strong Python experience, particularly contributing to platform\-level libraries or shared infrastructure.
-* Familiarity with Golang or other backend systems languages.
-
-
- Additional Information
-   
-
-  
-
-**Work Personas**
- We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third\-party service.
-   
-
-  
-
-**Equal Opportunity Employer**
- ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
-   
-
-  
-
-**Accommodations**
- We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
-   
-
-  
-
-**Export Control Regulations**
- For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
-   
-
-  
-
- From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license.</description>
-        <pubDate>2026-05-11</pubDate>
-    </item>
-    
-    <item>
         <title>[2026] Senior Machine Learning Engineer, Natural Language Processing - PhD Early Career - Roblox</title>
         <link>https://www.linkedin.com/jobs/view/4323646594</link>
         <description>Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
@@ -9226,6 +8914,113 @@ As part of our culture, we also offer employee engagement and recognition progra
 
  For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H\-1B sponsorship at this time.</description>
         <pubDate>2026-05-11</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Machine Learning Engineer - Attentive</title>
+        <link>https://www.linkedin.com/jobs/view/4372110325</link>
+        <description>Attentive® is the AI marketing platform for 1:1 personalization redefining the way brands and people connect. We’re the only marketing platform that combines powerful technology with human expertise to build authentic customer relationships. By unifying SMS, RCS, email, and push notifications, our AI\-powered personalization engine delivers bespoke experiences that drive performance, revenue, and loyalty through real\-time behavioral insights.
+   
+
+  
+
+ Recognized as the \#1 provider in SMS Marketing by G2, Attentive partners with more than 8,000 customers across 70\+ industries. Leading global brands like Crate and Barrel, Urban Outfitters, and Carter’s work with us to enable billions of interactions that power tens of billions in revenue for our customers.
+   
+
+  
+
+ With a distributed global workforce and employee hubs in New York City, San Francisco, London, and Sydney, Attentive’s team has been consistently recognized for its performance and culture. We’re proud to be included in Deloitte’s Fast 500 (four years running!), LinkedIn’s Top Startups, Forbes’ Cloud 100 (five years running!), Inc.’s Best Workplaces, and the Human Rights Campaign Foundation's Corporate Equality Index!
+   
+
+  
+
+**About The Role**
+ Our Machine Learning Engineering team powers personalized experiences for hundreds of millions of customers across thousands of brands. As a Senior Machine Learning Engineer, you will play a critical role in building, scaling, and operating production\-grade ML systems that drive real\-time personalization across the Attentive platform.
+   
+
+  
+
+ You will operate with a high degree of ownership, partner closely with Product and Engineering, and help raise the technical bar across our ML systems in a fast\-paced, high\-impact environment.
+   
+
+  
+
+**What You’ll Accomplish**
+* Design, build, and operate scalable machine learning systems used in real\-time targeting, decisioning, personalization systems
+* Own ML projects end\-to\-end, from data exploration and modeling to deployment, monitoring, and iteration
+* Proactively safeguard model and system quality through testing, monitoring, validation, and alerting
+* Collaborate cross\-functionally with product, data, and other engineering partners to translate business problems into ML solutions
+* Continuously improve system reliability, performance, and engineering efficiency
+* Contribute to technical direction and best practices across the ML engineering team
+* Mentor and support other engineers through code reviews, design discussions, and knowledge sharing
+* Thrive in a high\-impact, fast\-paced, late\-stage startup environment
+
+
+**Your Expertise**
+* 6\+ years of professional experience building production machine\-learning software systems
+* Proven experience owning ML systems long enough to see the downstream impact of design decisions
+* Strong proficiency in Python and experience with ML frameworks such as PyTorch, TensorFlow, or xgboost
+* Experience with data processing and analytics tools such as pandas, Spark, SQL, and matplotlib
+* Hands\-on experience building automated pipelines for data processing, model training, validation, and deployment
+* Experience collaborating with cross\-functional teams to deliver ML\-powered features
+* Strong communication skills and a high sense of ownership
+
+
+**What We Use**
+* Infrastructure: Kubernetes (AWS EKS), Istio, Datadog, Terraform, Cloudflare, Helm
+* Backend: Java / Spring Boot microservices (Gradle), DynamoDB, Kinesis, Airflow, Postgres, PlanetScale, Redis
+* Frontend: React, TypeScript, GraphQL, Storybook, Radix UI, Vite, Playwright
+* ML \&amp; Data: Python, Metaflow, HuggingFace 🤗, PyTorch, TensorFlow, Panda
+
+
+ You'll get competitive perks and benefits, from health \&amp; wellness to equity, to help you bring your best self to work.
+   
+
+  
+
+**For US Based Applicants**
+* The US base salary range for this full\-time position is $244,000 \- 320,000 annually \+ equity \+ benefits
+* Our salary ranges are determined by role, level and location
+
+
+**By applying for this position, your data will be processed as per Attentive's Privacy Policy.**
+**Attentive Company Values**
+**Default to Action** 
+ \- Move swiftly and with purpose
+   
+
+  
+
+**Be One Unstoppable Team** 
+ \- Rally as each other’s champions
+   
+
+  
+
+**Champion the Customer** 
+ \- Our success is defined by our customers' success
+   
+
+  
+
+**Act Like an Owner** 
+ \- Take responsibility for Attentive’s success
+   
+
+  
+
+ Learn more about AWAKE, Attentive’s collective of employee resource groups.
+   
+
+  
+
+ If you do not meet all the requirements listed here, we still encourage you to apply! No job description is perfect, and we may also have another opportunity that closely matches your skills and experience.
+   
+
+  
+
+ At Attentive, we know that our Company's strength lies in the diversity of our employees. Attentive is an Equal Opportunity Employer and we welcome applicants from all backgrounds. Our policy is to provide equal employment opportunities for all employees, applicants and covered individuals regardless of protected characteristics. We prioritize and maintain a fair, inclusive and equitable workplace free from discrimination, harassment, and retaliation. Attentive is also committed to providing reasonable accommodations for candidates with disabilities. If you need any assistance or reasonable accommodations, please let your recruiter know.</description>
+        <pubDate>2026-05-09</pubDate>
     </item>
     
     <item>
@@ -9495,72 +9290,6 @@ As part of our culture, we also offer employee engagement and recognition progra
 
 **Our Commitment To Inclusion**
  Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.</description>
-        <pubDate>2026-05-08</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer, Speech LLM Training - San Francisco - Plaud</title>
-        <link>https://www.linkedin.com/jobs/view/4409685912</link>
-        <description>**About Plaud Inc.**
- Plaud is building the world's most trusted AI work companion for professionals to elevate productivity and performance through note\-taking solutions, loved by over 1,500,000 users worldwide since 2023\. With a mission to amplify human intelligence, Plaud is building the next\-generation intelligence infrastructure and interfaces to capture, extract, and utilize what you say, hear, see, and think.
-   
-
-  
-
- Plaud Inc. is a Delaware\-incorporated, San Francisco\-based company pushing the boundary of human–AI intelligence through a hardware–software combination. With SOC 2, HIPAA, GDPR, ISO27001, ISO27701, and EN18031 compliance, Plaud is committed to the highest standards of data security and privacy protection.
-   
-
-  
-
- To learn more about Plaud, please visit https://www.Plaud.ai and follow along on Instagram, X, Facebook, LinkedIn, and YouTube
-   
-
-  
-
-**Why You Should Join Us**
- Plaud is building the next generation intelligence infrastructure and interfaces to capture, extract, and utilize intelligence from what people say, hear, see, and think.
-   
-
-  
-
-* Plaud is a bootstrapped, skyrocketing, profitable company with a $250M revenue run rate achieved in just three years.
-* Define the next\-gen paradigm for human\-AI interaction.
-* Gain exposure to cutting\-edge AI for Pro tools and play a direct role in our global expansion.
-* Work with passionate teammates who value innovation, collaboration, and customer success.
-* Grow your career in a culture that champions continuous learning and fast career development.
-* Market\-competitive compensation, global exposure, and a vibrant, creativity\-fueled work atmosphere.
-
-
-**You may be a good fit if you:**
-* Have a proven track record of building and training large\-scale audio or speech models from the ground up, whether that involves unified SpeechLLMs, advanced ASR, expressive TTS, or generative audio architectures.
-* Love living at the intersection of research and engineering, eager to design novel sequence modeling architectures one day and debug distributed training clusters the next.
-* Are highly comfortable traversing the entire stack—from fundamental signal processing and raw acoustic representations to massive foundation model training and edge\-device optimization.
-* Possess deep expertise in PyTorch or JAX, with battle scars from optimizing large\-scale distributed training runs, managing GPU memory utilization, and resolving complex performance bottlenecks.
-* Thrive in a fast\-paced, high\-growth startup environment where you are expected to take extreme ownership of ambiguous problems and drive them directly into production.
-* Are obsessed with building AI systems that natively understand and generate speech, ultimately creating a hardware\-software AI companion that amplifies human productivity.
-
-
-**Strong candidates may also have experience with:**
-* Text\-based LLMs: Hands\-on experience with core text\-based Large Language Model pretraining, instruction tuning, or RLHF.
-* Neural Audio Codecs: Hands\-on experience designing and training state\-of\-the\-art neural audio codecs for streamable, high\-fidelity audio.
-* Generative Architectures: Designing and training diffusion models, flow matching, or autoregressive architectures specifically for speech and voice generation.
-* Alignment \&amp; Steerability: Applying Reinforcement Learning (RL) techniques (like RLHF or GRPO) to improve conversational cadence, steerability, and alignment in foundation models.
-* Deep System Optimization: End\-to\-end inference and performance optimization, leveraging high\-throughput serving frameworks (e.g., vLLM, TensorRT\-LLM, SGLang) to minimize latency for real\-time cloud streaming.
-* Large\-Scale Infrastructure: Managing massive GPU clusters, utilizing advanced distributed training frameworks (e.g., FSDP, DeepSpeed), and navigating orchestration tools like Kubernetes.
-
-
-**What we offer**
-* Founding Team Initiative: Opportunity to be an early, foundational member of our core SpeechLLM lab, with meaningful ownership and impact on a fast\-growing startup.
-* Competitive Compensation: $200K \- $540K base salary \+ performance bonus \+ Equity.
-* Comprehensive Benefits: Top\-tier healthcare for employees and dependents, including dental and vision, and a generous employer subsidy.
-* Retirement Planning: 401(k) plan for full\-time employees with company matching.
-* Paid Time Off: Unlimited PTO, plus 13 paid holidays.
-* New Parent Leave: 12 weeks of paid time off to spend time with your new family, regardless of gender.
-* Hybrid Office: Minimum of 3x in\-office per week to foster highly collaborative, fast\-paced research.
-* Gear \&amp; Perks: Choice of top\-of\-the\-line laptops/workstations, annual offsites, and a fully stocked office.
-
-
-*Plaud is and will continue to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristics.*</description>
         <pubDate>2026-05-08</pubDate>
     </item>
     
@@ -9839,7 +9568,61 @@ As part of our culture, we also offer employee engagement and recognition progra
   
 
  For information about our collection and use of applicants’ personal information, please see Nextdoor's Personnel Privacy Notice, found here.</description>
-        <pubDate>2026-05-15 02:01:53.282137+00:00</pubDate>
+        <pubDate>2026-05-15 13:26:50.648288+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer - Mercor</title>
+        <link>https://www.linkedin.com/jobs/view/4405662742</link>
+        <description>**About Mercor**
+ Mercor's mission is to organize human intelligence to power the AI economy. We partner with leading AI labs and enterprises to provide the human intelligence essential to AI development. Our vast talent network trains frontier AI models in the same way teachers teach students: by sharing knowledge, experience, and context that can't be captured in code alone. Today, more than 30,000 experts in our network collectively earn over $2 million a day.
+   
+
+  
+
+ Mercor is creating a new category of work where expertise powers AI advancement. Achieving this requires an ambitious, fast\-paced and deeply committed team. You’ll work alongside researchers, operators, and AI companies at the forefront of shaping the systems that are redefining society. Mercor is a profitable Series C company valued at $10 billion. We work in\-person five days a week in our San Francisco, NYC, or London offices.
+   
+
+  
+
+**About The Role**
+ As a Machine Learning Engineer at Mercor, you’ll operate at the intersection of backend engineering and applied machine learning. ML Engineers at Mercor are generalists first, shipping production systems that power performance prediction, search, recommendation, and fraud detection while also bringing statistical and modeling rigor where it matters. The work spans everything from building APIs and infrastructure to training and deploying models, always tied closely to core product outcomes. You’ll collaborate with product engineers and operations to deliver systems that directly impact how companies source talent and how candidates find opportunities
+   
+
+  
+
+**You Will**
+* Research, train, and productionize ML models for engagement prediction, scoring, search
+* Build backend infrastructure and APIs to serve ML models reliably at scale.
+* Run experiments, analyze results, and iterate quickly to improve both models and product performance.
+* Work cross\-functionally with Operations and Product to translate business needs into model\-driven solutions.
+* Wear many hats: from backend engineer to applied ML practitioner to product problem\-solver.
+
+
+**What We’re Looking For**
+* Strong backend engineering skills (ex. Python/Django or similar) plus a solid foundation in applied ML and statistics.
+* Proven experience shipping production systems or ML\-driven products end\-to\-end.
+* High ownership and comfort operating in ambiguous, fast\-changing environments.
+* Generalist mindset: willing to flex between backend, modeling, data pipelines, and product problem\-solving.
+
+
+**Why Mercor**
+* Impact: Your work powers how the world’s leading AI labs train and test their models.
+* Learning: Get early insights into frontier model capabilities months before the market.
+* Growth: Work on both infrastructure and research\-adjacent projects with fast paths to ownership.
+
+
+**Benefits**
+* Generous equity grant vested over 4 years
+* A $20K relocation bonus (if moving to the Bay Area)
+* A $10K housing bonus (if you live within 0\.5 miles of our office)
+* A $1\.5K monthly stipend for meals
+* Free Equinox membership
+* Health insurance
+
+
+ Compensation Range: $130K \- $500K</description>
+        <pubDate>2026-05-15 13:26:50.648415+00:00</pubDate>
     </item>
     
     <item>
@@ -9972,114 +9755,7 @@ As part of our culture, we also offer employee engagement and recognition progra
   
 
  Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</description>
-        <pubDate>2026-05-15 02:01:53.282204+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Machine Learning Engineer - GEICO</title>
-        <link>https://www.linkedin.com/jobs/view/4404271334</link>
-        <description>**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.**
-**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.**
-**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
-**Overview:** 
- We are seeking an accomplished Senior ML Engineer to serve as an individual contributor to the generative AI space at GEICO. In this role, you will be collaborating with a dynamic team of AI and software engineers to design, develop, and deploy systems that drive business value. Your passion for scalability, reliability, and usability of generative AI workflows and approaches will allow you to provide hands\-on guidance, ensure architectural excellence, and lead by example to solve complex, large\-scale, cross\-functional problems.
-   
-
-  
-
-**Responsibilities:** 
-
-* Contribute to the design, development and maintenance of high\-performance AI solutions that utilize agentic workflows to deliver concrete business value for internal stakeholders. Examples include knowledge assistants, voice/text\-based conversational AI solutions, document/audio processing copilots, voice agents, robotic process automation, etc.
-* Collaborate with cross\-functional teams, including data scientists, ML engineers, software engineers, product managers, designers to gather requirements, help define project scope and prioritize feature backlogs. Execute pragmatic technical visions \&amp; roadmaps that balance business outcomes, product release timelines and engineering excellence.
-* Integrate and build solutions using GEICO AI platform architecture. Partner with platform teams to communicate requirements, understand current capabilities and gaps, and contribute to platform development.
-* Work on first\-of\-its\-kind solutions within GEICO, with a deep understanding of business and technical processes, applications, and architecture to guide development.
-* Participate in project planning and stakeholder management, ensuring the efficient allocation of resources and timely delivery of solutions.
-* Mentor and guide junior engineers via code reviews and design sessions, fostering a collaborative and high\-performance team culture.
-
-
-**Basic Qualifications**
-* 5 years of experience designing and building scalable production AIML applications and systems in cloud environments,
-* Proficient in Python, Java and similar general\-purpose programming languages.
-* 3 years managing end\-to\-end software development life cycle (e.g. CICD pipelines, Kubernetes\-based deployments, testing, monitoring \&amp; alerting, production support etc.) for backend systems and APIs
-* 2 years in training, finetuning, real\-time/batch inferencing and evaluation systems for AIML models and LLMs
-* 2 years owning end\-to\-end development, monitoring, maintenance, and continuous improvement of scalable, robust AIML applications.
-* Bachelor’s degree or above in Computer Science, Engineering, Statistics or a related field
-
-
-
-**Preferred** 
-**Qualifications** 
-**:**
-* 2 years interfacing directly with internal business stakeholders and/or external stakeholders on AIML initiatives
-* 2 years working with cloud provider solutions such as Azure and AWS
-* 2 years with tools that power LLM\-based AI agents: eval frameworks, agent tooling, RAG pipelines, prompt engineering, etc.
-* Strong communication and problem\-solving skills to excel in dynamic, cross\-functional and ambiguous decision\-making environments
-
-
-**Annual Salary**
- $115,000\.00 \- $230,000\.00
-   
-
-  
-
- The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
-   
-
-  
-
- GEICO will consider sponsoring a new qualified applicant for employment authorization for this position.
-   
-
-  
-
-**The GEICO Pledge**
-**Great Company:** 
- At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.
-   
-
-  
-
- We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.
-   
-
-  
-
-**Great Careers:** 
- We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.
-   
-
-  
-
-**Great Culture:** 
- We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi\-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose.
-   
-
-  
-
- As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers.
-   
-
-  
-
-**Great Rewards:** 
- We offer compensation and benefits built to enhance your physical well\-being, mental and emotional health and financial future.
-   
-
-  
-
-* Comprehensive Total Rewards program that offers personalized coverage tailor\-made for you and your family’s overall well\-being.
-* Financial benefits including market\-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition\-based incentives; and tuition assistance.
-* Access to additional benefits like mental healthcare as well as fertility and adoption assistance.
-* Supports flexibility\- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year.
-
-
- The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
-   
-
-  
-
- GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.</description>
-        <pubDate>2026-05-15 02:01:53.282270+00:00</pubDate>
+        <pubDate>2026-05-15 13:26:50.648528+00:00</pubDate>
     </item>
     
     <item>
@@ -10237,7 +9913,7 @@ As part of our culture, we also offer employee engagement and recognition progra
 * A $1\.5K monthly stipend for meals
 * Free Equinox membership
 * Health insurance</description>
-        <pubDate>2026-05-15 02:01:53.282335+00:00</pubDate>
+        <pubDate>2026-05-15 13:26:50.648647+00:00</pubDate>
     </item>
     
 </channel>

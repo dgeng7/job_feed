@@ -277,82 +277,320 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
     </item>
     
     <item>
-        <title>Senior Data Scientist, GrowthNew
-San Francisco - fal</title>
-        <link>https://www.linkedin.com/jobs/view/4413922098</link>
-        <description>fal is the generative media ecosystem powering the next generation of AI products. We build the infrastructure, tools, and model access that teams need to move from idea to production, and do it at scale without compromise. For developers and enterprises, fal is the foundation that makes generative media not just possible, but practical: a unified platform where high\-performance inference, orchestration, and observability come together to unlock new categories of AI\-native products.
+        <title>Staff Data Scientist, District GTM - ClassDojo</title>
+        <link>https://www.linkedin.com/jobs/view/4394372119</link>
+        <description>ClassDojo's goal is to give every child on Earth an education they love.
    
 
   
 
- As generative media reshapes industries across a market projected to grow by hundreds of billions over the next decade, fal is becoming the ecosystem that ambitious teams build on.
+ We started by building a powerful network for communication. ClassDojo’s flagship app is the \#1 communication app connecting K\-12 teachers, children, and families globally. Teachers use it to share what’s happening throughout the day through photos, videos, and messages that make parents feel like they’re there. It’s actively used in over 95% of US schools, reaching over 45 million children in 180 countries, with a team of just around 200 people \[1]. We are now beginning to use this network to give kids the best learning experiences in the world, far beyond those a standard school can provide.
    
 
   
 
-**About This Role**
- As a Senior Data Scientist for Growth at fal, you won't be inheriting a mature growth analytics stack — you'll be building one. Our marketing function is early: we're just beginning to stand up performance marketing, hiring our first dedicated marketers, and establishing the foundational taxonomy, instrumentation, and measurement frameworks that will power our growth for years to come.
+ We hire for talent density. Our team comprises the most talented, entrepreneurial, and innovative teammates from around the world, with experience in education and large scale consumer internet companies, including Instagram, Netflix, Dropbox, Stripe, Uber, Y Combinator, and more. We’re building a company where the most talented people want to work. We believe you’ll do the best work of your life here—and you’ll pioneer the future of education, too.
    
 
   
 
- You'll be the analytical co\-founder of our growth motion, working alongside marketing leadership and company leadership to define how we measure, evaluate, and scale fal's acquisition from the ground up. If you've ever wished you could design a company's growth analytics layer before the bad habits set in, this is that role.
+**The Role**
+ As a Staff Data Scientist embedded with our District GTM team, you'll own the analytical work supporting ClassDojo's district growth. You'll work directly with Sales, Marketing, and Product leadership to build the systems, find the insights, and inform the decisions that move the business forward.
    
 
   
 
- What you’ll do
+ The scope runs from raw CRM and product usage data through to the recommendations that shape how we sell, market, and prioritize. You'll build the infrastructure your work depends on, define what good data looks like, and make sure the analysis actually reaches decisions.
    
 
   
 
-* Build fal's growth measurement foundation — define the event taxonomy, attribution model, channel hierarchy, and reporting infrastructure that the entire marketing org will run on.
-* Stand up acquisition analytics across paid, organic, content, community, and partnership channels, starting from early\-stage instrumentation and working toward a unified view of channel performance.
-* Shape our top\-of\-funnel growth strategy alongside marketing and leadership; translate early signals from nascent channels into clear recommendations on where to double down, where to experiment, and where to wait.
-* Define and operationalize the unit economics of fal's growth motion (CAC, LTV, LTV:CAC, payback period, ROAS, and cohort performance by channel).
-* Design and run growth experiments end\-to\-end: shape the hypothesis, build the measurement plan, analyze the results, and turn findings into the next round of bets.
-* Help shape the broader data and analytics capability supporting growth as the team scales.
-
-
- What we are looking for
+ At ClassDojo, Staff means setting the direction. You'll have real influence over how the GTM team operates, with leadership treating you as a peer.
    
 
   
 
-* 5\+ years of experience in data science, growth analytics, or growth strategy, ideally at PLG or developer\-tools companies with a commercial motion.
-* Experience building growth analytics infrastructure from early stages — you've defined the taxonomy, stood up the pipelines and dealt with the messy reality of instrumenting a product that wasn't built with measurement in mind.
-* A strategy\-and\-tactics mindset — you don't just measure growth, you recommend what to do next and see those recommendations through.
-* Hands\-on experience with channel\-level acquisition analysis across paid (Google, Meta), organic, content, community, and partnerships, including the judgment to evaluate channels with limited data.
-* Strong fluency with growth unit economics — CAC, LTV, LTV:CAC, payback period, ROAS, attribution, and incrementality.
-* Experience building LTV and cohort models, including in environments where the data is sparse or the product is evolving quickly.
-* Advanced SQL and proficiency in Python for analytics and experimentation.
-* Strong experimentation chops: A/B testing, holdout designs, causal inference and the pragmatism to know when a quick read is better than a perfect test.
-* Comfort with ambiguity and an owner mentality.
-* A track record of shipping growth experiments and recommendations that changed how a marketing budget got spent.
+**What You’ll Do**
+* Build a pipeline analytics system the GTM team can use on their own.
 
 
- Nice\-to\-haves
+ Today, our district sales org has multiple competing sources of truth (CRM, product usage, and marketing signals) and relies on ad hoc analysis to answer basic pipeline questions. The goal is a single reliable reporting model that integrates all three data sources, standardized GTM metrics, and self\-serve dashboards that let Sales check pipeline health without filing a data request.
    
 
   
 
-* Experience standing up performance marketing measurement for a team scaling from zero to meaningful ad spend.
-* Experience working on developer\-facing or API products.
-* Background in community\-led, content\-led, or partnerships\-led growth motions.
-* Early\-stage or fast\-scaling environment experience, especially as a first or early data hire supporting marketing.
+* Make data a genuine input to GTM decisions.
 
 
-**Compensation**
-* $190,000 \- $230,000 \+ equity \+ comprehensive benefits package
+ You'll identify the key drivers of pipeline conversion (e.g. teacher adoption signals, district size, persona engagement), build models that predict deal likelihood, and run structured experiments with Sales and Marketing that measurably change how the team operates. In 18 months, GTM leadership will reach for data first when making targeting, messaging, and prioritization calls.
+   
+
+  
+
+* Make core B2B datasets reliable enough to build on.
 
 
-**What We Offer At Fal**
-* Interesting and challenging work
-* A lot of learning and growth opportunities
-* We offer relocation assistance to San Francisco.
-* Health, dental, and vision insurance (US)
-* Regular team events and offsites</description>
-        <pubDate>2026-05-13</pubDate>
+ CRM, marketing, and product datasets arrive fragmented and inconsistently defined. You'll clean and structure them into stable analytical models with documented definitions, identify instrumentation gaps and resolve them with engineering, and create a foundation where new GTM analytics workstreams can be stood up quickly.
+   
+
+  
+
+* Work alongside District GTM leadership as a trusted analytical partner.
+
+
+ You'll regularly work with District GTM leadership as they frame key business questions and weigh tradeoffs. You'll translate ambiguous problems into clear analytical approaches, communicate findings directly, and inform long\-term decisions about how and where we grow.
+   
+
+  
+
+* Our stack includes the following technologies:
+
+
+ Salesforce (CRM)
+   
+
+  
+
+* SQL
+* dbt
+* Amazon Redshift
+* Metabase
+* Airflow
+* GitHub
+
+
+**What We're Looking For**
+* Business judgment
+
+
+ You identify what actually matters in a dataset and why it matters for the business. You ask sharp questions that surface the real problem, connect analytical results to concrete GTM actions, and make sound calls when the data is incomplete.
+   
+
+  
+
+* Comfort with messy B2B data
+
+
+ District GTM data arrives from multiple systems with inconsistent definitions and incomplete coverage. You treat that as a normal constraint. You can debug a messy Salesforce dataset, design robust pipelines despite imperfect inputs, and propose structural fixes when the problem is upstream.
+   
+
+  
+
+* Analytical problem solving
+
+
+ You can take an ambiguous business question and turn it into a structured analytical plan. You design and analyze experiments, apply statistical reasoning to draw conclusions, and build models that improve how decisions get made.
+   
+
+  
+
+* Data engineering fluency
+
+
+ Staff DS at ClassDojo means owning your own infrastructure. You can build and maintain the pipelines, dbt models, and analytical systems your work depends on, and operationalize your analysis without relying on a separate engineer. You know when instrumentation is the bottleneck and can fix it.
+   
+
+  
+
+* Communication and influence
+
+
+ You communicate analytical ideas clearly to non\-technical audiences, simplify complex data problems into plain explanations, and build enough cross\-functional alignment that the analysis actually gets used.
+   
+
+  
+
+* Structured, reusable thinking
+
+
+ You build frameworks that others can pick up and apply, connecting individual findings to broader GTM strategy. Your work compounds over time rather than sitting in a one\-off report.
+   
+
+  
+
+**You Will Be a Match If**
+* You have 8\+ years in data science or analytics
+* You are familiar with SQL and modern analytics tooling (dbt, Redshift / Snowflake / BigQuery)
+* You have experience working with CRM systems (Salesforce strongly preferred)
+* You have experience analyzing B2B SaaS sales pipeline, funnel, or revenue operations data
+* You have a track record of producing data work that changed how a team made decisions
+* You have experience working alongside GTM or product teams as a peer
+
+
+**Bonus**
+* You have experience in a startup or high\-growth environment
+* You are familiar with experimentation design and analysis in a GTM context
+* You have exposure to product analytics alongside sales data
+* You have background in education technology or mission\-driven organizations
+
+
+ \[1] Some more context:
+   
+
+  
+
+*(If you are on LinkedIn, you will not be able to access the hyperlinks below. Once you click apply, you will be directed to our career website (if you are not on there already) and will be able to access the hyperlinks)*
+* How ClassDojo Connects Parents, Students, and Teachers
+* “Whats New on ClassDojo 2023”
+* TechCrunch Article: Second Act comes with First Profits
+
+
+ Click here if you're interested in learning more about what we've been up to.
+   
+
+  
+
+ We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. In accordance with the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. We are happy to accommodate any disabilities or special needs. We are a distributed company, so we hire regardless of location, as long as you are willing to have significant hours overlap with one of the Americas time zones.
+   
+
+  
+
+ ClassDojo takes a number of factors into consideration when determining compensation, including geographic location, experience, and skillset. Salary ranges (United States):
+   
+
+  
+
+ CA, WA, NY, NJ, CT states: $205,000 \- $245,000 (USD)
+   
+
+  
+
+ All other states in the US: $174,500 \- $208,500 (USD)</description>
+        <pubDate>2026-05-14</pubDate>
+    </item>
+    
+    <item>
+        <title>Applied Scientist - Monetization Technology - Global Frontier Tech Recruitment Program - 2027 Start (PhD) - TikTok</title>
+        <link>https://www.linkedin.com/jobs/view/4404446235</link>
+        <description>**Responsibilities**
+ We are looking for talented individuals to join our team in 2027\. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Launch your career where inspiration is infinite at our Company.
+   
+
+  
+
+ Successful candidates must be able to commit to an onboarding date by end of year 2027\. Please state your availability and graduation date clearly in your resume.
+   
+
+  
+
+ Team Introduction: Global Monetization Product and Technology team are building the next\-generation monetization platforms to help millions of customers grow their businesses, utilizing our products like TikTok. Our team develops a wide variety of advertisements for numerous uses including feeds, live streaming, branding, measurement, targeting, search, vertical solutions, creative solutions, and business integrity.
+   
+
+  
+
+ Topic Content: This topic dives deep into TikTok's core global advertising scenarios, driving innovation and implementation of the cutting\-edge generative technologies in search, recommendation, and advertising. By deeply integrating foundation models with the advertising business, we address key technical challenges in Large Recommender Models and Large Language Models (LLMs) to build a next\-generation intelligent advertising engine with autonomous decision\-making capabilities.
+   
+
+  
+
+ Our research covers cutting\-edge directions, including Large Recommender Model scaling laws, end\-to\-end unified modeling, generative full\-link technologies (retrieval, ranking, AIGC material generation, bidding), intelligent advertising placement agents, ultra\-long sequence modeling, and causal inference. We tackle extreme challenges of trillion\-level features and millisecond responses, advancing advertising recommendation toward the foundation model paradigm to achieve dual improvements in monetization efficiency and user experience.
+   
+
+  
+
+**Responsibilities:**
+* Explore scaling laws for foundation models in recommendation and advertising, and build a foundation model based on unified multimodal semantic modeling.
+* Build an intelligent ad placement system optimized for users' Long\-Term Value (LTV) and long\-term ROAS, achieving an optimal balance between commercial value and user experience.
+* Optimize the full\-process training and online inference framework for foundation models, balance computing power costs and real\-time response performance, and resolve the performance\-latency trade\-off in real\-world deployment.
+
+
+**Qualifications**
+ Minimum Qualifications:
+   
+
+  
+
+* Individuals who are completing or have recently completed a PhD in Computer Science, Computer Engineering, or a related technical discipline.
+* Modeling experience in one or more of the areas: Ads, Search engine, Recommender System, NLP/CV.
+* Have a solid foundation in algorithms related to LLMs, including but not limited to comprehensive learning and
+
+
+ practical experience in areas such as single\-modal LLM application and deployment.
+   
+
+  
+
+**Preferred Qualifications:**
+* Priority will be given to candidates with research results and extensive practical relevant fields, such as outstanding performance in natural language processing, computer vision, data modeling, or algorithm optimization, etc.
+* Excellent programming abilities with a strong command of data structures and fundamental algorithms. For traditional coding roles, proficiency in C/C\+\+ is required; for intelligent coding roles, proficiency in Python is required.
+* Strong publications record in top conferences (e.g., ICLR, NeurIPS, ICML, ACL, EMNLP, NACCL, CVPR, ICCV, and ECCV) is a plus.
+
+
+ Job Information
+   
+
+  
+
+**【For Pay Transparency】Compensation Description (Annually)**
+ The base salary range for this position in the selected city is $212800 \- $450000 annually.
+   
+
+  
+
+ Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+   
+
+  
+
+ Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+   
+
+  
+
+ The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+   
+
+  
+
+**For Los Angeles County (unincorporated) Candidates:**
+ Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+   
+
+  
+
+* Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+* Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+* Exercising sound judgment.
+
+
+**About TikTok**
+ TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+   
+
+  
+
+ Why Join Us
+   
+
+  
+
+ Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.
+   
+
+  
+
+ We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+   
+
+  
+
+ Diversity \&amp; Inclusion
+   
+
+  
+
+ TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+   
+
+  
+
+ TikTok Accommodation
+   
+
+  
+
+ TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA\-request</description>
+        <pubDate>2026-05-14</pubDate>
     </item>
     
     <item>
@@ -1117,310 +1355,133 @@ San Francisco - fal</title>
     </item>
     
     <item>
-        <title>Senior Data Scientist - MeshyAI</title>
-        <link>https://www.linkedin.com/jobs/view/4371683088</link>
-        <description>**About Meshy**
- Headquartered in
- **Silicon Valley** 
- , Meshy is the leading 3D generative AI company on a mission to
- **Unleash 3D Creativity** 
- by transforming the content creation pipeline. Meshy makes it effortless for both professional artists and hobbyists to create unique 3D assets—turning text and images into stunning 3D models in just minutes. What once took weeks and cost $1,000 now takes just 2 minutes and $1\.
+        <title>Staff Marketing Data Scientist, Machine Learning - SoFi</title>
+        <link>https://www.linkedin.com/jobs/view/4411980078</link>
+        <description>**Employee Applicant Privacy Notice**
+**Who we are:**
+ Shape a brighter financial future with us.
    
 
   
 
- Our world\-class team of top experts in computer graphics, AI, and art includes alumni from MIT, Stanford, and Berkeley, as well as veterans from Nvidia and Microsoft. Our talent spans the globe, with team members distributed across
- **North America, Asia, and Oceania** 
- , fostering a diverse and innovative multi\-regional culture focused on solving global 3D challenges. Meshy is trusted by top developers, backed by premiere venture capital firms like
- **Sequoia and GGV** 
- , and has successfully raised
- **$52 Million** 
- in funding.
+ Together with our members, we’re changing the way people think about and interact with personal finance.
    
 
   
 
- Meshy is the market leader, recognized as the
- **No.1** 
- in popularity among 3D AI tools (according to 2024 A16Z Games) and
- **No.1** 
- in website traffic (according to SimilarWeb, with
- **3 Million** 
- monthly visits). The platform boasts over
- **5 Million users** 
- and has generated
- **40 Million models** 
- .
+ We’re a next\-generation financial services company and national bank using innovative, mobile\-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way.
+ **Join us to invest in yourself, your career, and the financial world.**
+**The role:**
+ The Marketing Data Science (MDS) team is seeking an experienced Machine Learning professional to join the group. This team is essential for supporting SoFi's Marketing organization by providing data\-driven decision\-making through rigorous analytics, modeling, experimentation, and measurement.
    
 
   
 
- Founder and CEO
- **Yuanming (Ethan) Hu** 
- earned his Ph.D. in graphics and AI from MIT, where he developed the acclaimed Taichi GPU programming language (27K stars on GitHub, used by 300\+ institutes). His work is highly influential, including an honorable mention for the SIGGRAPH 2022 Outstanding Doctoral Dissertation Award and over 2,700 research citations.
+ The primary responsibility of this role is to build and scale machine learning models that drive marketing and growth across SoFi's product suite. The focus will be on developing predictive models for key areas: acquisition, conversion, retention, and customer lifetime value (LTV), utilizing behavioral, transactional, and credit data. This role requires strong collaboration across teams to identify the business needs, manage the end\-to\-end model development cycle, implement the model in production, and monitor performance, while maintaining strict compliance with all regulatory standards.
    
 
   
 
-**Role Overview**
- We are hiring our first Senior Data Scientist in the US. This is a high\-impact, foundational role. You will design, build, and deploy advanced analytical and machine learning solutions that directly influence product direction, growth strategy, and monetization.
+**What you’ll do:**
+* Design, develop, and deploy machine learning models to optimize customer acquisition, onboarding, and lifecycle engagement across financial products (e.g., loans, credit cards, money, invest, crypto and etc).
+* Build predictive models for critical business outcomes, including Customer Lifetime Value (LTV), conversion propensity, cross\-sell/upsell effectiveness, and retention across various channels (e.g., direct mail, email, in\-app, Operations).
+* Leverage structured and unstructured data (e.g., behavioral signals, transaction data, credit attributes) to drive audience segmentation and personalization at scale. Develop and maintain a robust feature store to accelerate the end\-to\-end model development lifecycle.
+* Build experimentation frameworks to support A/B testing and measure the incremental business impact of the models. Work with the other team members to incorporate the models in marketing/campaign strategies.
+* Collaborate with Fair Lending (FL) and Model Risk Management (MRM) to ensure the models and targeting strategies adhere to fair lending laws, privacy regulations, and responsible marketing practices.
+* Support the efficient scoring and implementation of models through both real\-time and batch processes, ensuring the timely availability of scores for marketing execution and deep analytics.
+* Monitor model performance with a focus on business outcomes (conversion, retention, revenue, risk\-adjusted returns) and continuously iterate based on insights.
+* Partner closely with team members within MDS and key business stakeholders on defining business requirements, prioritizing the model pipeline, providing development updates, and monitoring performance.
+* Stay at the forefront of modeling, data, and AI innovations to support scalable marketing growth in financial services.
+
+
+**What you’ll need:**
+* Bachelor's degree in Computer Science, Math, Physics, Engineering, or a quantitative field required; Master's degree preferred.
+* 8\+ years of experience in machine learning, data science or applied AI, ideally in marketing, fintech, or consumer tech.
+* Strong proficiency in Python, SQL, and ML frameworks (scikit\-learn, PyTorch, TensorFlow).
+* Familiarity with ML governance, model monitoring, and compliance frameworks (MRM, Fair Lending, etc.) is a plus.
+* Experience with LLMs, prompt engineering, and AI application development preferred.
+* Demonstrated experience with experimentation and hypothesis testing.
+* High intellectual curiosity and a quick learner of new technical skills.
+* Ability to initiate and drive projects independently to completion, and ability to clearly communicate technical information to diverse audiences.
+* Strong relationship\-building and collaborative skills.
+* Ability to thrive in a dynamic, cross\-functional environment with keen attention to detail.
+
+
+****Compensation And Benefits****
+ The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.
    
 
   
 
-**You Will Lead Projects Such As**
-* Recommendation systems
-* User segmentation \&amp; behavioral modeling
-* Churn analysis (including NLP\-based parsing of text feedback)
-* LTV forecasting \&amp; revenue prediction
-* Business and growth forecasting
-
-
- This role requires strong technical depth, business intuition, and the ability to translate models into actionable decisions.
+ This role may also be eligible for a bonus and/or long term incentives. Your recruiter will provide more information to you. All roles are eligible for competitive benefits. More information about our employee benefits can be found in the link below.
    
 
   
 
-**Key Responsibilities**
-* Design and deploy high\-impact ML solutions, including recommendation systems, user segmentation, churn prediction, and LTV/revenue forecasting to drive engagement and monetization.
-* Apply NLP techniques to analyze unstructured data (e.g., churn feedback) and uncover actionable product and business insights.
-* Leverage both structured (schema\-ready) and raw datasets to identify high\-value modeling opportunities aligned with company priorities.
-* Design and evaluate experiments to measure model performance and quantify business impact.
-* Translate complex analytical outputs into clear, decision\-ready insights and present findings to senior leadership to influence strategic direction.
-* Help define Meshy’s long\-term data science roadmap and establish best practices in modeling, experimentation, and measurement.
-* Mentor junior team members through technical guidance, code reviews, and modeling leadership, strengthening overall team capability.
-
-
-**Qualifications Required**
-* 5\+ years of experience in data science, applied ML, or related roles
-* Strong experience building production\-level ML models
-* Proficiency in Python (Pandas, Scikit\-learn, PyTorch or similar)
-* Solid understanding of statistical modeling and experimentation
-* Experience with recommendation systems, forecasting, or predictive modeling
-* Practical experience applying AI tools in data analysis workflows, or a strong demonstrated interest in leveraging AI for analytical problem\-solving
-* Expert in SQL
-* Experience working with both structured and unstructured datasets
-* Ability to communicate complex modeling insights to non\-technical stakeholders
-
-
-**Preferred**
-* Experience in consumer SaaS, marketplace, or creator economy platforms
-* Experience applying NLP to real\-world product problems
-* Experience with LTV modeling and growth analytics
-* Familiarity with causal inference methods
-* Experience deploying models into production environments
-* Interest in generative AI or 3D/creative technology
-* Fluent in both English and Mandarin, with the ability to communicate at a professional level in both written and verbal forms.
-
-
-**Our Values**
-* Brain: We value intelligence and the pursuit of knowledge. Our team is composed of some of the brightest minds in the industry.
-* Heart: We care deeply about our work, our users, and each other. Empathy and passion drive us forward.
-* Gut: We trust our instincts and are not afraid to take bold risks. Innovation requires courage.
-* Taste: We have a keen eye for quality and aesthetics. Our products are not just functional but also beautiful.
-
-
-**Why Join Meshy?**
-* Competitive salary, equity, and benefits package.
-* Opportunity to work with a talented and passionate team at the forefront of AI and 3D technology.
-* Flexible work environment, with options for remote and on\-site work.
-* Opportunities for fast professional growth and development.
-* An inclusive culture that values creativity, innovation, and collaboration.
-* Unlimited, flexible time off.
-
-
-**Benefits**
-* Stock options available for core team members.
-* 401(k) plan for employees.
-* Comprehensive health, dental, and vision insurance.
-* The latest and best office equipment.</description>
-        <pubDate>2026-05-08</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, GTM - Airwallex</title>
-        <link>https://www.linkedin.com/jobs/view/4351344086</link>
-        <description>**About Airwallex**
- Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 200,000 businesses worldwide – including Brex, Rippling, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale.
+****Benefits****
+ To view all of our comprehensive and competitive benefits, visit our
+ **Benefits at SoFi \&amp; Galileo** 
+ page!
    
 
   
 
- Proudly founded in Melbourne, we have a team of over 2,000 of the brightest and most innovative people in tech across 26 offices around the globe. Valued at US$8 billion and backed by world\-leading investors including T. Rowe Price, Visa, Mastercard, Robinhood Ventures, Sequoia, Salesforce Ventures, DST Global, and Lone Pine Capital, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us.
+ US\-Based Base Compensation
    
 
   
 
-**Attributes We Value**
- We hire successful builders with founder\-like energy who want real impact, accelerated learning, and true ownership. You bring strong role\-related expertise and sharp thinking, and you’re motivated by our mission and operating principles. You move fast with good judgment, dig deep with curiosity, and make decisions from first principles, balancing speed and rigor.
+ $153,600—$264,000 USD
    
 
   
 
- You're humble and collaborative; turn zero‑to‑one ideas into real products, and you “get stuff done” end\-to\-end. You use AI to work smarter and solve problems faster. Here, you’ll tackle complex, high‑visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let’s build what’s next.
+****Compensation And Benefits****
+ The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.
    
 
   
 
-**About The Team**
- We’re looking for talented candidates who can push the boundaries of our existing models and help design state\-of\-the\-art solutions to GTM challenges that accelerate revenue growth and improve commercial efficiency. In this role, you’ll partner closely with Product, Growth, and Commercial teams to shape and build the next\-generation data science foundation at Airwallex.
+ To view all of our comprehensive and competitive benefits, visit our
+ **Benefits at SoFi** 
+ page!
    
 
   
 
- This role is ideal for someone who takes meaningful ownership from day one—someone who digs deeply into data to understand why outcomes change (not just what changed), balancing analytical rigor with speed and business context—and then leverages AI to translate those insights into scalable models and solid data foundations.
+ SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
    
 
   
 
-**What You Will Do**
-* Translate complexity into action: Turn complex statistical and modeling results into clear, compelling, and actionable narratives for cross\-functional partners and executive audiences.
-* Uncover and scale revenue insights: Lead proactive, exploratory analyses to identify latent revenue levers, emerging trends, and root causes behind shifts in key GTM metrics—and operationalize these learnings into repeatable workflows, automated pipelines, and scalable data science operating models.
-* Build revenue forecasting and performance insights: Develop and own revenue forecasting and forward\-looking performance insights (e.g., pipeline health, conversion and retention drivers, scenario planning), providing a reliable “source of truth” that helps teams make faster, better commercial decisions.
-* Apply advanced causal inference: Use advanced observational causal inference methods (e.g., DiD, synthetic control, DoubleML) to estimate impact and inform decisions when randomized experiments are infeasible.
-* Embed AI into commercial workflows: Design and deploy AI\-enabled solutions across the sales and customer lifecycle—enhancing sales calls and coaching, improving sales effectiveness, and generating proactive, transaction\-based customer insights to drive retention and expansion.
-
-
-**Who You Are**
-* 3\+ years of industry experience and an advanced degree (MS or PhD) in a quantitative field (e.g., Statistics, Computer Science, Engineering, Economics, or a related discipline).
-* Strong analytical intuition and structured problem\-solving—you ask the right questions, explore data thoughtfully, and synthesize clear, defensible conclusions.
-* Excellent communicator and storyteller—able to translate technical work into crisp, actionable recommendations for both technical and non\-technical stakeholders, including executives.
-* Deep curiosity about GTM performance and customer behavior—you go beyond “what happened” to understand “why it happened,” while staying pragmatic and focused on impact.
-* Strong foundations in causal inference and forecasting, with experience applying methods such as DiD, synthetic control, and modern ML\-based approaches to real business problems.
-* High fluency in analytics tooling—strong SQL skills and proficiency in Python and/or R for analysis, modeling, and automation.
-
-
-**Nice to have**
-* Experience with Databricks or similar cloud data platforms / warehouses.
-* Familiarity with Hex or other notebook\-based analysis tools.
-* Experience in a high\-growth startup and/or B2B business models (e.g., pipeline, CRM, RevOps data).
-
-
-**Applicant Safety Policy: Fraud and Third\-Party Recruiters**
-*To protect you from recruitment scams, please be aware that Airwallex will not ask for bank details, sensitive ID numbers (i.e. passport), or any form of payment during the application or interview process. All official communication will come from an @* 
-*airwallex.com* 
-*email address. Please apply only through* 
-*careers.airwallex.com* 
-*or our official LinkedIn page.*
-*Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.*
-**Equal opportunity**
- Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard color, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status when making our hiring decisions. If you have a disability or special need that requires accommodation, please let us know.
+ The Company hires the best qualified candidate for the job, without regard to protected characteristics.
    
 
   
 
- Compensation Range: $125K \- $200K</description>
-        <pubDate>2026-05-08</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist - AI Products - EchoStar Corporation</title>
-        <link>https://www.linkedin.com/jobs/view/4391948172</link>
-        <description>**Company Summary**
- EchoStar is reimagining the future of connectivity. Our business reach spans satellite television service, live\-streaming and on\-demand programming, smart home installation services, mobile plans and products.
+ Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
    
 
   
 
- Today, our brands include Boost Mobile, DISH TV, Gen Mobile, Hughes and Sling TV.
+ New York applicants: Notice of Employee Rights
    
 
   
 
-**Department Summary**
- Our Technology teams challenge the status quo and reimagine capabilities across industries. Whether through research and development, technology innovation or solution engineering, our team members play a vital role in connecting consumers with the products and platforms of tomorrow.
+ SoFi is committed to an inclusive culture. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.
    
 
   
 
-**Job Duties And Responsibilities**
-**Candidates must be willing to participate in at least one in\-person interview, which may include a live whiteboarding or technical assessment session.**
- As a Staff Data Scientist in our AI Office, you will bridge the gap between complex data science and tangible business outcomes. You are responsible for solving the challenge of identifying high\-impact AI opportunities and determining their feasibility within our vast data ecosystem. By transforming large\-scale structured and unstructured data into production\-grade GenAI and machine learning solutions, you will ensure our AI products drive measurable value for our customers and the mission.
+ Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.
    
 
   
 
- What Success Looks Like (Objectives)
-   
-
-  
-
-* Partner with stakeholders to identify high\-impact, feasible opportunities for the AI Office and demonstrate how data science can drive business outcomes
-* Deliver production\-ready machine learning models for customer segmentation, churn prediction, and lifetime value estimation to directly impact department OKRs
-* Architect and deploy GenAI and LLM solutions that automate complex workflows, such as transcript analysis and compliance validation, using cutting\-edge AI applications
-* Lead the transformation of large\-scale structured and unstructured data into actionable insights that inform product strategy and user modeling
-* Collaborate with cross\-functional teams to build scalable, cloud\-based solutions while providing technical mentorship to elevate the team's collective expertise
-* Master the art of storytelling by communicating complex models and findings to both technical and non\-technical audiences via intuitive dashboards and presentations
-
-
-**Skills, Experience And Requirements**
- Core Skills and Competencies (What you’ll bring)
-   
-
-  
-
-* You don't just design models; you champion them by balancing immediate feature requests against long\-term technical health and the elimination of technical debt in production environments
-* Expert\-level mastery of statistical modeling and machine learning—including regression, clustering, and neural networks—with the ability to design and analyze rigorous A/B tests and controlled experiments
-* Advanced proficiency in building and deploying LLM\-based solutions, demonstrating a deep understanding of prompt engineering and the management of unstructured data (text and images)
-* Skilled in Python and SQL for building robust data pipelines and preprocessing large\-scale datasets using big data tools like Spark, BigQuery, or Redshift
-* A proven ability to analyze ambiguous information, make rational judgments regarding model architecture, and take responsibility for the results in a fast\-paced environment
-* Strong ability to build working relationships across teams to achieve shared goals, while utilizing enterprise platforms like AWS, Databricks, or Dataiku to maintain ML systems
-* Excellence in writing clearly and succinctly for diverse audiences, ensuring that technical findings are translated into an inspiring vision for stakeholders
-
-
-**Additional Qualifications**
-* Experience with enterprise\-level AI governance and compliance
-* Familiarity with emerging trends in multimodal AI and agentic workflows
-
-
-**Minimum Requirements**
-* Bachelor’s degree in Statistics, Machine Learning, Computer Science, Engineering, Mathematics, Physics, or a related quantitative field
-* 6\+ years of experience in data science and applied machine learning with a proven track record of delivering business impact
-* Must have at least 6 years of experience with:
-+ Python and SQL for data science and pipeline development
-+ AWS or similar cloud\-based enterprise platforms (Databricks, Dataiku)
-+ Big Data tools such as Spark, BigQuery, or Redshift
-
-
-**Salary Ranges**
- Compensation: $126,615\.00/Year \- $208,035\.00/Year
-   
-
-  
-
-**Benefits**
- We offer versatile health perks, including flexible spending accounts, HSA, a 401(k) Plan with company match, ESPP, career opportunities, and a flexible time away plan; all benefits can be viewed here: EchoStar Benefits.
-   
-
-  
-
- The base pay range shown is a guideline. Individual total compensation will vary based on factors such as qualifications, skill level, and competencies; compensation is based on the role's location and is subject to change based on work location.
-   
-
-  
-
- Candidates need to successfully complete a pre\-employment screen, which may include a drug test and DMV check. Our company is committed to fostering an inclusive and equitable workplace where every individual has the opportunity to succeed. We are dedicated to providing individuals with criminal or arrest records a fair chance of employment in accordance with local, state, and federal laws.
-   
-
-  
-
- The posting will be active for a minimum of 3 days. The active posting will continue to extend by 3 days until the position is filled.
-   
-
-  
-
- We pride ourselves on developing and promoting talent as an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. EchoStar will accommodate the sincerely held religious beliefs of employees if such accommodations are not undue hardships and are otherwise within the bounds of applicable law. All qualified applicants with arrest or conviction records will be considered for employment in accordance with local, state, and federal law. You may redact any information that identifies age, date of birth, or dates of school/graduation from your application documents before submission and throughout our application process.
-   
-
-  
-
- EchoStar will provide reasonable accommodation to otherwise qualified job applicants and employees with known physical or mental disabilities, unless doing so poses an undue hardship on the Company, poses a direct threat of substantial harm to others, or is otherwise not required by law. EchoStar has a more detailed Accommodation Policy that applies to employees. EchoStar endeavors to make echostar.com and jobs.echostar.com accessible to users. Please contact leaves@dish.com if you would like to discuss the accessibility of our website or need assistance completing the application process. This contact information is for accommodation requests only; do not use this contact information to inquire about the status of applications.
-   
-
-  
-
- Click the links to access the following statements: EEO Policy Statement, Pay Transparency, EEOC Know Your Rights (English/Spanish)</description>
-        <pubDate>2026-05-08</pubDate>
+**Internal Employees**
+ If you are a current employee, do not apply here \- please navigate to our Internal Job Board in Greenhouse to apply to our open roles.</description>
+        <pubDate>2026-05-09</pubDate>
     </item>
     
     <item>
@@ -1600,257 +1661,7 @@ San Francisco - fal</title>
   
 
  A reasonable estimate of the total compensation range for this role is $180K \- $250K per year. Total compensation may include base salary and other forms of compensation, as applicable. In determining compensation, Mulligan Funding considers a variety of factors, including but not limited to market data, relevant experience, skills, education, and certifications.</description>
-        <pubDate>2026-05-15 02:01:53.274790+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Data Scientist, District GTM - ClassDojo</title>
-        <link>https://www.linkedin.com/jobs/view/4394372119</link>
-        <description>ClassDojo's goal is to give every child on Earth an education they love.
-   
-
-  
-
- We started by building a powerful network for communication. ClassDojo’s flagship app is the \#1 communication app connecting K\-12 teachers, children, and families globally. Teachers use it to share what’s happening throughout the day through photos, videos, and messages that make parents feel like they’re there. It’s actively used in over 95% of US schools, reaching over 45 million children in 180 countries, with a team of just around 200 people \[1]. We are now beginning to use this network to give kids the best learning experiences in the world, far beyond those a standard school can provide.
-   
-
-  
-
- We hire for talent density. Our team comprises the most talented, entrepreneurial, and innovative teammates from around the world, with experience in education and large scale consumer internet companies, including Instagram, Netflix, Dropbox, Stripe, Uber, Y Combinator, and more. We’re building a company where the most talented people want to work. We believe you’ll do the best work of your life here—and you’ll pioneer the future of education, too.
-   
-
-  
-
-**The Role**
- As a Staff Data Scientist embedded with our District GTM team, you'll own the analytical work supporting ClassDojo's district growth. You'll work directly with Sales, Marketing, and Product leadership to build the systems, find the insights, and inform the decisions that move the business forward.
-   
-
-  
-
- The scope runs from raw CRM and product usage data through to the recommendations that shape how we sell, market, and prioritize. You'll build the infrastructure your work depends on, define what good data looks like, and make sure the analysis actually reaches decisions.
-   
-
-  
-
- At ClassDojo, Staff means setting the direction. You'll have real influence over how the GTM team operates, with leadership treating you as a peer.
-   
-
-  
-
-**What You’ll Do**
-* Build a pipeline analytics system the GTM team can use on their own.
-
-
- Today, our district sales org has multiple competing sources of truth (CRM, product usage, and marketing signals) and relies on ad hoc analysis to answer basic pipeline questions. The goal is a single reliable reporting model that integrates all three data sources, standardized GTM metrics, and self\-serve dashboards that let Sales check pipeline health without filing a data request.
-   
-
-  
-
-* Make data a genuine input to GTM decisions.
-
-
- You'll identify the key drivers of pipeline conversion (e.g. teacher adoption signals, district size, persona engagement), build models that predict deal likelihood, and run structured experiments with Sales and Marketing that measurably change how the team operates. In 18 months, GTM leadership will reach for data first when making targeting, messaging, and prioritization calls.
-   
-
-  
-
-* Make core B2B datasets reliable enough to build on.
-
-
- CRM, marketing, and product datasets arrive fragmented and inconsistently defined. You'll clean and structure them into stable analytical models with documented definitions, identify instrumentation gaps and resolve them with engineering, and create a foundation where new GTM analytics workstreams can be stood up quickly.
-   
-
-  
-
-* Work alongside District GTM leadership as a trusted analytical partner.
-
-
- You'll regularly work with District GTM leadership as they frame key business questions and weigh tradeoffs. You'll translate ambiguous problems into clear analytical approaches, communicate findings directly, and inform long\-term decisions about how and where we grow.
-   
-
-  
-
-* Our stack includes the following technologies:
-
-
- Salesforce (CRM)
-   
-
-  
-
-* SQL
-* dbt
-* Amazon Redshift
-* Metabase
-* Airflow
-* GitHub
-
-
-**What We're Looking For**
-* Business judgment
-
-
- You identify what actually matters in a dataset and why it matters for the business. You ask sharp questions that surface the real problem, connect analytical results to concrete GTM actions, and make sound calls when the data is incomplete.
-   
-
-  
-
-* Comfort with messy B2B data
-
-
- District GTM data arrives from multiple systems with inconsistent definitions and incomplete coverage. You treat that as a normal constraint. You can debug a messy Salesforce dataset, design robust pipelines despite imperfect inputs, and propose structural fixes when the problem is upstream.
-   
-
-  
-
-* Analytical problem solving
-
-
- You can take an ambiguous business question and turn it into a structured analytical plan. You design and analyze experiments, apply statistical reasoning to draw conclusions, and build models that improve how decisions get made.
-   
-
-  
-
-* Data engineering fluency
-
-
- Staff DS at ClassDojo means owning your own infrastructure. You can build and maintain the pipelines, dbt models, and analytical systems your work depends on, and operationalize your analysis without relying on a separate engineer. You know when instrumentation is the bottleneck and can fix it.
-   
-
-  
-
-* Communication and influence
-
-
- You communicate analytical ideas clearly to non\-technical audiences, simplify complex data problems into plain explanations, and build enough cross\-functional alignment that the analysis actually gets used.
-   
-
-  
-
-* Structured, reusable thinking
-
-
- You build frameworks that others can pick up and apply, connecting individual findings to broader GTM strategy. Your work compounds over time rather than sitting in a one\-off report.
-   
-
-  
-
-**You Will Be a Match If**
-* You have 8\+ years in data science or analytics
-* You are familiar with SQL and modern analytics tooling (dbt, Redshift / Snowflake / BigQuery)
-* You have experience working with CRM systems (Salesforce strongly preferred)
-* You have experience analyzing B2B SaaS sales pipeline, funnel, or revenue operations data
-* You have a track record of producing data work that changed how a team made decisions
-* You have experience working alongside GTM or product teams as a peer
-
-
-**Bonus**
-* You have experience in a startup or high\-growth environment
-* You are familiar with experimentation design and analysis in a GTM context
-* You have exposure to product analytics alongside sales data
-* You have background in education technology or mission\-driven organizations
-
-
- \[1] Some more context:
-   
-
-  
-
-*(If you are on LinkedIn, you will not be able to access the hyperlinks below. Once you click apply, you will be directed to our career website (if you are not on there already) and will be able to access the hyperlinks)*
-* How ClassDojo Connects Parents, Students, and Teachers
-* “Whats New on ClassDojo 2023”
-* TechCrunch Article: Second Act comes with First Profits
-
-
- Click here if you're interested in learning more about what we've been up to.
-   
-
-  
-
- We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. In accordance with the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. We are happy to accommodate any disabilities or special needs. We are a distributed company, so we hire regardless of location, as long as you are willing to have significant hours overlap with one of the Americas time zones.
-   
-
-  
-
- ClassDojo takes a number of factors into consideration when determining compensation, including geographic location, experience, and skillset. Salary ranges (United States):
-   
-
-  
-
- CA, WA, NY, NJ, CT states: $205,000 \- $245,000 (USD)
-   
-
-  
-
- All other states in the US: $174,500 \- $208,500 (USD)</description>
-        <pubDate>2026-05-15 02:01:53.274928+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Business Data Scientist, Growth and Opportunity Marketing - Google</title>
-        <link>https://www.linkedin.com/jobs/view/4414467813</link>
-        <description>Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.
-   
-
-  
-
- Note: By applying to this position you will have an opportunity to share your preferred working location from the following:
- **New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA** 
- .
- **Minimum qualifications:**
-* Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience.
-* 3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.
-
-
-**Preferred qualifications:**
-* 4 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.
-* Experience managing end\-to\-end brand measurement frameworks, including brand lift studies, Marketing Mix Modeling (MMM), or Multi\-Touch Attribution (MTA).
-* Experience with LTV modeling and user segmentation analyses.
-* Experience with querying and manipulating large data sets, particularly in SQL.
-* Experience with root cause analysis to ensure that problems are solved at both tactical and strategic levels.
-
-
-**About The Job**
- Google's leadership team hand\-picks thorny business challenges, and members of BizOps work in small teams to find solutions. As part of this team you fully immerse yourself in data collection, draw insight from analysis, and then zoom out to develop compelling, synthesized recommendations. Taking strategy one step further, you also persuasively communicate your recommendations to senior\-level executives, roll\-up your sleeves to help drive implementation and check back\-in to see the impact of your recommendations.
-   
-
-  
-
- Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems\-\-from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can\-\-changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.
-   
-
-  
-
- As a Business Data Scientist supporting marketing projects such as the Google Career Certificate, you will lead projects, translate business problems into investigative solutions, and guide our team to implement data science solutions, improve data, and build models for business insights.
-   
-
-  
-
- In this role, you will be directly responsible for providing data\-driven decisions to empower our team’s business growth. You will perform advanced analytics on complex first and third\-party data, stand up the data infrastructure enabling user insights mining, drive initiatives in experimentation and media measurement (MMMs, MMTs, etc.), and lead user segmentation modeling (through machine learning and other methods) in partnership with our Growth team.
-   
-
-  
-
- The US base salary range for this full\-time position is $138,000\-$198,000 \+ bonus \+ equity \+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
-   
-
-  
-
- Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
-   
-
-  
-
-**Responsibilities**
-* Provide support in media strategy, measurement and optimization that require expertise in advanced analytics work, with focus on marketing analytics methods and data science.
-* Improve our understanding of our customers through user segmentation and cohort exploration. Identify and quantify our highest LTV customers, and help us acquire and retain them.
-* Design and analyze controlled experiments or counterfactual causal inference studies to examine the incremental impact of our initiatives (marketing and GTM).
-* Build the data infrastructure connecting complex first\- and third\-party user logs to enable your work. Build and improve the infrastructure that you will use for modeling and analysis.
-* Work with a range of stakeholders ranging from technical to non\-technical. Synthesize and communicate business insights from advanced techniques to executives in simple language.
-
-
- Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .</description>
-        <pubDate>2026-05-15 02:01:53.275007+00:00</pubDate>
+        <pubDate>2026-05-15 13:26:50.634970+00:00</pubDate>
     </item>
     
     <item>
@@ -1917,7 +1728,74 @@ San Francisco - fal</title>
 
 
  Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .</description>
-        <pubDate>2026-05-15 02:01:53.275075+00:00</pubDate>
+        <pubDate>2026-05-15 13:26:50.635093+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Business Data Scientist, Growth and Opportunity Marketing - Google</title>
+        <link>https://www.linkedin.com/jobs/view/4414467813</link>
+        <description>Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.
+   
+
+  
+
+ Note: By applying to this position you will have an opportunity to share your preferred working location from the following:
+ **New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA** 
+ .
+ **Minimum qualifications:**
+* Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience.
+* 3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.
+
+
+**Preferred qualifications:**
+* 4 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.
+* Experience managing end\-to\-end brand measurement frameworks, including brand lift studies, Marketing Mix Modeling (MMM), or Multi\-Touch Attribution (MTA).
+* Experience with LTV modeling and user segmentation analyses.
+* Experience with querying and manipulating large data sets, particularly in SQL.
+* Experience with root cause analysis to ensure that problems are solved at both tactical and strategic levels.
+
+
+**About The Job**
+ Google's leadership team hand\-picks thorny business challenges, and members of BizOps work in small teams to find solutions. As part of this team you fully immerse yourself in data collection, draw insight from analysis, and then zoom out to develop compelling, synthesized recommendations. Taking strategy one step further, you also persuasively communicate your recommendations to senior\-level executives, roll\-up your sleeves to help drive implementation and check back\-in to see the impact of your recommendations.
+   
+
+  
+
+ Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems\-\-from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can\-\-changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.
+   
+
+  
+
+ As a Business Data Scientist supporting marketing projects such as the Google Career Certificate, you will lead projects, translate business problems into investigative solutions, and guide our team to implement data science solutions, improve data, and build models for business insights.
+   
+
+  
+
+ In this role, you will be directly responsible for providing data\-driven decisions to empower our team’s business growth. You will perform advanced analytics on complex first and third\-party data, stand up the data infrastructure enabling user insights mining, drive initiatives in experimentation and media measurement (MMMs, MMTs, etc.), and lead user segmentation modeling (through machine learning and other methods) in partnership with our Growth team.
+   
+
+  
+
+ The US base salary range for this full\-time position is $138,000\-$198,000 \+ bonus \+ equity \+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+   
+
+  
+
+ Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
+   
+
+  
+
+**Responsibilities**
+* Provide support in media strategy, measurement and optimization that require expertise in advanced analytics work, with focus on marketing analytics methods and data science.
+* Improve our understanding of our customers through user segmentation and cohort exploration. Identify and quantify our highest LTV customers, and help us acquire and retain them.
+* Design and analyze controlled experiments or counterfactual causal inference studies to examine the incremental impact of our initiatives (marketing and GTM).
+* Build the data infrastructure connecting complex first\- and third\-party user logs to enable your work. Build and improve the infrastructure that you will use for modeling and analysis.
+* Work with a range of stakeholders ranging from technical to non\-technical. Synthesize and communicate business insights from advanced techniques to executives in simple language.
+
+
+ Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .</description>
+        <pubDate>2026-05-15 13:26:50.635193+00:00</pubDate>
     </item>
     
     <item>
@@ -2058,7 +1936,7 @@ San Francisco - fal</title>
 
 
  Mulligan Funding is an Equal Opportunity Employer (EOE) and takes great pride in building a diverse work environment. Qualified applicants are considered for employment without regard to age, race, religion, gender, national origin, sexual orientation, disability or veteran status.</description>
-        <pubDate>2026-05-15 02:01:53.275142+00:00</pubDate>
+        <pubDate>2026-05-15 13:26:50.635296+00:00</pubDate>
     </item>
     
 </channel>
