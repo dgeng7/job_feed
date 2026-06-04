@@ -294,6 +294,169 @@ The Marketing Data Science team is responsible for measurement and optimization 
     </item>
     
     <item>
+        <title>Staff Data Scientist, GTM - Cursor</title>
+        <link>https://www.linkedin.com/jobs/view/4419650897</link>
+        <description>Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth\-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
+   
+
+  
+
+ Cursor is expanding rapidly into the Enterprise AI coding market, and our GTM organization is scaling just as fast. As one of the first hires on our GTM Analytics team, you'll be the most senior IC on the team — both building the data infrastructure GTM runs on and turning it into the metrics, models, and insights leadership uses to make decisions.
+   
+
+  
+
+****About The Role****
+ This is a hands\-on, high\-leverage role. You'll set the technical and analytical bar for the team. You'll own the GTM data models and pipelines that matter, build a trustworthy semantic layer reps and leadership can build from, and use that foundation to answer the hard questions about what's driving pipeline, conversion, and retention. You'll define how GTM interacts with data in an AI\-first way, work with the GTM Apps team and RevOps to keep tooling consistent, and partner with the product Data and Enterprise Engineering teams to get the data you need.
+   
+
+  
+
+****What You’ll Do****
+* Own the GTM data models and pipelines that power analysis \- building and maintaining them, setting high quality standards, and creating a safe and consistent semantic layer GTM can build on.
+* Run deep\-dive analyses on what's driving (and blocking) revenue: funnel conversion, segment performance, customer success, and rep productivity.
+* Optimize the forecasting, quota, and capacity models leadership plans against, and pressure\-test the assumptions behind them.
+* Define how GTM interacts with data in an AI\-first way—what's self\-serve via Cursor and what's prebuilt into governed dashboards and applications.
+* Partner with the product Data and Enterprise Engineering teams to ensure GTM has the data it needs and uses consistent pipelines, definitions, and models wherever possible.
+
+
+**You may be a fit if**
+* Your SQL is exceptional (non\-negotiable), and you're fluent working across large, complex datasets.
+* You've built and maintained production data pipelines and models, and you pick up unfamiliar data structures quickly—CRM and GTM systems included.
+* You've built forecasting, quota, or capacity models, and you're a strong modeler in both code and spreadsheets.
+* You're comfortable with experimentation and causal inference, and you know when a quick read beats a rigorous one—and when it doesn't.
+* You can operationalize metrics and tooling for non\-technical stakeholders so they can self\-serve.
+* You have strong analytical judgment and can move between the big picture and the details—from "how should we measure GTM health?" to "why is this one segment's conversion off?"
+* Direct experience with GTM, revenue, or sales analytics is preferred, but a strong analytics or data\-science background and the drive to go deep on the GTM domain matter more.
+* You operate with high ownership, are comfortable pushing back on senior leaders, and bias toward durable systems over one\-off decks.
+
+
+ Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth\-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
+   
+
+  
+
+ Cursor is expanding rapidly into the Enterprise AI coding market, and our GTM organization is scaling just as fast. As one of the first hires on our GTM Analytics team, you'll be the most senior IC on the team — both building the data infrastructure GTM runs on and turning it into the metrics, models, and insights leadership uses to make decisions.
+   
+
+  
+
+****What You’ll Do****
+* Own the GTM data models and pipelines that power analysis \- building and maintaining them, setting high quality standards, and creating a safe and consistent semantic layer GTM can build on.
+* Run deep\-dive analyses on what's driving (and blocking) revenue: funnel conversion, segment performance, customer success, and rep productivity.
+* Optimize the forecasting, quota, and capacity models leadership plans against, and pressure\-test the assumptions behind them.
+* Define how GTM interacts with data in an AI\-first way—what's self\-serve via Cursor and what's prebuilt into governed dashboards and applications.
+* Partner with the product Data and Enterprise Engineering teams to ensure GTM has the data it needs and uses consistent pipelines, definitions, and models wherever possible.
+
+
+**You may be a fit if**
+* Your SQL is exceptional (non\-negotiable), and you're fluent working across large, complex datasets.
+* You've built and maintained production data pipelines and models, and you pick up unfamiliar data structures quickly—CRM and GTM systems included.
+* You've built forecasting, quota, or capacity models, and you're a strong modeler in both code and spreadsheets.
+* You're comfortable with experimentation and causal inference, and you know when a quick read beats a rigorous one—and when it doesn't.
+* You can operationalize metrics and tooling for non\-technical stakeholders so they can self\-serve.
+* You have strong analytical judgment and can move between the big picture and the details—from "how should we measure GTM health?" to "why is this one segment's conversion off?"
+* Direct experience with GTM, revenue, or sales analytics is preferred, but a strong analytics or data\-science background and the drive to go deep on the GTM domain matter more.
+* You operate with high ownership, are comfortable pushing back on senior leaders, and bias toward durable systems over one\-off decks.</description>
+        <pubDate>2026-06-03</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Data Scientist - Hinge Health</title>
+        <link>https://www.linkedin.com/jobs/view/4401678815</link>
+        <description>**About The Role**
+ Hinge Health is expanding from digital PT into full musculoskeletal care through HingeSelect, which enables members to self\-select into in\-person visits, specialist referrals, and other care pathways. As we scale this offering, we need a Senior Product Data Scientist to own analytics, experimentation, and measurement across the Visits and Discovery experience.
+   
+
+  
+
+ This is a 0\-to\-1 role. You will be the dedicated data scientist on HingeSelect's discovery and visits experience, partnering directly with Product and Engineering to diagnose conversion bottlenecks, establish causal guardrails against cannibalization of existing programs, and ensure strong instrumentation so every product bet has a clear feedback loop to business impact. You will also model how provider capacity and member demand interact to optimize supply\-demand dynamics across the care network.
+   
+
+  
+
+ The ideal candidate is a strong product data scientist who is comfortable in ambiguous, greenfield environments — defining metrics from scratch, designing experiments, and building the analytics foundation for a new product surface. You should be fluent in AI\-assisted development and able to translate ambiguous business questions into rigorous analytical frameworks.
+   
+
+  
+
+ Our stack: Python, SQL, dbt, Mode, Databricks, Airflow, Statsig, AWS
+   
+
+  
+
+**What You'll Accomplish**
+* Build the measurement and experimentation foundation for HingeSelect's Visits and Discovery experience — from instrumentation design through causal analysis and metric reporting.
+* Diagnose conversion bottlenecks across the HingeSelect funnel (discovery, selection, scheduling, visit completion) and partner with Product to prioritize highest\-leverage interventions.
+* Design and execute experiments with causal guardrails to measure HingeSelect's incremental impact while detecting and preventing cannibalization of existing digital PT engagement.
+* Model supply\-demand dynamics — how provider capacity, geographic coverage, and member demand interact — to inform network strategy and capacity planning.
+* Define the data architecture for HingeSelect from scratch: event taxonomy, data models, and metric definitions that enable reliable downstream analysis and AI agent consumption.
+* Build and maintain dashboards and self\-service tools that give Product, Engineering, and leadership real\-time visibility into funnel performance and experiment results.
+* Advocate for upstream instrumentation best practices, working with Engineering to ensure events are captured server\-side with consistent schemas and timestamps.
+* Apply machine learning and predictive modeling to forecast member behavior, segment demand, and identify high\-value intervention points across the care selection journey.
+
+
+**Basic Qualifications**
+* 5\+ years of experience in Data Science, Product Analytics, or related fields.
+* 5\+ years of experience with Python and SQL, with the ability to transform complex data into actionable insights.
+* Experience designing and analyzing A/B tests and other experimental frameworks.
+* Proven ability to translate complex data into clear, actionable insights and communicate findings effectively to both technical and non\-technical stakeholders.
+* Experience building dashboards and reports for monitoring product or operational metrics using tools like Mode, Tableau, or similar.
+* Experience with productionalizing data models and ETL pipelines.
+
+
+**Preferred Qualifications**
+* 1\+ years of experience with machine learning and predictive modeling.
+* Bachelor's or Master's degree in a relevant field (Data Science, Computer Science, Engineering, Statistics, etc.).
+* Prior experience in healthcare, wellness, or digital health environments, particularly in fitness technologies or real\-time feedback systems.
+* Knowledge of cloud infrastructure and tools such as AWS, Databricks, and Airflow.
+
+
+**Hinge Health Hybrid Model**
+ We believe that remote work and in\-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week.
+   
+
+  
+
+**About Hinge Health**
+ At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1\.7 billion people worldwide. With an AI\-powered human\-centered care model, Hinge Health leverages cutting\-edge technology to improve outcomes, experiences and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post\-surgical rehabilitation – through personalized, evidence\-based care.
+   
+
+  
+
+ As the preferred partner to 50\+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,550 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at http://www.hingehealth.com/
+   
+
+  
+
+**What You'll Love About Us**
+* Inclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender\-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.
+* Planning for the future: Start saving for the future with our traditional or Roth 401k retirement plan options which include a 2% company match.
+* Modern life stipends: Manage your own learning and development.
+* Grow with us: Discounted company stock through our ESPP with easy payroll deductions.
+
+
+**Culture \&amp; Engagement**
+ Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.
+   
+
+  
+
+ By submitting your application you are acknowledging we are using your personal data as outlined in the personnel and candidate privacy policy.
+   
+
+  
+
+ Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use "@hingehealth.com" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com.
+   
+
+  
+
+ Compensation Range: $164\.8K \- $247\.2K</description>
+        <pubDate>2026-06-03</pubDate>
+    </item>
+    
+    <item>
         <title>Data Scientist - Pinterest</title>
         <link>https://www.linkedin.com/jobs/view/4422647342</link>
         <description>**About Pinterest**
@@ -1368,133 +1531,6 @@ The Marketing Data Science team is responsible for measurement and optimization 
     </item>
     
     <item>
-        <title>Data Scientist, Product Analytics - Whatnot</title>
-        <link>https://www.linkedin.com/jobs/view/4327061575</link>
-        <description>****🚀 Join the Future of Commerce with Whatnot!****
- Whatnot is the largest livestream shopping platform in North America and Europe to buy, sell, and discover the things you love. Whether it's trading cards, fashion, electronics, or live plants, our sellers are building real businesses across hundreds of categories. We're building live commerce at a scale that's never been done in the West, and there's no playbook to copy. The people here are shaping how an entirely new industry develops.
-   
-
-  
-
- As a remote co\-located team, we're inspired by our values and anchored in hubs across the US, UK, Ireland, Poland, Germany, and Australia. We move fast, stay close to our users, and focus on the work that drives the most impact.
-   
-
-  
-
- We're one of the fastest growing marketplaces and were recently named the \#1 Best Startup Employer in America by Forbes. Check out the latest Whatnot updates on our news and engineering blogs and join us as we enable anyone to turn their passion into a business and bring people together through commerce.
-   
-
-  
-
-**💻 Role**
- As Whatnot rapidly scales, data is central to shaping our product strategy and helping us build delightful, high\-performing experiences for both buyers and sellers. We’re looking for a
- **Product Data Scientist** 
- who will partner closely with Product, Engineering, Design, and Operations to drive insights, experimentation, and decision\-making across the company.
-   
-
-  
-
-**In This Role, You Will**
-**🔍 Generate Insights \&amp; Shape Product Direction**
-* Define and own the KPIs that measure product health, user engagement, and marketplace performance.
-* Analyze user behavior, product usage patterns, and marketplace dynamics to identify opportunities and inform product priorities.
-* Translate complex data into actionable recommendations for product and leadership teams.
-
-
-**🧪 Drive Experimentation \&amp; Measurement**
-* Partner with product managers and engineers to design, implement, and evaluate A/B tests and feature rollouts.
-* Develop frameworks for causal inference, impact measurement, and long\-term product evaluation.
-* Build scalable methodologies to understand feature performance and guide iteration.
-
-
-**🛠 Build Data Products \&amp; Tools**
-* Use our modern data stack to build dashboards, data pipelines, and self\-serve tools that empower teams across Whatnot.
-* Partner with engineers to improve data accessibility, ensure data quality, and support instrumentation for new product features.
-
-
-**🤝 Lead Cross\-Functional Collaboration**
-* Advocate for data\-driven decision\-making and foster a culture of measurement across the product organization.
-* Communicate insights clearly to both technical and non\-technical audiences, influencing roadmaps and strategic decisions.
-* Serve as a thought partner to product leads, shaping how we build, launch, and iterate on experiences across the platform.
-
-
-**US Based**
-**We offer flexibility to work from home or from one of our global office hubs, and we value in\-person time for planning, problem\-solving, and connection. Team members in this role must live within commuting distance of our New York, Seattle, Los Angeles, and San Francisco hubs.**
-**👋 You**
- People who do well at Whatnot tend to be comfortable figuring things out as they go, biased toward action, and genuinely curious about what they're building. They care more about outcomes than credit and stay close to the product and the people using it.
-   
-
-  
-
-**🎓 Experience \&amp; Expertise**
- As our next
- **Product Data Scientist** 
- , you bring:
-   
-
-  
-
-* 3\+ years of experience in Data Science, Decision Science, or Analytics within a product\-focused organization.
-* A bachelor’s degree in Computer Science, Economics, Statistics, or a related quantitative field or equivalent experience.
-* Proven experience applying statistical and analytical methods to real\-world product problems.
-
-
-**🧠 Technical Skills**
-* Advanced SQL skills and experience with modern data warehouses (Snowflake, BigQuery, Redshift) and tools like Spark or DBT.
-* Proficiency with Python or R for data analysis, modeling, and experimentation.
-* Experience designing and analyzing A/B tests and understanding causal inference techniques.
-* Strong data visualization skills and familiarity with BI tools for building interactive dashboards.
-
-
-**🗣 Collaboration \&amp; Leadership**
-* Ability to communicate complex ideas clearly, concisely, and impactfully across diverse stakeholders.
-* Experience leading cross\-functional projects and influencing product strategy with data.
-* Comfortable working in fast\-paced, ambiguous environments with a high degree of ownership.
-
-
-**💰Compensation**
-**For Full\-Time (Salary) US based applicants:** 
- $185,000/year to $240,000/year \+ benefits \+ equity.
-   
-
-  
-
- The salary range may be inclusive of several levels that would be applicable to the position. Final salary will be based on a number of factors including, level, relevant prior experience, skills, and expertise. This range is only inclusive of base salary, not benefits (more details below) or equity.
-   
-
-  
-
-**🎁 Benefits**
-* Flexible Time off Policy and Company\-wide Holidays (including a spring and winter break)
-* Health Insurance options including Medical, Dental, Vision
-* Work From Home Support
-+ Home office setup allowance
-+ Monthly allowance for cell phone and internet
-
-* Care benefits
-+ Monthly allowance for wellness
-+ Annual allowance towards Childcare
-+ Lifetime benefit for family planning, such as adoption or fertility expenses
-
-* Retirement; 401k offering for Traditional and Roth accounts in the US (employer match up to 4% of base salary) and Pension plans internationally
-* Monthly allowance to dogfood the app
-+ All Whatnauts are expected to develop a deep understanding of our product. We're passionate about building the best user experience, and all employees are expected to use Whatnot as both a buyer and a seller as part of their job (our dogfooding budget makes this fun and easy!).
-
-* Parental Leave
-+ 16 weeks of paid parental leave \+ one month gradual return to work \*company leave allowances run concurrently with country leave requirements which take precedence.
-
-
-****💛 EOE****
- Whatnot is proud to be an Equal Opportunity Employer. We value diversity, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, parental status, disability status, or any other status protected by local law. We believe that our work is better and our company culture is improved when we encourage, support, and respect the different skills and experiences represented within our workforce.
-   
-
-  
-
- Compensation Range: $194K \- $260K</description>
-        <pubDate>2026-05-30</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Data Scientist - Growth Measurement - Roblox</title>
         <link>https://www.linkedin.com/jobs/view/4344733586</link>
         <description>Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
@@ -1761,170 +1797,7 @@ The Marketing Data Science team is responsible for measurement and optimization 
 *Ramp.com* 
 *email addresses and will never ask for payment or sensitive personal information during the hiring process.*
  Ramp Applicant Privacy Notice</description>
-        <pubDate>2026-06-04 02:36:31.583187+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Data Scientist, GTM - Cursor</title>
-        <link>https://www.linkedin.com/jobs/view/4419650897</link>
-        <description>Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth\-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
-   
-
-  
-
- Cursor is expanding rapidly into the Enterprise AI coding market, and our GTM organization is scaling just as fast. As one of the first hires on our GTM Analytics team, you'll be the most senior IC on the team — both building the data infrastructure GTM runs on and turning it into the metrics, models, and insights leadership uses to make decisions.
-   
-
-  
-
-****About The Role****
- This is a hands\-on, high\-leverage role. You'll set the technical and analytical bar for the team. You'll own the GTM data models and pipelines that matter, build a trustworthy semantic layer reps and leadership can build from, and use that foundation to answer the hard questions about what's driving pipeline, conversion, and retention. You'll define how GTM interacts with data in an AI\-first way, work with the GTM Apps team and RevOps to keep tooling consistent, and partner with the product Data and Enterprise Engineering teams to get the data you need.
-   
-
-  
-
-****What You’ll Do****
-* Own the GTM data models and pipelines that power analysis \- building and maintaining them, setting high quality standards, and creating a safe and consistent semantic layer GTM can build on.
-* Run deep\-dive analyses on what's driving (and blocking) revenue: funnel conversion, segment performance, customer success, and rep productivity.
-* Optimize the forecasting, quota, and capacity models leadership plans against, and pressure\-test the assumptions behind them.
-* Define how GTM interacts with data in an AI\-first way—what's self\-serve via Cursor and what's prebuilt into governed dashboards and applications.
-* Partner with the product Data and Enterprise Engineering teams to ensure GTM has the data it needs and uses consistent pipelines, definitions, and models wherever possible.
-
-
-**You may be a fit if**
-* Your SQL is exceptional (non\-negotiable), and you're fluent working across large, complex datasets.
-* You've built and maintained production data pipelines and models, and you pick up unfamiliar data structures quickly—CRM and GTM systems included.
-* You've built forecasting, quota, or capacity models, and you're a strong modeler in both code and spreadsheets.
-* You're comfortable with experimentation and causal inference, and you know when a quick read beats a rigorous one—and when it doesn't.
-* You can operationalize metrics and tooling for non\-technical stakeholders so they can self\-serve.
-* You have strong analytical judgment and can move between the big picture and the details—from "how should we measure GTM health?" to "why is this one segment's conversion off?"
-* Direct experience with GTM, revenue, or sales analytics is preferred, but a strong analytics or data\-science background and the drive to go deep on the GTM domain matter more.
-* You operate with high ownership, are comfortable pushing back on senior leaders, and bias toward durable systems over one\-off decks.
-
-
- Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth\-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
-   
-
-  
-
- Cursor is expanding rapidly into the Enterprise AI coding market, and our GTM organization is scaling just as fast. As one of the first hires on our GTM Analytics team, you'll be the most senior IC on the team — both building the data infrastructure GTM runs on and turning it into the metrics, models, and insights leadership uses to make decisions.
-   
-
-  
-
-****What You’ll Do****
-* Own the GTM data models and pipelines that power analysis \- building and maintaining them, setting high quality standards, and creating a safe and consistent semantic layer GTM can build on.
-* Run deep\-dive analyses on what's driving (and blocking) revenue: funnel conversion, segment performance, customer success, and rep productivity.
-* Optimize the forecasting, quota, and capacity models leadership plans against, and pressure\-test the assumptions behind them.
-* Define how GTM interacts with data in an AI\-first way—what's self\-serve via Cursor and what's prebuilt into governed dashboards and applications.
-* Partner with the product Data and Enterprise Engineering teams to ensure GTM has the data it needs and uses consistent pipelines, definitions, and models wherever possible.
-
-
-**You may be a fit if**
-* Your SQL is exceptional (non\-negotiable), and you're fluent working across large, complex datasets.
-* You've built and maintained production data pipelines and models, and you pick up unfamiliar data structures quickly—CRM and GTM systems included.
-* You've built forecasting, quota, or capacity models, and you're a strong modeler in both code and spreadsheets.
-* You're comfortable with experimentation and causal inference, and you know when a quick read beats a rigorous one—and when it doesn't.
-* You can operationalize metrics and tooling for non\-technical stakeholders so they can self\-serve.
-* You have strong analytical judgment and can move between the big picture and the details—from "how should we measure GTM health?" to "why is this one segment's conversion off?"
-* Direct experience with GTM, revenue, or sales analytics is preferred, but a strong analytics or data\-science background and the drive to go deep on the GTM domain matter more.
-* You operate with high ownership, are comfortable pushing back on senior leaders, and bias toward durable systems over one\-off decks.</description>
-        <pubDate>2026-06-04 02:36:31.583276+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist - Hinge Health</title>
-        <link>https://www.linkedin.com/jobs/view/4401678815</link>
-        <description>**About The Role**
- Hinge Health is expanding from digital PT into full musculoskeletal care through HingeSelect, which enables members to self\-select into in\-person visits, specialist referrals, and other care pathways. As we scale this offering, we need a Senior Product Data Scientist to own analytics, experimentation, and measurement across the Visits and Discovery experience.
-   
-
-  
-
- This is a 0\-to\-1 role. You will be the dedicated data scientist on HingeSelect's discovery and visits experience, partnering directly with Product and Engineering to diagnose conversion bottlenecks, establish causal guardrails against cannibalization of existing programs, and ensure strong instrumentation so every product bet has a clear feedback loop to business impact. You will also model how provider capacity and member demand interact to optimize supply\-demand dynamics across the care network.
-   
-
-  
-
- The ideal candidate is a strong product data scientist who is comfortable in ambiguous, greenfield environments — defining metrics from scratch, designing experiments, and building the analytics foundation for a new product surface. You should be fluent in AI\-assisted development and able to translate ambiguous business questions into rigorous analytical frameworks.
-   
-
-  
-
- Our stack: Python, SQL, dbt, Mode, Databricks, Airflow, Statsig, AWS
-   
-
-  
-
-**What You'll Accomplish**
-* Build the measurement and experimentation foundation for HingeSelect's Visits and Discovery experience — from instrumentation design through causal analysis and metric reporting.
-* Diagnose conversion bottlenecks across the HingeSelect funnel (discovery, selection, scheduling, visit completion) and partner with Product to prioritize highest\-leverage interventions.
-* Design and execute experiments with causal guardrails to measure HingeSelect's incremental impact while detecting and preventing cannibalization of existing digital PT engagement.
-* Model supply\-demand dynamics — how provider capacity, geographic coverage, and member demand interact — to inform network strategy and capacity planning.
-* Define the data architecture for HingeSelect from scratch: event taxonomy, data models, and metric definitions that enable reliable downstream analysis and AI agent consumption.
-* Build and maintain dashboards and self\-service tools that give Product, Engineering, and leadership real\-time visibility into funnel performance and experiment results.
-* Advocate for upstream instrumentation best practices, working with Engineering to ensure events are captured server\-side with consistent schemas and timestamps.
-* Apply machine learning and predictive modeling to forecast member behavior, segment demand, and identify high\-value intervention points across the care selection journey.
-
-
-**Basic Qualifications**
-* 5\+ years of experience in Data Science, Product Analytics, or related fields.
-* 5\+ years of experience with Python and SQL, with the ability to transform complex data into actionable insights.
-* Experience designing and analyzing A/B tests and other experimental frameworks.
-* Proven ability to translate complex data into clear, actionable insights and communicate findings effectively to both technical and non\-technical stakeholders.
-* Experience building dashboards and reports for monitoring product or operational metrics using tools like Mode, Tableau, or similar.
-* Experience with productionalizing data models and ETL pipelines.
-
-
-**Preferred Qualifications**
-* 1\+ years of experience with machine learning and predictive modeling.
-* Bachelor's or Master's degree in a relevant field (Data Science, Computer Science, Engineering, Statistics, etc.).
-* Prior experience in healthcare, wellness, or digital health environments, particularly in fitness technologies or real\-time feedback systems.
-* Knowledge of cloud infrastructure and tools such as AWS, Databricks, and Airflow.
-
-
-**Hinge Health Hybrid Model**
- We believe that remote work and in\-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week.
-   
-
-  
-
-**About Hinge Health**
- At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1\.7 billion people worldwide. With an AI\-powered human\-centered care model, Hinge Health leverages cutting\-edge technology to improve outcomes, experiences and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post\-surgical rehabilitation – through personalized, evidence\-based care.
-   
-
-  
-
- As the preferred partner to 50\+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,550 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at http://www.hingehealth.com/
-   
-
-  
-
-**What You'll Love About Us**
-* Inclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender\-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.
-* Planning for the future: Start saving for the future with our traditional or Roth 401k retirement plan options which include a 2% company match.
-* Modern life stipends: Manage your own learning and development.
-* Grow with us: Discounted company stock through our ESPP with easy payroll deductions.
-
-
-**Culture \&amp; Engagement**
- Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.
-   
-
-  
-
- By submitting your application you are acknowledging we are using your personal data as outlined in the personnel and candidate privacy policy.
-   
-
-  
-
- Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use "@hingehealth.com" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com.
-   
-
-  
-
- Compensation Range: $164\.8K \- $247\.2K</description>
-        <pubDate>2026-06-04 02:36:31.583337+00:00</pubDate>
+        <pubDate>2026-06-04 14:32:44.523385+00:00</pubDate>
     </item>
     
     <item>
@@ -2019,7 +1892,7 @@ The Marketing Data Science team is responsible for measurement and optimization 
   
 
  Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.</description>
-        <pubDate>2026-06-04 02:36:31.583401+00:00</pubDate>
+        <pubDate>2026-06-04 14:32:44.523472+00:00</pubDate>
     </item>
     
 </channel>
