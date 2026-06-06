@@ -1353,6 +1353,150 @@ The role requires strong XFN collaboration where an ideal candidate can:
     </item>
     
     <item>
+        <title>Machine Learning Engineer (LLM inference) - GMI Cloud</title>
+        <link>https://www.linkedin.com/jobs/view/4411404889</link>
+        <description>**MLE (LLM inference)** 
+
+
+
+
+  
+
+
+
+
+
+**About US** 
+
+
+
+
+**GMI Cloud** 
+ is a fast\-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA’s prestigious Reference Platform Cloud Partner designation . We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to “build AI without limits,” providing everything they need to prototype, train, and deploy AI models quickly and reliably.
+ 
+
+
+
+
+
+
+
+
+**About this role** 
+
+
+
+
+ We are hiring a Machine Learning Engineer, LLM Optimization to build a world\-leading inference optimization team and make GMI Cloud the industry benchmark for LLM serving performance.
+ 
+
+
+
+ This role is for engineers who want to work at the frontier of AI systems. You will drive the research, validation, and productionization of the most advanced inference optimization techniques, and turn them into real competitive advantage across GMI’s inference platform.
+ 
+
+
+
+ Our goal is to make GMI the company that leads the industry in how fast we discover, evaluate, combine, and operationalize the best optimization strategies for real customer workloads. That means not only adopting the latest advances, but also defining best practices, developing our own optimization methodologies, and building the internal framework that keeps GMI ahead of the curve.
+ 
+
+
+
+ You will focus on B200\-first optimization, with support for H200 evolution, across core domains including quantization, speculative decoding, KV cache and memory management, prefill/decode disaggregation, and system\-level inference optimization. You will work closely with platform and infrastructure teams to transform cutting\-edge ideas into measurable gains in latency, throughput, cost efficiency, and production scalability.
+ 
+
+
+
+**Key Responsibilities** 
+
+
+
+* Drive frontier research and engineering in LLM inference optimization, building GMI’s industry\-leading capabilities in performance, efficiency, and scalability.
+* Develop next\-generation optimization strategies for large\-scale LLM serving across model execution, runtime systems, and production inference platforms.
+* Advance state\-of\-the\-art techniques in
+ **quantization and precision optimization** 
+ to improve throughput, latency, memory efficiency, and cost\-performance across modern GPU systems.
+* Push the frontier of
+ **speculative decoding** 
+ and related acceleration methods, including both systems and model\-level approaches for faster generation.
+* Lead innovation in
+ **KV cache and memory optimization** 
+ , improving long\-context serving efficiency, memory utilization, and multi\-tenant performance.
+* Develop advanced architectures for
+ **prefill/decode disaggregation** 
+ and other distributed inference optimization strategies for large\-scale production environments.
+* Drive
+ **system\-level optimization** 
+ across scheduling, batching, routing, gateway orchestration, adapter serving, and end\-to\-end inference efficiency.
+* Build scalable optimization frameworks, performance methodologies, and engineering practices that allow GMI to stay ahead of the industry as models, hardware, and serving patterns evolve.
+* Turn cutting\-edge optimization ideas into production\-ready capabilities that improve real\-world customer workloads across latency, throughput, quality, and cost.
+* Collaborate closely with platform, infrastructure, and product teams to make inference optimization a core technical advantage of GMI Cloud.
+
+
+
+**Required Skills** 
+
+
+
+* Strong hands\-on experience with
+ **LLM inference systems** 
+ and performance optimization.
+* Solid understanding of inference metrics and tradeoffs, including
+ **TTFT, ITL, throughput, goodput, tail latency, GPU utilization, memory efficiency, and quality/cost tradeoffs** 
+ .
+* Experience with one or more modern serving stacks such as
+ **SGLang, vLLM, TensorRT\-LLM, Triton,** 
+ or similar systems.
+* Deep familiarity with
+ **GPU\-based inference** 
+ , model serving architecture, and production bottlenecks around compute, memory bandwidth, KV\-cache behavior, and scheduling.
+* Strong experimentation skills: able to design benchmarks, interpret results, debug regressions, and produce actionable conclusions rather than isolated microbenchmark wins.
+* Comfortable working across research\-style validation and production engineering, with a bias toward measurable impact in real customer scenarios.
+* Strong coding and systems skills in
+ **Python** 
+ , with practical experience in profiling, observability, and performance debugging.
+* Clear communication skills and the ability to explain technical tradeoffs to both engineers and cross\-functional stakeholders.
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Preferred Qualifications** 
+
+
+
+* 1\+ years of hands\-on experience in
+ **LLM inference optimization** 
+ ,
+ **ML systems optimization** 
+ , or closely related areas.
+* Experience working on optimization for large\-scale model serving, such as latency reduction, throughput improvement, memory efficiency, or cost\-performance tuning.
+* Familiarity with one or more major areas of inference optimization, including
+ **quantization** 
+ ,
+ **speculative decoding** 
+ ,
+ **KV cache optimization** 
+ ,
+ **prefill/decode disaggregation** 
+ , or
+ **system\-level serving optimization** 
+ .
+* Experience with modern LLM serving stacks, GPU inference systems, or production ML infrastructure is a strong plus.</description>
+        <pubDate>2026-06-05</pubDate>
+    </item>
+    
+    <item>
         <title>Machine Learning Engineer - Expert - Mercor</title>
         <link>https://www.linkedin.com/jobs/view/4424299073</link>
         <description>**About The Job**
@@ -3627,80 +3771,6 @@ The role requires strong XFN collaboration where an ideal candidate can:
     </item>
     
     <item>
-        <title>Computer Vision/Machine Learning Engineer - The Select Group</title>
-        <link>https://www.linkedin.com/jobs/view/4419602701</link>
-        <description>**Computer Vision / Multimodal AI Engineer**
- The Select Group is looking to add a Computer Vision and Multimodal AI Engineer to a highly innovative AI team to help shape the next generation of intelligent, AI\-powered business solutions.
-   
-
-  
-
- This is an opportunity to work on complex, real\-world challenges at the intersection of Computer Vision, Vision\-Language Models (VLMs), NLP, and agentic AI. Rather than maintaining existing systems, this individual will help build and scale new capabilities that transform visual information into actionable insights and business value.
-   
-
-  
-
- We are seeking someone who enjoys experimentation, thrives in ambiguity, and can take an idea from concept through production deployment. Success in this role will come from a combination of technical depth, curiosity, and the ability to translate cutting\-edge AI technologies into practical solutions that users can rely on every day.
-   
-
-  
-
-**What You'll Be Helping Build**
-* Intelligent systems that analyze and understand visual data at scale.
-* Multimodal AI solutions that combine images, language, and reasoning to deliver richer insights.
-* Agentic AI workflows capable of surfacing recommendations and automating decision\-making processes.
-* Production\-grade AI applications that support both operational efficiencies and customer\-facing experiences.
-* Scalable architectures that enable rapid experimentation while supporting long\-term growth.
-
-
-**What Success Looks Like**
- The right person will be comfortable owning the full lifecycle of machine learning initiatives—from designing experiments and validating assumptions to deploying models and continuously improving performance.
-   
-
-  
-
- This role will have significant influence on how AI solutions are architected, evaluated, and scaled. Strong candidates are naturally inquisitive, enjoy investigating why models succeed or fail, and can turn those findings into measurable improvements.
-   
-
-  
-
-**Technical Environment**
-* Computer Vision and Machine Learning
-* Vision\-Language Models (CLIP, BLIP, Gemini, and similar frameworks)
-* Multimodal AI and reasoning systems
-* Agentic AI workflows
-* Python
-* PyTorch, TensorFlow, CoreML, or similar ML frameworks
-* Cloud\-based AI deployment environments
-* Model evaluation, optimization, and performance tuning
-
-
-**Who Tends To Excel In This Environment**
-* Engineers who have successfully deployed machine learning solutions into production.
-* Professionals who enjoy building and testing new ideas rather than simply maintaining existing systems.
-* Individuals who can move comfortably between research, experimentation, engineering, and business conversations.
-* Practitioners who are excited about emerging technologies in multimodal AI, visual reasoning, and autonomous agents.
-* Self\-starters who can operate independently while collaborating effectively across engineering, product, and business teams.
-
-
-**Why This Opportunity Stands Out**
-* Work on some of the most rapidly evolving areas of artificial intelligence.
-* Opportunity to influence architecture, strategy, and technical direction.
-* Exposure to Computer Vision, multimodal AI, VLMs, and agentic systems in production environments.
-* Collaborative team culture that values experimentation, innovation, and measurable business impact.
-* Long\-term engagement supporting the development of next\-generation AI capabilities.
-
-
- TSG is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
-   
-
-  
-
- 75557</description>
-        <pubDate>2026-06-02</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Machine Learning Engineer (Pricing) - GoFundMe</title>
         <link>https://www.linkedin.com/jobs/view/4413213352</link>
         <description>**Want to help us help others? We’re hiring!**
@@ -3855,413 +3925,6 @@ The role requires strong XFN collaboration where an ideal candidate can:
 
  Ability to understand customer workflows and translate them into actionable technical solutions</description>
         <pubDate>2026-06-01</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Staff Machine Learning Engineer - GEICO</title>
-        <link>https://www.linkedin.com/jobs/view/4408687357</link>
-        <description>**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.** 
-
-
-
-
-**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.** 
-
-
-
-
-  
-
-
-
-
-
-**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.** 
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-**Sr. Staff Machine Learning Engineer – AI Agent Platform** 
-
-
-
-
-  
-
-
-
-
-
-**Position Description** 
-
-
-
-
- GEICO is seeking an exceptional Sr. Staff ML Engineer to join our AI organization. You will serve as a technical leader and key architect for GEICO's virtual assistant platform that elevates productivity for 30K\+ internal associates and the customer experience for millions of policyholders.
- 
-
-
-
-  
-
-
-
-
-
-**Sr. Staff AI Agent Platform Engineers** 
- set the technical vision and drive the architecture of multi\-tenant services that power the building, testing, deployment, and hosting of LLM\-based AI agents. This includes multi\-agent orchestration, standardized interoperability protocols (MCP, A2A), AI agent skill ecosystems with marketplace and governance capabilities, production\-grade harness \&amp; context engineering, and guardrail frameworks for safe autonomous operation at enterprise scale.
- 
-
-
-
-  
-
-
-
-
-
-**Responsibilities** 
-
-
-
-* **Technical Vision \&amp; Architecture:** 
- Define the long\-term technical strategy for GEICO's AI agent platform — including multi\-agent orchestration, AI agent lifecycle management, evaluation frameworks, skill registries and marketplace, and workflow orchestration.
-* **AI Agent Skills \&amp; Marketplace:** 
- Architect an enterprise skill ecosystem — reusable capability packages that encode domain expertise and workflows into portable, discoverable modules. Build and govern an internal skill marketplace with versioning, security vetting, approval workflows, progressive disclosure loading, and usage analytics.
-* **Harness \&amp; Context Engineering:** 
- Lead design of production\-grade AI agent harnesses (tool dispatch, context management, error recovery, session state, fine\-grained Authn/AuthZ) that makes AI agents reliable for long\-running workflows. Apply feedforward guides (linters, architecture constraints, spec\-driven validation) and feedback sensors (test execution, LLM\-as\-judge) mixing computational and inferential controls. Design context engineering systems that treat the LLM context window as a managed resource — memory hierarchies, RAG pipelines, context compaction, scratchpads, and dynamic skill/tool loading.
-* **Platform \&amp; Interoperability:** 
- Own high\-performance platform components powering end\-to\-end agentic workflows: MCP server/registry management, A2A communication infrastructure, prompt management, workflow orchestration, guardrail enforcement, and observability pipelines.
-* **AI Safety \&amp; Governance:** 
- Establish AI agent governance frameworks including bounded autonomy, human\-in\-the\-loop escalation, audit trails, prompt guardrails, and RBAC/ABAC access controls. Extend governance to skill\-level security — vetting published skills for hidden payloads, injection vectors, and data exfiltration risks.
-* **Leadership:** 
- Collaborate cross\-functionally with data scientists, engineers, product managers, and designers. Mentor engineers at all levels. Elevate AI engineering best practices — including harness engineering patterns and agentic coding tools — across the company.
-
-
-
-  
-
-
-
-
-
-**Basic Qualifications** 
-
-
-
-* 8\+ years of professional software development experience with at least two languages (Java, C\+\+, Python, Go, or C\#).
-* 6\+ years designing and building AI/ML platforms using open\-source/cloud\-agnostic components (Elasticsearch, Qdrant, Kafka, PostgreSQL, MongoDB, Spark, Ray, Temporal, Redis, Neo4j, etc.).
-* 5\+ years managing end\-to\-end SDLCs (CI/CD, Kubernetes, testing, monitoring, production support).
-* 4\+ years building training, fine\-tuning, and inferencing systems for LLMs, especially on GPU infrastructure.
-* 3\+ years designing and operating multi\-agent or agentic AI systems in production.
-* Strong understanding of context engineering — memory architectures, RAG, context compaction, and dynamic information management for LLMs.
-* Demonstrated track record leading technical initiatives, setting architectural direction, and mentoring across teams.
-* Bachelor's degree in CS, Engineering, or related field; advanced degree highly desirable.
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications** 
-
-
-
-* 6\+ years with cloud providers (Azure, AWS), including container orchestration and GPU compute.
-* 3\+ years building agentic workflows with open\-source and proprietary LLMs (Llama, Qwen, Claude, Gpt, etc.).
-* Hands\-on experience with MCP and A2A protocols — MCP server development, AI agent card discovery, task delegation patterns.
-* Experience with harness engineering. (tool dispatch, error recovery, session state, sub\-agent coordination, planning \&amp; reasoning)
-* Experience designing AI agent skill systems: building and governing reusable skill packages, skill marketplaces with discovery, versioning, security vetting, and progressive disclosure.
-* Experience with context engineering at scale: memory hierarchies, RAG optimization, compaction/summarization, state isolation, etc.
-* Experience with multi\-agent orchestration frameworks (LangGraph, AutoGen, CrewAI).
-* Experience with LLM observability \&amp; evaluation platforms (LangSmith, Arize Phoenix, Langfuse).
-* Experience building guardrail systems (prompt injection defense, PII detection, skill\-level security auditing).
-* Understanding of AI safety, model governance, and regulatory compliance in regulated industries.
-
-
-
- If you are passionate about pushing the boundaries of generative AI platforms, thrive in a hands\-on technical leadership role, and enjoy solving complex, large\-scale problems, we encourage you to apply!
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-**Annual Salary**
-
-
-
-
- $130,000\.00 \- $300,000\.00
- 
-
-
-
- The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
- GEICO will consider sponsoring a new qualified applicant for employment authorization for this position.
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-**The GEICO Pledge:** 
-
-
-
-
-  
-
-
-
-
-
-**Great Company:** 
- At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.
- 
-
-
-
- We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.
- 
-
-
-
-  
-
-
-
-
-
-**Great Careers:** 
- We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.
- 
-
-
-
-  
-
-
-
-
-
-**Great Culture:** 
- We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi\-faceted teams led by supportive leaders</description>
-        <pubDate>2026-06-01</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Machine Learning Engineer - Arcade</title>
-        <link>https://www.linkedin.com/jobs/view/4421311615</link>
-        <description>**Senior Software Engineer, Machine Learning**
- We’re looking for a product\-minded machine learning engineer who’s excited to push the boundaries of what’s possible with AI. At Arcade, you’ll experiment with the latest models to generate visuals, motion, and language that capture brand personality — crafting the foundation for content that builds and improves itself.
-   
-
-  
-
- This is a highly collaborative and high\-impact role. You’ll partner closely with design, engineering, and product to build and customize machine learning models. Expect to move fast, own ambitious projects, and see your ideas shape the way people tell product stories.
-   
-
-  
-
-**Who You Are / What You’ll Do**
-* Own the ML stack end\-to\-end: Evaluate hosted models, fine\-tune open\-source ones, and build scalable pipelines for image, video, and text generation.
-* Develop brand\-aligned generation systems: Create techniques for tone, color, and style fidelity across mediums.
-* Improve generation quality: Build internal evaluation frameworks to measure realism, brand match, and creative diversity.
-* Prototype and ship: Rapidly turn research ideas into productized APIs that power Arcade’s content generation features.
-* Collaborate cross\-functionally: Work with design and marketing to define what “on\-brand” means, and with engineers to integrate ML systems into production.
-* Lay the foundation for content optimization: Build data pipelines connecting engagement metrics to model tuning.
-
-
-**What We’re Looking For**
- Strong Python \+ ML engineering background (PyTorch, diffusers, transformers, or similar).
-   
-
-  
-
-* Minimum 5 years experience with hands\-on experience fine\-tuning or training open\-source models.
-* Deep familiarity with modern inference and training tooling (LoRA, PEFT, DeepSpeed, Ray, Hugging Face, etc.).
-* Portfolio or prior work demonstrating creative use of generative models (visuals, videos, text, etc.).
-* Comfort operating across research, engineering, and product — shipping real features, not just experiments.
-* (Nice to have) Familiarity with TypeScript/Next.js and integrating ML APIs into frontend products.
-* Located in or willing to relocate to the Bay Area; occasional in\-person collaboration required.
-
-
-**Why Arcade Might Be a Great Fit for You:**
-* Be part of a small, highly technical team where engineers ship bold ideas end\-to\-end.
-* Work in a culture that values openness, ownership, collaboration, and kindness. Enjoy perks like unlimited PTO, rich health/401(k) plans, meeting\-light culture, remote stipend, and biannual retreats.
-* Enjoy working on site in San Francisco on Tuesdays and Thursdays.
-
-
-**Compensation**
-* $180k\-$300k, plus meaningful equity
-
-
-****Our values ❤️****
-* Be a coach: We want the best for our customers and ourselves. We coach people to help them achieve their best potential. An “Arcader” is both a teammate and a customer. There is a reason that the same word describes both.
-* Carry the weight: We are owners. Let’s empower each other. When we see something that needs change, we lead through it.
-* An open book: We are open as a team and as a product. We don’t put walls up unless it’s necessary. We become better when we share information. We are open to diversity of opinion, backgrounds, and thought.
-* Play as a team: We play because we’re a creator tool. Life is short. Let’s build something meaningful. We play as a team because great teams build great things together. We keep those standards high.
-* Be kind: We can be honest and kind. We can have high standards and be kind. We can say no and be kind. Kindness can vary across cultures, upbringings, and languages \- but we try our best to be kind.</description>
-        <pubDate>2026-05-30</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Machine Learning Engineer - Attentive</title>
-        <link>https://www.linkedin.com/jobs/view/4372110325</link>
-        <description>Attentive® is the AI marketing platform for 1:1 personalization redefining the way brands and people connect. We’re the only marketing platform that combines powerful technology with human expertise to build authentic customer relationships. By unifying SMS, RCS, email, and push notifications, our AI\-powered personalization engine delivers bespoke experiences that drive performance, revenue, and loyalty through real\-time behavioral insights.
-   
-
-  
-
- Recognized as the \#1 provider in SMS Marketing by G2, Attentive partners with more than 8,000 customers across 70\+ industries. Leading global brands like Crate and Barrel, Urban Outfitters, and Carter’s work with us to enable billions of interactions that power tens of billions in revenue for our customers.
-   
-
-  
-
- With a distributed global workforce and employee hubs in New York City, San Francisco, London, and Sydney, Attentive’s team has been consistently recognized for its performance and culture. We’re proud to be included in Deloitte’s Fast 500 (four years running!), LinkedIn’s Top Startups, Forbes’ Cloud 100 (five years running!), Inc.’s Best Workplaces, and the Human Rights Campaign Foundation's Corporate Equality Index!
-   
-
-  
-
-**About The Role**
- Our Machine Learning Engineering team powers personalized experiences for hundreds of millions of customers across thousands of brands. As a Senior Machine Learning Engineer, you will play a critical role in building, scaling, and operating production\-grade ML systems that drive real\-time personalization across the Attentive platform.
-   
-
-  
-
- You will operate with a high degree of ownership, partner closely with Product and Engineering, and help raise the technical bar across our ML systems in a fast\-paced, high\-impact environment.
-   
-
-  
-
-**What You’ll Accomplish**
-* Design, build, and operate scalable machine learning systems used in real\-time targeting, decisioning, personalization systems
-* Own ML projects end\-to\-end, from data exploration and modeling to deployment, monitoring, and iteration
-* Proactively safeguard model and system quality through testing, monitoring, validation, and alerting
-* Collaborate cross\-functionally with product, data, and other engineering partners to translate business problems into ML solutions
-* Continuously improve system reliability, performance, and engineering efficiency
-* Contribute to technical direction and best practices across the ML engineering team
-* Mentor and support other engineers through code reviews, design discussions, and knowledge sharing
-* Thrive in a high\-impact, fast\-paced, late\-stage startup environment
-
-
-**Your Expertise**
-* 6\+ years of professional experience building production machine\-learning software systems
-* Proven experience owning ML systems long enough to see the downstream impact of design decisions
-* Strong proficiency in Python and experience with ML frameworks such as PyTorch, TensorFlow, or xgboost
-* Experience with data processing and analytics tools such as pandas, Spark, SQL, and matplotlib
-* Hands\-on experience building automated pipelines for data processing, model training, validation, and deployment
-* Experience collaborating with cross\-functional teams to deliver ML\-powered features
-* Strong communication skills and a high sense of ownership
-
-
-**What We Use**
-* Our backend is Java / Kotlin / Spring Boot microservices, built with Gradle, coupled with things like DynamoDB, Aurora, AirFlow, Postgres, and Redis, hosted via AWS
-* Our infrastructure runs primarily in Kubernetes hosted in AWS’s EKS, using tooling like Istio, Datadog, Terraform, CloudFlare, and Helm
-* Our frontend is built with React and TypeScript, and uses best practices like GraphQL, Storybook, Radix UI, Vite, esbuild, and Playwright
-* Our automation is driven by custom and open source machine learning models, industry\-leading LLMs, lots of data and tech like Python, Metaflow, HuggingFace, PyTorch, TensorFlow, and Pandas
-
-
- You'll get competitive perks and benefits, from health \&amp; wellness to equity, to help you bring your best self to work.
-   
-
-  
-
-**For US Based Applicants**
-* The US base salary range for this full\-time position is $244,000 \- 320,000 annually \+ equity \+ benefits
-* Our salary ranges are determined by role, level and location
-
-
-**By applying for this position, your data will be processed as per Attentive's Privacy Policy.**
-**Attentive Company Values**
-**Default to Action** 
- \- Move swiftly and with purpose
-   
-
-  
-
-**Be One Unstoppable Team** 
- \- Rally as each other’s champions
-   
-
-  
-
-**Champion the Customer** 
- \- Our success is defined by our customers' success
-   
-
-  
-
-**Act Like an Owner** 
- \- Take responsibility for Attentive’s success
-   
-
-  
-
- Learn more about AWAKE, Attentive’s collective of employee resource groups.
-   
-
-  
-
- If you do not meet all the requirements listed here, we still encourage you to apply! No job description is perfect, and we may also have another opportunity that closely matches your skills and experience.
-   
-
-  
-
- At Attentive, we know that our Company's strength lies in the diversity of our employees. Attentive is an Equal Opportunity Employer and we welcome applicants from all backgrounds. Our policy is to provide equal employment opportunities for all employees, applicants and covered individuals regardless of protected characteristics. We prioritize and maintain a fair, inclusive and equitable workplace free from discrimination, harassment, and retaliation. Attentive is also committed to providing reasonable accommodations for candidates with disabilities. If you need any assistance or reasonable accommodations, please let your recruiter know.</description>
-        <pubDate>2026-05-30</pubDate>
     </item>
     
     <item>
@@ -4517,7 +4180,7 @@ The role requires strong XFN collaboration where an ideal candidate can:
 
 *PS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.*
  \#hiringmercor</description>
-        <pubDate>2026-06-06 02:02:49.090630+00:00</pubDate>
+        <pubDate>2026-06-06 13:05:56.052392+00:00</pubDate>
     </item>
     
     <item>
@@ -4581,7 +4244,141 @@ The role requires strong XFN collaboration where an ideal candidate can:
 *Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.*
 *Lyft highly values having employees working in\-office to foster a collaborative work environment and company culture. This role will be in\-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in\-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. \#Hybrid*
 *The expected base pay range for this position in the San Francisco area is $176,000\-$211,200, not inclusive of potential equity offering, bonus or benefits. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.*</description>
-        <pubDate>2026-06-06 02:02:49.090704+00:00</pubDate>
+        <pubDate>2026-06-06 13:05:56.052474+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Machine Learning Engineer, Search Assistant - Roku</title>
+        <link>https://www.linkedin.com/jobs/view/4415590021</link>
+        <description>Teamwork makes the stream work.
+ 
+  
+ 
+
+
+**Roku is changing how the world watches TV** 
+
+ Roku is the \#1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.
+ 
+
+
+
+ From your first day at Roku, you'll make a valuable \- and valued \- contribution. We're a fast\-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.
+ 
+
+
+
+  
+ 
+
+
+**About the Team** 
+
+ Roku’s Entertainment Assistant team is building the next generation of AI\-powered discovery experiences across the platform through text, voice, and conversational interactions. The team owns the end\-to\-end discovery stack, including language understanding, GenAI\-powered experiences, retrieval systems, ML\-driven ranking and personalization, and whole\-page optimization.
+   
+
+  
+
+ We focus on delivering highly personalized and context\-aware entertainment experiences while balancing user engagement, long\-term retention, and monetization across Roku surfaces. Our systems leverage modern ML and GenAI techniques, including LLMs, reinforcement learning, multi\-objective optimization, and agentic workflows, to help millions of users effortlessly discover content they love.
+   
+
+  
+
+
+
+
+**About the Role** 
+
+ We are looking for a Senior Machine Learning Tech Lead to drive ranking and personalization for Roku’s next\-generation entertainment assistant across the platform. This role sits at the intersection of Search, Recommendations, Conversational Discovery, and Monetization, with the goal of delivering highly engaging, personalized, and context\-aware entertainment experiences. You will lead the development of large\-scale ML systems that optimize for multiple objectives including user engagement, long\-term retention, satisfaction, and monetization. The role requires strong technical leadership, product intuition, and the ability to balance user experience with business impact across diverse discovery surfaces.
+ 
+
+
+
+ For California Only \- The estimated annual salary for this position is between $361,300 \- $510,000 annually. Compensation packages are based on factors unique to each candidate, including but not limited to skill set, certifications, and specific geographical location. This role is eligible for health insurance, equity awards, life insurance, disability benefits, parental leave, wellness benefits, and paid time off.    
+   
+
+     
+ 
+
+
+**What You'll Do** 
+* Lead the technical vision and roadmap for ranking, personalization, and recommendation systems powering Roku’s entertainment assistant
+* Develop and deploy state\-of\-the\-art ML models using deep learning, transformers, LLMs, bandits, reinforcement learning, and causal inference techniques
+* Build multi\-objective optimization systems balancing engagement, retention, relevance, and monetization goals
+* Drive innovation in conversational discovery, contextual recommendations, and personalized content experiences across the platform
+* Design, run, and analyze online A/B experiments tied to key product and business KPIs
+* Architect scalable ML systems, feature platforms, and data pipelines supporting rapid experimentation and long\-term growth
+* Mentor engineers and provide technical leadership across cross\-functional initiatives involving engineering, product, UX, and analytics teams
+
+
+**We're Excited If You Have** 
+* 8\+ years of industry experience (or PhD with 5\+ years) applying ML at scale in search, recommendation, ads, personalization, or related domains
+* Strong expertise in ranking systems, recommendation systems, retrieval, personalization, and multi\-objective optimization
+* Experience building large\-scale ML systems leveraging deep learning, sequence models, LLMs, reinforcement learning, or bandit frameworks
+* Strong product intuition and experience optimizing user engagement, retention, and monetization simultaneously
+* Proficiency in Python, Java, or Scala
+* Experience with distributed systems and ML infrastructure such as Spark, Airflow, streaming systems, feature stores, and cloud platforms
+* Strong technical leadership, system design, communication, and problem\-solving skills
+* MS or PhD in Computer Science, Statistics, or a related field
+
+
+
+  
+ 
+
+
+**Our Hybrid Work Approach** 
+
+ Roku fosters an inclusive and collaborative environment where teams work in the office Monday through Thursday. Fridays are flexible for remote work except for employees whose roles are required to be in the office five days a week or employees who are in offices with a five day in office policy.
+ 
+
+
+
+  
+ 
+
+
+**Benefits** 
+
+ Roku is committed to offering a diverse range of benefits as part of our compensation package to support our employees and their families. Our comprehensive benefits include global access to mental health and financial wellness support and resources. Local benefits include statutory and voluntary benefits which may include healthcare (medical, dental, and vision), life, accident, disability, commuter, and retirement options (401(k)/pension). Employees are supported in taking time off, in accordance with local leave policies and other personal needs to support their evolving work and life needs. It's important to note that not every benefit is available in all locations or for every role. For details specific to your location, please consult with your recruiter.
+ 
+
+
+
+  
+ 
+
+
+**Accommodations** 
+
+ Roku welcomes applicants of all backgrounds and provides reasonable accommodations and adjustments in accordance with applicable law. If you require reasonable accommodation at any point in the hiring process, please direct your inquiries to EmployeeRelations@Roku.com.
+ 
+
+
+
+  
+ 
+
+
+**The Roku Culture** 
+
+ Roku is a great place for people who want to work in a fast\-paced environment where everyone is focused on the company's success rather than their own. We try to surround ourselves with people who are great at their jobs, who are easy to work with, and who keep their egos in check. We appreciate a sense of humor. We believe a fewer number of very talented folks can do more for less cost than a larger number of less talented teams. We're independent thinkers with big ideas who act boldly, move fast and accomplish extraordinary things through collaboration and trust. In short, at Roku you'll be part of a company that's changing how the world watches TV.
+ 
+
+
+
+ We have a unique culture that we are proud of. We think of ourselves primarily as problem\-solvers, which itself is a two\-part idea. We come up with the solution, but the solution isn't real until it is built and delivered to the customer. That penchant for action gives us a pragmatic approach to innovation, one that has served us well since 2002\.
+ 
+
+
+
+ To learn more about Roku, our global footprint, and how we've grown, visit https://www.weareroku.com/factsheet.
+ 
+
+
+
+ By providing your information, you acknowledge that you want Roku to contact you about job roles, that you have read Roku's Applicant Privacy Notice, and understand that Roku will use your information as described in that notice. If you do not wish to receive any communications from Roku regarding this role or similar roles in the future, you may unsubscribe at any time by emailing WorkforcePrivacy@Roku.com.</description>
+        <pubDate>2026-06-06 13:05:56.052559+00:00</pubDate>
     </item>
     
     <item>
@@ -4655,151 +4452,97 @@ The role requires strong XFN collaboration where an ideal candidate can:
   
 
  75557</description>
-        <pubDate>2026-06-06 02:02:49.090784+00:00</pubDate>
+        <pubDate>2026-06-06 13:05:56.052632+00:00</pubDate>
     </item>
     
     <item>
-        <title>Machine Learning Engineer (LLM inference) - GMI Cloud</title>
-        <link>https://www.linkedin.com/jobs/view/4411404889</link>
-        <description>**MLE (LLM inference)** 
-
-
-
-
-  
-
-
-
-
-
-**About US** 
-
-
-
-
-**GMI Cloud** 
- is a fast\-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA’s prestigious Reference Platform Cloud Partner designation . We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to “build AI without limits,” providing everything they need to prototype, train, and deploy AI models quickly and reliably.
- 
-
-
-
-
-
-
-
-
-**About this role** 
-
-
-
-
- We are hiring a Machine Learning Engineer, LLM Optimization to build a world\-leading inference optimization team and make GMI Cloud the industry benchmark for LLM serving performance.
- 
-
-
-
- This role is for engineers who want to work at the frontier of AI systems. You will drive the research, validation, and productionization of the most advanced inference optimization techniques, and turn them into real competitive advantage across GMI’s inference platform.
- 
-
-
-
- Our goal is to make GMI the company that leads the industry in how fast we discover, evaluate, combine, and operationalize the best optimization strategies for real customer workloads. That means not only adopting the latest advances, but also defining best practices, developing our own optimization methodologies, and building the internal framework that keeps GMI ahead of the curve.
- 
-
-
-
- You will focus on B200\-first optimization, with support for H200 evolution, across core domains including quantization, speculative decoding, KV cache and memory management, prefill/decode disaggregation, and system\-level inference optimization. You will work closely with platform and infrastructure teams to transform cutting\-edge ideas into measurable gains in latency, throughput, cost efficiency, and production scalability.
- 
-
-
-
-**Key Responsibilities** 
-
-
-
-* Drive frontier research and engineering in LLM inference optimization, building GMI’s industry\-leading capabilities in performance, efficiency, and scalability.
-* Develop next\-generation optimization strategies for large\-scale LLM serving across model execution, runtime systems, and production inference platforms.
-* Advance state\-of\-the\-art techniques in
- **quantization and precision optimization** 
- to improve throughput, latency, memory efficiency, and cost\-performance across modern GPU systems.
-* Push the frontier of
- **speculative decoding** 
- and related acceleration methods, including both systems and model\-level approaches for faster generation.
-* Lead innovation in
- **KV cache and memory optimization** 
- , improving long\-context serving efficiency, memory utilization, and multi\-tenant performance.
-* Develop advanced architectures for
- **prefill/decode disaggregation** 
- and other distributed inference optimization strategies for large\-scale production environments.
-* Drive
- **system\-level optimization** 
- across scheduling, batching, routing, gateway orchestration, adapter serving, and end\-to\-end inference efficiency.
-* Build scalable optimization frameworks, performance methodologies, and engineering practices that allow GMI to stay ahead of the industry as models, hardware, and serving patterns evolve.
-* Turn cutting\-edge optimization ideas into production\-ready capabilities that improve real\-world customer workloads across latency, throughput, quality, and cost.
-* Collaborate closely with platform, infrastructure, and product teams to make inference optimization a core technical advantage of GMI Cloud.
-
-
-
-**Required Skills** 
-
-
-
-* Strong hands\-on experience with
- **LLM inference systems** 
- and performance optimization.
-* Solid understanding of inference metrics and tradeoffs, including
- **TTFT, ITL, throughput, goodput, tail latency, GPU utilization, memory efficiency, and quality/cost tradeoffs** 
- .
-* Experience with one or more modern serving stacks such as
- **SGLang, vLLM, TensorRT\-LLM, Triton,** 
- or similar systems.
-* Deep familiarity with
- **GPU\-based inference** 
- , model serving architecture, and production bottlenecks around compute, memory bandwidth, KV\-cache behavior, and scheduling.
-* Strong experimentation skills: able to design benchmarks, interpret results, debug regressions, and produce actionable conclusions rather than isolated microbenchmark wins.
-* Comfortable working across research\-style validation and production engineering, with a bias toward measurable impact in real customer scenarios.
-* Strong coding and systems skills in
- **Python** 
- , with practical experience in profiling, observability, and performance debugging.
-* Clear communication skills and the ability to explain technical tradeoffs to both engineers and cross\-functional stakeholders.
-
-
+        <title>Staff Machine Learning Engineer - Omnissa</title>
+        <link>https://www.linkedin.com/jobs/view/4405032713</link>
+        <description>**Job Description**
+**We are Omnissa.**
+ The world is evolving quickly, and organizations everywhere—from global enterprises to educational institutions—are under pressure to deliver flexible, work\-from\-anywhere experiences. They need secure, scalable, seamless digital work environments that empower employees and customers to access applications from any device, on any cloud. That’s where Omnissa comes in. The
+ **Omnissa Platform** 
+ is the first AI driven digital work platform designed to deliver smart, seamless, and secure work experiences from anywhere. We uniquely integrate industry leading solutions in Unified Endpoint Management, Virtual Apps and Desktops, Digital Employee Experience, and Security \&amp; Compliance—all unified through shared data, identity, administration, and automation services. Built on the vision of
+ **autonomous workspaces** 
+ —self configuring, self\-healing, and self\-securing—Omnissa continuously adapts to how people work, optimizing user experience, IT efficiency, security posture, and cost. As a global private company with over 4,000 employees, we’re growing rapidly. If you're passionate about building AI systems that operate at a massive scale and shape the future of work, we’d love to meet you.
+   
 
   
 
-
-
-
+**What is the opportunity?**
+ Our platform manages millions of devices across multiple operating systems, requiring exceptional performance, scalability, availability, and resilience. You will join the
+ **AI Platform Team** 
+ , the group responsible for building foundational AI capabilities across the Omnissa product ecosystem.
+   
 
   
 
+**Responsibilities**
+ As a
+ **Staff Machine Learning Engineer** 
+ , you will design, build, and deploy machine learning systems that power predictive analytics, personalization, automation, and intelligent platform behaviors. You’ll work closely with engineering and product teams to operationalize models across our cloud scale environment while driving best in class ML engineering practices. You will own engineering initiatives end to end and help foster a culture of high ownership, continuous improvement, and engineering excellence. Here is a breakdown:
+   
+
+  
+
+* Design, develop, and deploy machine learning models for classification, prediction, anomaly detection, and intelligent automation.
+* Build and maintain scalable data pipelines for model training, evaluation, and real time/batch inference.
+* Optimize ML models and pipelines for performance, scalability, reliability, and cost efficiency.
+* Collaborate with cross functional teams to integrate ML solutions into core platform features and services.
+* Conduct model experimentation, evaluation, and iteration using quantitative metrics and A/B testing as needed.
+* Implement model observability, monitoring, and drift detection to ensure production reliability.
+* Stay current with advancements in machine learning, AI, and LLM technologies, and apply them to product use cases.
 
 
+**What will you bring to Omnissa?**
+* 5\+ years of experience in machine learning engineering or data science roles.
+* Strong proficiency in Python and ML frameworks (e.g., PyTorch, TensorFlow, Scikitlearn).
+* Experience building and operating data processing workflows (batch or streaming) and working with cloud platforms (AWS, Azure, or GCP).
+* Solid understanding of machine learning algorithms, statistics, and model evaluation techniques.
+* Familiarity with containerization and orchestration technologies (Docker, Kubernetes).
+* Handson experience with Large Language Models (LLMs), including finetuning, prompt engineering, and deployment.
+* Knowledge of text embedding models, and vector databases for Retrieval Augmented Generation (RAG) systems
+* Strong problem\-solving skills and the ability to collaborate effectively in Agile teams.
+* Highly motivated, adaptable, and eager to learn new technologies.
 
 
-**Preferred Qualifications** 
+**Preferred Skills**
+* Experience with distributed computing frameworks (e.g., Spark, Ray).
+* Experience with orchestration frameworks (e.g., LangChain/LangGraph) to build AI agents and multi\-agent systems.
+* Experience building feature stores or working with vector databases.
+* Knowledge of real\-time inference architectures and model monitoring systems.
+* Experience developing scalable ML services via REST/gRPC.
 
 
+**Location:** 
+ Mountain View, CA or Atlanta, GA
+   
 
-* 1\+ years of hands\-on experience in
- **LLM inference optimization** 
- ,
- **ML systems optimization** 
- , or closely related areas.
-* Experience working on optimization for large\-scale model serving, such as latency reduction, throughput improvement, memory efficiency, or cost\-performance tuning.
-* Familiarity with one or more major areas of inference optimization, including
- **quantization** 
- ,
- **speculative decoding** 
- ,
- **KV cache optimization** 
- ,
- **prefill/decode disaggregation** 
- , or
- **system\-level serving optimization** 
- .
-* Experience with modern LLM serving stacks, GPU inference systems, or production ML infrastructure is a strong plus.</description>
-        <pubDate>2026-06-06 02:02:49.090852+00:00</pubDate>
+  
+
+**Location Type:** 
+ hybrid
+   
+
+  
+
+**Travel Expectations:** 
+ None
+   
+
+  
+
+**Education:** 
+ Bachelor's Degree preferred, or equivalent combination of education and relevant professional experience.
+   
+
+  
+
+**Compensation:** 
+*The typical base salary for this role is between USD $162,512 – $342,750 per year and it may be eligible for participation in a corporate bonus program. Actual compensation offer may vary from posted hiring range based upon geographic location, work experience, education, skill level, or other relevant factors. In addition to competitive compensation, Omnissa offers a variety of benefits such as employee ownership, health insurance, 401k with matching contributions, disability insurance, paid\-time off, growth opportunities, and more.*
+**Omnissa is an Equal Employment Opportunity company and Prohibits Discrimination and Harassment of Any Kind:**
+ Omnissa is committed to the principle of equal employment opportunity and to providing a work environment free of discrimination and harassment. All employment decisions at Omnissa are based on business needs, job requirements and individual qualifications, without regard to race, color, religion, ancestry, ethnicity, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past, present, or prospective service in the uniformed services, family medical history or genetic information, family or parental status, veteran status, or any other status protected by applicable laws or regulations in the locations where we operate. Omnissa will not tolerate discrimination or harassment based on any of these characteristics. Omnissa welcomes applicants of all ages. Omnissa will provide reasonable accommodations to applicants and employees who have protected disabilities consistent with applicable federal, state and local law.</description>
+        <pubDate>2026-06-06 13:05:56.052695+00:00</pubDate>
     </item>
     
 </channel>
