@@ -519,71 +519,297 @@ Compensation Range: $170K \- $200K</description>
     </item>
     
     <item>
-        <title>Data Scientist, GTM - Cursor</title>
-        <link>https://www.linkedin.com/jobs/view/4424138352</link>
-        <description>Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth\-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
+        <title>Staff Data Scientist, Member Insights - Subscriptions - SoFi</title>
+        <link>https://www.linkedin.com/jobs/view/4375032357</link>
+        <description>**Employee Applicant Privacy Notice**
+**Who we are:**
+ Shape a brighter financial future with us.
    
 
   
 
- Cursor is expanding rapidly into the Enterprise AI coding market, and our GTM organization is scaling just as fast. As one of the first hires on our GTM Analytics team, you'll be the most senior IC on the team — both building the data infrastructure GTM runs on and turning it into the metrics, models, and insights leadership uses to make decisions.
+ Together with our members, we’re changing the way people think about and interact with personal finance.
    
 
   
 
-****About The Role****
- This is a hands\-on, high\-leverage role. You'll set the technical and analytical bar for the team. You'll own the GTM data models and pipelines that matter, build a trustworthy semantic layer reps and leadership can build from, and use that foundation to answer the hard questions about what's driving pipeline, conversion, and retention. You'll define how GTM interacts with data in an AI\-first way, work with the GTM Apps team and RevOps to keep tooling consistent, and partner with the product Data and Enterprise Engineering teams to get the data you need.
+ We’re a next\-generation financial services company and national bank using innovative, mobile\-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way.
+ **Join us to invest in yourself, your career, and the financial world.**
+ We are looking for a highly strategic and technically strong Staff Data Scientist to join the Member Data Science team, focused on driving engagement and long\-term member value, specifically for our subscription premium program, SoFi Plus. This role will be responsible for deeply understanding the drivers of engagement, retention, and subscription value across the SoFi ecosystem. You will define and own engagement measurement frameworks, lead high\-impact analytical deep dives, design causal experiments, and develop scalable data and modeling solutions that inform product strategy for SoFi Plus.
    
 
   
 
-****What You’ll Do****
-* Own the GTM data models and pipelines that power analysis \- building and maintaining them, setting high quality standards, and creating a safe and consistent semantic layer GTM can build on.
-* Run deep\-dive analyses on what's driving (and blocking) revenue: funnel conversion, segment performance, customer success, and rep productivity.
-* Optimize the forecasting, quota, and capacity models leadership plans against, and pressure\-test the assumptions behind them.
-* Define how GTM interacts with data in an AI\-first way—what's self\-serve via Cursor and what's prebuilt into governed dashboards and applications.
-* Partner with the product Data and Enterprise Engineering teams to ensure GTM has the data it needs and uses consistent pipelines, definitions, and models wherever possible.
-
-
-**You may be a fit if**
-* Your SQL is exceptional (non\-negotiable), and you're fluent working across large, complex datasets.
-* You've built and maintained production data pipelines and models, and you pick up unfamiliar data structures quickly—CRM and GTM systems included.
-* You've built forecasting, quota, or capacity models, and you're a strong modeler in both code and spreadsheets.
-* You're comfortable with experimentation and causal inference, and you know when a quick read beats a rigorous one—and when it doesn't.
-* You can operationalize metrics and tooling for non\-technical stakeholders so they can self\-serve.
-* You have strong analytical judgment and can move between the big picture and the details—from "how should we measure GTM health?" to "why is this one segment's conversion off?"
-* Direct experience with GTM, revenue, or sales analytics is preferred, but a strong analytics or data\-science background and the drive to go deep on the GTM domain matter more.
-* You operate with high ownership, are comfortable pushing back on senior leaders, and bias toward durable systems over one\-off decks.
-
-
- Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth\-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
+ The Member Organization builds engaging and personalized experiences for our members across our product lines. As a Staff Data Scientist, you will operate as a data thought partner to Product, Engineering, Lifecycle Marketing, and Leadership. You will shape the engagement roadmap through insights on activation, feature adoption, habit formation, churn risk, subscription upgrades/downgrades, and long\-term member value. You will proactively identify the most impactful opportunities to improve subscription engagement and revenue, and ensure we are making disciplined, data\-informed investment decisions. This role requires strong technical skills (SQL, Python/R, Tableau, Statistics), deep expertise in metrics, segmentation, A/B testing, and strong collaboration.
    
 
   
 
- Cursor is expanding rapidly into the Enterprise AI coding market, and our GTM organization is scaling just as fast. As one of the first hires on our GTM Analytics team, you'll be the most senior IC on the team — both building the data infrastructure GTM runs on and turning it into the metrics, models, and insights leadership uses to make decisions.
+ This is a highly cross\-functional and high\-visibility role with direct impact on member experience and recurring revenue growth. This is an exciting role for someone to make a direct impact on the company's growth trajectory and member experience.
    
 
   
 
-****What You’ll Do****
-* Own the GTM data models and pipelines that power analysis \- building and maintaining them, setting high quality standards, and creating a safe and consistent semantic layer GTM can build on.
-* Run deep\-dive analyses on what's driving (and blocking) revenue: funnel conversion, segment performance, customer success, and rep productivity.
-* Optimize the forecasting, quota, and capacity models leadership plans against, and pressure\-test the assumptions behind them.
-* Define how GTM interacts with data in an AI\-first way—what's self\-serve via Cursor and what's prebuilt into governed dashboards and applications.
-* Partner with the product Data and Enterprise Engineering teams to ensure GTM has the data it needs and uses consistent pipelines, definitions, and models wherever possible.
+**Responsibilities:**
+* Design and implement data collection and processing pipelines
+* Develop and apply machine learning models to solve business problems. Translate modeling outputs into actionable business strategies.
+* Strong experience owning product analytics workflows including formulating success metrics, socializing them across the organization, and creating dashboards/reports
+* Evaluate and interpret the results of data analysis
+* Communicate findings to influence technical and non\-technical stakeholders
+* Stay up\-to\-date on the latest data science techniques and technologies
+* Build data pipelines to deploy production level datasets
+* Proven experience building scalable dashboards and executive\-ready reports that measure product performance, subscription health, and engagement KPIs, and effectively translate insights into actionable business recommendations.
+* Experience with leveraging LLMs or other AI solutions to develop analytical tools.
 
 
-**You may be a fit if**
-* Your SQL is exceptional (non\-negotiable), and you're fluent working across large, complex datasets.
-* You've built and maintained production data pipelines and models, and you pick up unfamiliar data structures quickly—CRM and GTM systems included.
-* You've built forecasting, quota, or capacity models, and you're a strong modeler in both code and spreadsheets.
-* You're comfortable with experimentation and causal inference, and you know when a quick read beats a rigorous one—and when it doesn't.
-* You can operationalize metrics and tooling for non\-technical stakeholders so they can self\-serve.
-* You have strong analytical judgment and can move between the big picture and the details—from "how should we measure GTM health?" to "why is this one segment's conversion off?"
-* Direct experience with GTM, revenue, or sales analytics is preferred, but a strong analytics or data\-science background and the drive to go deep on the GTM domain matter more.
-* You operate with high ownership, are comfortable pushing back on senior leaders, and bias toward durable systems over one\-off decks.</description>
-        <pubDate>2026-06-05</pubDate>
+**Qualifications:**
+* Master’s degree or higher in Statistics, Economics, Applied Mathematics, Computer Science, Engineering, or related quantitative field.
+* 7\+ years of experience leveraging data\-driven analysis to influence product and business strategy, ideally in a tech or subscription\-based company.
+* Deep expertise in:
++ Retention and engagement analytics
++ Cohort and lifecycle analysis
++ Subscription metrics (churn, LTV, ARPU)
++ Experimental design and causal inference
+
+* Strong proficiency in SQL, experience with visualization tools (e.g., Tableau) and python.
+* Experience building data pipelines using DBT and orchestrating workflows with Airflow in Snowflake environments.
+* Proven experience developing and deploying machine learning models in production with monitoring frameworks.
+* Strong understanding of subscription economics and revenue optimization.
+* Demonstrated ability to work independently in ambiguous environments and drive measurable business impact.
+* Excellent communication skills, including the ability to present complex technical findings to executive audiences.
+* Track record of mentoring junior data scientists and elevating team standards.
+
+
+**Compensation And Benefits**
+ The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.
+   
+
+  
+
+ To view all of our comprehensive and competitive benefits, visit our
+ **Benefits at SoFi** 
+ page!
+   
+
+  
+
+ SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
+   
+
+  
+
+ The Company hires the best qualified candidate for the job, without regard to protected characteristics.
+   
+
+  
+
+ Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+   
+
+  
+
+ New York applicants: Notice of Employee Rights
+   
+
+  
+
+ SoFi is committed to an inclusive culture. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.
+   
+
+  
+
+ Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.
+   
+
+  
+
+**Internal Employees**
+ If you are a current employee, do not apply here \- please navigate to our Internal Job Board in Greenhouse to apply to our open roles.</description>
+        <pubDate>2026-06-06</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist - Figma</title>
+        <link>https://www.linkedin.com/jobs/view/4239984023</link>
+        <description>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!
+   
+
+  
+
+ We are looking for an experienced Data Scientist to join our growing data team. At Figma, Data Scientists are deeply embedded within cross\-functional teams across the company—from Product to Finance, Marketing, and Platform. We are hiring across a number of roles in these areas. This is ideal for someone excited to own high\-impact data projects, partner strategically with stakeholders, and shape the future of our products and business.
+   
+
+  
+
+ The ideal candidate will bring strong analytical and technical skills, business intuition, and a collaborative mindset to guide decision\-making and unlock growth opportunities. You’ll work on problems ranging from understanding user behavior to optimizing revenue strategies, improving internal tooling, and influencing product direction through experimentation and data modeling.
+   
+
+  
+
+ This is a full\-time role that can be held from one of our US hubs or remotely in the United States.
+   
+
+  
+
+ What you’ll do at Figma:
+   
+
+  
+
+* Collaborate across teams to define and measure key metrics, design experiments, and uncover insights that inform strategic decisions
+* Build models and analytical frameworks to support product, marketing, platform, or finance initiatives
+* Develop tools, datasets, and systems that enable others to work with data more efficiently and rigorously
+* Own complex data projects end\-to\-end—from problem scoping to solution delivery
+* Champion data quality, accessibility, and the democratization of data across the organization
+* Partner with Product, Engineering, Design, Research, Sales, Marketing, or Finance to drive impact
+
+
+ We'd love to hear from you if you have:
+   
+
+  
+
+* 4\+ years of experience in Analytics, Data Science, or a related field
+* Fluency in SQL and proficiency in a scripting language like Python or R
+* Experience with distributed data systems (e.g., Redshift, Snowflake, Presto, Hive, Spark)
+* Strong foundation in statistical methods, experimentation, and/or forecasting
+* A track record of working cross\-functionally and communicating effectively with both technical and non\-technical partners
+* Experience supporting one or more of the following: Product, Marketing, Finance, or internal Platform/Tooling teams
+
+
+**While it’s not required, it’s an added plus if you also have:**
+* A self\-starter attitude and the ability to thrive in ambiguous and fast\-paced environments
+
+
+ At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+   
+
+  
+
+**Pay Transparency Disclosure**
+ If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.
+   
+
+  
+
+ Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+   
+
+  
+
+ Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental \&amp; vision, retirement with company contribution, parental leave \&amp; reproductive or family planning support, mental health \&amp; wellness benefits, generous PTO, company recharge days, a learning \&amp; development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles and an annual bonus plan for eligible non\-sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future.
+   
+
+  
+
+ Annual Base Salary Range:
+   
+
+  
+
+ $140,000—$348,000 USD
+   
+
+  
+
+ At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace \- we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status
+ **,** 
+ or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+   
+
+  
+
+ We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations\-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+   
+
+  
+
+ Examples of accommodations include but are not limited to:
+   
+
+  
+
+* Holding interviews in an accessible location
+* Enabling closed captioning on video conferencing
+* Ensuring all written communication be compatible with screen readers
+* Changing the mode or format of interviews
+
+
+ To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.
+   
+
+  
+
+ By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice.</description>
+        <pubDate>2026-06-06</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Data Scientist - Network Value - Plaid</title>
+        <link>https://www.linkedin.com/jobs/view/4415582313</link>
+        <description>We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Washington D.C., London and Amsterdam.
+   
+
+  
+
+ The Network Value Data Science team is helping Plaid build an industry\-leading fintech consumer network with best\-in\-class products and user experiences. We are a product analytics team embedded in key product areas across Plaid. We support some of Plaid’s most important OKRs and help execute on product roadmaps. We translate ambiguous product questions into tractable analysis, serve as analytical thought partners throughout the org, identify opportunities to build better products, and champion a data\-first decision\-making approach everywhere we go.
+   
+
+  
+
+ You’ll be a Data Scientist supporting Remember Me. In this role, you’ll become a data and analytical thought partner to product managers and engineers, helping drive data\-informed product development for a critical user\-facing product. You’ll translate business questions into analytics projects, perform ad\-hoc and strategic analysis, improve visibility into core systems through data modeling and dashboarding, create OKRs quantifying progress against business goals, support feature ship decisions through experimentation, and build ML prototypes and causal inference models. Your work will directly support Conversion and Remember Me Enrolled Profile OKRs and help Plaid grow the size and depth of its Consumer Network.
+   
+
+  
+
+**Responsibilities**
+* Champion a data\-first approach toward decision\-making across the entire organization
+* Become the data and analytical thought partner to product managers and engineers
+* Translate business questions into analytics projects
+* Perform ad\-hoc and strategic analyses to identify opportunities for improved outcomes and support business decisions
+* Build data models and dashboards to improve visibility into core systems
+* Create OKRs quantifying progress against business goals
+* Design and analyze experiments to support feature ship decisions
+* Build ML prototypes and causal inference models
+
+
+**Qualifications**
+* 5\-8\+ years of experience as a Data Scientist or in a related analytics or data\-focused role
+* Experience with experimentation, ad\-hoc analysis, and developing strategic insights
+* Strong SQL skills and experience creating metrics that drive alignment with stakeholders
+* Experience building data pipelines with Airflow and dbt
+* Strong communication skills and experience partnering cross\-functionally with product managers, engineers, and other stakeholders
+* Experience driving data\-driven performance for user\-facing products
+* Track record of identifying novel ways to impact a top\-line OKR and influencing stakeholders on prioritization, roadmapping, and/or execution
+
+
+**Nice To Have**
+* Fintech experience and experience working with raw fintech data
+* Experience with causal inference, machine learning, and Python
+
+
+ Our mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem more equitable. We recognize that strong qualifications can come from both prior work experiences and lived experiences. We encourage you to apply to a role even if your experience doesn't fully match the job description. We are always looking for team members that will bring something unique to Plaid!
+   
+
+  
+
+ Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.
+   
+
+  
+
+ Please review our Candidate Privacy Notice here.
+   
+
+  
+
+ Additional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.
+   
+
+  
+
+ Compensation Range: $190\.8K \- $262\.8K</description>
+        <pubDate>2026-06-06</pubDate>
     </item>
     
     <item>
@@ -665,71 +891,288 @@ Compensation Range: $170K \- $200K</description>
 * We’ll consider remote
 
 
- Compensation Range: $160K \- $180K</description>
+ Compensation Range: $300K \- $400K</description>
         <pubDate>2026-06-05</pubDate>
     </item>
     
     <item>
-        <title>Senior Data Scientist, Analytics - Discord</title>
-        <link>https://www.linkedin.com/jobs/view/4388983970</link>
-        <description>Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform:
- **play video games.** 
- Over 90% of our users play games, spending a combined 1\.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games.
+        <title>Staff Data Scientist, Pricing - GoFundMe</title>
+        <link>https://www.linkedin.com/jobs/view/4367302178</link>
+        <description>**Want to help us help others? We’re hiring!**
+ GoFundMe is the world’s most powerful community for good, dedicated to helping people help each other. By uniting individuals and nonprofits in one place, GoFundMe makes it easy and safe for people to ask for help and support causes—for themselves and each other. Together, our community has raised more than $40 billion since 2010\.
    
 
   
 
- As a member of the Data Science \&amp; Analytics team, you will help Discord achieve its mission of making it easier and more fun for people to talk and hang out before, during, and after playing games. Senior Data Scientists for Analytics leverage their deep analytical skills and product intuition to solve a wide array of complex problems \- from strategic analysis to dashboard creation and experimentation design and analysis. We are currently hiring across a variety of data science verticals and teams. If you’re passionate about data, impact, and working on an amazing team, read on!
+ We’re looking for a Staff Data Scientist, Pricing to serve as the senior individual contributor driving the science, strategy, experimentation and AI deployment behind pricing and yield optimization at GoFundMe. This role sits at the intersection of economics, behavioral science, experimentation, and machine learning, with direct responsibility for optimizing donation conversion, donation amounts, and donor experience across the product.
    
 
   
 
-**What You'll Be Doing**
-* Partner with teams throughout Discord through the full lifecycle of data science analytics from ideation and exploratory analysis, to building dashboards and reports, and A/B testing
-* Define KPIs and metrics that help improve the user experience, encapsulating these measures in clean crisp dashboards that provide the company with timely and actionable information
-* Use our amazing infrastructure to quickly and easily build custom data sets to monitor novel product features and processes
-* Proactively socialize insights, dashboards, and reports with technical and non\-technical audiences, soliciting feedback on where to improve
-* Be a champion of A/B testing and help groups throughout the company design, analyze, and interpret A/B tests correctly
-* Collaborate with data and engineering teams to design scalable and future\-proof instrumentation
+**Candidates considered for this role will be located in the San Francisco Bay Area. There will be an in\-office requirement of 3x a week.**
+**The Job**
+* Own donation pricing and amount optimization end\-to\-end: Define the analytical strategy, modeling frameworks, and success metrics for pricing recommendations across product surfaces, balancing conversion, donation amounts, and long\-term donor trust.
+* Model human behavior using economics and AI: Apply economic theory, behavioral science, and machine learning to understand donor decision\-making, estimate elasticity, and predict responses to changes in product design and choice architecture.
+* Leverage non\-transactional behavioral signals: Model sparse and indirect signals (e.g., navigation, hesitation, context, device, timing) to detect shifts in intent and interaction patterns beyond observed transactions.
+* Build adaptive and reinforcement\-aware systems: Design models that learn over time using experimentation signals, feedback loops, and reinforcement concepts (e.g., contextual bandits or sequential decision\-making) where appropriate.
+* Lead experimentation and causal learning: Partner with Product and Engineering to design robust experimentation and measurement frameworks, ensuring pricing and donation models are causal\-aware, interpretable, and safe to deploy at scale.
+* Incorporate external data and context: Augment behavioral models with external datasets (macroeconomic indicators, seasonality, regional or temporal signals) to better understand and anticipate donor behavior.
+* Translate insights into action: Convert complex economic and behavioral analyses into deployable models, clear product recommendations, and measurable business impact.
+* Influence through storytelling and leadership: Communicate insights effectively to senior leaders, humanize donor behavior through narrative, and serve as a trusted thought partner on pricing and donation strategy.
+* Raise the technical bar: Set best practices for modeling rigor, validation, monitoring, and iteration; mentor other data scientists and elevate pricing science across the organization.
 
 
-**What You Should Have**
-* 4\+ years of experience autonomously translating ambiguous business problems into deep informative insights through hands\-on analytics
-* 4\+ years of experience building performant dashboards using Tableau, Looker, or similar software \- with proficiency in designing clean crisp visualizations
-* 4\+ years experience writing excellent SQL
-* Excellent communication skills, with the ability to translate complicated findings or technical approaches in easy\-to\-understand ways
-* 4\+ years of experience in the design, analysis, and interpretation of A/B tests in a large data environment
-* A desire to work with amazing, passionate people who care deeply about solving challenging problems to improve Discord
-* Last but not least \- a collaborative attitude and a healthy dose of natural curiosity!
+**You**
+**Experience \&amp; Education**
+* Either a Ph.D. in Economics, Applied Economics, or a closely related quantitative field, demonstrating the ability to push the boundaries of applied research and translate theory into practical modeling approaches OR 8\+ years of industry experience in data science, applied economics, pricing, marketplace optimization, or monetization at a high\-tech digital company, with a proven track record of owning and scaling pricing or decisioning systems.
+* Deep experience applying economic reasoning, causal inference, and behavioral modeling to real\-world decision\-making problems.
+* Demonstrated ability to own ambiguous, high\-impact problems and deliver measurable business outcomes.
 
 
-**Bonus Points**
-* Passion for Discord or online communities
-* Experience with technical leadership, being the point person for one or more stakeholder groups
-* Experience with analytics for social media or international subscription\-based online services, including familiarity with concepts such as social graphs, LTV analysis, funnel analysis, etc.
-* Experience in the user engagement and growth problems
-* Experience writing performant code in BigQuery SQL
-* Experience with writing production ETL
+**Core Skills**
+* Strong foundation in econometrics, causal inference, and behavioral modeling.
+* Deep understanding of price elasticity, choice modeling, and decision science.
+* Experience modeling noisy, sparse, or non\-transactional behavioral data.
+* Hands\-on experience designing and interpreting experiments and causal signals.
+* Familiarity with reinforcement learning, bandits, or adaptive optimization concepts (applied or research\-driven).
 
 
-*Candidates must reside in or be willing to relocate to the San Francisco Bay Area (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma counties). Relocation assistance may be available.*
-*The US base salary range for this full\-time position is $196,000 to $220,500 \+ equity \+ benefits. Our salary ranges are determined by role and level. Within the range, individual pay is determined by additional factors, including job\-related skills, experience, and relevant education or training. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include equity, or benefits.*
-**Why Discord?**
- Discord plays a uniquely important role in the future of gaming. We're a multiplatform, multigenerational and multiplayer platform that helps people deepen their friendships around games and shared interests. We believe games give us a way to have fun with our favorite people, whether listening to music together or grinding in competitive matches for diamond rank.
- **Join us in our mission! Your future is just a click away!**
-**Discord is committed to inclusion and providing reasonable accommodations during the interview process.** 
- We want you to feel set up for success, so if you are in need of reasonable accommodations, please let your recruiter know.
+**Technical Skills**
+* Advanced proficiency in Python (pandas, NumPy, scikit\-learn, PyMC/Stan or equivalent) and SQL, with the ability to build, validate, and iterate on complex analytical and modeling workflows.
+* Demonstrated ability to leverage modern AI tools and coding agents (e.g., LLM\-based assistants, autonomous or semi\-autonomous coding agents, model\-driven feature generation, synthetic data generation) to accelerate research, prototyping, and productionization of models.
+* Experience designing or applying LLM\-based or AI\-assisted solutions to complex decisioning problems (e.g., feature extraction from unstructured data, rapid experimentation, simulation, or model orchestration), beyond basic prompt usage.
+
+
+**Leadership \&amp; Collaboration**
+* Exceptional ability to tell clear, compelling stories from complex data.
+* Comfortable influencing product direction and executive decision\-making.
+* Demonstrated ability to lead without authority and elevate team practices.
+
+
+**Preferred But Not Required**
+* Experience in consumer pricing, marketplaces, or digital payments/donations.
+* Experience partnering with engineering to productionize models and AI\-driven systems, including monitoring, evaluation, and iteration in live environments.
+* Familiarity with modern data platforms (Snowflake, Databricks) and experimentation infrastructure; experience with model versioning and validation is a plus.
+* Strong data visualization, documentation, and presentation skills, with an emphasis on clarity and executive\-ready communication.
+
+
+**Why you’ll love it here**
+* Make an Impact: Be part of a mission\-driven organization making a positive difference in millions of lives every year.
+* Innovative Environment: Work with a diverse, passionate, and talented team in a fast\-paced, forward\-thinking atmosphere.
+* Collaborative Team: Join a fun and collaborative team that works hard and celebrates success together.
+* Competitive Benefits: Enjoy competitive pay and comprehensive healthcare benefits.
+* Holistic Support: Enjoy financial assistance for things like hybrid work, family planning, along with generous parental leave, flexible time\-off policies, and mental health and wellness resources to support your overall well\-being.
+* Growth Opportunities: Participate in learning, development, and recognition programs to help you thrive and grow.
+* Commitment to DEI: Contribute to diversity, equity, and inclusion through ongoing initiatives and employee resource groups.
+* Community Engagement: Make a difference through our volunteering program.
+
+
+**We live by our core values:** 
+*impatient to be great* 
+ ,
+ *find a way* 
+ ,
+ *earn trust every day* 
+ ,
+ *fueled by purpose* 
+ . Be a part of something bigger with us!
    
 
   
 
-***Please see our Applicant and Candidate Privacy Policy for details regarding Discord’s collection and usage of personal information relating to the application and recruitment process by clicking HERE.***</description>
+ GoFundMe is proud to be an equal opportunity employer that actively pursues candidates of diverse backgrounds and experiences. We do not discriminate on the basis of race, color, religion, ethnicity, nationality or national origin, sex, sexual orientation, gender, gender identity or expression, pregnancy status, marital status, age, medical condition, mental or physical disability, or military or veteran status.
+   
+
+  
+
+ The annual U.S. salary range for this full\-time position is $179,500 \- $269,500
+ *.* 
+ The company also offers equity and other benefits to employees, including healthcare, dental, vision, life insurance and 401(k) saving program. In addition to this wage, there are geolocation differentials that will increase pay depending on the work location. Additionally pay may vary depending on other factors including skills, experience, education, or training. Your recruiter can share more about the
+ **specific total compensation package** 
+ based on your location during the hiring process.
+   
+
+  
+
+ If you require a reasonable accommodation to c</description>
+        <pubDate>2026-06-05</pubDate>
+    </item>
+    
+    <item>
+        <title>Lead Data Scientist - Cohere</title>
+        <link>https://www.linkedin.com/jobs/view/4393063318</link>
+        <description>**Who are we?**
+ Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI.
+   
+
+  
+
+ We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers.
+   
+
+  
+
+ Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products.
+   
+
+  
+
+ Join us on our mission and shape the future!
+   
+
+  
+
+**Why this role?**
+ We're building the foundational infrastructure that will define how the world thinks about and deploys AI, and we want the sharpest, most curious people to help us do it. As a Lead Data Scientist on our Analytics and Data Insights team, you'll tackle problems that don't have textbook answers yet; shaping go\-to\-market strategy for technology that's still being invented, designing the experiments that prove or kill our biggest bets, and helping enterprises understand what foundational AI actually means for their bottom line. You'll own the full analytical lifecycle, from framing the right questions and building the models, to leading a team that delivers answers leadership can act on.
+   
+
+  
+
+**As a Lead Data Scientist, You Will**
+* Drive the mission forward.
+* Own the science: design and lead experimentation programs including A/B tests, multi\-armed bandits, causal inference studies, that directly map to product and go\-to\-market decisions.
+* Build predictive models that matter: develop and deploy models for forecasting, segmentation, propensity scoring, and opportunity sizing across Cohere's core business lines.
+* Lead and grow a team: manage a team of analysts and data scientists. Set the technical bar, mentor aggressively, and create an environment where exceptional people do their best work.
+* Act like an owner: no waiting around. You'll define analytical priorities, allocate resources, and push initiatives from question to production.
+* Shape strategy: partner across product, research, sales, and finance to define how Cohere grows. Your team's work will get built into products and implemented into strategy.
+
+
+**You May Be a Good Fit, If You Have**
+* Strong command of SQL, Python, and Git, alongside deep expertise in statistical inference, experimental design, and predictive modeling
+* A proven ability to turn ambiguous business questions into rigorous analytical problems, with clear and compelling recommendations to match
+* Experience leading analytics or data science teams, with a track record of making smart people faster
+* Familiarity with modern data stack tools such as BigQuery, dbt, Looker, or Airflow (nice to have, not essential)
+* Genuine excitement about AI \- you follow the research, have opinions, and enjoy being in the weeds
+* Comfort operating in ambiguity, managing complex multi\-workstream roadmaps, and distilling insights into a concise, actionable narrative
+* A leadership style grounded in empathy as much as in data
+
+
+ If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply!
+   
+
+  
+
+ We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs.
+   
+
+  
+
+ We may use AI\-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
+   
+
+  
+
+**Full\-Time Employees At Cohere Enjoy These Perks**
+ 🤝 An open and inclusive culture and work environment
+   
+
+  
+
+ 🧑‍💻 Work closely with a team on the cutting edge of AI research
+   
+
+  
+
+ 🍽 Weekly lunch stipend, in\-office lunches \&amp; snacks
+   
+
+  
+
+ 🦷 Full health and dental benefits, including a separate budget to take care of your mental health
+   
+
+  
+
+ 🐣 100% Parental Leave top\-up for up to 6 months
+   
+
+  
+
+ 🎨 Personal enrichment benefits towards arts and culture, fitness and well\-being, quality time, and workspace improvement
+   
+
+  
+
+ 🏙 Remote\-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co\-working stipend
+   
+
+  
+
+ ✈️ 6 weeks of vacation (30 working days!)</description>
+        <pubDate>2026-06-05</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist, GTM - Cursor</title>
+        <link>https://www.linkedin.com/jobs/view/4424138352</link>
+        <description>Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth\-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
+   
+
+  
+
+ Cursor is expanding rapidly into the Enterprise AI coding market, and our GTM organization is scaling just as fast. As one of the first hires on our GTM Analytics team, you'll be the most senior IC on the team — both building the data infrastructure GTM runs on and turning it into the metrics, models, and insights leadership uses to make decisions.
+   
+
+  
+
+****About The Role****
+ This is a hands\-on, high\-leverage role. You'll set the technical and analytical bar for the team. You'll own the GTM data models and pipelines that matter, build a trustworthy semantic layer reps and leadership can build from, and use that foundation to answer the hard questions about what's driving pipeline, conversion, and retention. You'll define how GTM interacts with data in an AI\-first way, work with the GTM Apps team and RevOps to keep tooling consistent, and partner with the product Data and Enterprise Engineering teams to get the data you need.
+   
+
+  
+
+****What You’ll Do****
+* Own the GTM data models and pipelines that power analysis \- building and maintaining them, setting high quality standards, and creating a safe and consistent semantic layer GTM can build on.
+* Run deep\-dive analyses on what's driving (and blocking) revenue: funnel conversion, segment performance, customer success, and rep productivity.
+* Optimize the forecasting, quota, and capacity models leadership plans against, and pressure\-test the assumptions behind them.
+* Define how GTM interacts with data in an AI\-first way—what's self\-serve via Cursor and what's prebuilt into governed dashboards and applications.
+* Partner with the product Data and Enterprise Engineering teams to ensure GTM has the data it needs and uses consistent pipelines, definitions, and models wherever possible.
+
+
+**You may be a fit if**
+* Your SQL is exceptional (non\-negotiable), and you're fluent working across large, complex datasets.
+* You've built and maintained production data pipelines and models, and you pick up unfamiliar data structures quickly—CRM and GTM systems included.
+* You've built forecasting, quota, or capacity models, and you're a strong modeler in both code and spreadsheets.
+* You're comfortable with experimentation and causal inference, and you know when a quick read beats a rigorous one—and when it doesn't.
+* You can operationalize metrics and tooling for non\-technical stakeholders so they can self\-serve.
+* You have strong analytical judgment and can move between the big picture and the details—from "how should we measure GTM health?" to "why is this one segment's conversion off?"
+* Direct experience with GTM, revenue, or sales analytics is preferred, but a strong analytics or data\-science background and the drive to go deep on the GTM domain matter more.
+* You operate with high ownership, are comfortable pushing back on senior leaders, and bias toward durable systems over one\-off decks.
+
+
+ Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth\-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
+   
+
+  
+
+ Cursor is expanding rapidly into the Enterprise AI coding market, and our GTM organization is scaling just as fast. As one of the first hires on our GTM Analytics team, you'll be the most senior IC on the team — both building the data infrastructure GTM runs on and turning it into the metrics, models, and insights leadership uses to make decisions.
+   
+
+  
+
+****What You’ll Do****
+* Own the GTM data models and pipelines that power analysis \- building and maintaining them, setting high quality standards, and creating a safe and consistent semantic layer GTM can build on.
+* Run deep\-dive analyses on what's driving (and blocking) revenue: funnel conversion, segment performance, customer success, and rep productivity.
+* Optimize the forecasting, quota, and capacity models leadership plans against, and pressure\-test the assumptions behind them.
+* Define how GTM interacts with data in an AI\-first way—what's self\-serve via Cursor and what's prebuilt into governed dashboards and applications.
+* Partner with the product Data and Enterprise Engineering teams to ensure GTM has the data it needs and uses consistent pipelines, definitions, and models wherever possible.
+
+
+**You may be a fit if**
+* Your SQL is exceptional (non\-negotiable), and you're fluent working across large, complex datasets.
+* You've built and maintained production data pipelines and models, and you pick up unfamiliar data structures quickly—CRM and GTM systems included.
+* You've built forecasting, quota, or capacity models, and you're a strong modeler in both code and spreadsheets.
+* You're comfortable with experimentation and causal inference, and you know when a quick read beats a rigorous one—and when it doesn't.
+* You can operationalize metrics and tooling for non\-technical stakeholders so they can self\-serve.
+* You have strong analytical judgment and can move between the big picture and the details—from "how should we measure GTM health?" to "why is this one segment's conversion off?"
+* Direct experience with GTM, revenue, or sales analytics is preferred, but a strong analytics or data\-science background and the drive to go deep on the GTM domain matter more.
+* You operate with high ownership, are comfortable pushing back on senior leaders, and bias toward durable systems over one\-off decks.</description>
         <pubDate>2026-06-05</pubDate>
     </item>
     
     <item>
         <title>Business Data Scientist, Growth and Opportunity Marketing - Google</title>
-        <link>https://www.linkedin.com/jobs/view/4414473750</link>
+        <link>https://www.linkedin.com/jobs/view/4414467813</link>
         <description>Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.
    
 
@@ -800,373 +1243,197 @@ Compensation Range: $170K \- $200K</description>
     </item>
     
     <item>
-        <title>Applied Scientist - Monetization Technology - Global Frontier Tech Recruitment Program - 2027 Start (PhD) - TikTok</title>
-        <link>https://www.linkedin.com/jobs/view/4404446235</link>
-        <description>**Responsibilities**
- We are looking for talented individuals to join our team in 2027\. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Launch your career where inspiration is infinite at our Company.
+        <title>Data Scientist - Zoom</title>
+        <link>https://www.linkedin.com/jobs/view/4411775515</link>
+        <description>**Immigration sponsorship not available for this position**
+**What You Can Expect**
+ You will build intelligent systems that turn product data into growth insights. Working with advanced modeling and automation, you will scale predictive analytics across products. Your work drives smarter decisions that accelerate customer growth and retention.
    
 
   
 
- Successful candidates must be able to commit to an onboarding date by end of year 2027\. Please state your availability and graduation date clearly in your resume.
+**About The Team**
+ We deliver insights that power revenue growth. Our team works across Product, Sales, and Engineering to turn data into action. We help the business understand and predict customer behavior.
    
 
   
 
- Team Introduction: Global Monetization Product and Technology team are building the next\-generation monetization platforms to help millions of customers grow their businesses, utilizing our products like TikTok. Our team develops a wide variety of advertisements for numerous uses including feeds, live streaming, branding, measurement, targeting, search, vertical solutions, creative solutions, and business integrity.
+**Responsibilities**
+* Designing scalable data models and predictive systems that inform customer growth strategies.
+* Partnering with Product and Engineering teams to ensure reliable data collection and model deployment.
+* Building automated pipelines and monitoring frameworks to maintain model accuracy and performance.
+* Translating analytical findings into clear recommendations for business and product decisions.
+* Ensuring data quality and consistency across telemetry and analytics systems.
+
+
+**What We’re Looking For**
+* 5\+ years in product analytics or applied data science
+* Demonstrate strong proficiency in SQL and Python for data modeling and analysis.
+* Apply experience building and deploying machine learning models in production environments.
+* Use statistical and experimental methods to analyze and interpret product performance.
+* Collaborate effectively with cross\-functional teams to translate data insights into business impact.
+* Manage model lifecycle processes, including monitoring, retraining, and performance optimization.
+* Leverage experience with MLOps tools such as MLflow, SageMaker, or Vertex AI.
+* Utilize data transformation and observability tools like dbt, Snowflake, or Great Expectations
+* Bring equivalent practical experience in data science, analytics, or related quantitative fields.
+
+
+**Minimum**
+**Salary Range or On Target Earnings:**
+ $98,900\.00
    
 
   
 
- Topic Content: This topic dives deep into TikTok's core global advertising scenarios, driving innovation and implementation of the cutting\-edge generative technologies in search, recommendation, and advertising. By deeply integrating foundation models with the advertising business, we address key technical challenges in Large Recommender Models and Large Language Models (LLMs) to build a next\-generation intelligent advertising engine with autonomous decision\-making capabilities.
+**Maximum**
+ $228,700\.00
    
 
   
 
- Our research covers cutting\-edge directions, including Large Recommender Model scaling laws, end\-to\-end unified modeling, generative full\-link technologies (retrieval, ranking, AIGC material generation, bidding), intelligent advertising placement agents, ultra\-long sequence modeling, and causal inference. We tackle extreme challenges of trillion\-level features and millisecond responses, advancing advertising recommendation toward the foundation model paradigm to achieve dual improvements in monetization efficiency and user experience.
+ In addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.
    
 
   
 
-**Responsibilities:**
-* Explore scaling laws for foundation models in recommendation and advertising, and build a foundation model based on unified multimodal semantic modeling.
-* Build an intelligent ad placement system optimized for users' Long\-Term Value (LTV) and long\-term ROAS, achieving an optimal balance between commercial value and user experience.
-* Optimize the full\-process training and online inference framework for foundation models, balance computing power costs and real\-time response performance, and resolve the performance\-latency trade\-off in real\-world deployment.
-
-
-**Qualifications**
- Minimum Qualifications:
+ Note: Starting pay will be based on a number of factors and commensurate with qualifications \&amp; experience.
    
 
   
 
-* Individuals who are completing or have recently completed a PhD in Computer Science, Computer Engineering, or a related technical discipline.
-* Modeling experience in one or more of the areas: Ads, Search engine, Recommender System, NLP/CV.
-* Have a solid foundation in algorithms related to LLMs, including but not limited to comprehensive learning and
-
-
- practical experience in areas such as single\-modal LLM application and deployment.
+ We also have a location based compensation structure; there may be a different range for candidates in this and other locations
    
 
   
 
-**Preferred Qualifications:**
-* Priority will be given to candidates with research results and extensive practical relevant fields, such as outstanding performance in natural language processing, computer vision, data modeling, or algorithm optimization, etc.
-* Excellent programming abilities with a strong command of data structures and fundamental algorithms. For traditional coding roles, proficiency in C/C\+\+ is required; for intelligent coding roles, proficiency in Python is required.
-* Strong publications record in top conferences (e.g., ICLR, NeurIPS, ICML, ACL, EMNLP, NACCL, CVPR, ICCV, and ECCV) is a plus.
-
-
- Job Information
+ At Zoom, we offer a window of at least 5 days for you to apply because we believe in giving you every opportunity. Below is the potential closing date, just in case you want to mark it on your calendar. We look forward to receiving your application!
    
 
   
 
-**【For Pay Transparency】Compensation Description (Annually)**
- The base salary range for this position in the selected city is $212800 \- $450000 annually.
+**Anticipated Position Close Date**
+ 06/11/26
    
 
   
 
- Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+**Ways of Working**
+ Our structured hybrid approach is centered around our offices and remote work environments. The work style of each role, Hybrid, Remote, or In\-Person is indicated in the job description/posting.
    
 
   
 
- Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+**Benefits**
+ As part of our award\-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support work\-life balance; and contribute to their community in meaningful ways. Click Learn for more information.
    
 
   
 
- The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+**About Us**
+ Zoomies help people stay connected so they can get more done together. We set out to build the best collaboration platform for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.
    
 
   
 
-**For Los Angeles County (unincorporated) Candidates:**
- Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+ We’re problem\-solvers, working at a fast pace to design solutions with our customers and users in mind. Find room to grow with opportunities to stretch your skills and advance your career in a collaborative, growth\-focused environment.
    
 
   
 
-* Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
-* Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
-* Exercising sound judgment.
-
-
-**About TikTok**
- TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+**Our Commitment**
+ At Zoom, we believe great work happens when people feel supported and empowered. We’re committed to fair hiring practices that ensure every candidate is evaluated based on skills, experience, and potential. If you require an accommodation during the hiring process, let us know—we’re here to support you at every step.
    
 
   
 
- Why Join Us
+ If you need assistance navigating the interview process due to a medical disability, please submit an Accommodations Request Form and someone from our team will reach out soon. This form is solely for applicants who require an accommodation due to a qualifying medical disability. Non\-accommodation\-related requests, such as application follow\-ups or technical issues, will not be addressed.
    
 
   
 
- Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.
-   
-
-  
-
- We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
-   
-
-  
-
- Diversity \&amp; Inclusion
-   
-
-  
-
- TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
-   
-
-  
-
- TikTok Accommodation
-   
-
-  
-
- TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA\-request</description>
-        <pubDate>2026-06-05</pubDate>
+ Our interviews are supported by BrightHire, a tool that helps us create a consistent and thoughtful interview experience and may include recordings. Please refer to our candidate privacy statement for more information of how we use your data.</description>
+        <pubDate>2026-06-04</pubDate>
     </item>
     
     <item>
-        <title>Data Scientist - Ramp</title>
-        <link>https://www.linkedin.com/jobs/view/4423030902</link>
-        <description>**About Ramp**
- Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000\+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.
+        <title>Senior Data Scientist - Family Experience - Roblox</title>
+        <link>https://www.linkedin.com/jobs/view/4424279028</link>
+        <description>Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
    
 
   
 
- The problems are high\-stakes, data\-dense, and unforgiving.
+ At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
    
 
   
 
- We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.
+ A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
    
 
   
 
- The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.
+**WHY DATA SCIENCE \&amp; ANALYTICS?**
+ The Data Science \&amp; Analytics organization's mission is to increase our speed, frequency and acumen of making decisions at scale by instilling a data\-influenced approach to building products. We cover a wide area of the data spectrum including analytical data engineering, product analytics, experimentation, causal inference, statistical modeling and machine learning. Aligned and partnering with product verticals, we use this extensive tool belt to discover new opportunities and unmet use cases, influence and shape the product roadmap and prioritization, build data products and measure impact on our community of players and developers.
    
 
   
 
- If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.
+**WHY FAMILY EXPERIENCE?**
+ Family Experience sits at the intersection of safety, product, and growth. The team is building systems that help parents engage confidently in their child’s Roblox experience, while also enabling access to important features that increasingly require parental consent in regulated markets. This role is an opportunity to shape a fast\-evolving product area with meaningful user and business impact. You will help make parent linking and consent flows simpler, improve parent engagement and perception, and be a strategic leader in product direction that strengthens both trust and growth for families and regulators globally.
    
 
   
 
-**About The Role**
- We’re looking for someone to help lead the future of analytics at Ramp. This person will enable Ramp to get 1% better every day by developing data products and insights. They will partner closely with business stakeholders and product, engineering, and design counterparts to prioritize and execute on work, improve reporting, as well as drive results and process improvements.
+**You Will**
+* Shape the Family \&amp; Experiences roadmap with strategic data science guidance across parent linking, consent, and parent engagement.
+* Identify and size the highest\-impact levers to improve parent links, engagement, and consent rates.
+* Design and evaluate features across onboarding, linking, verification, consent, and Family Hub experiences.
+* Apply experimentation and causal inference to understand how parent engagement influences child and family outcomes.
+* Define success metrics and measurement frameworks for launches, funnels, and long\-term product health.
+* Partner with Product, Engineering, Policy, Legal, and UX Research to turn ambiguous problems into clear decisions.
+* Translate friction points in the parent journey into actionable product recommendations.
+* Communicate insights to leadership and cross\-functional partners to drive prioritization and tradeoff decisions.
+
+
+**You Have**
+* 5\+ years of industry experience in data science, economics, analytics, or machine learning engineering
+* 2\+ years of experience using scripting languages (Python, R), and big data query/processing languages and tools such as SQL, Hive, Spark, and Airflow
+* Knowledge of ML and Deep Learning either via formal training or industry experience
+* Ability to apply creative first\-principles reasoning to solve ambiguous problems
+* Experience developing large\-scale safety or moderation systems as well as experience with content platforms, specifically user\-generated content
+* Advanced Degree and/or PhD in Statistics, Computer Science, Physics, Applied Math, Economics, or other related quantitative fields
+
+
+ For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job\-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full\-time employees are also eligible for equity compensation and for benefits as described on
+ **this page** 
+ .
    
 
   
 
-**What You’ll Do**
-* Full stack development, building models to consume, transform, and expose data to stakeholders and production systems
-* Drive a culture of experimental design, testing agenda, and best practices
-* Contribute to the culture of Ramp’s data team by influencing processes, tools, and systems that will allow us to make better decisions in a scalable way
-* Collaborate with P/E/D/D (product, engineering, data and design) teams to develop product roadmaps and measure success
-* Work closely with data engineering teams to capture, move, store, and transform raw data into highly actionable insights, and partner with business teams to turn those insights into action
-
-
-**What You Need**
-* Minimum of 4 years of industry experience as a Data Scientist
-* Strong knowledge of SQL (preferably Redshift, Snowflake, BigQuery) and how to write efficient SQL queries
-* Familiarity with BI tools (preferably Looker, Omni, Sigma, Hex or equivalent) and experience distributing data insights via reports and dashboards
-* Track record of shipping high quality products and features at scale
-* Ability to thrive in a fast\-paced, constantly improving, start\-up environment that focuses on solving problems with iterative technical solutions
-
-
-**Nice\-to\-Haves**
-* Experience with the modern data stack (Fivetran / Snowflake / dbt / Looker / Hightouch or equivalents)
-* Strong perspective on analytics engineering development cycle (data modeling, version control, documentation \+ testing, best practices for codebase development)
-* Experience within the payments and financial technology space
-* Familiarity with B2B enterprise sales cycle metrics and processes
-
-
-**About Our Teams**
-* Product Data \| Ramp’s Product Data team is responsible for delivering data products and insights that shape Ramp’s product direction and unlock business value. The Product Analytics team is also responsible for building out the platform through which new products are launched, instrumented, tested, and QA’d. The team embeds deeply as a partner to engineering, product, and design.
-* Risk \&amp; Capital Markets Data \| Ramp’s Risk Data team is responsible for how risk is evaluated, and building the risk infrastructure to scale to millions of businesses in the United States. Areas include risk operations and underwriting, limit setting and pricing across financial products as well as fraud detection, regulatory reporting, and capital market relationships.
-* Growth Data \| Ramp's Growth Data team ships data products and insights that allow Ramp to acquire new business and expand existing business and partnerships at scale. Current areas of focus include: Web \&amp; Martech, Outbound Automation, Customer Data Platform, Self\-Service Product, GTM Strategic Finance, and Business Systems.
-
-
- Benefits available to all full\-time Ramp employees (Global)
+ Annual Salary Range
    
 
   
 
-* Flexible PTO
-* Unlimited AI token usage
-* Centralized home\-office equipment ordering
-* Health and wellness stipend
-* Budget for intra\-office travel
-* Weekly coffee stipend
-
-
- United States
+ $221,380—$263,670 USD
    
 
   
 
-* 100% medical, dental \&amp; vision insurance coverage for you, with partial coverage for dependents
-* One Medical annual membership
-* 401(k), including employer match on contributions made while employed by Ramp
-* Fertility HRA (up to $10,000 per year)
-* Parental leave: up to 16 weeks (birthing \+ bonding) or 8 weeks (bonding only) at 100% pay
-* Pet insurance
-* In\-office perks: lunch, snacks, drinks, and more
-* Relocation support to NYC or SF (as needed)
-
-
- Canada
+ Roles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).
    
 
   
 
-* Group medical, dental, and vision coverage through Sun Life
-* Life, AD\&amp;D, and disability coverage
-* Fertility drug coverage (up to $4,000 lifetime)
-* Group Retirement Plan with employer match (RRSP \+ DPSP)
-* Parental leave: up to 16 weeks (birthing \+ bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay
-* Employee Assistance Program and virtual care through Lumino Health
-
-
- United Kingdom
+ Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
    
 
   
 
-* Private medical insurance through Freedom Elite
-* Virtual GP and at\-home care via eMed x Livi
-* Workplace pension through Penfold, with salary sacrifice option
-* Parental leave: up to 16 weeks (birthing \+ bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay
-
-
-**Referral Instructions**
- If you are being referred for the role, please contact that person to apply on your behalf.
-   
-
-  
-
-**Other Notices**
- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-
-*Beware of recruiting scams: Ramp will only contact you through official @* 
-*Ramp.com* 
-*email addresses and will never ask for payment or sensitive personal information during the hiring process.*
- Ramp Applicant Privacy Notice</description>
-        <pubDate>2026-06-03</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Staff Data Scientist, Invest - SoFi</title>
-        <link>https://www.linkedin.com/jobs/view/4383458187</link>
-        <description>**Employee Applicant Privacy Notice**
-**Who we are:**
- Shape a brighter financial future with us.
-   
-
-  
-
- Together with our members, we’re changing the way people think about and interact with personal finance.
-   
-
-  
-
- We’re a next\-generation financial services company and national bank using innovative, mobile\-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way.
- **Join us to invest in yourself, your career, and the financial world.**
-**The Role**
- We are seeking a Senior Staff Data Scientist, Invest who will help shape our Invest business strategy and product development decisions through high\-impact, data\-driven insights. The Senior Staff Data Scientist will work closely with cross\-functional partners, including Invest business leaders, Product, and Finance partners, to build and grow SoFi Invest into the premier choice for anyone looking to "Get Their Money Right" in the markets.
-   
-
-  
-
- This is a high\-leverage role with a direct impact on the product strategy and revenue growth of SoFi’s investment ecosystem. Success in this role hinges on your technical aptitude, quantitative abilities, and deep business acumen: you know how to plow through data with SQL/Python/Tableau, surface insights using math/statistics/ML techniques, and measure the business impact using efficiency/conversion/profit metrics. You treat stakeholders as a partnership – you are there at each step of the way and you know that we only succeed if we succeed together.
-   
-
-  
-
-**What You’ll Do**
-* Work with amazing product and business managers to identify strategic opportunities, measure KPIs to craft compelling stories, make data\-driven recommendations, and drive informed actions.
-* Help drive customer engagement strategies including account funding, recurring deposits, trading activity, and retention.
-* Craft, analyze, and present customer behavior metrics, such as funnel conversion, user churn, features engagement, product LTV, and cross\-sell metrics. Work with product and marketing partners to design tests to improve these metrics.
-* Drive the end\-to\-end product analytics strategy for Invest, from architecting the data instrumentation required to track the customer journey, to establishing the North Star metrics and analytical frameworks that guide our long\-term roadmap.
-* Own Invest’s end\-to\-end experimentation lifecycle, including hypothesis development, test design, and the translation of experimental results into actionable product recommendations.
-* Discover and analyze trends in customer behavior to inform decision making with a high level of confidence.
-* Present analyses to Invest business and product leaders.
-
-
-**What You’ll Need**
-* M.B.A, B.S. or M.S. in Statistics, Economics, Engineering, Computer Science, Mathematics or a related quantitative field is required for this position.
-* 8\+ years of experience working in a data science, analytics, business strategy, or related role in the investment or brokerage industry.
-* Strong programming skills in SQL, Python and proficiency in Tableau.
-* Experience in the Wealth Management or Fintech industry, and deep understanding of brokerage and market data.
-* Strong understanding of Invest P\&amp;L (profit and loss) drivers.
-* Experience with product analytics, experimentation and hypothesis testing.
-* Proven track record of end\-to\-end experience in building analytical frameworks to inform business strategy.
-* Ability to work in a dynamic, cross\-functional environment, with a strong attention to detail.
-* Effective communication and presentation skills and ability to explain complex analyses in simple terms to business leaders.
-* Exceptional problem\-solving skills.
-* Strong relationship building and collaborative skills.
-* 2\+ years of management experience
-
-
-**Compensation And Benefits**
- The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.
-   
-
-  
-
- To view all of our comprehensive and competitive benefits, visit our
- **Benefits at SoFi** 
- page!
-   
-
-  
-
- SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
-   
-
-  
-
- The Company hires the best qualified candidate for the job, without regard to protected characteristics.
-   
-
-  
-
- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-
- New York applicants: Notice of Employee Rights
-   
-
-  
-
- SoFi is committed to an inclusive culture. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.
-   
-
-  
-
- Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.
-   
-
-  
-
-**Internal Employees**
- If you are a current employee, do not apply here \- please navigate to our Internal Job Board in Greenhouse to apply to our open roles.</description>
-        <pubDate>2026-06-03</pubDate>
+ For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H\-1B sponsorship at this time.</description>
+        <pubDate>2026-06-04</pubDate>
     </item>
     
     <item>
@@ -1315,463 +1582,783 @@ Compensation Range: $170K \- $200K</description>
     </item>
     
     <item>
-        <title>Senior Data Scientist - International eKYC, Identity Graph - Socure</title>
-        <link>https://www.linkedin.com/jobs/view/4421876401</link>
-        <description>**Why Socure?**
- Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.
+        <title>Senior Data Scientist - Hinge Health</title>
+        <link>https://www.linkedin.com/jobs/view/4401678815</link>
+        <description>**About The Role**
+ Hinge Health is expanding from digital PT into full musculoskeletal care through HingeSelect, which enables members to self\-select into in\-person visits, specialist referrals, and other care pathways. As we scale this offering, we need a Senior Product Data Scientist to own analytics, experimentation, and measurement across the Visits and Discovery experience.
    
 
   
 
- We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.
+ This is a 0\-to\-1 role. You will be the dedicated data scientist on HingeSelect's discovery and visits experience, partnering directly with Product and Engineering to diagnose conversion bottlenecks, establish causal guardrails against cannibalization of existing programs, and ensure strong instrumentation so every product bet has a clear feedback loop to business impact. You will also model how provider capacity and member demand interact to optimize supply\-demand dynamics across the care network.
    
 
   
 
-**About The Role**
- The Big Data R\&amp;D team builds the core entity‑resolution and graph‑based intelligence that underpins Socure’s Verify and KYC products. As a
- **Senior Data Scientist** 
- focused on
- **international eKYC** 
- , you will be a technical leader driving the next generation of global identity verification solutions. You will design and deploy ML and graph\-based systems tailored to diverse international markets, regulations, and data ecosystems—covering government IDs, telco and credit bureaus, mobile\-first data, and non‑traditional signals.
+ The ideal candidate is a strong product data scientist who is comfortable in ambiguous, greenfield environments — defining metrics from scratch, designing experiments, and building the analytics foundation for a new product surface. You should be fluent in AI\-assisted development and able to translate ambiguous business questions into rigorous analytical frameworks.
    
 
   
 
- You will own complex, cross‑product initiatives such as international identity graph evolution, probabilistic matching for non‑US identities, and scalable evaluation frameworks that account for regional regulatory and fairness constraints. You will closely partner with Product, Engineering, Compliance, and GTM teams to launch and scale eKYC solutions across multiple countries and regions.
+ Our stack: Python, SQL, dbt, Mode, Databricks, Airflow, Statsig, AWS
+   
+
+  
+
+**What You'll Accomplish**
+* Build the measurement and experimentation foundation for HingeSelect's Visits and Discovery experience — from instrumentation design through causal analysis and metric reporting.
+* Diagnose conversion bottlenecks across the HingeSelect funnel (discovery, selection, scheduling, visit completion) and partner with Product to prioritize highest\-leverage interventions.
+* Design and execute experiments with causal guardrails to measure HingeSelect's incremental impact while detecting and preventing cannibalization of existing digital PT engagement.
+* Model supply\-demand dynamics — how provider capacity, geographic coverage, and member demand interact — to inform network strategy and capacity planning.
+* Define the data architecture for HingeSelect from scratch: event taxonomy, data models, and metric definitions that enable reliable downstream analysis and AI agent consumption.
+* Build and maintain dashboards and self\-service tools that give Product, Engineering, and leadership real\-time visibility into funnel performance and experiment results.
+* Advocate for upstream instrumentation best practices, working with Engineering to ensure events are captured server\-side with consistent schemas and timestamps.
+* Apply machine learning and predictive modeling to forecast member behavior, segment demand, and identify high\-value intervention points across the care selection journey.
+
+
+**Basic Qualifications**
+* 5\+ years of experience in Data Science, Product Analytics, or related fields.
+* 5\+ years of experience with Python and SQL, with the ability to transform complex data into actionable insights.
+* Experience designing and analyzing A/B tests and other experimental frameworks.
+* Proven ability to translate complex data into clear, actionable insights and communicate findings effectively to both technical and non\-technical stakeholders.
+* Experience building dashboards and reports for monitoring product or operational metrics using tools like Mode, Tableau, or similar.
+* Experience with productionalizing data models and ETL pipelines.
+
+
+**Preferred Qualifications**
+* 1\+ years of experience with machine learning and predictive modeling.
+* Bachelor's or Master's degree in a relevant field (Data Science, Computer Science, Engineering, Statistics, etc.).
+* Prior experience in healthcare, wellness, or digital health environments, particularly in fitness technologies or real\-time feedback systems.
+* Knowledge of cloud infrastructure and tools such as AWS, Databricks, and Airflow.
+
+
+**Hinge Health Hybrid Model**
+ We believe that remote work and in\-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week.
+   
+
+  
+
+**About Hinge Health**
+ At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1\.7 billion people worldwide. With an AI\-powered human\-centered care model, Hinge Health leverages cutting\-edge technology to improve outcomes, experiences and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post\-surgical rehabilitation – through personalized, evidence\-based care.
+   
+
+  
+
+ As the preferred partner to 50\+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,550 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at http://www.hingehealth.com/
+   
+
+  
+
+**What You'll Love About Us**
+* Inclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender\-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.
+* Planning for the future: Start saving for the future with our traditional or Roth 401k retirement plan options which include a 2% company match.
+* Modern life stipends: Manage your own learning and development.
+* Grow with us: Discounted company stock through our ESPP with easy payroll deductions.
+
+
+**Culture \&amp; Engagement**
+ Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.
+   
+
+  
+
+ By submitting your application you are acknowledging we are using your personal data as outlined in the personnel and candidate privacy policy.
+   
+
+  
+
+ Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use "@hingehealth.com" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com.
+   
+
+  
+
+ Compensation Range: $164\.8K \- $247\.2K</description>
+        <pubDate>2026-06-03</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist - Pinterest</title>
+        <link>https://www.linkedin.com/jobs/view/4422647342</link>
+        <description>**About Pinterest**
+ Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+   
+
+  
+
+ Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
+   
+
+  
+
+ At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
+   
+
+  
+
+ Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
+   
+
+  
+
+ As a Data Scientist you will shape the future of people\-facing and business\-facing products we build at Pinterest. Your expertise in quantitative modeling, experimentation and algorithms will be utilized to solve some of the most complex engineering challenges at the company. You will collaborate on a wide array of product and business problems with a diverse set of cross\-functional partners across Product, Engineering, Design, Research, Product Analytics, Data Engineering and others. The results of your work will influence and uplevel our product development teams while introducing greater scientific rigor into the real world products serving hundreds of millions of pinners, creators, advertisers and merchants around the world.
+   
+
+  
+
+**What You’ll Do**
+* Develop best practices for instrumentation and experimentation and communicate those to product engineering teams to help us fulfill our mission \- to bring everyone the inspiration to create a life they love
+* Bring scientific rigor and statistical methods to the challenges of product creation, development and improvement with an appreciation for the behaviors of our Pinners
+* Build and prototype analysis pipelines iteratively to provide insights at scale while developing comprehensive knowledge of data structures and metrics, advocating for changes where needed for product development
+* Work cross\-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest
+
+
+**What We’re Looking For**
+* 4\+ years of experience analyzing data in a fast\-paced, data\-driven environment with proven ability to apply scientific methods to solve real\-world problems on web\-scale data
+* Extensive experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields
+* Experience using machine learning and deep learning frameworks, such as PyTorch, TensorFlow or scikit\-learn
+* A scientifically rigorous approach to analysis and data, and a well\-tuned sense of skepticism, attention to detail and commitment to high\-quality, results\-oriented output
+* Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL (or other database languages) and a scripting language (Python or R)
+* Excellent communication skills and ability to explain learnings to both technical and non\-technical partners
+* A team player who’s able to partner with cross\-functional leadership to quickly turn insights into actions
+* Bachelor’s degree in Computer Science, a related field or equivalent experience
+
+
+ This position is not eligible for relocation assistance.
+   
+
+  
+
+ At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+   
+
+  
+
+*Information regarding the culture at Pinterest and benefits available for this position can be found here.*
+ US based applicants only
+   
+
+  
+
+ $101,382—$209,296 USD
+   
+
+  
+
+**Our Commitment To Inclusion**
+ Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.</description>
+        <pubDate>2026-06-03</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist, Product - Otter.ai</title>
+        <link>https://www.linkedin.com/jobs/view/4314441659</link>
+        <description>**The Opportunity**
+ As a Data Scientist at Otter.ai, you will be a key player within our Product Development organization. You will leverage your advanced data analytics skills and deep understanding of our products and market to drive strategic decision\-making, optimize engagement and monetization strategies, and accelerate product adoption. Your work will significantly enhance customer experiences and contribute to our business success.
+   
+
+  
+
+ If you are passionate about using data to drive business growth and want to be part of a team shaping the future of conversations, we invite you to apply and help us achieve our mission of making conversations more valuable.
+   
+
+  
+
+**Your Impact**
+* Collaborate with Product teams to understand business objectives and challenges, translating them into data\-driven insights and recommendations.
+* Develop and implement predictive models, analytical tools, and methodologies to analyze product usage and customer behaviors.
+* Analyze large datasets to generate actionable insights that guide the development and optimization of engagement and monetization strategies.
+* Design and Execute experiments to test hypotheses and measure the effectiveness of various features, product experiences and strategies.
+* Partner with cross\-functional teams, including Product Management and Engineering, to integrate data\-driven insights into our products and services, driving continuous improvement and innovation.
+* Present findings and recommendations to key stakeholders, including executives, to inform strategic decision\-making and shape the company’s Product roadmaps.
+* Collaborate with Data Engineers to ensure data quality, accessibility, and reliability for analysis purposes.
+* Stay current with industry trends, emerging technologies, and best practices in data science, machine learning, and AI to drive innovation and competitiveness.
+
+
+**We're Looking For Someone Who**
+* Has 3\+ years as a Data Scientist in a software technology or AI\-driven company.
+* Holds proficiency in SQL for querying large datasets, and expertise in Python and R for data manipulation, analysis, and visualization.
+* Has a strong background in data analysis, statistical modeling, and other data science techniques.
+* Is familiar with B2B SaaS business models.
+* Has an excellent ability to translate complex findings into actionable insights for non\-technical stakeholders.
+* Showcases proven ability to work effectively in cross\-functional teams and manage multiple projects simultaneously.
+* Is a strong problem solver and has the ability to thrive in a fast\-paced, dynamic start\-up environment.
+
+
+**About Otter.ai**
+ We are in the business of shaping the future of work. Our mission is to make conversations more valuable. With over 1B meetings transcribed, Otter.ai is the world’s leading tool for meeting transcription, summarization, and collaboration. Using artificial intelligence, Otter generates real\-time automated meeting notes, summaries, and other insights from in\-person and virtual meetings \- turning meetings into accessible, collaborative, and actionable data that can be shared across teams and organizations. The company is backed by early investors in Google, DeepMind, Zoom, and Tesla.
+   
+
+  
+
+ Otter.ai is an equal opportunity employer. We proudly celebrate diversity and are committed to building an inclusive and accessible workplace. We provide reasonable accommodations for qualified applicants throughout the hiring process.
+   
+
+  
+
+**Accessibility \&amp; Accommodations**
+ Otter.ai is committed to providing reasonable accommodations for candidates with disabilities in our hiring process. If you need assistance or an accommodation during any stage of the recruitment process, please contact hr@otter.ai at least 3 business days before your interview.
+   
+
+  
+
+* Otter.ai does not accept unsolicited resumes from 3rd party recruitment agencies without a written agreement in place for permanent placements. Any resume or other candidate information submitted outside of established candidate submission guidelines (including through our website or via email to any Otter.ai employee) and without a written agreement otherwise will be deemed to be our sole property, and no fee will be paid should we hire the candidate.
+
+
+**Salary range**
+ Salary Range: $155,000 to $185,000 USD per year.
+   
+
+  
+
+ This salary range represents the low and high end of the estimated salary range for this position. The actual base salary offered for the role is dependent based on several factors. Our base salary is just one component of our comprehensive total rewards package.</description>
+        <pubDate>2026-06-02</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist, Customer Experience - Whatnot</title>
+        <link>https://www.linkedin.com/jobs/view/4423298349</link>
+        <description>****🚀 Join the Future of Commerce with Whatnot!****
+ Whatnot is the largest livestream shopping platform in North America and Europe to buy, sell, and discover the things you love. Whether it's trading cards, fashion, electronics, or live plants, our sellers are building real businesses across hundreds of categories. We're building live commerce at a scale that's never been done in the West, and there's no playbook to copy. The people here are shaping how an entirely new industry develops.
+   
+
+  
+
+ As a remote co\-located team, we're inspired by our values and anchored in hubs across the US, UK, Ireland, Poland, Germany, and Australia. We move fast, stay close to our users, and focus on the work that drives the most impact.
+   
+
+  
+
+ We're one of the fastest growing marketplaces and were recently named the \#1 Best Startup Employer in America by Forbes. Check out the latest Whatnot updates on our news and engineering blogs and join us as we enable anyone to turn their passion into a business and bring people together through commerce.
+   
+
+  
+
+****💻 Role****
+ As Whatnot rapidly scales, data is central to shaping our product and operational strategy, helping us build delightful, high\-performing experiences for both buyers and sellers. This is especially important when users reach out for support. We’re looking for a
+ **Data Scientist, Customer Experience** 
+ who will partner closely with Product, Engineering, and Operations to embed the data narrative across Customer Experience products and operations, drive insights and experimentation, and ensure strong decision making across the company.
+   
+
+  
+
+* In this role, you will:
+
+
+**🔍 Generate Insights \&amp; Shape Product Direction**
+* Define and own the KPIs that measure CX health, downstream impact, product experience, and user sentiment.
+* Analyze user behavior and marketplace dynamics to identify opportunities and inform CX product and agent team priorities.
+* Measure the tradeoffs between user experience and business value.
+* Translate complex data into actionable recommendations for product and leadership teams.
+
+
+**🧪 Drive Experimentation \&amp; Measurement**
+* Partner with product managers and engineers to design, implement, and evaluate A/B tests and feature rollouts.
+* Develop frameworks for causal inference, impact measurement, and long\-term ecosystem health.
+* Build scalable methodologies to understand feature performance and guide iteration.
+
+
+**🛠 Build Data Products \&amp; Tools**
+* Use our modern data stack to build dashboards, data pipelines, and self\-serve tools that empower teams across Whatnot.
+* Partner with engineers and operations leadership to improve data accessibility, ensure data quality, and support instrumentation for new product features.
+
+
+**🤝 Lead Cross\-Functional Collaboration**
+* Advocate for data\-driven decision\-making and foster a culture of measurement across the CX organization.
+* Communicate insights clearly to both technical and non\-technical audiences, influencing roadmaps and strategic decisions.
+* Serve as a thought partner to CX leads, shaping how we build, launch, and iterate on experiences across the platform.
+
+
+****👋 You****
+* People who do well at Whatnot tend to be comfortable figuring things out as they go, biased toward action, and genuinely curious about what they're building. They care more about outcomes than credit and stay close to the product and the people using it.
+
+
+**🎓 Experience \&amp; Expertise**
+ As our next
+ **Data Scientist, Customer Experience** 
+ , you bring:
+   
+
+  
+
+* 5\+ years of experience in Data Science, Decision Science, or Analytics within a product\-focused organization.
+* A bachelor’s degree in Computer Science, Economics, Statistics, or a related quantitative field or equivalent experience.
+* Proven experience applying statistical and analytical methods to real\-world product problems.
+
+
+**🧠 Technical Skills**
+* Advanced SQL skills and experience with modern data warehouses (Snowflake, BigQuery, Redshift) and tools like Spark or DBT.
+* Proficiency with Python or R for data analysis, modeling, and experimentation.
+* Experience designing and analyzing A/B tests and understanding causal inference techniques.
+* Strong data visualization skills and familiarity with BI tools for building interactive dashboards.
+
+
+**🗣 Collaboration \&amp; Leadership**
+* Ability to communicate complex ideas clearly, concisely, and impactfully across diverse stakeholders.
+* Experience leading cross\-functional projects and influencing strategy with data.
+* Comfortable working in fast\-paced, ambiguous environments with a high degree of ownership.
+
+
+****🎁 Benefits****
+* Flexible Time off Policy and Company\-wide Holidays (including a spring and winter break)
+* Health Insurance options including Medical, Dental, Vision
+* Work From Home Support
++ $1,000 home office setup allowance
++ $150 monthly allowance for cell phone and internet
+
+* Care benefits
++ $500 monthly allowance for wellness
++ $5,000 annual allowance towards Childcare
++ $20,000 lifetime benefit for family planning, such as adoption or fertility expenses
+
+* Retirement; 401k offering for Traditional and Roth accounts in the US (employer match up to 4% of base salary) and Pension plans internationally
+* Parental Leave
++ 16 weeks of paid parental leave \+ one month gradual return to work \*company leave allowances run concurrently with country leave requirements which take precedence.
+
+
+**We offer flexibility to work from home or from one of our global office hubs, and we value in\-person time for planning, problem\-solving, and connection. Team members in this role must live within commuting distance of our New York, Seattle, Los Angeles, and San Francisco hubs.** 
+****💛 EOE****
+ Whatnot is proud to be an Equal Opportunity Employer. We value diversity, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, parental status, disability status, or any other status protected by local law. We believe that our work is better and our company culture is improved when we encourage, support, and respect the different skills and experiences represented within our workforce.
+   
+
+  
+
+ Compensation Range: $162K \- $215K</description>
+        <pubDate>2026-06-02</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Data Scientist - Adobe</title>
+        <link>https://www.linkedin.com/jobs/view/4372054013</link>
+        <description>**The Opportunity**
+ As a Senior Data Scientist on the Go\-To\-Market (GTM) Data Science \&amp; Analytics team, you will be a critical partner in driving the strategy for Adobe.com B2C business. Our team is responsible for optimizing the end\-to\-end customer journey, ensuring that every touchpoint \- from first discovery to long\-term retention \- is backed by rigorous data science. You will work at the intersection of GTM Strategy, Product, and Finance to uncover growth levers, improve monetization strategies, and minimize churn across our global subscriber base.
    
 
   
 
 **What You'll Do**
-**International eKYC Modeling \&amp; Entity Resolution**
-* Lead the design, development, and deployment of ML and graph\-based algorithms for international entity resolution, identity trust scoring, and anomaly detection across heterogeneous, country‑specific datasets.
-* Architect reusable matching and linking frameworks that work across multiple ID schemes (e.g., national ID numbers, passports, voter IDs, mobile accounts, bank accounts) and local name/address conventions.
-* Develop probabilistic and rule‑augmented models that handle noisy, sparse, or partially labeled international data while maintaining explainability and regulatory defensibility.
+* Use exploratory data analysis to uncover hidden patterns in the customer journey. You’ll investigate anomalies in the funnel, identifying whether shifts are driven by market trends, product changes, or technical friction.
+* Drive Run\-the\-Business (RTB) by analyzing weekly performance across the GTM funnel to understand drivers of acquisition and retention.
+* Synthesize complex technical findings into clear, actionable narratives for senior leadership. You will help shift the organization from "monitoring metrics" to "driving evidence\-based decisions."
+* Elevate the team’s technical bar by contributing to shared code libraries, peer\-reviewing complex analyses, and partnering with Data Engineering to optimize our data architecture for high\-velocity analytics.
 
 
-**Global Identity Graph \&amp; Data Quality**
-* Define and evolve the international extension of Socure’s identity graph: schema design, linkage strategies, quality tiers, and confidence scoring that can be leveraged by multiple products (Verify, KYC, watchlists, fraud).
-* Design and implement robust data quality and monitoring frameworks for international identity data (coverage, stability, drift, regional bias, label quality) and integrate them into modeling and production monitoring workflows.
-* Build scalable approaches for handling linguistic and cultural variation (e.g., transliteration, multi‑script names, address normalization, local naming patterns) in the identity graph and matching pipelines.
+**What You Need To Succeed**
+* 5\+ years of experience in data science, applied machine learning, or quantitative analysis, preferably in a B2C SaaS or e\-commerce environment.
+* Expert\-level SQL and Python skills for data manipulation and modeling. Familiarity with big data platforms like Databricks or Spark is highly preferred.
+* Experience with one or more data visualization tools such as Tableau or Power BI.
+* Strong grasp of probability, regression, time\-series forecasting, and causal inference. Experience with uplift modeling or survival analysis is a significant plus.
+* A track record of working cross\-functionally with non\-technical collaborators to drive project roadmaps from ideation to delivery.
+* MS in a quantitative field (Statistics, Computer Science, Economics, Mathematics, or related) or equivalent experience.
 
 
-**Evaluation, Experimentation, and Model Governance**
-* Own experimentation strategy for major international eKYC initiatives:
-* Design offline evaluations and online A/B tests that reflect local ground truth constraints and data sparsity.
-* Define success metrics that balance approval rates, fraud capture, and regulatory/operational constraints per market.
-* Analyze lift, stability, and fairness trade‑offs and drive go/no‑go decisions with Product and Engineering.
-* Define and maintain evaluation frameworks specific to international eKYC (e.g., regional coverage maps, cross‑border identity leakage, local demographic impact, regulatory thresholds).
-* Contribute to model governance documentation and support responses to regulators and large enterprise customers regarding model logic, data provenance, fairness, and monitoring for international markets.
-
-
-**Data Source Strategy \&amp; Vendor Evaluation (International)**
-* Lead the evaluation and integration of international data vendors (e.g., bureaus, telcos, public records, alternative data):
-* Design benchmarking methodologies for signal quality, incremental value, stability, and fairness by country/segment.
-* Quantify ROI and trade‑offs across multiple vendors and data types; provide clear recommendations that influence product and commercial decisions.
-* Partner with Data Acquisition, Legal, and Compliance to ensure that data usage and modeling approaches meet regional regulatory requirements (e.g., GDPR and local privacy/AML/KYC rules).
-
-
-**Technical Leadership \&amp; Cross‑Functional Partnership**
-* Collaborate with engineering leaders to design scalable, reliable international data and model pipelines using Spark/PySpark, AWS (EMR, S3, SageMaker, Neptune), and modern MLOps workflows.
-* Act as a subject‑matter expert on international identity, eKYC regulations, and cross‑border data limitations for internal stakeholders, supporting complex customer questions and strategic roadmap discussions.
-* Mentor Data Scientists and Senior Data Scientists on best practices for international modeling: handling low‑label regimes, domain adaptation, localization of thresholds/logic, and building reusable abstractions instead of one‑off country fixes.
-* Communicate strategy, progress, and results to senior leadership and cross‑functional partners through clear documents and presentations, framing complex technical work in terms of business impact, regional risk, and regulatory trade‑offs.
-
-
- What You Bring
+**About Adobe**
+ Adobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe’s industry\-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity.
    
 
   
 
-**Education \&amp; Experience**
-* Master’s or Ph.D. in Computer Science, Data Science, Machine Learning, Statistics, Mathematics, or a related field, or equivalent practical experience.
-* 6\+ years of hands\-on applied ML / data science experience (4\+ with Ph.D.), including owning production models and pipelines in high‑stakes domains (fraud, risk, identity, payments, credit, or similar).
-* Significant prior work on international or multi‑region products is strongly preferred (e.g., cross‑country KYC, credit risk, payments, or compliance systems).
-
-
-**Technical Skills**
-* Expert‑level proficiency in Python and SQL, with extensive experience in distributed data processing (Spark/PySpark, Databricks or similar) on very large datasets.
-* Deep experience designing, training, and deploying models for classification, ranking, anomaly detection, and/or graph learning, including:
-* Feature engineering for noisy/heterogeneous identity data.
-* Robust evaluation under label sparsity and feedback delays.
-* Calibration and thresholding tailored to regional risk and regulatory constraints.
-* Proven expertise with graph technologies (e.g., Neo4j, AWS Neptune, GraphFrames, DGL, PyTorch Geometric) and graph algorithms (entity resolution, link prediction, community detection, label propagation) at scale.
-
-
-*Please note that sponsorship is not available at this time; and that you must be located within 45 miles of a talent hub to be considered.*
-*Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+ Our 30,000\+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We’re on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours.
    
 
   
 
- If you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly.*
-**Follow Us!**
- YouTube \| LinkedIn \| X (Twitter) \| Facebook
+**Let’s Adobe together**
+ At Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our values and culture, focus on people, purpose and community, Adobe for All, comprehensive benefits programs, the stories we tell, the customers we serve, and how you can help us advance our mission of empowering everyone to create.
    
 
   
 
- Compensation Range: $170K \- $200K</description>
+ Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic. Learn more.
+   
+
+  
+
+ Adobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call \+1 408\-536\-3015\.
+   
+
+  
+
+**AI Use Guidelines for Interviews:**
+ Our interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process.
+   
+
+  
+
+ At Adobe, we empower employees to innovate with AI — and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it’s restricted during live interviews. See how we think about AI in the hiring experience.
+   
+
+  
+
+**Expected Pay Range:**
+ Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $133,100 \-\- $236,400 annually. Pay within this range varies by work location and may also depend on job\-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+   
+
+  
+
+ In California, the pay range for this position is $163,200 \- $236,400
+   
+
+  
+
+ At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC \= base \+ commission), and short\-term incentives are in the form of sales commission plans. Non\-sales roles starting salaries are expressed as base salary and short\-term incentives are in the form of the Annual Incentive Plan (AIP).
+   
+
+  
+
+ In addition, certain roles may be eligible for long\-term incentives in the form of a new hire equity award.
+   
+
+  
+
+**State\-Specific Notices:**
+**California:**
+**Fair Chance Ordinances**
+ Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+   
+
+  
+
+**Colorado:**
+**Application Window Notice**
+ If this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.
+   
+
+  
+
+**Massachusetts:**
+**Massachusetts Legal Notice**
+ It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.</description>
         <pubDate>2026-06-01</pubDate>
     </item>
     
     <item>
-        <title>Data Scientist, GTM - Anthropic</title>
-        <link>https://www.linkedin.com/jobs/view/4422571358</link>
-        <description>**About Anthropic**
- Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+        <title>Data Scientist - Sonilo</title>
+        <link>https://www.linkedin.com/jobs/view/4423291248</link>
+        <description>**About the job** 
+
+
+
+
+ Sonilo is a VC\-backed AI music generation company building the next generation of soundtrack creation for video. Founded in Silicon Valley, Sonilo helps creators, brands, and platforms instantly generate original music that understands a video’s content, pacing, and exact duration — eliminating the need for manual editing, stock music searching, or beat matching. From short\-form social content to cinematic storytelling, Sonilo enables anyone to turn silent videos into finished content in seconds through AI\-powered music generation built for modern creators.
+ 
+
+
+
+**The Role** 
+
+
+
+
+ We're looking for a data\-driven Data Scientist to help us better understand our users, products, and AI systems. This role sits at the intersection of data, product, AI, and business strategy. You'll work closely with founders, engineers, and product teams to uncover insights, build analytics frameworks, measure product performance, and help guide decisions that shape the future of AI\-powered creative tools.
+ 
+
+
+
+**A Typical Day** 
+
+
+
+* Define and track key product, growth, and AI performance metrics
+* Analyze user behavior, retention, conversion funnels, and creator workflows
+* Design and evaluate experiments to improve product experience and business outcomes
+* Build internal dashboards, reports, and data pipelines that support company\-wide decision making
+* Partner with product, engineering, and leadership teams to translate data into actionable insights
+
+
+
+**What We're Looking For** 
+
+
+
+* 3\+ years of experience in data science, analytics, machine learning, or related quantitative roles
+* Strong proficiency in SQL and data analysis tools
+* Experience working with product analytics, experimentation, and data visualization
+* Strong statistical thinking and ability to turn complex data into clear recommendations
+* Strong communication skills and ability to present findings to both technical and non\-technical stakeholders
+* Interest in AI, creator economy, music, media, or creative technology
+
+
+
+**Bonus Points** 
+
+
+
+* Experience working with AI, machine learning, or generative AI products
+* Familiarity with product analytics platforms such as Mixpanel, Amplitude, PostHog, or GA4
+* Experience with Python, data modeling, and machine learning workflows
+* Experience in audio, music, video, gaming, or creator\-focused products
+
+
+
+**Compensation \&amp; Benefits** 
+
+
+
+* Competitive salary with annual performance bonus opportunities
+* Early\-stage equity package in a fast\-growing VC\-backed startup
+* Health, dental, and vision insurance support
+* Flexible PTO and work flexibility when needed
+* Team meals, coffee, snacks, and monthly team activities
+* Comfortable and collaborative office environment in Silicon Valley
+* Opportunity to work closely with experienced founders, creators, and global partners shaping the future of AI creativity
+* Visa sponsorship and immigration support available for eligible candidates</description>
+        <pubDate>2026-06-01</pubDate>
+    </item>
+    
+    <item>
+        <title>Member of Technical Staff (Data Scientist/Engineer, Online Metrics) - Perplexity</title>
+        <link>https://www.linkedin.com/jobs/view/4372003249</link>
+        <description>Perplexity serves tens of millions of users daily with reliable, high\-quality answers grounded in an LLM\-first search engine and specialized data sources. The Answer Quality team ensures that our prompts, tools, search, and specialized datasets, combined with both frontier and in\-house models, create the best possible experience for our users. As a Data Scientist/Engineer on this team, you will derive online signals from user interactions to bridge the gap between changes in answer quality and observed user behavior.
+   
+
+  
+
+**Responsibilities**
+* Discover and validate online signals from user interactions that serve as reliable proxies for true answer quality
+* Design and implement novel online metrics to be tracked both in A/B testing and on product health dashboards, ensuring alignment with ground\-truth evaluations
+* Analyze experimental results to validate these metrics, ensuring they accurately predict user satisfaction and drive product decisions
+* Build and maintain the data pipelines that calculate these metrics at scale, delivering actionable quality signals to Search, Product, and model training teams
+* Communicate findings and bring clarity through close collaboration with Product and Search teams
+* Operate in a small, high\-impact team where your work directly shapes how Perplexity measures and improves Answer Quality
+
+
+**Qualifications**
+* MS in a technical field or equivalent experience
+* 4\+ years of experience working as a Data Scientist, Analytics Engineer, or related role
+* Experience working on search, recommendation, or LLM\-based products, with an emphasis on designing online metrics and analyzing A/B experiments
+* Strong proficiency in Python and SQL (expected to write production\-grade code)
+* Deep knowledge of statistical analysis
+* Experience with Business Intelligence (BI) tools for visualization and reporting
+* Comfortable with agentic coding workflows and using AI\-assisted development tools to iterate faster
+
+
+**Preferred Qualifications**
+* Proficiency with Apache Spark and Databricks
+* Experience with the development or validation of LLM\-as\-a\-judge systems
+* Prior work supporting customer\-facing products at scale
+
+
+ Compensation Range: $200K \- $320K</description>
+        <pubDate>2026-06-01</pubDate>
+    </item>
+    
+    <item>
+        <title>Applied Scientist III - Uber Freight</title>
+        <link>https://www.linkedin.com/jobs/view/4393883959</link>
+        <description>**Schedule: Full Time Employment**
+**Job Type: Hybrid**
+**Salary Type: Salary**
+**Req \#: 2520**
+**About The Role**
+ As an Applied Scientist III at Uber Freight, you will develop and implement advanced statistical, economic, machine learning, and optimization approaches to solve complex business problems and improve performance. You will apply modeling skills and data\-driven methods to enhance our core product experience and top line business metrics. You’ll collaborate closely with Product, Operations, and Engineering teams to turn insights into impact.
+   
+
+  
+
+**What The Candidate Will Do**
+* Develop creative solutions and build prototypes to business problems using algorithms based on causal inference, statistics, machine learning, and optimization.
+* Collaborate with engineering and product teams to productionize these solutions and create a lasting impact.
+* Drive clarity and solve ambiguous, challenging business problems using data\-driven approaches, with an emphasis on understanding causal relationships when applicable.
+* Propose and guide robust frameworks of data analysis to drive business insights and inform decision\-making.
+* Contribute to establishing standard methodologies for data science, including modeling, coding, analytics, and experimentation.
+* Leverage data to understand product performance and identify improvement opportunities, including analyzing potential causal factors.
+* Design product experiments and interpret results to draw detailed and impactful conclusions.
+* Communicate findings and insights to senior management and cross\-functional teams.
+* Provide recommendations to assist quick product ideation and feature launch decisions.
+* Build intelligent data\-driven products to provide the best user experience.
+
+
+**Basic Qualifications**
+* Bachelor’s degree in Statistics, Machine Learning, Operations Research, Economics, Computer Science, or another related field
+* 3 years of related experience
+* Expertise in observational causal inference, econometric, and statistical models
+* Demonstrated proficiency in programming languages like Python or R for purposes of model development and analysis
+* Proficiency in SQL for data manipulation and analysis
+* Proficiency in building and managing data pipelines for purposes of model development or analysis
+
+
+**Preferred Qualifications**
+* Master’s or Ph.D. in Statistics, Machine Learning, Operations Research, Economics, Computer Science, or a related field
+* Expertise in time series analysis and forecasting
+* Experience working on pricing algorithms in a production environment
+* Proficiency in designing, launching, and analyzing A/B tests or other types of online experiments
+
+
+**Benefits \&amp; Compensation For U.S. Employees**
+ Employees working more than 30 hours in the US at Uber Freight are eligible for benefits like a company sponsored health plan, dental and vision benefits, 401k match, financial and mental wellness benefits, parental leave, short\- and long\-term disability coverage, life insurance and more. US based employees may also be eligible for a performance or sales incentive bonus program, participation in Uber Freight equity awards, and other types of compensation depending upon the role.
+   
+
+  
+
+**About Uber Freight**
+ Uber Freight helps companies move goods more reliably and efficiently. We bring together the technology, people, and transportation capacity they need, using real‑time data from millions of shipments to guide smarter decisions. That helps customers spot issues early, avoid costly surprises, and deliver on time. Uber Freight works with 1 in 3 Fortune 500 shippers across North America and manages over $17B in freight. Learn more at www.uberfreight.com.
+   
+
+  
+
+**Candidate Privacy Notice**
+ Uber Freight is committed to protecting the privacy of our candidates. We collect and process personal data in accordance with applicable data protection laws. For detailed information on how we handle candidate data, please review our Candidate Privacy Notice.
+   
+
+  
+
+**EEOC**
+ Uber Freight is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regards to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+   
+
+  
+
+ For California\-based roles: The salary range for this role is $150,000\.00 \- $182,000\.00 per year</description>
+        <pubDate>2026-06-08 02:34:19.908999+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Forward Deployed Marketing Data Scientist - Hightouch</title>
+        <link>https://www.linkedin.com/jobs/view/4344193243</link>
+        <description>**About Hightouch**
+ Hightouch is an Agentic Marketing Platform powered by the industry\-leading Composable CDP. With complete brand context, customer data, and performance history in one place, every marketer finally has the power to build and ship end\-to\-end campaigns themselves. Teams move faster, stay on brand, and get AI marketing that actually works.
+   
+
+  
+
+ Founded in 2019 and headquartered in San Francisco, Hightouch enables marketing teams to analyze performance, brainstorm ideas, and generate creative at a speed and quality that wasn't previously possible.
+   
+
+  
+
+ Named a Leader in the 2026 Gartner® Magic Quadrant™ for Customer Data Platforms, Hightouch is trusted by leading enterprises like Domino's, Spotify, Aritzia, Cars.com, Ramp, and PetSmart.
+   
+
+  
+
+ At Hightouch, our mission is to help our customers leverage data and AI to grow their businesses. The team is ambitious, impact\-driven, efficient — and we believe humility, kindness, and compassion are essential to our success. If you're energized by velocity, obsessed with raising the bar, and want to build alongside people who care deeply about each other and our customers, we'd love to meet you.
    
 
   
 
 **About The Role**
- As part of our growing Data Science \&amp; Analytics team, you will play an instrumental role in Anthropic's mission of building safe and beneficial AI — this time by driving data\-informed decisions across the commercial customer lifecycle. This role sits at the intersection of fast\-moving sales operations and rigorous statistical analysis. You will work across multiple segments and products, partnering with analytics engineers, fellow data scientists, and go\-to\-market leadership to turn complex commercial data into actionable strategy.
+ We’re looking for a
+ **Forward Deployed Marketing Data Scientist** 
+ to partner closely with our AI Decisioning customers and internal engineering teams to ensure that AI\-driven marketing campaigns deliver measurable, compounding impact. This role is uniquely cross\-functional: you’ll spend time diagnosing model behavior, tuning ML levers, analyzing incrementality, exploring customer data, and explaining insights to marketers and executives.
    
 
   
 
- You will own measurement and analysis for new logo acquisition through activation, expansion, and retention for a rapidly scaling, consumption\-based AI platform. You've worked in cultures of analytical rigor before, and you're eager to help shape the norms and best practices of a growing data science function at a pivotal moment in the company's growth.
+ Marketing teams come to Hightouch to transform how they operate. Instead of planning campaigns weeks ahead on a calendar, AI Decisioning continuously learns customer preferences and executes 1:1 messaging that adapts in real time. Your mission is to make sure that these AI agents perform at their best—and to help customers understand
+ *why* 
+ they are performing the way they are.
    
 
   
 
- Key responsibilities
+ You’ll work alongside ML engineers, product managers, Solutions Consultants, and some of the world’s most recognizable brands to improve campaign performance, debug experiments, and identify opportunities for additional lift. Roughly
+ **30%** 
+ of your time will be customer\-facing and
+ **70%** 
+ deep analytical and modeling work.
    
 
   
 
-* Define key metrics, build measurement frameworks, and maintain core reporting to evaluate GTM success across segments and products
-* Analyze commercial and user data to surface actionable insights, size opportunities, and influence roadmaps and go\-to\-market strategy
-* Develop hypotheses and apply rigorous causal inference methods — controlled experiments, synthetic controls — to make clear, actionable recommendations
-* Investigate anomalies, conduct root cause analyses, and provide data\-driven guidance on priorities and decisions
-* Build statistical models, optimization frameworks, and simulations to support and automate commercial decision\-making processes
-* Present analyses and recommendations to both technical and non\-technical stakeholders, including GTM leadership
-* Establish foundational data practices and help scale analytics infrastructure to support rapid product and commercial iteration
-
-
-**Minimum Qualifications**
-* Proficiency in Python, SQL, and data visualization tools
-* Expertise in experimental design, causal inference, statistical modeling, and A/B testing, particularly in high\-scale technical environments
-* Demonstrated ability to translate complex data into clear, actionable insights for both technical and business audiences
-* Strong written communication and presentation skills
-* Ability to work effectively in fast\-moving, ambiguous environments — comfortable creating structure and driving progress where neither yet exists
-
-
-**Preferred Qualifications**
-* 5\+ years of experience in data science or analytics roles
-* A strong track record in multi\-segment, multi\-product B2B sales or commercial analytics, especially with consumption\-based revenue models
-* Experience with AI/ML products, large language models, or developer tools in the AI/ML ecosystem
-* Genuine interest in Anthropic's mission of developing safe and beneficial AI
-
-
- The annual compensation range for this role is listed below.
+ No two days are the same, but you can expect to:
    
 
   
 
- For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
-   
+**Own diagnostics, insights, and tuning for AI Decisioning campaigns**
+* Explain why AI Decisioning is driving lift using counterfactuals, incrementality breakdowns, and cohort analysis.
+* Debug performance issues, iterate on reward functions, and ensure the agent’s recommendations align with customer goals.
+* Investigate experiment setups (send volumes, reachability, channel constraints) and surface actionable recommendations.
 
-  
 
-**Annual Salary**
- $275,000—$370,000 USD
-   
+**Work deeply with data in notebooks and customer warehouses**
+* Pull down historical data to run exploratory analyses using Polars / Pandas in Jupyter notebooks
+* Modify and improve customer feature matrices to unlock deep personalization.
+* Conduct deeper warehouse\-level SQL analyses when insights aren’t available in the UI.
 
-  
 
-**Logistics**
-**Minimum education:** 
- Bachelor’s degree or an equivalent combination of education, training, and/or experience
-   
+**Build lightweight tooling that enables scale**
+* Create templates, notebooks, scripts, and repeatable workflows that improve how we analyze performance across customers.
+* Identify systemic gaps and influence the direction of ML reporting and introspection.
 
-  
 
-**Required field of study:** 
- A field relevant to the role as demonstrated through coursework, training, or professional experience
-   
-
-  
-
-**Minimum years of experience:** 
- Years of experience required will correlate with the internal job level requirements for the position
-   
-
-  
-
-**Location\-based hybrid policy:** 
- Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
-   
-
-  
-
-**Visa sponsorship:** 
- We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
-   
-
-  
-
-**We encourage you to apply even if you do not believe you meet every single qualification.** 
- Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
-   
-
-  
-
-**Your safety matters to us.** 
- To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.
-   
-
-  
-
-**How We're Different**
- We believe that the highest\-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large\-scale research efforts. And we value impact — advancing our long\-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest\-impact work at any given time. As such, we greatly value communication skills.
-   
-
-  
-
- The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT\-3, Circuit\-Based Interpretability, Multimodal Neurons, Scaling Laws, AI \&amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
-   
-
-  
-
-**Come work with us!**
- Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues.
- **Guidance on Candidates' AI Usage:** 
- Learn about our policy for using AI in our application process.</description>
-        <pubDate>2026-05-31</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist, Analytics - TRM Labs</title>
-        <link>https://www.linkedin.com/jobs/view/4397163888</link>
-        <description>Build a Safer World.
-   
-
-  
-
- TRM Labs provides AI\-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure.
-   
-
-  
-
- As a Senior Data Scientist, you will have end\-to\-end ownership of critical analytics products for TRM’s customers and employees. In collaboration with a highly skilled team of engineers, data scientists, research scientists and go\-to\-market teams, your goal will be to uncover valuable and defensible information that can be used to detect, prevent, and mitigate cryptocurrency fraud and financial crime.
-   
-
-  
-
- The products and models you create will be specifically designed to creatively solve new crypto\-industry challenges from identifying new threat vectors to building best\-in\-class blockchain analytics products. These tools will be consumed by prestigious entities such as former FBI, Secret Service, as well as industry leaders in the private sector, enabling them to stay ahead of evolving criminal activities in the cryptocurrency space.
-   
-
-  
-
-**The Impact You Will Have Here**
-* Lead the implementation of new advanced analytics products that allow our customers and employees to explore and uncover hidden insights through complex blockchain data such as assessing the risk of DeFi services, stablecoins, global regulations and other crypto\-trends.
-* Lead the roadmap and prioritization of analytics and AI products suite.
-* Use your high\-level business acumen to collaborate with internal teams (GTM, Intelligence, Global Investigation, etc.) and work directly with our customers to understand their challenges and pain points in order to creatively translate them into actionable insights and products.
-* Develop complex statistical analysis, algorithms, and interactive visualizations that will be consumed by former FBI, Secret Service, and Europol agents and analysts to detect new threat vectors unique to cryptocurrencies and blockchains.
-* Collaborate with engineers and data scientists to design algorithms to analyze complex data structures inherent to cryptocurrencies and blockchains. This will involve working with distributed ledger technologies, cryptographic protocols, and transactional data to uncover suspicious activities.
-* As a leader in the team, you will collaborate closely with product managers and analysts to align on project goals, methodologies, and deliverables. You will communicate your findings and insights effectively to both technical and non\-technical stakeholders.
-* Develop your skills through exceptional training as well as frequent coaching and mentoring from colleagues
-* Establish best practices and statistical rigor around data\-driven decision\-making
+**Communicate ML concepts clearly to non\-technical stakeholders**
+* Present model insights and recommendations to marketers, analysts, and executives.
+* Explain how the decision engine handles cold start, message transfer learning, exploration vs. exploitation, and more.
+* Partner closely with Solutions Consultants to identify and drive new opportunities for uplift.
 
 
 **What We’re Looking For**
-* Your academic background is in a quantitative field such as Computer Science, Statistics, Engineering, Economics or Physics. Advanced degree preferred.
-* You have 8\+ years of experience working in an analytical role.
-* You are outcome\-oriented and you have experience in a very face\-paced environment.
-* You have a strong knowledge of relational databases, (e.g. SQL).
-* You have a strong experience building internal scalable data and analytics products from design to deployment phases that have organisational\-level impact.
-* You have proven experience with at least one programming language (Python preferred) and are comfortable developing code in a team environment (e.g. git, notebooks, testing).
-* You think about data in terms of statistical distributions and have a big enough analytics toolbox to know how to find patterns in data and identify targets for performance.
-* You have excellent verbal and written communication skills and experience in influencing decisions with information.
-* You have a high tolerance for ambiguity. You find a way through. You anticipate. You connect and synthesize.
+* Strong ability to perform deep exploratory data analysis in Python (Polars / Pandas, Jupyter notebooks).
+* Ability to write and interpret SQL for customer warehouse analysis.
+* High\-level understanding of ML modeling concepts (features, hyperparameters, reward functions, training windows).
+* Excellent communication skills; able to explain technical reasoning simply and confidently to marketers.
+* A customer\-first attitude with high ownership and urgency when resolving issues.
 
 
-**About The Team**
-- The team operates with a high level of collaboration and interdependence, fostering an inclusive culture where connections extend beyond work. We value diverse personalities and seek someone who is both results\-driven and sociable, with strong communication, leadership, and teamwork skills, along with a positive, solutions\-oriented mindset.
+**Bonus Points**
+* Experience setting up and analyzing marketing experiments such as A/B, multivariate tests.
+* Prior experience in an applied ML, data science, analytics engineering, or forward\-deployed role.
+* Experience building lightweight internal tools or scripting solutions.
 
-- As a globally distributed team, members may observe different timezones. However, most of the team will overlap between the hours of 7am\-12pm PST for meetings and collaboration.
 
-- All team members, regardless of location must have at least 4 hour overlap with PST business hours.
-
- The team is involved in an Analytics on\-call process (average of \&lt; 2 hours a day every two months).
+ We are looking for talented, intellectually curious, and motivated individuals who are interested in tackling the problems above. We focus on impact and potential for growth more than years of experience. The salary range for this position is $140,000 \- $220,000 USD per year, which is location independent in accordance with our remote\-first policy.
    
 
   
 
-**Learn About TRM Speed In This Position**
-* Deliver a last minute impactful project for a key customer
-* Build complex products effectively with tight timeframes (1\-2 weeks for MVP)
-* Work on several projects in parallel with different priorities and stakeholders
-
-
-**The following represents the estimated range of compensation for this role:**
-* Individual pay is determined by skills, qualifications, experience, and location. The compensation details listed in this posting reflect the US base salary only
-* The estimated base salary range for this role is $160,000 \- $186,000\.
-* Additionally, this role may be eligible to participate in TRM’s equity plan.
-* Please note – we factor in the different costs for geographies outside the United States.
-
-
-**Life at TRM**
- We are building a safer world. That promise shows up in how we work every day.
+ Interview Process
    
 
   
 
- TRM moves quickly. We are a high velocity, high ownership team that expects clarity, follow\-through, and impact. People who thrive here are energized by hard problems, experimentation, and continuous feedback. If something takes months elsewhere, it will ship here in days.
+ We have limited inbound applications to one application per candidate. You will be auto\-rejected if you apply to multiple roles. Please only apply to the position you are most qualified for.
    
 
   
 
- Our work sits at the intersection of AI, national security, and fighting crime. The problems are complex, the stakes are real, and the environment evolves quickly. The pace and intensity of the work reflect the importance of the mission. As a result, the way we operate requires a high level of ownership, adaptability, collaboration, and creative problem\-solving.
+ Our interview process evaluates the most important dimensions of the role: analytical depth, customer communication, first\-principles problem solving, and alignment with Hightouch’s values.
    
 
   
 
-**At TRM, You Should Expect**
-* Priorities and targets to change quickly as we experiment and iterate
-* Work that often requires operating with a high degree of ambiguity
-* A high level of personal ownership and accountability
-* Close collaboration across teams and functions
-* Frequent, high\-touch communication
-* Creative problem solving and out\-of\-the\-box thinking
-* A pace that rewards urgency, adaptability, and outcomes
-
-
- This environment is energizing for people who enjoy building, solving hard problems, and making progress in situations that are not always fully defined. It also requires comfort navigating ambiguity, adjusting course as new information emerges, and maintaining focus and positivity in a fast\-moving and intense environment.
+**Intro Call \[15–30m]**
+ Introductory call with either a member of our recruiting team or the hiring manager to get to know each other and see if the role could be a good mutual fit.
    
 
   
 
- We also recognize that this style of operating is not for everyone. If you are primarily optimizing for predictability or a consistently balanced workload, we encourage you to use the interview process to pressure test whether this environment is truly the right fit. We want teammates who thrive here, not just survive here.
+**Take Home Data Analysis Exercise \+ Review Session \[45m]**
+ You’ll complete a short take\-home assignment focused on exploratory data analysis of an example dataset. In the live review, you’ll walk through your approach, explain your reasoning, and present your findings as if you were guiding a customer through your analysis. We’re looking for clarity of communication, rigor of thinking, and the ability to turn data into actionable insights.
    
 
   
 
- At the same time, many people find this work deeply rewarding. If you are excited by meaningful problems, motivated by ambitious goals, and energized by working alongside mission\-driven colleagues, there is a good chance you will find TRM to be an exceptional place to grow and contribute. Learn more: Interviewing at TRM: How We Hire and What Success Looks Like
+**Experiment Design \&amp; Analysis Session \[90m]**
+ A hands\-on session where we collaboratively design and evaluate an experiment end\-to\-end. This includes:
    
 
   
 
-**AI Fluency at TRM**
- AI fluency is a baseline expectation at TRM.
+* Defining the experimental goal and how success should be measured
+* Identifying the most relevant context and features to use in modeling
+* Interpreting example results and diagnosing performance patterns
+* Recommending next steps and communicating tradeoffs
+
+
+**Hiring Manager Interview \[30m]**
+ Chat with hiring manager about past experiences and future operating preferences to assess fit on company values and operating principles.
    
 
   
 
- We believe AI meaningfully changes how top performers operate. We expect every team</description>
-        <pubDate>2026-06-07 13:18:34.137881+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Data Scientist, Member Insights - Subscriptions - SoFi</title>
-        <link>https://www.linkedin.com/jobs/view/4375032357</link>
-        <description>**Employee Applicant Privacy Notice**
-**Who we are:**
- Shape a brighter financial future with us.
-   
-
-  
-
- Together with our members, we’re changing the way people think about and interact with personal finance.
-   
-
-  
-
- We’re a next\-generation financial services company and national bank using innovative, mobile\-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way.
- **Join us to invest in yourself, your career, and the financial world.**
- We are looking for a highly strategic and technically strong Staff Data Scientist to join the Member Data Science team, focused on driving engagement and long\-term member value, specifically for our subscription premium program, SoFi Plus. This role will be responsible for deeply understanding the drivers of engagement, retention, and subscription value across the SoFi ecosystem. You will define and own engagement measurement frameworks, lead high\-impact analytical deep dives, design causal experiments, and develop scalable data and modeling solutions that inform product strategy for SoFi Plus.
-   
-
-  
-
- The Member Organization builds engaging and personalized experiences for our members across our product lines. As a Staff Data Scientist, you will operate as a data thought partner to Product, Engineering, Lifecycle Marketing, and Leadership. You will shape the engagement roadmap through insights on activation, feature adoption, habit formation, churn risk, subscription upgrades/downgrades, and long\-term member value. You will proactively identify the most impactful opportunities to improve subscription engagement and revenue, and ensure we are making disciplined, data\-informed investment decisions. This role requires strong technical skills (SQL, Python/R, Tableau, Statistics), deep expertise in metrics, segmentation, A/B testing, and strong collaboration.
-   
-
-  
-
- This is a highly cross\-functional and high\-visibility role with direct impact on member experience and recurring revenue growth. This is an exciting role for someone to make a direct impact on the company's growth trajectory and member experience.
-   
-
-  
-
-**Responsibilities:**
-* Design and implement data collection and processing pipelines
-* Develop and apply machine learning models to solve business problems. Translate modeling outputs into actionable business strategies.
-* Strong experience owning product analytics workflows including formulating success metrics, socializing them across the organization, and creating dashboards/reports
-* Evaluate and interpret the results of data analysis
-* Communicate findings to influence technical and non\-technical stakeholders
-* Stay up\-to\-date on the latest data science techniques and technologies
-* Build data pipelines to deploy production level datasets
-* Proven experience building scalable dashboards and executive\-ready reports that measure product performance, subscription health, and engagement KPIs, and effectively translate insights into actionable business recommendations.
-* Experience with leveraging LLMs or other AI solutions to develop analytical tools.
-
-
-**Qualifications:**
-* Master’s degree or higher in Statistics, Economics, Applied Mathematics, Computer Science, Engineering, or related quantitative field.
-* 7\+ years of experience leveraging data\-driven analysis to influence product and business strategy, ideally in a tech or subscription\-based company.
-* Deep expertise in:
-+ Retention and engagement analytics
-+ Cohort and lifecycle analysis
-+ Subscription metrics (churn, LTV, ARPU)
-+ Experimental design and causal inference
-
-* Strong proficiency in SQL, experience with visualization tools (e.g., Tableau) and python.
-* Experience building data pipelines using DBT and orchestrating workflows with Airflow in Snowflake environments.
-* Proven experience developing and deploying machine learning models in production with monitoring frameworks.
-* Strong understanding of subscription economics and revenue optimization.
-* Demonstrated ability to work independently in ambiguous environments and drive measurable business impact.
-* Excellent communication skills, including the ability to present complex technical findings to executive audiences.
-* Track record of mentoring junior data scientists and elevating team standards.
-
-
-**Compensation And Benefits**
- The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.
-   
-
-  
-
- To view all of our comprehensive and competitive benefits, visit our
- **Benefits at SoFi** 
- page!
-   
-
-  
-
- SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
-   
-
-  
-
- The Company hires the best qualified candidate for the job, without regard to protected characteristics.
-   
-
-  
-
- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-
- New York applicants: Notice of Employee Rights
-   
-
-  
-
- SoFi is committed to an inclusive culture. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.
-   
-
-  
-
- Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.
-   
-
-  
-
-**Internal Employees**
- If you are a current employee, do not apply here \- please navigate to our Internal Job Board in Greenhouse to apply to our open roles.</description>
-        <pubDate>2026-06-07 13:18:34.137973+00:00</pubDate>
+**E\-Verify Statement**
+*Hightouch participates in E\-Verify. After you join the team, we'll verify your eligibility to work in the U.S. by submitting information from your Form I\-9 to the Social Security Administration and, if needed, the Department of Homeland Security. This process happens post\-hire only — we never use E\-Verify to pre\-screen applicants.*
+*E\-Verify Notice*
+*E\-Verify Notice (Spanish)*
+*Right to Work Notice*
+*Right to Work Notice (Spanish)*</description>
+        <pubDate>2026-06-08 02:34:19.909087+00:00</pubDate>
     </item>
     
 </channel>
