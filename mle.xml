@@ -6,6 +6,96 @@
     <description>jobs</description>
     
     <item>
+        <title>Senior Machine Learning Engineer (Research Scientist) - DFAI - Plaid</title>
+        <link>https://www.indeed.com/viewjob?jk=342b48ed4bc30e61</link>
+        <description>**Location**
+------------
+
+
+San Francisco HQ; New York City Office; Seattle Office
+
+
+**Address**
+-----------
+
+
+1098 Harrison Street, San Francisco, California, 94103
+
+
+**Employment Type**
+-------------------
+
+
+Full time
+
+
+**Location Type**
+-----------------
+
+
+Hybrid
+
+
+**Department**
+--------------
+
+
+All DepartmentsData
+
+
+**Compensation**
+----------------
+
+
+* $228,960 – $315,360
+
+Additional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.
+
+
+  
+We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Washington D.C., London and Amsterdam.
+
+
+The Data Foundation and AI team within Plaid’s Data organization builds the shared machine learning and AI infrastructure that powers capabilities across Plaid’s product suite. Our team transforms Plaid’s unique financial network data into scalable, general\-purpose representations that can be leveraged by teams throughout the company. We own the full lifecycle of these systems, from pretraining data curation and model development to production serving, evaluation, and monitoring, enabling reliable and impactful AI\-driven experiences at scale.
+
+
+As a Senior Research Scientist, you will lead applied research efforts for Plaid’s foundation model, designing model architectures, pretraining objectives, and fine\-tuning strategies that generalize across a wide range of downstream product use cases. You will build and maintain production\-grade ML systems end\-to\-end, including training pipelines, model serving infrastructure, feature engineering workflows, and monitoring systems. You will develop robust evaluation frameworks that measure model quality across diverse tasks and real\-world applications, rather than optimizing for a single benchmark metric. In close partnership with product and engineering teams across Plaid, you will adapt foundation models to specific business needs and validate their impact through rigorous experimentation. You will also communicate and publish research findings internally and externally, helping advance the state of machine learning and AI across the organization.
+
+
+Responsibilities:
+
+
+* Building a foundation model on one of the world’s richest financial datasets that no one else has.
+* Doing research that ships: moving from experimentation and prototypes to production systems serving real customers.
+* Working across the full ML stack, from pretraining objectives and architectures to serving infrastructure and monitoring.
+* Collaborating with a high\-caliber team and seeing your work amplify the capabilities of multiple product teams.
+* Helping hundreds of millions of consumers achieve greater financial freedom through data\-driven products.
+
+Requirements:
+
+
+* MS or PhD in ML/AI/CS/Stats/Applied Math (or closely related). PhD preferred but not required — candidates with equivalent industry research and production experience will be considered.
+* 3\-7 years of industry experience building and deploying ML models, with evidence of both research depth and production delivery.
+* Strong applied ML research skills with production delivery experience
+* Depth in Transformers/LLMs, representation learning, or large\-scale model training
+* Demonstrated ability to ship models to production (not just prototype)
+* Distributed training experience and strong Python \+ software engineering fundamentals
+* Fintech / financial data domain experience \- Nice to have
+* External publications or open\-source contributions \- Nice to have
+
+Our mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem more equitable. We recognize that strong qualifications can come from both prior work experiences and lived experiences. We encourage you to apply to a role even if your experience doesn't fully match the job description. We are always looking for team members that will bring something unique to Plaid!
+
+
+Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.
+
+  
+
+
+Additional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.</description>
+        <pubDate>2026-06-08</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Machine Learning Engineer - CLERA</title>
         <link>https://www.indeed.com/viewjob?jk=03d3c367eec915d4</link>
         <description>**About the role**  
@@ -1415,87 +1505,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Principal Machine Learning Engineer, Ads Delivery - Pinterest</title>
-        <link>https://www.linkedin.com/jobs/view/4304382481</link>
-        <description>**About Pinterest**
- Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
-   
-
-  
-
- Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
-   
-
-  
-
- At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
-   
-
-  
-
- Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
-   
-
-  
-
- Within the Ads Delivery team, we try to connect the dots between the aspirations of pinners and the products offered by our partners. In this role, you will be responsible for developing and executing a vision for the evolution of the Pinterest marketplace. You will design and implement systems that improve the ads delivery funnel, experiments that shape the utility function, auction mechanism design, ad allocation and for deriving new insights through analysis of the marketplace dynamics. In short, this is a unique position, where you’ll get the freedom to work to bring together pinners and partners in this unique marketplace.
-   
-
-  
-
-**What You’ll Do**
-* Build and improve backend systems and statistical models that underlay the marketplace to maximize value for Pinners, Partners and Pinterest.
-* Define and implement experiments to understand long term Marketplace effects.
-* Develop strategies to balance long and short term business objectives.
-* Drive multi\-functional collaboration with peers and partners across the company to improve knowledge of marketplace design and operations.
-
-
-**What We’re Looking For** 
-  
-
-  
-
-* Degree in Computer Science, Machine Learning, Statistics or related field.
-* 10\+ years of professional experience as a hands\-on engineer and technical leader leading multiple projects.
-* Strong software engineering and mathematical skills with knowledge of statistical methods.
-* Hands\-on experience with large\-scale online e\-commerce systems is a plus.
-* Background in computational advertising is preferred.
-* Nice to Have:
-+ Experience using Cursor, Copilot, Codex, or similar AI coding assistants for development, debugging, testing, and refactoring
-+ Familiarity with LLM\-powered productivity tools for documentation search, experiment analysis, SQL/data exploration, and engineering workflow acceleration
-
-
-**In\-Office Requirement Statement**
-* We let the type of work you do guide the collaboration style. That means we're not always working in an office, but we continue to gather for key moments of collaboration and connection.
-* This role will need to be in the office for in\-person collaboration 1\-2 times/month, and therefore needs to be in a commutable distance from one of the following offices: San Francisco, Palo Alto, Seattle.
-
-
-**Relocation Statement:**
-* This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
-
-
- At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
-   
-
-  
-
-*Information regarding the culture at Pinterest and benefits available for this position can be found here.*
- US based applicants only
-   
-
-  
-
- $314,580—$550,515 USD
-   
-
-  
-
-**Our Commitment To Inclusion**
- Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.</description>
-        <pubDate>2026-06-06</pubDate>
-    </item>
-    
-    <item>
         <title>Machine Learning Engineer - Expert - AI Trainer - Mercor</title>
         <link>https://www.linkedin.com/jobs/view/4424582185</link>
         <description>**About The Job**
@@ -1877,111 +1886,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
  **system\-level serving optimization** 
  .
 * Experience with modern LLM serving stacks, GPU inference systems, or production ML infrastructure is a strong plus.</description>
-        <pubDate>2026-06-05</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Machine Learning Engineer - GEICO</title>
-        <link>https://www.linkedin.com/jobs/view/4424609342</link>
-        <description>**Why Join GEICO?**
- At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.
-   
-
-  
-
- Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive on relentless innovation to exceed our customers' expectations while making a real impact on local communities nationwide.
-   
-
-  
-
- Founded in 1936, GEICO is a member of the Berkshire Hathaway family of companies and one of the largest auto insurers in the United States. When you join our company, we want you to feel valued, supported, and proud to work here. That's why we offer the GEICO Pledge: Great Company, Great Culture, Great Rewards, and Great Careers.
-   
-
-  
-
-**Overview:** 
- We are seeking an accomplished Senior Staff ML Engineer who will serve as a technical leader for Generative AI applications at GEICO. In this individual contributor role, you will be collaborating with a dynamic team of AI and software engineers to design, develop, and deploy systems that ensure scalability, reliability and usability of generative AI solutions, applications, and workflows across the organization which drive business value using LLM, agentic, and knowledge\-search capabilities as their foundation. You bring a passion for providing hands\-on guidance, ensuring architectural and technical excellence and best practices, serving as a source of thought leadership, and leading by example to solve complex, large\-scale, cross\-functional problems.
-   
-
-  
-
-**Responsibilities**
-* Own end\-to\-end design, development, and maintenance of high\-performance AI solutions that use agentic workflows to deliver concrete business value for internal stakeholders and customer\-facing applications. Examples include AI agent orchestration, conversational AI solutions, knowledge assistants, process assistance and automation, etc.
-* Collaborate with cross\-functional teams, including data scientists, ML engineers, software engineers, product managers, and designers to gather requirements, define project scope and prioritize feature development. Establish pragmatic technical visions and roadmaps that balance business outcomes, product release timelines, and engineering excellence.
-* Integrate and build solutions using GEICO’s AI platform architecture. Partner with platform teams to communicate requirements, understand current capabilities and gaps, and contribute to platform feature roadmaps and development.
-* Ideate, define, and build first\-of\-its\-kind solutions within GEICO, with a deep understanding of business and technical processes, applications, and architecture to guide development.
-* Drive the selection, evaluation, and implementation of software technologies, tools, and frameworks, balancing build vs. buy, speed to market, maintainability, etc.
-* Take ownership in project planning and stakeholder management, driving technical alignment, ensuring efficient resource allocation, and timely delivery of solutions.
-* Mentor and guide junior engineers via code reviews and design sessions, establish and enforce best practices, and foster a collaborative and high\-performance team culture.
-
-
-**Basic Qualifications**
-* 8\+ years of experience designing and building scalable production AI/ML applications and systems in cloud environments
-* 5\+ years owning end\-to\-end development, monitoring, maintenance, and continuous improvement of scalable, robust AI/ML applications.
-* 5\+ years of experience with training, finetuning, real\-time/batch inferencing, and evaluation systems for AI/ML models and LLMs used in production systems
-* 5\+ years of experience managing the end\-to\-end software development life cycle (e.g. CI/CD pipelines, Kubernetes\-based deployments, testing, monitoring \&amp; alerting, production support etc.) for Generative AI applications, backend systems, and APIs
-* Experience using frameworks to build LLM\-based agentic workflows such LangSmith/LangGraph or similar
-* Experience using typical agentic communication standards such as A2A, MCP, and similar to design, architect, and build working multi\-agent applications
-* Proficient in Python, Java or similar general\-purpose programming languages.
-* Bachelor’s degree or above in Computer Science, Engineering, Statistics or a related field
-
-
-**Preferred Qualifications**
-* 5\+ years interfacing directly with internal business stakeholders and/or external stakeholders on AI/ML initiatives
-* Extensive experience using cloud provider solutions such as Azure and AWS to deploy and maintain AI/ML products
-* Extensive experience using tools that power production\-grade LLM\-based AI agents, such as eval frameworks, agent tooling, RAG pipelines, prompt engineering, etc.
-* Experience building products with LLM\-based AI agent workflows via both no code/low code and traditional high\-code development environments
-* Experience with agentic workflows to solve problems in the insurance domain
-* Strong communication and problem\-solving skills to excel in dynamic, cross\-functional and ambiguous decision\-making environments
-
-
-**Annual Salary**
- $130,000\.00 \- $260,000\.00
-   
-
-  
-
- The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
-   
-
-  
-
- GEICO will consider sponsoring a new qualified applicant for employment authorization for this position.
-   
-
-  
-
-**The GEICO Pledge**
-**Great Company:** 
- Protecting customers through life’s twists and turns with innovation and integrity.
-   
-
-  
-
-**Great Careers:** 
- Personalized development programs, mentorship, and certification assistance.
-   
-
-  
-
-**Great Culture:** 
- Inclusive and collaborative culture rooted in shared success.
-   
-
-  
-
-**Great Rewards:** 
- Competitive pay, benefits, and flexibility to support your well\-being and future.
-   
-
-  
-
- The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
-   
-
-  
-
- GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.</description>
         <pubDate>2026-06-05</pubDate>
     </item>
     
@@ -3017,6 +2921,151 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
+        <title>Staff Applied Machine Learning Engineer - Intelligent Data, Signals &amp; Systems - Block</title>
+        <link>https://www.linkedin.com/jobs/view/4424108032</link>
+        <description>Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.
+   
+
+  
+
+ Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self\-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.
+   
+
+  
+
+**The Role**
+ As a Staff Applied Machine Learning Engineer focused on Intelligent Data, Signals \&amp; Systems, you will build production ML systems that transform customer behavior, product context, model outputs, and feedback loops into trusted signals used by recommendations, ranking, risk\-aware decisioning, growth, and customer intelligence systems.
+   
+
+  
+
+ This role centers on customer intelligence and reusable model\-derived signal systems: ranking and retrieval, recommendations, search, propensity and churn/LTV, next\-best\-action decisioning, experimentation, and feedback loops. These systems help product, growth, fraud, and risk teams make better decisions with clear freshness, provenance, confidence, and evaluation guarantees.
+   
+
+  
+
+ The work combines production ML systems with composable signal interfaces that can be consumed by product surfaces, decision engines, internal tools, and verified AI\-assisted workflows. The role is flexible across Applied ML Engineering domains while still requiring deep expertise.
+   
+
+  
+
+**You Will**
+* Build and operate production ML systems that turn customer and product context into trusted signals, rankings, recommendations, and decision capabilities.
+* Design production data and signal contracts that define intended use, freshness, provenance, confidence, eligibility, and calibration for downstream consumers.
+* Own ranking, retrieval, recommendation, search, propensity, and next\-best\-action systems end to end, from feature and candidate generation through serving, experimentation, monitoring, and feedback loops.
+* Evaluate customer and business impact beyond short\-term conversion, including trust, fairness, access, risk, compliance, long\-term engagement, and segment\-level performance.
+* Partner across product, growth, data, platform, modeling, risk, and compliance to translate ambiguous goals into measurable ML system designs.
+* Use AI and agents to accelerate development, analysis, testing, documentation, and operations while exposing reusable capabilities to product services, internal tools, and AI\-assisted workflows.
+
+
+**You Have**
+* 12\+ years building and operating production software and ML systems for business\-critical products.
+* Deep expertise in intelligent systems such as ranking/retrieval, recommendations, search, personalization, growth and lifecycle ML, customer intelligence, propensity/churn/LTV, next\-best\-action, or model\-derived risk signals.
+* Strong production ML judgment across feature pipelines, model serving, experimentation, monitoring, feedback loops, online/offline consistency, and reliable signal interfaces.
+* Ability to evaluate impact beyond short\-term conversion, including trust, fairness, access, risk, compliance, and long\-term engagement.
+* Experience using AI\-assisted engineering tools with appropriate verification, testing, and review for customer\-impacting systems.
+
+
+ Nice to Have
+   
+
+  
+
+* Experience with semantic retrieval, embeddings, two\-tower models, graph features, LLM\-powered retrieval or decision systems, entity resolution, or real\-time personalization.
+* Experience with experimentation, online evaluation, interleaving, counterfactual evaluation, multi\-objective optimization, or long\-term holdouts.
+* Experience building reusable feature/signal platforms, decision services, customer intelligence layers, model\-derived data products, or agent\-assisted operations.
+
+
+**Technologies We Use and Teach**
+**About**
+ We do not expect candidates to have used our exact stack. We do expect strong production engineering fundamentals, deep domain expertise in intelligent ML systems, and judgment about how ML\-derived signals should be used safely in customer\-impacting products. Examples of technologies and methods include:
+   
+
+  
+
+* Python, Java, Kotlin, SQL.
+* TensorFlow, PyTorch, XGBoost/LightGBM, ranking/retrieval systems, embeddings, semantic search, recommendation frameworks.
+* Event streams, batch pipelines, feature stores, model\-serving infrastructure, workflow orchestration, experimentation systems, and data warehouses/lakehouses.
+* Cloud infrastructure, Kubernetes, observability tooling, coding agents, evaluation harnesses, and agent\-assisted operations tooling.
+
+
+ We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+   
+
+  
+
+ We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.
+ **Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our** 
+ I\+D page.
+   
+
+  
+
+ While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.
+   
+
+  
+
+ Block takes a market\-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job\-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.
+   
+
+  
+
+ To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.
+   
+
+  
+
+**Zone A**
+ $276,800—$415,200 USD
+   
+
+  
+
+**Zone B**
+ $276,800—$415,200 USD
+   
+
+  
+
+**Zone C**
+ $276,800—$415,200 USD
+   
+
+  
+
+**Zone D**
+ $276,800—$415,200 USD
+   
+
+  
+
+**Application Guidelines**
+ Candidates may submit up to 9 active applications within a 60\-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.
+   
+
+  
+
+**Use of AI in Our Hiring Process**
+ We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.
+   
+
+  
+
+ Contact us here with hiring practice or data usage questions.
+   
+
+  
+
+*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.* 
+*Check out our other benefits at Block.*
+*Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.
+ **Square** 
+ makes commerce and financial services access</description>
+        <pubDate>2026-06-04</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Machine Learning Engineer - Unity</title>
         <link>https://www.linkedin.com/jobs/view/4404376566</link>
         <description>**The Opportunity** 
@@ -3709,130 +3758,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Senior Machine Learning Engineer - Roku</title>
-        <link>https://www.linkedin.com/jobs/view/4422173374</link>
-        <description>Teamwork makes the stream work.
- 
-  
- 
-
-
-**Roku is changing how the world watches TV** 
-
- Roku is the \#1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.
- 
-
-
-
- From your first day at Roku, you'll make a valuable \- and valued \- contribution. We're a fast\-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.
- 
-
-
-
-  
- 
-
-
-**About the Team** 
-
- The Recommendations team drives personalized experiences across our platform by leveraging state\-of\-the\-art machine learning. Our mission is to deliver meaningful, context\-aware recommendations that adapt to each user's preferences in real time. We believe that true innovation in personalization requires more than great models—it depends on a robust, flexible ML platform built for experimentation and scale. To that end, we design and build the underlying ML infrastructure, ensuring our systems remain fast, reliable, and at the forefront of technology. Our work blends innovation, engineering excellence, and a deep commitment to understanding our users, shaping how they discover and engage with content every day.
-   
-
-
-
-
-**About the Role** 
-
- We seek an outstanding, creative, and passionate Machine Learning Platform Engineer to join Roku's Recommendation team. In this role, you will design, build, and scale robust distributed systems that power the next generation of personalized content recommendations for millions of Roku users. You will focus on developing end\-to\-end machine learning platforms and infrastructure, ensuring seamless deployment, monitoring, and optimization of algorithms and operational workflows that deliver unique experiences at scale.
- 
-
-
-
- For California Only \- The estimated annual salary for this position is between $229,500 \- $360,000 annually. Compensation packages are based on factors unique to each candidate, including but not limited to skill set, certifications, and specific geographical location. This role is eligible for health insurance, equity awards, life insurance, disability benefits, parental leave, wellness benefits, and paid time off.
-   
-
-     
- 
-
-
-**What You'll Be Doing** 
-* Design, build, and maintain scalable platform services: feature store, real\-time inference services, vector DBs, etc., that serve millions of transactions per second
-* Run and monitor online AB tests via robust platform services, analyzing platform metrics and business KPIs to optimize recommendation system performance
-* Collaborate closely with US\-based engineering and cross\-functional teams to translate business requirements into modular platform components and APIs
-* Enhance and evolve the ML platform ecosystem to support high developer velocity, system scalability, and adaptability to future business needs
-* Contribute to onboarding, training, and mentoring new team members on emerging platform engineering best practices and technologies
-
-
-**We’re Excited If You Have** 
-* 5\+ years of experience building software solutions to concrete problems
-* Strong CS fundamentals. Should be able to write an algorithm with ease
-* You are fluent with one of the high\-level programming languages like Java, Scala, Kotlin, or Python
-* We’d love to see that you’ve worked with big data systems (Spark, Kafka, Flink, S3, AirFlow)
-* Familiar with model ML framework and tools: Ray, PyTorch, HuggingFace, AWS Sagemaker
-* AI literacy and curiosity. You have either tried Gen AI in your previous work or outside of work, or are curious about Gen AI and have explored it.
-* MS in Computer Science or related field
-
-
-
-  
- 
-
-
-**Our Hybrid Work Approach** 
-
- Roku fosters an inclusive and collaborative environment where teams work in the office Monday through Thursday. Fridays are flexible for remote work except for employees whose roles are required to be in the office five days a week or employees who are in offices with a five day in office policy.
- 
-
-
-
-  
- 
-
-
-**Benefits** 
-
- Roku is committed to offering a diverse range of benefits as part of our compensation package to support our employees and their families. Our comprehensive benefits include global access to mental health and financial wellness support and resources. Local benefits include statutory and voluntary benefits which may include healthcare (medical, dental, and vision), life, accident, disability, commuter, and retirement options (401(k)/pension). Employees are supported in taking time off, in accordance with local leave policies and other personal needs to support their evolving work and life needs. It's important to note that not every benefit is available in all locations or for every role. For details specific to your location, please consult with your recruiter.
- 
-
-
-
-  
- 
-
-
-**Accommodations** 
-
- Roku welcomes applicants of all backgrounds and provides reasonable accommodations and adjustments in accordance with applicable law. If you require reasonable accommodation at any point in the hiring process, please direct your inquiries to EmployeeRelations@Roku.com.
- 
-
-
-
-  
- 
-
-
-**The Roku Culture** 
-
- Roku is a great place for people who want to work in a fast\-paced environment where everyone is focused on the company's success rather than their own. We try to surround ourselves with people who are great at their jobs, who are easy to work with, and who keep their egos in check. We appreciate a sense of humor. We believe a fewer number of very talented folks can do more for less cost than a larger number of less talented teams. We're independent thinkers with big ideas who act boldly, move fast and accomplish extraordinary things through collaboration and trust. In short, at Roku you'll be part of a company that's changing how the world watches TV.
- 
-
-
-
- We have a unique culture that we are proud of. We think of ourselves primarily as problem\-solvers, which itself is a two\-part idea. We come up with the solution, but the solution isn't real until it is built and delivered to the customer. That penchant for action gives us a pragmatic approach to innovation, one that has served us well since 2002\.
- 
-
-
-
- To learn more about Roku, our global footprint, and how we've grown, visit https://www.weareroku.com/factsheet.
- 
-
-
-
- By providing your information, you acknowledge that you want Roku to contact you about job roles, that you have read Roku's Applicant Privacy Notice, and understand that Roku will use your information as described in that notice. If you do not wish to receive any communications from Roku regarding this role or similar roles in the future, you may unsubscribe at any time by emailing WorkforcePrivacy@Roku.com.</description>
-        <pubDate>2026-06-02</pubDate>
-    </item>
-    
-    <item>
         <title>Machine Learning Engineer - PhysicsX</title>
         <link>https://www.linkedin.com/jobs/view/4422477075</link>
         <description>**About Us**
@@ -4117,80 +4042,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Computer Vision/Machine Learning Engineer - The Select Group</title>
-        <link>https://www.linkedin.com/jobs/view/4419602701</link>
-        <description>**Computer Vision / Multimodal AI Engineer**
- The Select Group is looking to add a Computer Vision and Multimodal AI Engineer to a highly innovative AI team to help shape the next generation of intelligent, AI\-powered business solutions.
-   
-
-  
-
- This is an opportunity to work on complex, real\-world challenges at the intersection of Computer Vision, Vision\-Language Models (VLMs), NLP, and agentic AI. Rather than maintaining existing systems, this individual will help build and scale new capabilities that transform visual information into actionable insights and business value.
-   
-
-  
-
- We are seeking someone who enjoys experimentation, thrives in ambiguity, and can take an idea from concept through production deployment. Success in this role will come from a combination of technical depth, curiosity, and the ability to translate cutting\-edge AI technologies into practical solutions that users can rely on every day.
-   
-
-  
-
-**What You'll Be Helping Build**
-* Intelligent systems that analyze and understand visual data at scale.
-* Multimodal AI solutions that combine images, language, and reasoning to deliver richer insights.
-* Agentic AI workflows capable of surfacing recommendations and automating decision\-making processes.
-* Production\-grade AI applications that support both operational efficiencies and customer\-facing experiences.
-* Scalable architectures that enable rapid experimentation while supporting long\-term growth.
-
-
-**What Success Looks Like**
- The right person will be comfortable owning the full lifecycle of machine learning initiatives—from designing experiments and validating assumptions to deploying models and continuously improving performance.
-   
-
-  
-
- This role will have significant influence on how AI solutions are architected, evaluated, and scaled. Strong candidates are naturally inquisitive, enjoy investigating why models succeed or fail, and can turn those findings into measurable improvements.
-   
-
-  
-
-**Technical Environment**
-* Computer Vision and Machine Learning
-* Vision\-Language Models (CLIP, BLIP, Gemini, and similar frameworks)
-* Multimodal AI and reasoning systems
-* Agentic AI workflows
-* Python
-* PyTorch, TensorFlow, CoreML, or similar ML frameworks
-* Cloud\-based AI deployment environments
-* Model evaluation, optimization, and performance tuning
-
-
-**Who Tends To Excel In This Environment**
-* Engineers who have successfully deployed machine learning solutions into production.
-* Professionals who enjoy building and testing new ideas rather than simply maintaining existing systems.
-* Individuals who can move comfortably between research, experimentation, engineering, and business conversations.
-* Practitioners who are excited about emerging technologies in multimodal AI, visual reasoning, and autonomous agents.
-* Self\-starters who can operate independently while collaborating effectively across engineering, product, and business teams.
-
-
-**Why This Opportunity Stands Out**
-* Work on some of the most rapidly evolving areas of artificial intelligence.
-* Opportunity to influence architecture, strategy, and technical direction.
-* Exposure to Computer Vision, multimodal AI, VLMs, and agentic systems in production environments.
-* Collaborative team culture that values experimentation, innovation, and measurable business impact.
-* Long\-term engagement supporting the development of next\-generation AI capabilities.
-
-
- TSG is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
-   
-
-  
-
- 75557</description>
-        <pubDate>2026-06-02</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Machine Learning Engineer (Pricing) - GoFundMe</title>
         <link>https://www.linkedin.com/jobs/view/4413213352</link>
         <description>**Want to help us help others? We’re hiring!**
@@ -4285,66 +4136,437 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Machine Learning Engineer - TechDoQuest</title>
-        <link>https://www.linkedin.com/jobs/view/4418799410</link>
-        <description>Build and optimize RAG pipelines, vector databases, embeddings, and document\-processing workflows
- 
-
-
-
- Design agentic AI systems — including tool calling, orchestration, reasoning loops, and workflow automation
- 
-
-
-
- Develop Applied AI solutions that integrate with customer backend systems, APIs, and data sources
- 
-
-
-
- Implement AI services on Kubernetes, cloud environments, or customer\-controlled infrastructure
- 
-
-
-
- Work directly with customers to deliver high\-quality technical implementations, demos, and documentation
- 
-
-
-
- (Good to have) Integrate AI workflows with PLM systems or enterprise knowledge platforms
- 
-
-
+        <title>Senior Staff Machine Learning Engineer, Agentic Product - Moveworks - ServiceNow</title>
+        <link>https://www.linkedin.com/jobs/view/4420221328</link>
+        <description>**Company Description**
+**Who we are**
+ Moveworks is the Agentic AI Assistant platform that empowers the entire workforce.
+   
 
   
 
+ Our platform enables employees to converse with all of their business systems through natural language to quickly find answers and automate tasks. Powered by the world's most advanced LLMs, our proprietary models, and a sophisticated Agentic AI platform, we're transforming how work gets done by allowing AI to take initiative, streamline complex workflows, and continuously learn and adapt.
+   
+
+  
+
+ Moveworks is trusted by over 5\.5 million employees at more than 350 of the world’s largest companies, including 10% of the Fortune 500, to automate everyday tasks and streamline business operations. Recognized on the Forbes Cloud 100 and AI 50 lists, Moveworks was also named one of Fast Company’s 2025 Most Innovative Companies and Inc’s Best in Business, in the Best in Innovation category. Moveworks was also recognized at Microsoft’s 2025 Partner of the Year and in 2024, received the AI Breakthrough Award.
+   
+
+  
+
+ In December 2025, Moveworks was acquired by ServiceNow, marking a pivotal milestone in our journey to create a single front door to work for all business systems. By combining ServiceNow’s leading workflow automation with Moveworks’ Reasoning Engine and natural language capabilities, we deliver the AI platform for every person and every workflow. Built to go beyond basic summaries to deliver meaningful business impact. Together, our AI acts across enterprise systems to turn conversations into completed work.
+   
+
+  
+
+ By joining our team, you’ll be at the forefront of the AI transformation, backed by the global scale of ServiceNow and the agility of a high\-growth company. We are looking for world\-class talent to help us extend agentic AI to every employee across every corner of the business.
+   
+
+  
+
+ Come join us!
+   
+
+  
+
+**ServiceNow**
+ It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI\-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud\-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
+   
+
+  
+
+**Job Description**
+**What you get to do in this role:**
+ Our product excels in using cutting\-edge Machine Learning technologies, particularly Generative AI, for business automation and critical tasks. As a conversation product engineer, you'll apply these technologies to impactful enterprise use cases. Our product serves diverse user personas across the enterprise through a unified conversational and GUI interface across chat and web channels. We're enterprise AI product pioneers with no fixed formula. You'll innovate on unsolved problems and expand customer perceptions of ML/GAI's business impact. Our team's expertise, spanning decades of ML evolution, years of delivering enterprise AI solutions, and first principles thinking, underpins our product's success. We seek high performance, a passion for enhancing the overall user impact, and a clear thinking framework for scalable, tailored experiences. You'll collaborate with ML/GAI experts and cross\-functional teams on innovative features at our fast\-growing AI startup.
+   
+
+  
+
+* Collaborate closely with GAI conversational framework experts to grasp the latest technology capabilities and best practices.
+* Design and implement stakeholder and end\-user product features using cutting\-edge Agentic AI and technical approaches to deliver business value.
+* Work with PM, UX, and GTM teams to define, scope, and validate product deliverables.
+* Expand the product's reach to more customers, domains, and global markets, ensuring high quality and extensible engineering implementation.
+* Identify patterns and feedback to advance the Agentic AI framework further.
+* Develop into a well\-rounded product engineer with the expertise to apply LLM technologies for impactful products and strategic influence.
 
 
+**Qualifications**
+**To be successful in this role you have:**
+* Ability to tech lead other engineers and the e2e delivery of a project. Good communications and soft skills
+* BS or a higher degree in computer science or related field
+* 10\+ years professional experience in scalable system development
+* Strong product sense and a passion for building scalable web or conversational UI products
+* Excellent cross\-functional collaboration skills
+* A constant thirst for learning and readiness to step out of your comfort zone
 
 
- REQUIRED SKILLS
+ Additional Information
+   
+
+  
+
+**Work Personas**
+ We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third\-party service.
+   
+
+  
+
+**Equal Opportunity Employer**
+ ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+   
+
+  
+
+**Accommodations**
+ We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+   
+
+  
+
+**Export Control Regulations**
+ For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
+   
+
+  
+
+ From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license.</description>
+        <pubDate>2026-06-02</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer, User Understanding (Entry-Level / New Grad) - Unity South APAC (SEA, ANZ, IND Subcont.)</title>
+        <link>https://www.linkedin.com/jobs/view/4421987095</link>
+        <description>The opportunity
+   
+
+  
+
+ Our Gamer AI team develops conversion rate prediction and market price models that power our ad ranking and recommendation systems. By leveraging large\-scale data and contextual signals, we continuously enhance prediction relevance and accuracy. This drives outcomes such as higher user engagement, stronger conversion performance, and better return on ad spend, helping advertisers achieve their goals while delivering a more engaging experience for users.
+   
+
+  
+
+ We are seeking a motivated Machine Learning Engineer to support the development and maintenance of systems for understanding user behavior across applications. You will contribute to improving ad ranking, conversion predictions, and recommendation systems, working alongside experienced engineers to build behavioral models and optimize ad performance.
+   
+
+  
+
+ What you'll be doing
+   
+
+  
+
+* Design, implement, and optimize user behavior models that directly influence ad ranking, bidding, and conversion outcomes across billions of impressions.
+* Monitor model performance and help identify data quality issues or model degradation.
+* Write clean, maintainable code and participate in code reviews to improve your craft.
+* Learn and communicate how our models work to cross\-functional partners.
+
+
+ What we're looking for
+   
+
+  
+
+* BS in Computer Science, Machine Learning, Statistics, or related field.
+* Strong foundation in Python or similar programming languages.
+* Familiarity with machine learning fundamentals and statistical analysis.
+* Curiosity about how ads, recommendations, and user behavior work at scale.
+* Hungry to grow through rapid iteration, experimenting with real signals and learning what works at scale.
+
+
+ You might also have
+   
+
+  
+
+* First experience, publications, or academic projects in the ads domain or recommendation systems.
+* Exposure to experimentation and A/B testing frameworks.
+* Experience using AI tools like Claude Code or GitHub Copilot to learn and build faster.
+
+
+ Additional information
+   
+
+  
+
+* Relocation support is not available for this position
+* Work visa/immigration sponsorship is not available for this position
+
+
+**Benefits**
+ At Unity, we want our team members to thrive. We offer a wide range of benefits designed to support well\-being and work\-life balance.
+   
+
+  
+
+ Please note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status.
+   
+
+  
+
+ While specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance \| Commute subsidy \| Employee stock ownership \| Competitive retirement/pension plans \| Generous vacation and personal days \| Support for new parents through leave and family\-care programs \| Office food snacks \| Mental Health and Wellbeing programs and support \| Employee Resource Groups \| Global Employee Assistance Program \| Training and development programs \| Volunteering and donation matching program
+   
+
+  
+
+ Life at Unity
+   
+
+  
+
+ Unity \[NYSE: U] is the world’s leading game engine, powering play for more than 3 billion consumers each month. The top mobile games in the world, the most played PC indie titles, the most innovative console games, and virtually all of the top XR and Web Games are developed, deployed, and grown in Unity. Unity also enables teams across industries like automotive, manufacturing, and healthcare to design, simulate, and collaborate in 3D — closing the gap between ideas and reality. For more information, please visit www.unity.com.
+   
+
+  
+
+*Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If you have a disability that means there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.*
+*This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.*
+*Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third\-party agency or company that does not have a signed agreement with Unity.*
+*Your privacy is important to us. Please take a moment to review our Prospect Privacy Policy and Applicant Privacy Policy. Should you have any concerns about your privacy, please contact us at DPO@unity.com.*
+ \#SEN
+   
+
+  
+
+* Note: This range reflects the anticipated base salary for this position. Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions). The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set. Gross pay salary $100,800—$155,980 USD</description>
+        <pubDate>2026-06-09 01:59:02.423457+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Machine Learning Engineer - Roku</title>
+        <link>https://www.linkedin.com/jobs/view/4425670452</link>
+        <description>Teamwork makes the stream work.
+ 
+  
+ 
+
+
+**Roku is changing how the world watches TV** 
+
+ Roku is the \#1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.
  
 
 
 
- Strong experience with LLMs and agent frameworks such as LangChain, LlamaIndex, or custom\-built solutions
+ From your first day at Roku, you'll make a valuable \- and valued \- contribution. We're a fast\-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.
  
 
 
 
- Expertise in Python, vector databases (Elastic, Milvus, Pinecone, etc.), embeddings, and chunking strategies
+  
  
 
 
 
- Hands\-on experience with Kubernetes, Docker, and scalable API deployment
+ About the team
+ 
+
+  
+ 
+
+
+ The Advertising Performance group focuses on performance for all participants in the Advertising ecosystem \- Advertisers, Publishers, and Roku. The systems and solutions span different disciplines and technologies to perform real\-time multi\-objective optimization with distributed systems at large scale and low latencies. We use Machine Learning, Reinforcement Learning, AI, Control and Optimization Systems, and Auction Dynamics to solve a large set of complex problems. At the core of this is our Machine Learning, Experimentation and Inference Platform that powers the entire landscape, which we continuously evolve over time.
+ 
+
+  
  
 
 
 
- Ability to understand customer workflows and translate them into actionable technical solutions</description>
-        <pubDate>2026-06-01</pubDate>
+
+
+  
+ 
+
+  
+ 
+
+
+
+
+ About the role
+ 
+
+  
+ 
+
+
+ We are seeking a talented and experienced Senior Software Engineer, MLOps/DevOps to join the Advertising Performance team and play a critical role in supporting and scaling our Machine Learning infrastructure. The ideal candidate has a strong background in DevOps/SRE practices, cloud infrastructure management, and MLOps tooling — with a passion for building platforms that accelerate ML experimentation and deployment at internet scale.
+ 
+
+  
+ 
+
+
+
+
+
+ You will partner closely with ML Scientists and Engineers to streamline the end\-to\-end ML lifecycle across training, evaluation, deployment, and monitoring — on top of a modern, cloud\-native stack running on GCP and AWS using Kubernetes, Apache Airflow, Spark, Ray, MLflow, Chronon, etc.
+ 
+
+
+
+
+
+*For California Only \- The estimated annual salary for this position is between $148,750 \- $361,000 annually.
+ 
+
+
+
+  
+   
+
+
+
+
+
+  
+   
+
+
+
+
+
+ Compensation packages are based on factors unique to each candidate, including but not limited to skill set, certifications, and specific geographical location.
+ 
+
+
+
+  
+   
+
+
+
+
+
+  
+   
+
+
+
+
+
+ This role is eligible for health insurance, equity awards, life insurance, disability benefits, parental leave, wellness benefits, and paid time off.*
+
+  
+ 
+
+
+
+
+  
+ 
+ What you’ll be doing
+ 
+
+  
+ 
+* Lead the design and operation of scalable, production\-grade cloud infrastructure for ML workloads across AWS and GCP, including GPU/TPU\-based training and inference environments
+* Architect and improve CI/CD systems for ML models and platform services to enable fast, reliable, and safe production releases
+* Own and evolve low\-latency infrastructure for real\-time model inference, including KV store and vector databases
+* Define and enforce observability standards for ML systems, including model performance monitoring, drift detection, capacity planning, and pipeline health metrics
+* Participate in on\-call rotation, leading incident response and root\-cause analysis for critical ML training and serving infrastructure
+* Partner with data scientists and ML engineers to improve platform usability, accelerate model iteration, and implement strong MLOps and SRE best practices
+* Champion operational excellence across ML infrastructure through automation, resilience engineering, disaster recovery planning, and continuous improvement
+
+
+
+  
+ 
+
+
+
+ We’re excited if you have
+ 
+
+  
+ 
+* BS or MS in Computer Science, Engineering, or a related quantitative field
+* 8\+ years of experience in DevOps, SRE, or ML infrastructure, including 4\+ years supporting large\-scale ML or AI systems
+* Strong programming skills in Python and/or Scala or Java for platform automation and tooling
+* Deep experience with Kubernetes and container orchestration on GCP (GKE) and/or AWS (EKS)
+* Expertise with NoSQL or low\-latency data stores such as Aerospike or similar technologies
+* Hands\-on experience with data and orchestration technologies such as Apache Spark, Apache Flink, Apache Airflow, and Kafka
+* Experience building and maintaining CI/CD systems using tools such as Jenkins or GitLab Runner
+* Familiarity with feature engineering platforms such as Chronon and model lifecycle tools such as MLflow
+* Strong infrastructure\-as\-code experience with Terraform or similar tooling
+* Experience with observability platforms such as Prometheus, Grafana, and Datadog
+* Excellent communication and cross\-functional collaboration skills
+* Experience in the Advertising domain is a plus
+
+
+
+
+  
+ 
+
+
+
+
+  
+ 
+
+
+
+
+
+  
+ 
+
+
+**Our Hybrid Work Approach** 
+
+ Roku fosters an inclusive and collaborative environment where teams work in the office Monday through Thursday. Fridays are flexible for remote work except for employees whose roles are required to be in the office five days a week or employees who are in offices with a five day in office policy.
+ 
+
+
+
+  
+ 
+
+
+**Benefits** 
+
+ Roku is committed to offering a diverse range of benefits as part of our compensation package to support our employees and their families. Our comprehensive benefits include global access to mental health and financial wellness support and resources. Local benefits include statutory and voluntary benefits which may include healthcare (medical, dental, and vision), life, accident, disability, commuter, and retirement options (401(k)/pension). Employees are supported in taking time off, in accordance with local leave policies and other personal needs to support their evolving work and life needs. It's important to note that not every benefit is available in all locations or for every role. For details specific to your location, please consult with your recruiter.
+ 
+
+
+
+  
+ 
+
+
+**Accommodations** 
+
+ Roku welcomes applicants of all backgrounds and provides reasonable accommodations and adjustments in accordance with applicable law. If you require reasonable accommodation at any point in the hiring process, please direct your inquiries to EmployeeRelations@Roku.com.
+ 
+
+
+
+  
+ 
+
+
+**The Roku Culture** 
+
+ Roku is a great place for people who want to work in a fast\-paced environment where everyone is focused on the company's success rather than their own. We try to surround ourselves with people who are great at their jobs, who are easy to work with, and who keep their egos in check. We appreciate a sense of humor. We believe a fewer number of very talented folks can do more for less cost than a larger number of less talented teams. We're independent thinkers with big ideas who act boldly, move fast and accomplish extraordinary things through collaboration and trust. In short, at Roku you'll be part of a company that's changing how the world watches TV.
+ 
+
+
+
+ We have a unique culture that we are proud of. We think of ourselves primarily as problem\-solvers, which itself is a two\-part idea. We come up with the solution, but the solution isn't real until it is built and delivered to the customer. That penchant for action gives us a pragmatic approach to innovation, one that has served us well since 2002\.
+ 
+
+
+
+ To learn more about Roku, our global footprint, and how we've grown, visit https://www.weareroku.com/factsheet.
+ 
+
+
+
+ By providing your information, you acknowledge that you want Roku to contact you about job roles, that you have read Roku's Applicant Privacy Notice, and understand that Roku will use your information as described in that notice. If you do not wish to receive any communications from Roku regarding this role or similar roles in t</description>
+        <pubDate>2026-06-09 01:59:02.423574+00:00</pubDate>
     </item>
     
     <item>
@@ -4451,7 +4673,81 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
 
  Pursuant to applicable Fair Chance law, Workday will consider for employment qualified applicants with arrest and conviction records.
  </description>
-        <pubDate>2026-06-08 15:26:11.006516+00:00</pubDate>
+        <pubDate>2026-06-09 01:59:02.423694+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Computer Vision/Machine Learning Engineer - The Select Group</title>
+        <link>https://www.linkedin.com/jobs/view/4422202852</link>
+        <description>**Computer Vision / Multimodal AI Engineer**
+ The Select Group is looking to add a Computer Vision and Multimodal AI Engineer to a highly innovative AI team to help shape the next generation of intelligent, AI\-powered business solutions.
+   
+
+  
+
+ This is an opportunity to work on complex, real\-world challenges at the intersection of Computer Vision, Vision\-Language Models (VLMs), NLP, and agentic AI. Rather than maintaining existing systems, this individual will help build and scale new capabilities that transform visual information into actionable insights and business value.
+   
+
+  
+
+ We are seeking someone who enjoys experimentation, thrives in ambiguity, and can take an idea from concept through production deployment. Success in this role will come from a combination of technical depth, curiosity, and the ability to translate cutting\-edge AI technologies into practical solutions that users can rely on every day.
+   
+
+  
+
+**What You'll Be Helping Build**
+* Intelligent systems that analyze and understand visual data at scale.
+* Multimodal AI solutions that combine images, language, and reasoning to deliver richer insights.
+* Agentic AI workflows capable of surfacing recommendations and automating decision\-making processes.
+* Production\-grade AI applications that support both operational efficiencies and customer\-facing experiences.
+* Scalable architectures that enable rapid experimentation while supporting long\-term growth.
+
+
+**What Success Looks Like**
+ The right person will be comfortable owning the full lifecycle of machine learning initiatives—from designing experiments and validating assumptions to deploying models and continuously improving performance.
+   
+
+  
+
+ This role will have significant influence on how AI solutions are architected, evaluated, and scaled. Strong candidates are naturally inquisitive, enjoy investigating why models succeed or fail, and can turn those findings into measurable improvements.
+   
+
+  
+
+**Technical Environment**
+* Computer Vision and Machine Learning
+* Vision\-Language Models (CLIP, BLIP, Gemini, and similar frameworks)
+* Multimodal AI and reasoning systems
+* Agentic AI workflows
+* Python
+* PyTorch, TensorFlow, CoreML, or similar ML frameworks
+* Cloud\-based AI deployment environments
+* Model evaluation, optimization, and performance tuning
+
+
+**Who Tends To Excel In This Environment**
+* Engineers who have successfully deployed machine learning solutions into production.
+* Professionals who enjoy building and testing new ideas rather than simply maintaining existing systems.
+* Individuals who can move comfortably between research, experimentation, engineering, and business conversations.
+* Practitioners who are excited about emerging technologies in multimodal AI, visual reasoning, and autonomous agents.
+* Self\-starters who can operate independently while collaborating effectively across engineering, product, and business teams.
+
+
+**Why This Opportunity Stands Out**
+* Work on some of the most rapidly evolving areas of artificial intelligence.
+* Opportunity to influence architecture, strategy, and technical direction.
+* Exposure to Computer Vision, multimodal AI, VLMs, and agentic systems in production environments.
+* Collaborative team culture that values experimentation, innovation, and measurable business impact.
+* Long\-term engagement supporting the development of next\-generation AI capabilities.
+
+
+ TSG is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+   
+
+  
+
+ 75557</description>
+        <pubDate>2026-06-09 01:59:02.423795+00:00</pubDate>
     </item>
     
     <item>
@@ -4570,7 +4866,7 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
   
 
  Iterable is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Iterable does not make hiring or employment decisions on the basis of race, color,</description>
-        <pubDate>2026-06-08 15:26:11.006601+00:00</pubDate>
+        <pubDate>2026-06-09 01:59:02.423892+00:00</pubDate>
     </item>
     
 </channel>
