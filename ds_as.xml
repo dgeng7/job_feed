@@ -6,107 +6,109 @@
     <description>jobs</description>
     
     <item>
-        <title>Sr. Data Scientist, Marketing - Pinterest</title>
-        <link>https://www.indeed.com/viewjob?jk=2c65f64f6bd6fe15</link>
-        <description>**About Pinterest:**
+        <title>Senior Data Scientist, Product &amp; Growth - COMFY</title>
+        <link>https://www.indeed.com/viewjob?jk=2c8a7fd4f1ca04b4</link>
+        <description>**The Role**
 
 
-
-Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we're on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
-
+Comfy is looking for our first dedicated product and growth data scientist. Millions of people use ComfyUI, and we're turning that reach into a real business. We need someone who can tell us what's actually happening inside the funnel, find where the leverage is, and prove what moves the numbers.
 
 
-Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other's unique experiences and embrace the flexibility to do your best work. Creating a career you love? It's Possible.
+This is a hands\-on, senior IC role. You'll own the analysis behind signup, activation, conversion, and retention, and you'll work directly with growth, product, and the founders. You won't sit behind a ticket queue. You'll pick the questions that matter, answer them well, and turn the answers into decisions we actually make.
+
+**What You'll Do**
 
 
-
-At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we're looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we'll explore your foundational skills and how you collaborate with AI.
-
+Own the metrics that define our growth funnel: signup, activation, conversion, retention, and how they connect
 
 
-Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
+Design and run experiments (A/B tests and beyond), and read them honestly, including when the answer is "no effect"
 
 
-Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we're on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+Build the models that matter for growth: activation prediction, churn and retention, conversion propensity, and LTV
 
 
-
-Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other's unique experiences and embrace the flexibility to do your best work. Creating a career you love? It's Possible.
-
+Turn messy product and billing events into clean, trusted analysis (we run on PostHog and a warehouse)
 
 
-We are looking for a Data Scientist to join our marketing org. As a Data Scientist you introduce greater scientific rigor into the marketing measurement and optimization processes to shape Pinterest's revenue growth and marketing strategy. The results of your work will influence and drive strategic decisions for the company \- identify investment opportunities for growth, understand revenue growth and behavior, and define metrics to grow and sustain our advertiser base. You will collaborate on a wide array of business problems with a diverse set of cross\-functional partners across Marketing, Product, Engineering, Analytics and others.
+Find the leverage: the few places where a small change in the funnel produces an outsized result, and size the opportunity before we build
 
 
-
-This role sits within the Marketing team and supports business marketing efforts aimed at driving revenue growth for Pinterest.
-
-  
+Make your work legible with clear metrics, dashboards, and writeups the whole team can act on
 
 
-**What you'll do:**
+Partner with growth and product day to day, and with the founders on the bets that matter
+
+**You Might Be a Fit If You**
 
 
-* Analyze advertiser behavior across the end\-to\-end funnel to identify factors influencing acquisition, conversion, retention and churn.
-* Lead the design, implementation, and continuous improvement of advanced marketing measurement frameworks and statistical models to quantify marketing ROI. Marketing channels could be different paid media, email, in\-product, organic social, webinars, elearning platform,in person events etc.
-* Build and deploy statistical and machine learning models such as propensity, forecasting, and lifetime value (LTV) models—to optimize marketing strategies and enhance audience targeting.
-* Develop and refine attribution methodologies to evaluate the effectiveness of marketing initiatives across multiple channels.
-* Assess the incremental impact of marketing activities using causal inference techniques and testing/experiment frameworks.
-* Conduct deep, strategic analyses to address key business questions, such as how to improve marketing ROI, how to improve marketing budget allocation to optimize the business impact, measuring the impact of marketing in both mature and new markets, identifying opportunities to increase advertiser growth and revenue through marketing initiatives
-* Translate complex analytical findings into clear, actionable insights and strategic recommendations for both technical and non\-technical stakeholders, including senior leadership.
-* Design, maintain, and promote dashboards and automated reporting tools to empower stakeholders with self\-serve, data\-driven decision\-making capabilities. Build and optimize ETL data pipelines to automate reporting, support deep dive analysis and feature engineering for analytical models.
-  
+Have several years in product or growth data science, ideally at a product\-led or consumer company with real scale
 
 
-**What we're looking for:**
+Are genuinely hands\-on: you write your own SQL and Python, build your own models, and don't need a platform team to get answers
 
 
-* 6\+ years of combined post\-graduate academic and industry experience applying scientific methods to solve real\-world problems.
-* Masters degree in a quantitative field such as mathematics, statistics, computer science or engineering.
-* Excellent communication skills, able to lead initiatives and communicate findings to the leadership and cross\-functional teams, especially non\-technical audiences. Explains work and thought processes clearly and concisely.
-* Hands\-on experiences with building marketing measurement solutions to quantify the business impact of marketing tactics and investments.
-* Strong background in statistics and quantitative analysis, with experience in applying advanced statistical techniques to real\-world problems.
-* Expertise in at least one scripting language (ideally Python/R). Proficiency in SQL/Hive. Ability to write efficient SQL queries.
-* Strong business and product sense. Strong skills in shaping vague questions into well\-defined analyses and success metrics that drive business decisions.
-* Experience leading key technical projects.
-* Strong Experimentation background.
-* Statistical rigor. Experience with causal inference projects.
-
-  
+Know experimentation cold, both the statistics and the judgment, and can tell a real effect from noise
 
 
-**In\-Office Requirement Statement:**
+Think in funnels and systems, and connect a metric to the decision it should drive
 
 
-* We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day\-to\-day can vary based on the needs of each organization or role.
-* This role will need to be in the office for in\-person collaboration 1\-2 times/quarter and therefore can be situated anywhere in the country.
-
-  
+Communicate in plain language, and aren't afraid to deliver an inconvenient finding
 
 
-**Relocation Statement:**
+Have built data models or pipelines when the job needed it (dbt, warehouse), even if analysis is your main game
 
 
-* This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
-
-  
+Care about AI and creative tools, ideally as a ComfyUI user
 
 
-
-\#LI\-NM4
-
+Like a small, intense team: high ownership, low ego, fast clock
 
 
-\#LI\-REMOTE
+Are in SF or ready to be
 
-**Our Commitment to Inclusion:**
+**Bonus Points**
 
 
+You've stood up an experimentation program or an analytics stack from scratch
 
-Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
 
-*By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.*</description>
-        <pubDate>2026-06-18</pubDate>
+You're comfortable with PostHog, dbt, or similar tools
+
+
+You can point to analysis that changed what a company did, not just what it knew
+
+
+Compensation: Base salary range is $180,000 to $250,000, plus meaningful early\-stage equity. Where you land depends on experience and level.
+
+
+Benefits include company\-sponsored Medical, Dental, and Vision (up to 100% coverage), unlimited PTO, daily catered lunch and dinner, your choice of equipment, and an **unlimited** budget for AI tools.
+
+**About ComfyUI**
+
+
+The creative world is changing fast. Everything that used to be rendered is being generated by AI. ComfyUI is the world's leading visual AI platform, an open, modular system to build AI workflows.
+
+
+It's used by artists, filmmakers, video game creators, designers, researchers, VFX houses, and among others, teams at OpenAI, Netflix, Amazon Studios, Ubisoft, EA, and Tencent, all who want to go beyond presets and truly shape how AI creates.
+
+**Open\-source**, with over 100k GitHub Stars
+
+
+An **inference engine** to run the most powerful open source models locally or in the cloud
+
+**A massive community**, with thousands of community\-made nodes and integrations
+
+
+Scales from **creative experimentation to production automation**
+
+
+Evolving to **democratize visual AI creation**, empowering everyone from hobbyists to studios, storytellers, and enterprises to be more productive and creative than ever before
+
+
+ComfyUI isn't just another AI app. It is the operating system for visual generative AI, the foundation on which the next generation of creative tools are built.</description>
+        <pubDate>2026-06-25</pubDate>
     </item>
     
     <item>
@@ -755,167 +757,6 @@ Pinterest is an equal opportunity employer and makes employment decisions on the
     </item>
     
     <item>
-        <title>Senior Data Scientist, Analytics - Discord</title>
-        <link>https://www.linkedin.com/jobs/view/4388983970</link>
-        <description>Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does:
- **play video games.** 
- Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.
-   
-
-  
-
- As a member of the Data Science \&amp; Analytics team, you will help Discord achieve its mission of making it easier and more fun for people to talk and hang out before, during, and after playing games. Senior Data Scientists for Analytics leverage their deep analytical skills and product intuition to solve a wide array of complex problems \- from strategic analysis to dashboard creation and experimentation design and analysis. We are currently hiring across a variety of data science verticals and teams. If you’re passionate about data, impact, and working on an amazing team, read on!
-   
-
-  
-
-**What You'll Be Doing**
-* Partner with teams throughout Discord through the full lifecycle of data science analytics from ideation and exploratory analysis, to building dashboards and reports, and A/B testing
-* Define KPIs and metrics that help improve the user experience, encapsulating these measures in clean crisp dashboards that provide the company with timely and actionable information
-* Use our amazing infrastructure to quickly and easily build custom data sets to monitor novel product features and processes
-* Proactively socialize insights, dashboards, and reports with technical and non\-technical audiences, soliciting feedback on where to improve
-* Be a champion of A/B testing and help groups throughout the company design, analyze, and interpret A/B tests correctly
-* Collaborate with data and engineering teams to design scalable and future\-proof instrumentation
-
-
-**What You Should Have**
-* 4\+ years of experience autonomously translating ambiguous business problems into deep informative insights through hands\-on analytics
-* 4\+ years of experience building performant dashboards using Tableau, Looker, or similar software \- with proficiency in designing clean crisp visualizations
-* 4\+ years experience writing excellent SQL
-* Excellent communication skills, with the ability to translate complicated findings or technical approaches in easy\-to\-understand ways
-* 4\+ years of experience in the design, analysis, and interpretation of A/B tests in a large data environment
-* A desire to work with amazing, passionate people who care deeply about solving challenging problems to improve Discord
-* Last but not least \- a collaborative attitude and a healthy dose of natural curiosity!
-
-
-**Bonus Points**
-* Passion for Discord or online communities
-* Experience with technical leadership, being the point person for one or more stakeholder groups
-* Experience with analytics for social media or international subscription\-based online services, including familiarity with concepts such as social graphs, LTV analysis, funnel analysis, etc.
-* Experience in the user engagement and growth problems
-* Experience writing performant code in BigQuery SQL
-* Experience with writing production ETL
-
-
-*Candidates must reside in or be willing to relocate to the San Francisco Bay Area (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma counties). Relocation assistance may be available.*
-*The US base salary range for this full\-time position is $196,000 to $220,500 \+ equity \+ benefits. Our salary ranges are determined by role and level. Within the range, individual pay is determined by additional factors, including job\-related skills, experience, and relevant education or training. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include equity, or benefits.*
-**Why Discord?**
- Discord plays a uniquely important role in the future of gaming. We're a multiplatform, multigenerational and multiplayer platform that helps people deepen their friendships around games and shared interests, and helps developers build and grow their businesses. We believe games give us a way to have fun with our favorite people, whether listening to music together or grinding in competitive matches for diamond rank.
- **Join us in our mission! Your future is just a click away!**
-**Discord is committed to inclusion and providing reasonable accommodations during the interview process.** 
- We want you to feel set up for success, so if you are in need of reasonable accommodations, please let your recruiter know.
-   
-
-  
-
-***Please see our Applicant and Candidate Privacy Policy for details regarding Discord’s collection and usage of personal information relating to the application and recruitment process by clicking HERE.***</description>
-        <pubDate>2026-06-18</pubDate>
-    </item>
-    
-    <item>
-        <title>Sr. Data Scientist, Marketing - Pinterest</title>
-        <link>https://www.linkedin.com/jobs/view/4430716232</link>
-        <description>**About Pinterest**
- Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
-   
-
-  
-
- Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
-   
-
-  
-
- At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
-   
-
-  
-
- Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
-   
-
-  
-
- Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
-   
-
-  
-
- Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
-   
-
-  
-
- We are looking for a Data Scientist to join our marketing org. As a Data Scientist you introduce greater scientific rigor into the marketing measurement and optimization processes to shape Pinterest’s revenue growth and marketing strategy. The results of your work will influence and drive strategic decisions for the company \- identify investment opportunities for growth, understand revenue growth and behavior, and define metrics to grow and sustain our advertiser base. You will collaborate on a wide array of business problems with a diverse set of cross\-functional partners across Marketing, Product, Engineering, Analytics and others.
-   
-
-  
-
- This role sits within the Marketing team and supports business marketing efforts aimed at driving revenue growth for Pinterest.
-   
-
-  
-
-**What You’ll Do**
-* Analyze advertiser behavior across the end\-to\-end funnel to identify factors influencing acquisition, conversion, retention and churn.
-* Lead the design, implementation, and continuous improvement of advanced marketing measurement frameworks and statistical models to quantify marketing ROI. Marketing channels could be different paid media, email, in\-product, organic social, webinars, elearning platform,in person events etc.
-* Build and deploy statistical and machine learning models such as propensity, forecasting, and lifetime value (LTV) models—to optimize marketing strategies and enhance audience targeting.
-* Develop and refine attribution methodologies to evaluate the effectiveness of marketing initiatives across multiple channels.
-* Assess the incremental impact of marketing activities using causal inference techniques and testing/experiment frameworks.
-* Conduct deep, strategic analyses to address key business questions, such as how to improve marketing ROI, how to improve marketing budget allocation to optimize the business impact, measuring the impact of marketing in both mature and new markets, identifying opportunities to increase advertiser growth and revenue through marketing initiatives
-* Translate complex analytical findings into clear, actionable insights and strategic recommendations for both technical and non\-technical stakeholders, including senior leadership.
-* Design, maintain, and promote dashboards and automated reporting tools to empower stakeholders with self\-serve, data\-driven decision\-making capabilities. Build and optimize ETL data pipelines to automate reporting, support deep dive analysis and feature engineering for analytical models.
-
-
-**What We’re Looking For**
-* 6\+ years of combined post\-graduate academic and industry experience applying scientific methods to solve real\-world problems.
-* Masters degree in a quantitative field such as mathematics, statistics, computer science or engineering.
-* Excellent communication skills, able to lead initiatives and communicate findings to the leadership and cross\-functional teams, especially non\-technical audiences. Explains work and thought processes clearly and concisely.
-* Hands\-on experiences with building marketing measurement solutions to quantify the business impact of marketing tactics and investments.
-* Strong background in statistics and quantitative analysis, with experience in applying advanced statistical techniques to real\-world problems.
-* Expertise in at least one scripting language (ideally Python/R). Proficiency in SQL/Hive. Ability to write efficient SQL queries.
-* Strong business and product sense. Strong skills in shaping vague questions into well\-defined analyses and success metrics that drive business decisions.
-* Experience leading key technical projects.
-* Strong Experimentation background.
-* Statistical rigor. Experience with causal inference projects.
-
-
-**In\-Office Requirement Statement**
-* We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day\-to\-day can vary based on the needs of each organization or role.
-* This role will need to be in the office for in\-person collaboration 1\-2 times/quarter and therefore can be situated anywhere in the country.
-
-
-**Relocation Statement:**
-* This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
-
-
- At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
-   
-
-  
-
-*Information regarding the culture at Pinterest and benefits available for this position can be found here.*
- US based applicants only
-   
-
-  
-
- $139,764—$287,749 USD
-   
-
-  
-
-**Our Commitment To Inclusion**
- Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
-   
-
-  
-
-*By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.*</description>
-        <pubDate>2026-06-18</pubDate>
-    </item>
-    
-    <item>
         <title>Data Scientist - Ramp</title>
         <link>https://www.linkedin.com/jobs/view/4423030902</link>
         <description>**About Ramp**
@@ -1047,7 +888,135 @@ Pinterest is an equal opportunity employer and makes employment decisions on the
 *Ramp.com* 
 *email addresses and will never ask for payment or sensitive personal information during the hiring process.*
  Ramp Applicant Privacy Notice</description>
-        <pubDate>2026-06-25 14:01:14.692342+00:00</pubDate>
+        <pubDate>2026-06-26 02:09:10.534722+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist, Supply - Anthropic</title>
+        <link>https://www.linkedin.com/jobs/view/4410837539</link>
+        <description>****About Anthropic****
+ Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+   
+
+  
+
+****About Anthropic****
+ Anthropic is an AI safety and research company. We build reliable, interpretable, and steerable AI systems, and we believe AI will have a vast impact on the world — our goal is to ensure that impact is positive.
+   
+
+  
+
+****About The Role****
+ Anthropic is compute\-constrained, and how we allocate that compute is one of the highest\-leverage decisions we make as a company. Today, allocation choices are only loosely tied to the user outcomes we ultimately care about — retention, lifetime value, and the experience of people relying on Claude. This role exists to change that by addressing two intertwined problems at the heart of how we allocate compute.
+   
+
+  
+
+ The first is an allocation problem: matching a volatile, heterogeneous stream of demand to a finite, heterogeneous fleet of chips. Which models run on which hardware, in which regions, under what serving configurations — with demand shifting and capacity bounded — is a problem the team navigates continuously today, with more intuition than rigor. You will bring structure to it: building the metrics and analytical frameworks that make the trade\-offs legible, and partnering with the infrastructure teams that own these systems to turn that understanding into better decisions.
+   
+
+  
+
+ The second is a causal\-inference problem: there are many levers — rate limits, pricing, cache behavior, capacity shifts, routing changes — and only a partial picture of what pulling each one actually does to the users on the other end. You will build the causal understanding that closes that gap, choosing whatever approach the question calls for, so allocation decisions are made on expected user impact rather than intuition.
+   
+
+  
+
+ This role is a fit for someone who thinks natively in terms of constrained allocation and queueing, who treats "what would happen if we changed X" as an identification problem rather than a dashboard query, and who wants their work to translate into operational and productionized change. You will work closely with the infrastructure engineers who run our compute, and your findings will be presented to senior leadership.
+   
+
+  
+
+****Key Responsibilities****
+* Build and run testing frameworks — observational and synthetic — to quantify how different inputs affect compute allocation outcomes
+* Connect compute allocation decisions to downstream user outcomes (retention, lifetime value, revenue)
+* Partner closely with infrastructure engineers, product, and research to instrument systems, measure what matters, and ship operational changes
+* Develop the metric hierarchies, dashboards, and reporting that turn supply decisions into shared understanding across the company
+* Contribute analyses and recommendations to executive forums, and co\-author the supply narrative shared with the CTO and staff
+
+
+****Minimum Qualifications****
+* Strong technical individual\-contributor background in data science, analytics, or operations research
+* Demonstrated comfort reasoning about resource allocation and trade\-offs under constraints — drawn to systems problems, not just dashboards
+* Working fluency with causal inference — able to recognize when an effect needs to be identified, not just measured, and to choose an appropriate design
+* Deep proficiency with Python, SQL, and data visualization tools
+* Track record of owning analyses end\-to\-end and communicating results clearly to engineering and product leadership
+* Direct experience working closely with engineering teams on production systems
+* Alignment with Anthropic's mission of building helpful, honest, and harmless AI
+
+
+****Preferred Qualifications****
+* Significant technical individual\-contributor experience in data science, analytics, or operations research at staff level scope
+* Experience with highly complex systems with many interacting components (ad networks, payment processing, marketplace matching, routing, etc.)
+* Hands\-on operations\-research depth: experience formulating and shipping real\-time constrained\-allocation, routing, or scheduling problems in production (LP/MILP, queueing, or RL\-based control), with the ability to defend modeling choices
+* Causal\-inference depth beyond off\-the\-shelf quasi\-experimental templates — particularly methods for recovering long\-term impact from short\-horizon data: surrogate/proxy\-outcome models, off\-policy evaluation and counterfactual policy learning, or structural approaches, built rather than merely run
+* Experience contributing to or designing experimentation platforms, not just using them
+* Exposure to AI/ML products, large language models, or large\-scale inference systems
+* Track record of setting technical direction across multiple workstreams or mentoring senior individual contributors without formal management responsibility
+
+
+**Equal Opportunity**
+ Anthropic is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other characteristic protected by applicable law. We will also consider qualified applicants with criminal histories in accordance with applicable law (e.g., the San Francisco Fair Chance Ordinance, where applicable).
+   
+
+  
+
+ The annual compensation range for this role is listed below.
+   
+
+  
+
+ For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+   
+
+  
+
+**Annual Salary:**
+ $285,000—$460,000 USD
+   
+
+  
+
+**Logistics**
+**Minimum education:** 
+ Bachelor’s degree or an equivalent combination of education, training, and/or experience
+   
+
+  
+
+**Required field of study:** 
+ A field relevant to the role as demonstrated through coursework, training, or professional experience
+   
+
+  
+
+**Minimum years of experience:** 
+ Years of experience required will correlate with the internal job level requirements for the position
+   
+
+  
+
+**Location\-based hybrid policy:** 
+ Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+   
+
+  
+
+**Visa sponsorship:** 
+ We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+   
+
+  
+
+**We encourage you to apply even if you do not believe you meet every single qualification.** 
+ Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+   
+
+  
+
+**Your safety matters to us.** 
+ To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're</description>
+        <pubDate>2026-06-26 02:09:10.534820+00:00</pubDate>
     </item>
     
 </channel>
