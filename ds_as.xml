@@ -463,6 +463,76 @@ Compensation Range: $180K \- $250K</description>
     </item>
     
     <item>
+        <title>Applied Scientist III - Uber Freight</title>
+        <link>https://www.linkedin.com/jobs/view/4393883959</link>
+        <description>**Schedule: Full Time Employment**
+**Job Type: Hybrid**
+**Salary Type: Salary**
+**Req \#: 2520**
+**About The Role**
+ As an Applied Scientist III at Uber Freight, you will develop and implement advanced statistical, economic, machine learning, and optimization approaches to solve complex business problems and improve performance. You will apply modeling skills and data\-driven methods to enhance our core product experience and top line business metrics. You’ll collaborate closely with Product, Operations, and Engineering teams to turn insights into impact.
+   
+
+  
+
+**What The Candidate Will Do**
+* Develop creative solutions and build prototypes to business problems using algorithms based on causal inference, statistics, machine learning, and optimization.
+* Collaborate with engineering and product teams to productionize these solutions and create a lasting impact.
+* Drive clarity and solve ambiguous, challenging business problems using data\-driven approaches, with an emphasis on understanding causal relationships when applicable.
+* Propose and guide robust frameworks of data analysis to drive business insights and inform decision\-making.
+* Contribute to establishing standard methodologies for data science, including modeling, coding, analytics, and experimentation.
+* Leverage data to understand product performance and identify improvement opportunities, including analyzing potential causal factors.
+* Design product experiments and interpret results to draw detailed and impactful conclusions.
+* Communicate findings and insights to senior management and cross\-functional teams.
+* Provide recommendations to assist quick product ideation and feature launch decisions.
+* Build intelligent data\-driven products to provide the best user experience.
+
+
+**Basic Qualifications**
+* Bachelor’s degree in Statistics, Machine Learning, Operations Research, Economics, Computer Science, or another related field
+* 3 years of related experience
+* Expertise in observational causal inference, econometric, and statistical models
+* Demonstrated proficiency in programming languages like Python or R for purposes of model development and analysis
+* Proficiency in SQL for data manipulation and analysis
+* Proficiency in building and managing data pipelines for purposes of model development or analysis
+
+
+**Preferred Qualifications**
+* Master’s or Ph.D. in Statistics, Machine Learning, Operations Research, Economics, Computer Science, or a related field
+* Expertise in time series analysis and forecasting
+* Experience working on pricing algorithms in a production environment
+* Proficiency in designing, launching, and analyzing A/B tests or other types of online experiments
+
+
+**Benefits \&amp; Compensation For U.S. Employees**
+ Employees working more than 30 hours in the US at Uber Freight are eligible for benefits like a company sponsored health plan, dental and vision benefits, 401k match, financial and mental wellness benefits, parental leave, short\- and long\-term disability coverage, life insurance and more. US based employees may also be eligible for a performance or sales incentive bonus program, participation in Uber Freight equity awards, and other types of compensation depending upon the role.
+   
+
+  
+
+**About Uber Freight**
+ Uber Freight helps companies move goods more reliably and efficiently. We bring together the technology, people, and transportation capacity they need, using real‑time data from millions of shipments to guide smarter decisions. That helps customers spot issues early, avoid costly surprises, and deliver on time. Uber Freight works with 1 in 3 Fortune 500 shippers across North America and manages over $17B in freight. Learn more at www.uberfreight.com.
+   
+
+  
+
+**Candidate Privacy Notice**
+ Uber Freight is committed to protecting the privacy of our candidates. We collect and process personal data in accordance with applicable data protection laws. For detailed information on how we handle candidate data, please review our Candidate Privacy Notice.
+   
+
+  
+
+**EEOC**
+ Uber Freight is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regards to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+   
+
+  
+
+ For California\-based roles: The salary range for this role is $150,000\.00 \- $182,000\.00 per year</description>
+        <pubDate>2026-06-28</pubDate>
+    </item>
+    
+    <item>
         <title>Sr. Data Scientist, Performance Marketing - Pinterest</title>
         <link>https://www.linkedin.com/jobs/view/4434058582</link>
         <description>**About Pinterest**
@@ -1529,6 +1599,102 @@ Compensation Range: $180K \- $250K</description>
     </item>
     
     <item>
+        <title>Senior Data Scientist - Hinge Health</title>
+        <link>https://www.linkedin.com/jobs/view/4401678815</link>
+        <description>**About The Role**
+ Hinge Health is expanding from digital PT into full musculoskeletal care through HingeSelect, which enables members to self\-select into in\-person visits, specialist referrals, and other care pathways. As we scale this offering, we need a Senior Product Data Scientist to own analytics, experimentation, and measurement across the Visits and Discovery experience.
+   
+
+  
+
+ This is a 0\-to\-1 role. You will be the dedicated data scientist on HingeSelect's discovery and visits experience, partnering directly with Product and Engineering to diagnose conversion bottlenecks, establish causal guardrails against cannibalization of existing programs, and ensure strong instrumentation so every product bet has a clear feedback loop to business impact. You will also model how provider capacity and member demand interact to optimize supply\-demand dynamics across the care network.
+   
+
+  
+
+ The ideal candidate is a strong product data scientist who is comfortable in ambiguous, greenfield environments — defining metrics from scratch, designing experiments, and building the analytics foundation for a new product surface. You should be fluent in AI\-assisted development and able to translate ambiguous business questions into rigorous analytical frameworks.
+   
+
+  
+
+ Our stack: Python, SQL, dbt, Mode, Databricks, Airflow, Statsig, AWS
+   
+
+  
+
+**What You'll Accomplish**
+* Build the measurement and experimentation foundation for HingeSelect's Visits and Discovery experience — from instrumentation design through causal analysis and metric reporting.
+* Diagnose conversion bottlenecks across the HingeSelect funnel (discovery, selection, scheduling, visit completion) and partner with Product to prioritize highest\-leverage interventions.
+* Design and execute experiments with causal guardrails to measure HingeSelect's incremental impact while detecting and preventing cannibalization of existing digital PT engagement.
+* Model supply\-demand dynamics — how provider capacity, geographic coverage, and member demand interact — to inform network strategy and capacity planning.
+* Define the data architecture for HingeSelect from scratch: event taxonomy, data models, and metric definitions that enable reliable downstream analysis and AI agent consumption.
+* Build and maintain dashboards and self\-service tools that give Product, Engineering, and leadership real\-time visibility into funnel performance and experiment results.
+* Advocate for upstream instrumentation best practices, working with Engineering to ensure events are captured server\-side with consistent schemas and timestamps.
+* Apply machine learning and predictive modeling to forecast member behavior, segment demand, and identify high\-value intervention points across the care selection journey.
+
+
+**Basic Qualifications**
+* At minimum, 3\-4\+ years of experience in Data Science, Product Analytics, or related fields.
+* Bachelor's degree in a relevant field (Data Science, Computer Science, Engineering, Statistics, etc.).
+* 3\+ years of experience with Python and SQL, with the ability to transform complex data into actionable insights.
+* Experience designing and analyzing A/B tests and other experimental frameworks.
+* Proven ability to translate complex data into clear, actionable insights and communicate findings effectively to both technical and non\-technical stakeholders.
+* Experience building dashboards and reports for monitoring product or operational metrics using tools like Mode, Tableau, or similar.
+* Experience with productionalizing data models and ETL pipelines.
+
+
+**Preferred Qualifications**
+* 1\+ years of experience with machine learning and predictive modeling.
+* Master's degree in a relevant field (Data Science, Computer Science, Engineering, Statistics, etc.).
+* Prior experience in healthcare, wellness, or digital health environments, particularly in fitness technologies or real\-time feedback systems.
+* Knowledge of cloud infrastructure and tools such as AWS, Databricks, and Airflow.
+
+
+**Hinge Health Hybrid Model**
+ We believe that remote work and in\-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week
+   
+
+  
+
+**About Hinge Health**
+ At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1\.7 billion people worldwide. With an AI\-powered human\-centered care model, Hinge Health leverages cutting\-edge technology to improve outcomes, experiences and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post\-surgical rehabilitation – through personalized, evidence\-based care.
+   
+
+  
+
+ As the preferred partner to 50\+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,550 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at http://www.hingehealth.com/
+   
+
+  
+
+**What You'll Love About Us**
+* Inclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender\-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.
+* Planning for the future: Start saving for the future with our traditional or Roth 401k retirement plan options which include a 2% company match.
+* Modern life stipends: Manage your own learning and development.
+* Grow with us: Discounted company stock through our ESPP with easy payroll deductions.
+
+
+**Culture \&amp; Engagement**
+ Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.
+   
+
+  
+
+ By submitting your application you are acknowledging we are using your personal data as outlined in the personnel and candidate privacy policy.
+   
+
+  
+
+ Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use "@hingehealth.com" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com.
+   
+
+  
+
+ Compensation Range: $164\.8K \- $247\.2K</description>
+        <pubDate>2026-06-24</pubDate>
+    </item>
+    
+    <item>
         <title>Data Scientist - Pinterest</title>
         <link>https://www.linkedin.com/jobs/view/4422647342</link>
         <description>**About Pinterest**
@@ -1819,224 +1985,86 @@ Compensation Range: $180K \- $250K</description>
     </item>
     
     <item>
-        <title>Senior Data Scientist - Aircall</title>
-        <link>https://www.linkedin.com/jobs/view/4432487094</link>
-        <description>Aircall is a unicorn, AI\-powered customer communications platform used by 22,000\+ companies worldwide to drive revenue, resolve issues faster, and scale customer\-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seamless workspace.
+        <title>Senior Data Scientist, GTM - Airwallex</title>
+        <link>https://www.linkedin.com/jobs/view/4351744596</link>
+        <description>**About Airwallex**
+ Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 200,000 businesses worldwide – including Brex, Rippling, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale.
    
 
   
 
- Our momentum comes from a simple idea: help teams work smarter, not harder. Aircall’s AI Voice Agent automates routine calls, AI Assist streamlines post\-call work, and AI Assist Pro delivers real\-time guidance so people can do their best work. The result is higher revenue, faster resolutions, and teams that scale with confidence.
+ Proudly founded in Melbourne, we have a team of over 2,200 of the brightest and most innovative people in tech across 26 offices around the globe. Valued at US$8 billion and backed by world\-leading investors including T. Rowe Price, Visa, Mastercard, Robinhood Ventures, Sequoia, Salesforce Ventures, DST Global, and Lone Pine Capital, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us.
    
 
   
 
- Aircall is headquartered in Paris, our European HQ, with a strong North American presence anchored in Seattle, our North American HQ, and teams across Madrid, London, Berlin, San Francisco, New York City, Sydney, and Mexico City. We’ve built a product customers love and a business that’s scaling quickly, backed by world\-class investors and driven by rapid AI innovation across multiple product lines.
+**Attributes We Value**
+ We hire successful builders with founder\-like energy who want real impact, accelerated learning, and true ownership. You bring strong role\-related expertise and sharp thinking, and you’re motivated by our mission and operating principles. You move fast with good judgment, dig deep with curiosity, and make decisions from first principles, balancing speed and rigor.
    
 
   
 
- At Aircall, you’ll join a company in motion. We’re ambitious, product\-driven, and execution\-focused, with visible impact, fast decisions, and real growth.
-   
-
-  
-
-**How we work at Aircall:** 
- We’re customer\-obsessed, data\-driven, and focused on delivering meaningful outcomes. We value ownership, continuous learning, and thoughtful speed. If you thrive in a collaborative, fast\-moving environment where trust and impact matter, you’ll feel at home here.
+ You're humble and collaborative; turn zero‑to‑one ideas into real products, and you “get stuff done” end\-to\-end. You use AI to work smarter and solve problems faster. Here, you’ll tackle complex, high‑visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let’s build what’s next.
    
 
   
 
 **About The Team**
- Our Data team is the backbone of Aircall’s decision\-making process, driving product development and business growth with cutting\-edge data products, tools, and actionable insights
+ The GTM Data Science team at Airwallex is a collaborative group of analytics and data science professionals passionate about driving commercial success with cutting\-edge solutions. We work closely with Product, Growth, and Commercial teams to accelerate revenue growth, optimize efficiency, and build the data foundations supporting Airwallex’s next phase. Our mandate is to use data\-driven methods—not only to understand what changed, but to uncover why, and transform those insights into scalable impact.
    
 
   
 
-**About The Role**
- As a Data Scientist, you will provide invaluable insights to our product and business teams, working closely with our product and engineering leaders. You'll support impactful initiatives including pricing, packaging, multi\-product strategies and self\-service approaches. You will collaborate cross\-functionally with Engineering, Sales, Finance, Marketing, and Customer Relations to translate data needs into powerful solutions. You'll also establish best practices in analytics and mentor team members, ensuring high standards in data governance and insight generation.
+**What You’ll Do**
+ As a Senior Data Scientist, GTM, you will play a pivotal role within the GTM Data Science team, partnering cross\-functionally to develop innovative solutions to GTM challenges. Your work will encompass revenue forecasting, deep causal inference, and deploying AI\-driven insights across the commercial lifecycle. You’ll drive proactive, exploratory analysis, translate complex results into actionable business strategies, and help build Airwallex’s next\-generation data science foundation.
    
 
   
 
-**Your Mission @ Aircall:**
-* Partner with product and business leaders to define the analytics roadmap and deliver key projects in customer acquisition, engagement, and retention
-* Provide actionable insights and compelling narratives to influence major decisions at the C\-level
-* Build a culture of experimentation by designing and executing rigorous A/B tests to measure business impact
-* Work closely with data engineers to continuously improve the data stack, governance practices, and analysis quality
+**Responsibilities**
+* Serve as a technical partner to Product, Growth, and Commercial teams to design and implement scalable data science solutions that accelerate revenue and improve commercial outcomes.
+* Lead exploratory, data\-driven analyses to identify and scale revenue opportunities, uncover trends, and operationalize insights into automated, repeatable workflows.
+* Develop and maintain revenue forecasting models and performance analytics (e.g., pipeline health, conversion, retention drivers, scenario planning) as trusted sources of truth for commercial decision\-making.
+* Apply advanced causal inference techniques (such as DiD, synthetic control, DoubleML) to estimate business impact and guide strategic choices where RCTs are not practical.
+* Design and implement AI\-enabled solutions across the sales and customer lifecycle, including boosting sales effectiveness, retention, and expansion.
+* Communicate technical findings and recommendations lucidly to technical and non\-technical stakeholders, including executive teams.
 
 
-**A little more about you:**
-* 5\+ years of hands\-on technical experience in a high growth environment
-* Proficiency in SQL for deriving insights
-* Proficiency in Python
-* Data\-driven, structured and solution oriented with extensive experience in building rigorous experiments
-* Excellent interpersonal skills and the ability to explain complex data clearly to stakeholders at all levels
-* You have an insatiable curiosity and are biased toward action
-
-
- $170,000 \- $220,000 a year
+**Who You Are**
+ We’re looking for people who meet the minimum requirements for this role. The preferred qualifications are a plus, but not required.
    
 
   
 
- This is not including equity and other benefits. The actual salary offered will carefully consider a wide range of factors, including your skills, qualifications, and experience.
-   
-
-  
-
- Why join us?
-   
-
-  
-
- 🚀 Key moment to join Aircall in terms of growth and opportunities
-   
-
-  
-
- 💆‍♀️ Our people matter, work\-life balance is important at Aircall
-   
-
-  
-
- 📚 Fast\-learning environment, entrepreneurial and strong team spirit
-   
-
-  
-
- 🌍 45\+ Nationalities: cosmopolite \&amp; multi\-cultural mindset
-   
-
-  
-
- 💵 Competitive salary package \&amp; benefits
-   
-
-  
-
- 🏨 Medical, dental, and vision insurance is 100% covered
-   
-
-  
-
- 📈 401k plan with company matching!
-   
-
-  
-
- ✈️ Unlimited PTO — take the time you need to come to work feeling great!
-   
-
-  
-
- ⭐️ Wellness, commuter, and childcare reimbursements
-   
-
-  
-
- 💚 Generous parental leave policy
-   
-
-  
-
- DE\&amp;I Statement:
-   
-
-  
-
- At Aircall, we believe diversity, equity and inclusion – irrespective of origins, identity, background and orientations – are core to our journey.
-   
-
-  
-
- We pride ourselves on promoting active inclusion within our business to foster a strong sense of belonging for all. We’re working to create a place filled with diverse people who can enrich and learn from one another. We’re committed to ensuring that everyone not only has a seat at the table but is valued and respected at it by providing equal opportunities to develop and thrive.
-   
-
-  
-
- We will constantly challenge ourselves to make sure that we live up to our ambitions around diversity, equity and inclusion, and keep this conversation open. Above all else, we understand and acknowledge that we have work to do and much to learn.
-   
-
-  
-
- Want to know more about candidate privacy? Find our Candidate Privacy Notice here.
-   
-
-  
-
- We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.</description>
-        <pubDate>2026-06-23</pubDate>
-    </item>
-    
-    <item>
-        <title>Applied Scientist III - Uber Freight</title>
-        <link>https://www.linkedin.com/jobs/view/4393883959</link>
-        <description>**Schedule: Full Time Employment**
-**Job Type: Hybrid**
-**Salary Type: Salary**
-**Req \#: 2520**
-**About The Role**
- As an Applied Scientist III at Uber Freight, you will develop and implement advanced statistical, economic, machine learning, and optimization approaches to solve complex business problems and improve performance. You will apply modeling skills and data\-driven methods to enhance our core product experience and top line business metrics. You’ll collaborate closely with Product, Operations, and Engineering teams to turn insights into impact.
-   
-
-  
-
-**What The Candidate Will Do**
-* Develop creative solutions and build prototypes to business problems using algorithms based on causal inference, statistics, machine learning, and optimization.
-* Collaborate with engineering and product teams to productionize these solutions and create a lasting impact.
-* Drive clarity and solve ambiguous, challenging business problems using data\-driven approaches, with an emphasis on understanding causal relationships when applicable.
-* Propose and guide robust frameworks of data analysis to drive business insights and inform decision\-making.
-* Contribute to establishing standard methodologies for data science, including modeling, coding, analytics, and experimentation.
-* Leverage data to understand product performance and identify improvement opportunities, including analyzing potential causal factors.
-* Design product experiments and interpret results to draw detailed and impactful conclusions.
-* Communicate findings and insights to senior management and cross\-functional teams.
-* Provide recommendations to assist quick product ideation and feature launch decisions.
-* Build intelligent data\-driven products to provide the best user experience.
-
-
-**Basic Qualifications**
-* Bachelor’s degree in Statistics, Machine Learning, Operations Research, Economics, Computer Science, or another related field
-* 3 years of related experience
-* Expertise in observational causal inference, econometric, and statistical models
-* Demonstrated proficiency in programming languages like Python or R for purposes of model development and analysis
-* Proficiency in SQL for data manipulation and analysis
-* Proficiency in building and managing data pipelines for purposes of model development or analysis
+**Minimum Qualifications**
+* At least 5 years of industry experience and an advanced degree (MS or PhD) in a quantitative field (e.g., Statistics, Computer Science, Engineering, Economics, or related discipline).
+* Demonstrated analytical intuition and structured problem\-solving; skilled at translating commercial questions into focused analytics projects.
+* Excellent communicator, adept at presenting complex technical concepts as actionable recommendations to diverse audiences.
+* Strong hands\-on experience with SQL, Python and/or R, including causal inference and revenue forecasting.
+* Deep curiosity about GTM performance and customer behavior—focused on uncovering not just what changed, but why it changed.
 
 
 **Preferred Qualifications**
-* Master’s or Ph.D. in Statistics, Machine Learning, Operations Research, Economics, Computer Science, or a related field
-* Expertise in time series analysis and forecasting
-* Experience working on pricing algorithms in a production environment
-* Proficiency in designing, launching, and analyzing A/B tests or other types of online experiments
+* Experience with Databricks or similar cloud data platforms/warehouses.
+* Familiarity with Hex or other notebook\-based analysis tools.
+* Experience in a high\-growth startup and/or B2B business models, including CRM, sales pipeline, or RevOps data.
 
 
-**Benefits \&amp; Compensation For U.S. Employees**
- Employees working more than 30 hours in the US at Uber Freight are eligible for benefits like a company sponsored health plan, dental and vision benefits, 401k match, financial and mental wellness benefits, parental leave, short\- and long\-term disability coverage, life insurance and more. US based employees may also be eligible for a performance or sales incentive bonus program, participation in Uber Freight equity awards, and other types of compensation depending upon the role.
+**Applicant Safety Policy: Fraud and Third\-Party Recruiters**
+*To protect you from recruitment scams, please be aware that Airwallex will not ask for bank details, sensitive ID numbers (i.e. passport), or any form of payment during the application or interview process. All official communication will come from an @* 
+*airwallex.com* 
+*email address. Please apply only through* 
+*careers.airwallex.com* 
+*or our official LinkedIn page.*
+*Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.*
+**Equal opportunity**
+ Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard color, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status when making our hiring decisions. If you have a disability or special need that requires accommodation, please let us know.
    
 
   
 
-**About Uber Freight**
- Uber Freight helps companies move goods more reliably and efficiently. We bring together the technology, people, and transportation capacity they need, using real‑time data from millions of shipments to guide smarter decisions. That helps customers spot issues early, avoid costly surprises, and deliver on time. Uber Freight works with 1 in 3 Fortune 500 shippers across North America and manages over $17B in freight. Learn more at www.uberfreight.com.
-   
-
-  
-
-**Candidate Privacy Notice**
- Uber Freight is committed to protecting the privacy of our candidates. We collect and process personal data in accordance with applicable data protection laws. For detailed information on how we handle candidate data, please review our Candidate Privacy Notice.
-   
-
-  
-
-**EEOC**
- Uber Freight is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regards to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
-   
-
-  
-
- For California\-based roles: The salary range for this role is $150,000\.00 \- $182,000\.00 per year</description>
-        <pubDate>2026-06-29 02:15:14.586130+00:00</pubDate>
+ Compensation Range: $160K \- $250K</description>
+        <pubDate>2026-06-29 15:27:41.977321+00:00</pubDate>
     </item>
     
     <item>
@@ -2185,7 +2213,7 @@ Compensation Range: $180K \- $250K</description>
 *E\-Verify Notice (Spanish)*
 *Right to Work Notice*
 *Right to Work Notice (Spanish)*</description>
-        <pubDate>2026-06-29 02:15:14.586218+00:00</pubDate>
+        <pubDate>2026-06-29 15:27:41.977442+00:00</pubDate>
     </item>
     
 </channel>
