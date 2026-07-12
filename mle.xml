@@ -1126,101 +1126,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Senior Machine Learning Engineer Search Capabilities, Proactive - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=36bdf1f9e3191d2e</link>
-        <description>The Siri team is redefining how hundreds of millions of people access information across Apple devices \- with privacy built in from the ground up. As part of the Applied ML team, you will advance Apple Intelligence through agentic search, result ranking, and low\-latency production services that power experiences across Siri, Spotlight, Safari, Messages, and more. Our team researches and builds deep search systems for Personal Question Answering \- enabling Siri to answer questions about a user's emails, messages, events, files, and more, while keeping personal data private.  
-
-  
-
-**Description**  
-
-  
-
-You will apply agentic search techniques to enhance user productivity and improve Siri's ability to answer questions about personal content. You will own models responsible for answering user questions using personal documents \- with privacy at the forefront \- and integrate these with broader Siri capabilities to deliver powerful, intuitive experiences. You will contribute across the full research and development lifecycle, from defining quality metrics and evaluation frameworks to building data pipelines and shaping the long\-term technical vision for Personal Question Answering.","responsibilities":"Research, design, implement, and evaluate agentic search systems and underlying models to improve quality, performance, and Personal Question Answering capabilities  
-
-  
-
-Extend and improve search technologies through prompt optimization, context management, post\-training techniques, and high\-quality data pipeline development  
-
-  
-
-Define quality metrics and evaluation benchmarks; build evaluation platforms and design experiments to validate hypotheses and support team\-wide decisions  
-
-  
-
-Collaborate with partner teams to define product requirements, priorities, and opportunities to enhance Personal Question Answering  
-
-  
-
-Define the long\-term technical vision for Personal Question Answering quality; identify problem areas and integrate solutions into a broader roadmap  
-
-  
-
-**Preferred Qualifications**  
-
-  
-
-Knowledge of training, evaluating, and deploying deep learning models and large language models for production systems  
-
-  
-
-Experience building production machine learning systems in search, recommendation systems, or information retrieval  
-
-  
-
-Ability to prototype solutions and perform analysis to evaluate results  
-
-  
-
-Background in search relevance and ranking, question answering, personalization, user behavior modeling, or data\-driven decision\-making  
-
-  
-
-Advanced degree (Master's or Ph.D.) in Computer Science, Statistics, or a related field, or equivalent industry experience  
-
-  
-
-**Minimum Qualifications**  
-
-  
-
-8 or more years of industry experience in machine learning, natural language processing, and applying these techniques at scale  
-
-  
-
-Software engineering proficiency in Python, Go, or C/C\+\+  
-
-  
-
-Experience with machine learning frameworks such as PyTorch, JAX, TensorFlow, or XGBoost  
-
-  
-
-Written and verbal communication skills  
-
-  
-
-Bachelor's degree in Computer Science or equivalent  
-
-  
-
-**Pay \&amp; Benefits**  
-
-  
-
-At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $216,200 and $394,000, and your base pay will depend on your skills, qualifications, experience, and location.  
-
-  
-
-Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \- including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  
-
-  
-
-Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</description>
-        <pubDate>2026-07-01</pubDate>
-    </item>
-    
-    <item>
         <title>AIML - Sr Machine Learning Engineer, Data and ML Innovation - Apple</title>
         <link>https://www.indeed.com/viewjob?jk=200c00de9fdb46e1</link>
         <description>Are you excited to tackle some of the most ambitious technical challenges in Apple Intelligence? Be involved in collaborating closely with our machine learning researchers, engineers, and data scientists?  
@@ -1349,6 +1254,227 @@ Apple employees also have the opportunity to become an Apple shareholder through
 
 Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</description>
         <pubDate>2026-03-05</pubDate>
+    </item>
+    
+    <item>
+        <title>Applied AI, Forward Deployed Machine Learning Engineer - Mistral</title>
+        <link>https://www.linkedin.com/jobs/view/4439508424</link>
+        <description>**About Mistral**
+ Mistral provides full\-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high\-stakes industries like finance, manufacturing, defense, healthcare, and the public sector—co\-creating customized AI systems that they can run on their terms.
+   
+
+  
+
+ We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low\-ego and team\-spirited.
+   
+
+  
+
+**The Role**
+ Mistral AI is seeking a Applied AI Engineer to facilitate the adoption of its products among customers and collaborate with them to address complex technical challenges.
+   
+
+  
+
+ The Applied AI Engineer will be an integral part of our Applied AI Engineering team, which is dedicated to driving the successful deployment of Mistral AI products. They will work hand\-in\-hand with customers from the pre\-sale stage to post\-implementation, ensuring our solutions meet and exceed client expectations.
+   
+
+  
+
+ In this role, you’ll manage daily customer relations involving multiple stakeholders (CEO/CTO, data scientists, and software engineers) and function as a key resource in externalising our research in production settings.
+   
+
+  
+
+**What You Will Do**
+* You’ll be responsible for onboarding customers on our products and APIs, providing guidance on prompting, evaluation, and fine\-tuning, and ensuring the best production integration with back\-end and front\-end interfaces.
+* You’ll work on state\-of\-the\-art GenAI applications from consumer products to industrial use cases, driving with our customers a crucial technological transformation.
+* You’ll individually help deploy into production use cases with a considerable business impact across various industries.
+* You’ll work in collaboration with our researchers, other AI engineers, product engineers on our most complex customer projects involving complex fine\-tuning, state\-of\-the\-art LLM applications, and contributing to our open source codebases for tasks such as inference and fine\-tuning.
+* You’ll be involved in pre\-sales calls to understand potential clients' needs, challenges, and aspirations. You will provide technical guidance on our products and explain Mistral technologies to various stakeholders.
+* Your collaboration with our product and science team to improve continuously our product and model capabilities based on customers’ feedback
+
+
+**What We're Looking For**
+* You are fluent in English
+* You hold a PhD / master in AI / data science.
+* You have 2\+ years as a technical individual contributor (data scientist or software engineer) on AI\-based products
+* You have experience in Fine Tuning LLMs, tackling advanced RAG or agentic use cases
+* You have deep understanding of concepts and algorithms underlying machine learning and LLMs
+* You're experienced with building and deploying LLMs or NLP applications
+* You have proven experience in AI or machine learning product implementation with APIs, back\-end and front\-end interfaces.
+* You have strong technical coding skills in Python
+* You have experience with deep learning with Pytorch
+* You have experience with agents framework such as Langchain, vector DBs
+* You hold strong communication skills with an ability to explain complex technical concepts in simple terms with technical and non\-technical audiences
+
+
+ Ideally you have:
+   
+
+  
+
+* Contributed to open\-source projects in particular in the space of LLMs
+* Experience as a Customer Engineer, Forward Deployed Engineer, Sales Engineer, Solutions Architect or Technical Product Manager
+
+
+****What we offer****
+ We offer a comprehensive benefits package designed to support your well\-being, growth, and work\-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location\-specific perks.
+   
+
+  
+
+ For the most up\-to\-date details on benefits available in your location, please refer to our Benefits page.
+   
+
+  
+
+****Privacy Policy****
+ Your privacy matters to us. You can learn more about how we handle your personal data in our Applicant Privacy Policy.</description>
+        <pubDate>2026-07-11</pubDate>
+    </item>
+    
+    <item>
+        <title>Applied AI, Forward Deployed Machine Learning Engineer - Mistral</title>
+        <link>https://www.linkedin.com/jobs/view/4439511279</link>
+        <description>**About Mistral**
+ Mistral provides full\-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high\-stakes industries like finance, manufacturing, defense, healthcare, and the public sector—co\-creating customized AI systems that they can run on their terms.
+   
+
+  
+
+ We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low\-ego and team\-spirited.
+   
+
+  
+
+**The Role**
+ Mistral AI is seeking a Applied AI Engineer to facilitate the adoption of its products among customers and collaborate with them to address complex technical challenges.
+   
+
+  
+
+ The Applied AI Engineer will be an integral part of our Applied AI Engineering team, which is dedicated to driving the successful deployment of Mistral AI products. They will work hand\-in\-hand with customers from the pre\-sale stage to post\-implementation, ensuring our solutions meet and exceed client expectations.
+   
+
+  
+
+ In this role, you’ll manage daily customer relations involving multiple stakeholders (CEO/CTO, data scientists, and software engineers) and function as a key resource in externalising our research in production settings.
+   
+
+  
+
+**What You Will Do**
+* You’ll be responsible for onboarding customers on our products and APIs, providing guidance on prompting, evaluation, and fine\-tuning, and ensuring the best production integration with back\-end and front\-end interfaces.
+* You’ll work on state\-of\-the\-art GenAI applications from consumer products to industrial use cases, driving with our customers a crucial technological transformation.
+* You’ll individually help deploy into production use cases with a considerable business impact across various industries.
+* You’ll work in collaboration with our researchers, other AI engineers, product engineers on our most complex customer projects involving complex fine\-tuning, state\-of\-the\-art LLM applications, and contributing to our open source codebases for tasks such as inference and fine\-tuning.
+* You’ll be involved in pre\-sales calls to understand potential clients' needs, challenges, and aspirations. You will provide technical guidance on our products and explain Mistral technologies to various stakeholders.
+* Your collaboration with our product and science team to improve continuously our product and model capabilities based on customers’ feedback
+
+
+**What We're Looking For**
+* You are fluent in English
+* You hold a PhD / master in AI / data science.
+* You have 2\+ years as a technical individual contributor (data scientist or software engineer) on AI\-based products
+* You have experience in Fine Tuning LLMs, tackling advanced RAG or agentic use cases
+* You have deep understanding of concepts and algorithms underlying machine learning and LLMs
+* You're experienced with building and deploying LLMs or NLP applications
+* You have proven experience in AI or machine learning product implementation with APIs, back\-end and front\-end interfaces.
+* You have strong technical coding skills in Python
+* You have experience with deep learning with Pytorch
+* You have experience with agents framework such as Langchain, vector DBs
+* You hold strong communication skills with an ability to explain complex technical concepts in simple terms with technical and non\-technical audiences
+
+
+ Ideally you have:
+   
+
+  
+
+* Contributed to open\-source projects in particular in the space of LLMs
+* Experience as a Customer Engineer, Forward Deployed Engineer, Sales Engineer, Solutions Architect or Technical Product Manager
+
+
+****What we offer****
+ We offer a comprehensive benefits package designed to support your well\-being, growth, and work\-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location\-specific perks.
+   
+
+  
+
+ For the most up\-to\-date details on benefits available in your location, please refer to our Benefits page.
+   
+
+  
+
+****Privacy Policy****
+ Your privacy matters to us. You can learn more about how we handle your personal data in our Applicant Privacy Policy.</description>
+        <pubDate>2026-07-11</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer, Model Evaluations (Speech LLM) - San Francisco - Plaud</title>
+        <link>https://www.linkedin.com/jobs/view/4409689882</link>
+        <description>**About Plaud Inc.**
+ Plaud is building the world's most trusted AI work companion for professionals to elevate productivity and performance through note\-taking solutions, loved by over 1,500,000 users worldwide since 2023\. With a mission to amplify human intelligence, Plaud is building the next\-generation intelligence infrastructure and interfaces to capture, extract, and utilize what you say, hear, see, and think.
+   
+
+  
+
+ Plaud Inc. is a Delaware\-incorporated, San Francisco\-based company pushing the boundary of human–AI intelligence through a hardware–software combination. With SOC 2, HIPAA, GDPR, ISO27001, ISO27701, and EN18031 compliance, Plaud is committed to the highest standards of data security and privacy protection.
+   
+
+  
+
+ To learn more about Plaud, please visit https://www.Plaud.ai and follow along on Instagram, X, Facebook, LinkedIn, and YouTube
+   
+
+  
+
+**Why You Should Join Us**
+ Plaud is building the next generation intelligence infrastructure and interfaces to capture, extract, and utilize intelligence from what people say, hear, see, and think.
+   
+
+  
+
+* Plaud is a bootstrapped, skyrocketing, profitable company with a $250M revenue run rate achieved in just three years.
+* Define the next\-gen paradigm for human\-AI interaction.
+* Gain exposure to cutting\-edge AI for Pro tools and play a direct role in our global expansion.
+* Work with passionate teammates who value innovation, collaboration, and customer success.
+* Grow your career in a culture that champions continuous learning and fast career development.
+* Market\-competitive compensation, global exposure, and a vibrant, creativity\-fueled work atmosphere.
+
+
+**You may be a good fit if you:**
+* Have a passion for turning ambiguous, subjective concepts like a voice's naturalness, expressiveness, or conversational cadence into clear, defensible, and automated metrics that researchers and leadership can rely on.
+* Possess strong software engineering skills (especially in Python) and have experience building reliable distributed systems, data pipelines, or evaluation harnesses that can run at scale against live model checkpoints.
+* Can deeply partner with ML researchers to define exactly what "good" looks like for a Speech LLM, translating capabilities (like ASR robustness in noisy environments or TTS emotional steerability) into measurable benchmarks.
+* Are comfortable building and owning dashboards that track model health during training, improving signal\-to\-noise ratios, reducing evaluation latency, and making performance regressions impossible to miss.
+* Rapidly debug anomalous mid\-training results to determine if a drop in performance stems from the model architecture, corrupted data, or infrastructure.
+* Communicate complex statistical results and model behaviors clearly to both technical and non\-technical stakeholders.
+
+
+**Strong candidates may also have experience with:**
+* Speech Metrics: Deep familiarity with both traditional (WER, CER, PESQ, etc) and modern audio evaluation frameworks (automated MOS scoring).
+* LLM\-as\-a\-Judge: Using frontier models or finetune multi\-modal LLMs to evaluate the conversational logic, transcription accuracy, audio quality, and reasoning of audio models.
+* Human Evaluation: Managing large\-scale crowdsourcing operations or preference data collection to support RLHF/DPO efforts.
+* Observability: A strong background in statistics and experimental design, paired with experience building trusted tracking dashboards (e.g., Weights \&amp; Biases, MLflow).
+* Adversarial Datasets: Curating complex datasets to test edge cases, such as heavy accents, overlapping speech, or highly noisy acoustic environments.
+
+
+**What we offer**
+* Founding Team Initiative: Opportunity to be an early, foundational member of our core SpeechLLM lab, with meaningful ownership and impact on a fast\-growing startup.
+* Competitive Compensation: $200K \- $365K base salary \+ performance bonus \+ Equity.
+* Comprehensive Benefits: Top\-tier healthcare for employees and dependents, including dental and vision, and a generous employer subsidy.
+* Retirement Planning: 401(k) plan for full\-time employees with company matching.
+* Paid Time Off: Unlimited PTO, plus 13 paid holidays.
+* New Parent Leave: 12 weeks of paid time off to spend time with your new family, regardless of gender.
+* Hybrid Office: Minimum of 3x in\-office per week to foster highly collaborative, fast\-paced research.
+* Gear \&amp; Perks: Choice of top\-of\-the\-line laptops/workstations, annual offsites, and a fully stocked office.
+
+
+*Plaud is and will continue to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristics.*</description>
+        <pubDate>2026-07-11</pubDate>
     </item>
     
     <item>
@@ -2064,77 +2190,93 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Machine Learning Engineer [33318] - Stealth Startup</title>
-        <link>https://www.linkedin.com/jobs/view/4435966777</link>
-        <description>We are looking for a
- **Machine Learning Engineer** 
- with strong
- **backend engineering** 
- skills to help build and scale AI\-powered products. This role is ideal for engineers with
- **1–2 years of professional experience** 
- who have hands\-on experience developing machine learning solutions while building reliable, production\-grade backend systems.
- 
+        <title>Staff Machine Learning Engineer - Shipt</title>
+        <link>https://www.linkedin.com/jobs/view/4419975655</link>
+        <description>**Impact**
+ As a Staff Machine Learning Engineer on Shipt's Personalization Platform team you will drive key AI initiatives. In this role, you’ll collaborate with Data Scientists to design and deploy intelligent, personalized recommendation models to drive user engagement across Shipt. You will be a hands\-on senior technical contributor in the Membership organization and your work will consist of contribution to architecture, design, and implementation to deliver high quality AI driven solutions in a rapidly evolving marketplace environment.
+   
+
+  
+
+ In this role you will design, build and maintain scalable ML infrastructure and production systems as well as closely collaborate with Data Scientists to architect data pipelines for serving and training ML models for Shipt's Personalization Platform. You will also be responsible for leading the team to build scalable, low\-latency, and fault\-tolerant systems to serve real\-time recommendations at scale and developing robust APIs and services to deliver real\-time or batch recommendations (using Python, Go). This is a hands\-on, cross\-functional role ideal for someone who thrives at the intersection of Machine Learning, AI Engineering, and Business Impact.
+   
+
+  
+
+****What You’ll Need to Be Successful****
+* PhD/MS in Computer Science, Engineering, Mathematics or equivalent work experience
+* 5\+ years of experience in machine learning and backend software engineering
+* Proficiency in at least one backend programming language (e.g., Go, Java) and Python
+* Deep understanding of user modeling, embeddings, similarity search and ranking models
+* Strong experience with serving architectures (e.g., REST/gRPC APIs, model servers)
+* Experience with ML pipeline tools (e.g., MLflow, Kubeflow, Airflow)
+* Strong grasp of distributed systems, microservices, and system design
+* Experience with SQL and NoSQL databases and working with large\-scale datasets
+* Exposure to experimentation platforms and online A/B testing.
 
 
+ Pay Range: $137,400\- $239,000 Please note that the salary range above is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location.
+   
 
- You'll work closely with engineering and product teams to design, deploy, and optimize ML\-powered applications that serve real\-world users at scale.
- 
+  
 
+**Skills \&amp; Education**
+ This list includes key skills used in this job but is not inclusive of all skills needed for the role. Please see any required education below.
+   
 
+  
 
- Responsibilities
- 
+ Back\-End Development, Machine Learning (ML), Python (Programming Language), Structured ProgrammingBachelor's Degree or equivalent experience \| Required
+   
 
+  
 
-* Design, develop, and deploy machine learning models into production.
-* Build and maintain scalable backend services and APIs that power AI applications.
-* Develop data pipelines for training, inference, and model evaluation.
-* Optimize model performance, latency, and reliability in production.
-* Collaborate with product, infrastructure, and software engineering teams to deliver end\-to\-end AI features.
-* Monitor production systems and continuously improve model accuracy and backend performance.
-* Write clean, maintainable, and well\-tested code.
+**Work Arrangement**
+ To foster connection while offering continued flexibility, hybrid team members have the following in\-office expectations:
+   
 
+  
 
+ Hybrid roles in Birmingham, AL typically work in\-office at least 2 days per week, with core in\-office days on Wednesdays and Thursdays.
+   
 
- Qualifications
- 
+  
 
+ Hybrid roles in Minneapolis, MN typically work in\-office at least 1 day per week on either Tuesday, Wednesday, or Thursday.
+   
 
-* Bachelor's, Master's, or Ph.D. in Computer Science, Machine Learning, Artificial Intelligence, or a related field.
-* **1–2 years** 
- of professional software engineering or machine learning experience.
-* Strong programming skills in
- **Python** 
- and/or
- **Java** 
- ,
- **Go** 
- , or
- **C\+\+** 
- .
-* Experience building backend services using modern frameworks (FastAPI, Flask, Django, Spring Boot, etc.).
-* Experience with machine learning frameworks such as
- **PyTorch** 
- ,
- **TensorFlow** 
- , or
- **JAX** 
- .
-* Familiarity with REST APIs, distributed systems, and cloud platforms (AWS, GCP, or Azure).
-* Experience with SQL/NoSQL databases and version control (Git).
-* Strong problem\-solving and communication skills.
+  
 
+ Hybrid roles in San Francisco, CA typically work in\-office at least 1 day per week between Monday and Thursday.
+   
 
+  
 
- Preferred Qualifications
- 
+ Certain roles may require in\-office presence on a full\-time basis. Please work with your recruiter to learn more about the classification of this role.
+   
 
+  
 
-* Experience deploying ML models in production.
-* Knowledge of LLMs, generative AI, or NLP applications.
-* Experience with Docker, Kubernetes, CI/CD, and MLOps tools.
-* Familiarity with vector databases, model serving, or distributed training.
-* Startup experience or experience working in fast\-paced engineering environments.</description>
+**About Shipt**
+ Shipt is a retail tech company that connects people to reliable, high\-quality delivery with a personal touch. Shipt connects customers to the things they want from the stores they love, retail businesses to more satisfied customers, and workers to new earning opportunities.
+   
+
+  
+
+ At Shipt, we aim to put our team first to boost a sense of belonging, spark opportunities for growth, provide unique benefits and commit to giving back to our communities in ways that make life better, both personally and professionally. We understand that our service, our culture, and our connection to our communities are only made better by every single person who shows up to work here every day. Learn More.
+   
+
+  
+
+ Shipt is an independently operated, wholly owned subsidiary of Target Corporation and available in more than 5,000 U.S. cities. Shipt was founded and is headquartered in Birmingham, Alabama. For more information, please visit Shipt’s company site at Shipt.com.
+   
+
+  
+
+*We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or any other characteristic protected by law.*
+*Please inform your recruiting contact upon initial connection if you need a reasonable accommodation. If you need assistance filling out a job application, please complete this form.*
+*Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.*
+*Employees (and eligible family members) are covered by medical, dental, vision and more. Employees may enroll in our company’s 401k plan. Employees will also be eligible to receive discretionary vacation for exempt team members, paid holidays throughout the calendar year and paid sick leave. Other compensation includes eligibility for an annual bonus and the potential for restricted stock units based on role.*</description>
         <pubDate>2026-07-10</pubDate>
     </item>
     
@@ -2356,90 +2498,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Machine Learning Engineer, Core Engineering - Pinterest</title>
-        <link>https://www.linkedin.com/jobs/view/4182357321</link>
-        <description>**About Pinterest**
- Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
-   
-
-  
-
- Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
-   
-
-  
-
- At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
-   
-
-  
-
- Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
-   
-
-  
-
- With more than 500 million users around the world and 300 billion ideas saved, Pinterest Machine Learning engineers build personalized experiences to help Pinners create a life they love. With just over 3,000 global employees, our teams are small, mighty, and still growing. At Pinterest, you’ll experience hands\-on access to an incredible vault of data and contribute large\-scale recommendation systems in ways you won’t find anywhere else.
-   
-
-  
-
-**What You’ll Do**
-* Build cutting edge technology using the latest advances in deep learning and machine learning to personalize Pinterest
-* Partner closely with teams across Pinterest to experiment and improve ML models for various product surfaces (Homefeed, Ads, Growth, Shopping, and Search), while gaining knowledge of how ML works in different areas
-* Use data driven methods and leverage the unique properties of our data to improve candidates retrieval
-* Work in a high\-impact environment with quick experimentation and product launches
-* Keeping up with industry trends in recommendation systems
-
-
-**What We’re Looking For** 
-  
-
-  
-
-* 2\+ years of industry experience applying machine learning methods (e.g., user modeling, personalization, recommender systems, search, ranking, natural language processing, reinforcement learning, and graph representation learning)
-* End\-to\-end hands\-on experience with building data processing pipelines, large scale machine learning systems, and big data technologies (e.g., Hadoop/Spark)
-* Bachelor’s degree in computer science, machine learning, statistics, a related field or equivalent experience
-* Nice to have:
-+ M.S. or PhD in Machine Learning or related areas
-+ Publications at top ML conferences
-+ Experience using Cursor, Copilot, Codex, or similar AI coding assistants for development, debugging, testing, and refactoring
-+ Familiarity with LLM\-powered productivity tools for documentation search, experiment analysis, SQL/data exploration, and engineering workflow acceleration
-+ Expertise in scalable realtime systems that process stream data
-+ Passion for applied ML and the Pinterest product
-
-
-**Relocation Statement:**
-* This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
-
-
- At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
-   
-
-  
-
-*Information regarding the culture at Pinterest and benefits available for this position can be found here.*
- US based applicants only
-   
-
-  
-
- $138,905—$285,982 USD
-   
-
-  
-
-**Our Commitment To Inclusion**
- Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
-   
-
-  
-
-*By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.*</description>
-        <pubDate>2026-07-09</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Machine Learning Engineer - MrBeast</title>
         <link>https://www.linkedin.com/jobs/view/4430133882</link>
         <description>**About Us** 
@@ -2552,6 +2610,81 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
 * Flexible vacation policy and paid company holidays
 * Company\-provided technology package
 * Relocation assistance where applicable, including travel and company\-provided housing for the first 90 days</description>
+        <pubDate>2026-07-09</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer - Genentech</title>
+        <link>https://www.linkedin.com/jobs/view/4438819467</link>
+        <description>The Position
+   
+
+  
+
+**Why Genentech**
+ We’re passionate about delivering on Our Promise to improve the lives of patients and create healthier communities for all. We foster a culture of inclusivity, integrity and creativity while boldly pursuing answers to the world’s most complex health challenges and transforming society.
+   
+
+  
+
+**The Opportunity**
+ Our Data, Analytics, and AI team is dedicated to solving complex healthcare challenges and improving patient outcomes. Data, Analytics, and AI empowers business partners across Commercial, Medical, and Government Affairs (CMG) to make impactful decisions by leveraging data, analytics, business products, and AI/ML to enable fast, targeted actions in rapidly evolving business contexts.
+   
+
+  
+
+ Data, Analytics, and AI fosters a unified understanding of customers, actions, and outcomes by integrating analytics and insights seamlessly into CMG’s evolving digital, data, and automation platforms, creating scalable solutions and eliminating silos.
+   
+
+  
+
+ In Data, Analytics, and AI, you will work as a trusted, objective advisor and expert, recommending critical decisions and actions to be taken with credibility and a focus on driving measurable impact. You will be part of a thriving culture built on collaboration and innovation.
+   
+
+  
+
+ The Machine Learning Engineer sits on the Data Science \&amp; Machine Learning Team to help the CMG (Commercial, Medical and Government) organization achieve its vision by unlocking value from data quicker and more effectively.
+   
+
+  
+
+ The Machine Learning Engineer will bring a robust understanding of machine learning operations (MLOps) to manage and contribute to our machine learning initiatives.
+   
+
+  
+
+* The Machine Learning Engineer will design, enhance, scale, and maintain machine learning solutions from conception to deployment in a production environment.
+* You will collaborate with data scientists, software engineers, and business stakeholders to translate business requirements into scalable ML systems.
+* You will also architect and uphold ML pipelines using job scheduling frameworks to streamline data preparation, training, deployment, and machine learning model lifecycles.
+* In addition to ensuring best practices in code quality, version control, and CI/CD for machine learning pipelines, you will also design and implement robust monitoring systems for deployed models to track performance, data drift, and anomalies.
+* The ML Engineer will also pioneer and administer model retraining, A/B testing, and progressive deployment strategies for continuous model enhancement.
+* You will contribute to the company's machine learning architecture to support scalable and repeatable model training and deployment.
+* Facilitate the creation of automated processes for model validation and testing.
+
+
+**Who You Are**
+* You hold a Bachelor’s Degree in Computer Science or related technical discipline and 3\+ years of experience working in a machine learning engineer role, with a minimum of 2 years in an MLOps\-focused position.
+* Your expertise in ML frameworks (e.g., TensorFlow, PyTorch), programming languages (e.g., Python, Scala, Java), MLOps technologies (e.g., Kubeflow, MLflow, AWS Sagemaker), and job scheduling frameworks (e.g., Apache Airflow,AWS Step Functions) is strong.
+* You have a solid understanding and experience with cloud services and containerization technologies/platforms, particularly AWS and Kubernetes.
+* Proficient with software engineering best practices, including agile development, code reviews, SCM, build processes, testing, and operations.
+* Experience with distributed computing and big data technologies (e.g., Hadoop, Spark).
+
+
+**Preferred**
+* Experience building and optimizing structured and unstructured big data pipelines, architectures, and datasets.
+* Excellent communication skills to effectively collaborate with cross\-functional teams.
+
+
+**This role offers a hybrid schedule working 3 days per week on campus in South San Francisco, CA.**
+**No relocation benefits are available for this posting.**
+*The expected salary range for this position based on the primary location of CA is $168,100\.00 \- $312,300\.00 USD Annual. Actual pay will be determined based on experience, qualifications, geographic location, and other job\-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below.*
+**Benefits**
+ Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.
+   
+
+  
+
+ If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.</description>
         <pubDate>2026-07-09</pubDate>
     </item>
     
@@ -2803,6 +2936,198 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
+        <title>Machine Learning Engineer - Intel</title>
+        <link>https://www.linkedin.com/jobs/view/4427790061</link>
+        <description>**Job Details**
+ Job Description:
+   
+
+  
+
+ Our Mission
+   
+
+  
+
+ At Intel, our journey is to transform AI into something safer, more trustworthy, and respectful of human privacy by design. We believe transformative AI should have a positive impact on people—powerful in capability, yet honest about its limits and protective of the data and resources it touches.
+   
+
+  
+
+ To get there, we build agentic AI that combines the best of local and cloud intelligence — private, affordable, and sustainable by design. Small, efficient models run directly on the user's machine (AI PC, edge, on\-prem, and beyond), keeping data private and token costs low, while powerful cloud models handle the hardest work: planning, reasoning, and complex problem\-solving. Today, neither approach can deliver this alone. Together, they give people real capability without compromise—data stays private, spend stays predictable, and energy use stays in check.
+   
+
+  
+
+ We're building intelligence that scales without sacrificing trust, cost, or the planet—because the future of AI should belong to the people it serves
+   
+
+  
+
+ Role Summary
+   
+
+  
+
+ We are seeking a \*\*Machine Learning Engineer / Data Scientist\*\* to join our team, working on agent harness research and model fine tuning. This role sits at the intersection of research and engineering: the ideal candidate designs and implements algorithms for agent harness and post\-training pipelines, develops RL environments and reward models, and conducts training runs to improve model capabilities for agentic applications.
+   
+
+  
+
+ What you’ll do
+   
+
+  
+
+**Work In a Dynamic Team To**
+* Build evaluation benchmarks and metrics
+* Build and iterate on agent harness, including context engineering, agent memory, tools, skills.
+* Build, maintain, and iterate on the post\-training pipeline: Develop robust, reproducible training workflows from data ingestion and preprocessing through model checkpointing and deployment
+* Design RL environments and reward functions — Develop environments, reward signals, and verifiable reward frameworks for training models on reasoning\-intensive tasks.
+* Debug and optimize training runs — Profile training jobs, resolve bottlenecks, improve GPU utilization, and address numerical instability at multi\-GPU scale
+
+
+ What you’ll learn / grow into
+   
+
+  
+
+**Curiosity Is Required. You Will Develop**
+* How post\-training techniques actually move model performance
+* How to make small models punch above their weight as agent backends
+* How model choices interact with runtime constraints on edge hardware
+
+
+**Important**
+*Please be informed that Intel is proactively trying*
+*to find candidates for this position which is frequently available*
+*at Intel.*
+*Please note that the position may not be available*
+*at this time. If you would be interested in this position should it*
+*become available, we would encourage you to apply, and our*
+*hiring team will be glad to contact you when/if relevant.*
+**Qualifications**
+ Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.
+   
+
+  
+
+ You must possess the minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.
+   
+
+  
+
+**Required Qualifications**
+* BS in CS, EE, Math or related STEM field
+* 5\+ years software development background
+* 2\+ years of hands\-on experience in machine learning engineering, data science or ML research
+* Proficient in Python
+* Proficient in LLM architectures, optimization and model training dynamics.
+
+
+**Preferred Qualifications**
+* Masters or PhD degrees are preferred.
+* Hands\-on experience implementing and scaling the full \*\*post\-training pipeline\*\* for language models including supervised fine tuning and reinforcement learning.
+* Previous experiences designing and building evaluation frameworks and benchmarks that accurately measure model capability improvements and alignment quality
+* Ability to own and drive a research agenda independently, generating hypotheses and prioritizing experiments without step\-by\-step supervision.
+* Ambiguity tolerance: Comfortable making progress in fast\-moving environments where problem definitions evolve and priorities shift.
+* Debug\-first mindset: Willingness and skill to dive deeply into large, complex ML codebases to isolate and fix subtle issues.
+* Research\-engineering balance: Ability to produce production\-quality implementations of novel research ideas, balancing rigor with speed.
+* Collaborative work style: Comfort with cross\-functional collaboration.
+* Clear technical communication: Ability to explain research results, architectural decisions, and trade\-offs to both technical and non\-technical stakeholders.
+* Ability to learn new technologies fast and adapt to changes with open\-mindedness.
+
+
+ Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+   
+
+  
+
+**Benefits At Intel**
+ Our total rewards package goes above and beyond just a paycheck. Whether you're looking to build your career, improve your health, or protect your wealth, we offer generous benefits to help you achieve your goals. Go to
+ **Intel Benefits \| Intel Careers** 
+ for details of benefits available to you. Intel reserves the right to modify, change or discontinue benefit plans at any time in its sole discretion.
+   
+
+  
+
+**\#LDI**
+**Shift**
+ Job Type:
+   
+
+  
+
+ Shift 1 (United States of America)
+   
+
+  
+
+ Primary Location:
+   
+
+  
+
+ US, California, Santa Clara
+   
+
+  
+
+ Additional Locations:
+   
+
+  
+
+ US, Arizona, Phoenix, US, California, Folsom, US, Oregon, Hillsboro
+   
+
+  
+
+**Business Group**
+ The Client Computing Group (CCG) is responsible for driving business strategy and product development for Intel's PC products and platforms, spanning form factors such as notebooks, desktops, 2 in 1s, all in ones. Working with our partners across the industry, we intend to deliver purposeful computing experiences that unlock people's potential \- allowing each person use our products to focus, create and connect in ways that matter most to them.
+   
+
+  
+
+**Posting Statement**
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+   
+
+  
+
+ Position of Trust
+   
+
+  
+
+ N/A
+   
+
+  
+
+**Benefits**
+ We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation. Find out more about the benefits of working at Intel.
+   
+
+  
+
+ Annual Salary Range for jobs which could be performed in the US: $170,500\.00 \- 315,490\.00 USD
+   
+
+  
+
+ The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific compensation range for your preferred location during the hiring process.
+   
+
+  
+
+**Work Model for this Role**
+ This role will be eligible for our hybrid work model which allows employees to split their time between working on\-site at their assigned Intel site and off\-site. \* Job posting details (such as work model, location or time type) are subject to change.
+  </description>
+        <pubDate>2026-07-07</pubDate>
+    </item>
+    
+    <item>
         <title>Machine Learning Engineer - Abaka AI</title>
         <link>https://www.linkedin.com/jobs/view/4341002791</link>
         <description>**About Abaka AI**
@@ -2864,285 +3189,183 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Staff Machine Learning Engineer - Content and Contributor Intelligence (Remote - United States) - Yelp</title>
-        <link>https://www.linkedin.com/jobs/view/4387663037</link>
-        <description>**Summary**
- Yelp engineering culture is driven by our values: we’re a cooperative team that values individual authenticity and encourages creative solutions to problems. All new engineers deploy working code their first week, and we strive to broaden individual impact with support from managers, mentors, and teams. At the end of the day, we’re all about helping our users, growing as engineers, and having fun in a collaborative environment.
+        <title>Senior Machine Learning Engineer - Attentive</title>
+        <link>https://www.linkedin.com/jobs/view/4372110325</link>
+        <description>Attentive® is the AI marketing platform for 1:1 personalization redefining the way brands and people connect. We’re the only marketing platform that combines powerful technology with human expertise to build authentic customer relationships. By unifying SMS, RCS, email, and push notifications, our AI\-powered personalization engine delivers bespoke experiences that drive performance, revenue, and loyalty through real\-time behavioral insights.
    
 
   
 
- Yelp’s mission of connecting people with great local businesses requires the use of cutting\-edge Machine Learning (ML) and Artificial Intelligence (AI) to scale across a vast and diverse base of users and businesses spanning various geographical locations. As a Staff\-level ML Engineer on the Content Contributor Intelligence team, you will help build connections across millions of users and business listings. Your work will involve using cutting\-edge industry tools, including neural networks (NNs), large language models (LLMs), and various embedding techniques for text, images, and videos. Additionally, you will apply traditional ML methods such as XGBoost and linear models to enhance our systems. You’ll be responsible for turning raw data into valuable signals and building ML systems end\-to\-end. This includes the full ML lifecycle from training models to deploying them in production, as well as contributing to the ML platforms these models rely on.
+ Recognized as the \#1 provider in SMS Marketing by G2, Attentive partners with more than 8,000 customers across 70\+ industries. Leading global brands like Crate and Barrel, Urban Outfitters, and Carter’s work with us to enable billions of interactions that power tens of billions in revenue for our customers.
    
 
   
 
- This opportunity is fully remote and does not require you to be located in any particular state within the US. We welcome applicants from throughout the US. We’d love to have you apply, even if you don’t feel you meet every single requirement in this posting. At Yelp, we’re looking for great people, not just those who simply check off all the boxes.
+ With a distributed global workforce and employee hubs in New York City, San Francisco, London, and Sydney, Attentive’s team has been consistently recognized for its performance and culture. We’re proud to be included in Deloitte’s Fast 500 (four years running!), LinkedIn’s Top Startups, Forbes’ Cloud 100 (five years running!), Inc.’s Best Workplaces, and the Human Rights Campaign Foundation's Corporate Equality Index!
    
 
   
 
-**What You'll Do**
-* Conduct end\-to\-end analyses, wrangling data via SQL or Python, to statistical modeling, to hypothesizing and presenting business ideas.
-* Mentor and guide junior engineers, fostering a culture of learning and technical excellence.
-* Work with large and complex textual and visual datasets.
-* Support the development and deployment of projects involving machine learned models for offline, batch\-based data products as well as models deployed to online, real\-time services.
-* Work in the contributor and visual intelligence team on text and visual understanding, along with fine tuning transformer models to derive embeddings for multiple input types
-* Productionize and automate model pipelines within Python services.
-* Drive and advocate adoption of best practices in ML development and operations, and mentor newer engineers in those practices.
-
-
-**What It Takes To Succeed**
-* Experience developing and productionizing machine learning models, particularly in neural networks, computer vision and LLMs including their supported data pipelines.
-* Experience with machine learning using packages such as PyTorch, TensorFlow, Spark MLlib, XGBoost, and Sklearn.
-* Strong coding skills in Python or equivalent (Java, C\+\+).
-* Solid understanding of engineering and infrastructure best practices.
-* The curiosity to uncover promising solutions to new problems, and the persistence to carry your ideas through to an end goal.
-* We highly value experience of working with LLMs, utilizing LLM APIs (OpenAI, Bedrock, etc), prompt engineering and evaluation.
-* A Bachelor’s Degree or an equivalent work experience is required
-
-
-**What You'll Get**
-* There are a variety of factors that go into determining a salary range, including but not limited to external market benchmark data, geographic location, and years of experience. Based on the anticipated level of experience we are seeking, we expect the compensation range for this role to be between $112,000 and $269,000\. You may also be offered a bonus, restricted stock units, and benefits.
-* This opportunity has the option to be fully remote in all locations across the US.
-* You can find more information about Yelp's five star benefits here!
-
-
- Closing
+**About The Role**
+ Our Machine Learning Engineering team powers personalized experiences for hundreds of millions of customers across thousands of brands. As a Senior Machine Learning Engineer, you will play a critical role in building, scaling, and operating production\-grade ML systems that drive real\-time personalization across the Attentive platform.
    
 
   
 
-*At Yelp, we believe that diversity is an expression of all the unique characteristics that make us human: race, age, sexual orientation, gender identity, religion, disability, and education — and those are just a few. We recognize that diverse backgrounds and perspectives strengthen our teams and our product. The foundation of our diversity efforts are closely tied to our core values, which include “Playing Well With Others” and “Authenticity.”*
-*We’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition or disability.*
-*Actual salary offered may vary based on multiple factors, including but not limited to, an individual's location and experience.*
-*We will consider for employment qualified candidates with arrest and conviction records, consistent with applicable law (including, for example, the San Francisco Fair Chance Ordinance for roles based in San Francisco, the Los Angeles County Fair Chance Ordinance for roles based in the unincorporated areas of Los Angeles County, and the California Fair Chance Act for roles based in California).*
-*Where required by law, a criminal background check will not be conducted until after a conditional offer of employment is made, and any evaluation of a candidate's criminal background check will be subject to an individualized assessment that takes into account the candidate's specific criminal records and the responsibilities and requirements of the particular role.*
-*We are committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, you may contact us at accommodations\-recruiting@yelp.com or 415\-969\-8488\.*
-*Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.*
- Recruiting and Applicant Privacy Notice</description>
-        <pubDate>2026-07-05</pubDate>
+ You will operate with a high degree of ownership, partner closely with Product and Engineering, and help raise the technical bar across our ML systems in a fast\-paced, high\-impact environment.
+   
+
+  
+
+**What You’ll Accomplish**
+* Design, build, and operate scalable machine learning systems used in real\-time targeting, decisioning, personalization systems
+* Own ML projects end\-to\-end, from data exploration and modeling to deployment, monitoring, and iteration
+* Proactively safeguard model and system quality through testing, monitoring, validation, and alerting
+* Collaborate cross\-functionally with product, data, and other engineering partners to translate business problems into ML solutions
+* Continuously improve system reliability, performance, and engineering efficiency
+* Contribute to technical direction and best practices across the ML engineering team
+* Mentor and support other engineers through code reviews, design discussions, and knowledge sharing
+* Thrive in a high\-impact, fast\-paced, late\-stage startup environment
+
+
+**Your Expertise**
+* 6\+ years of professional experience building production machine\-learning software systems
+* Proven experience owning ML systems long enough to see the downstream impact of design decisions
+* Strong proficiency in Python and experience with ML frameworks such as PyTorch, TensorFlow, or xgboost
+* Experience with data processing and analytics tools such as pandas, Spark, SQL, and matplotlib
+* Hands\-on experience building automated pipelines for data processing, model training, validation, and deployment
+* Experience collaborating with cross\-functional teams to deliver ML\-powered features
+* Strong communication skills and a high sense of ownership
+
+
+**What We Use**
+* Our backend is Java / Kotlin / Spring Boot microservices, built with Gradle, coupled with things like DynamoDB, Aurora, AirFlow, Postgres, and Redis, hosted via AWS
+* Our infrastructure runs primarily in Kubernetes hosted in AWS’s EKS, using tooling like Istio, Datadog, Terraform, CloudFlare, and Helm
+* Our frontend is built with React and TypeScript, and uses best practices like GraphQL, Storybook, Radix UI, Vite, esbuild, and Playwright
+* Our automation is driven by custom and open source machine learning models, industry\-leading LLMs, lots of data and tech like Python, Metaflow, HuggingFace, PyTorch, TensorFlow, and Pandas
+
+
+ You'll get competitive perks and benefits, from health \&amp; wellness to equity, to help you bring your best self to work.
+   
+
+  
+
+**For US Based Applicants**
+* The US base salary range for this full\-time position is $244,000 \- 320,000 annually \+ equity \+ benefits
+* Our salary ranges are determined by role, level and location
+
+
+**By applying for this position, your data will be processed as per Attentive's Privacy Policy.**
+**Attentive Company Values**
+**Default to Action** 
+ \- Move swiftly and with purpose
+   
+
+  
+
+**Be One Unstoppable Team** 
+ \- Rally as each other’s champions
+   
+
+  
+
+**Champion the Customer** 
+ \- Our success is defined by our customers' success
+   
+
+  
+
+**Act Like an Owner** 
+ \- Take responsibility for Attentive’s success
+   
+
+  
+
+ Learn more about AWAKE, Attentive’s collective of employee resource groups.
+   
+
+  
+
+ If you do not meet all the requirements listed here, we still encourage you to apply! No job description is perfect, and we may also have another opportunity that closely matches your skills and experience.
+   
+
+  
+
+ At Attentive, we know that our Company's strength lies in the diversity of our employees. Attentive is an Equal Opportunity Employer and we welcome applicants from all backgrounds. Our policy is to provide equal employment opportunities for all employees, applicants and covered individuals regardless of protected characteristics. We prioritize and maintain a fair, inclusive and equitable workplace free from discrimination, harassment, and retaliation. Attentive is also committed to providing reasonable accommodations for candidates with disabilities. If you need any assistance or reasonable accommodations, please let your recruiter know.</description>
+        <pubDate>2026-07-12 12:53:50.206188+00:00</pubDate>
     </item>
     
     <item>
-        <title>Applied AI, Forward Deployed Machine Learning Engineer - Mistral</title>
-        <link>https://www.linkedin.com/jobs/view/4439508424</link>
-        <description>**About Mistral**
- Mistral provides full\-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high\-stakes industries like finance, manufacturing, defense, healthcare, and the public sector—co\-creating customized AI systems that they can run on their terms.
+        <title>Machine Learning Engineer - Quality Intelligence - AfterQuery</title>
+        <link>https://www.linkedin.com/jobs/view/4439701333</link>
+        <description>**About AfterQuery**
+ AfterQuery is an applied research lab curating data solutions for foundation model development.
    
 
   
 
- We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low\-ego and team\-spirited.
+ We serve every frontier AI lab with the mission of delivering the best data to power the best models. In doing so, we can make expertise that once took a lifetime to build available to anyone who needs it. Our customers are the ones building the foundation models themselves and our work sits directly in the loop of how those systems improve.
    
 
   
 
-**The Role**
- Mistral AI is seeking a Applied AI Engineer to facilitate the adoption of its products among customers and collaborate with them to address complex technical challenges.
+ This is a rare opportunity to join a company at a defining moment in AI. Since raising our $30M Series A at a $300M valuation, AfterQuery has grown well over a $100M revenue run rate.
    
 
   
 
- The Applied AI Engineer will be an integral part of our Applied AI Engineering team, which is dedicated to driving the successful deployment of Mistral AI products. They will work hand\-in\-hand with customers from the pre\-sale stage to post\-implementation, ensuring our solutions meet and exceed client expectations.
+ We're based in San Francisco and backed by leading investors including Altos Ventures, BoxGroup, and Y Combinator and angels from Google DeepMind, OpenAI, Anthropic, Meta Superintelligence Labs, and Microsoft AI.
    
 
   
 
- In this role, you’ll manage daily customer relations involving multiple stakeholders (CEO/CTO, data scientists, and software engineers) and function as a key resource in externalising our research in production settings.
+****Machine Learning Engineer, Quality Intelligence****
+**Overview**
+ AfterQuery builds the data and evaluation systems that power frontier AI models. Every leading AI lab uses our datasets and reinforcement learning environments to encode and scale real\-world expertise.
    
 
   
 
-**What You Will Do**
-* You’ll be responsible for onboarding customers on our products and APIs, providing guidance on prompting, evaluation, and fine\-tuning, and ensuring the best production integration with back\-end and front\-end interfaces.
-* You’ll work on state\-of\-the\-art GenAI applications from consumer products to industrial use cases, driving with our customers a crucial technological transformation.
-* You’ll individually help deploy into production use cases with a considerable business impact across various industries.
-* You’ll work in collaboration with our researchers, other AI engineers, product engineers on our most complex customer projects involving complex fine\-tuning, state\-of\-the\-art LLM applications, and contributing to our open source codebases for tasks such as inference and fine\-tuning.
-* You’ll be involved in pre\-sales calls to understand potential clients' needs, challenges, and aspirations. You will provide technical guidance on our products and explain Mistral technologies to various stakeholders.
-* Your collaboration with our product and science team to improve continuously our product and model capabilities based on customers’ feedback
-
-
-**What We're Looking For**
-* You are fluent in English
-* You hold a PhD / master in AI / data science.
-* You have 2\+ years as a technical individual contributor (data scientist or software engineer) on AI\-based products
-* You have experience in Fine Tuning LLMs, tackling advanced RAG or agentic use cases
-* You have deep understanding of concepts and algorithms underlying machine learning and LLMs
-* You're experienced with building and deploying LLMs or NLP applications
-* You have proven experience in AI or machine learning product implementation with APIs, back\-end and front\-end interfaces.
-* You have strong technical coding skills in Python
-* You have experience with deep learning with Pytorch
-* You have experience with agents framework such as Langchain, vector DBs
-* You hold strong communication skills with an ability to explain complex technical concepts in simple terms with technical and non\-technical audiences
-
-
- Ideally you have:
+ We’re hiring a
+ **Founding Machine Learning Engineer, Quality Intelligence** 
+ to build the ML systems behind how we measure, improve, and scale data quality. You’ll work on production systems at the intersection of machine learning, human expertise, and frontier model evaluation.
    
 
   
 
-* Contributed to open\-source projects in particular in the space of LLMs
-* Experience as a Customer Engineer, Forward Deployed Engineer, Sales Engineer, Solutions Architect or Technical Product Manager
-
-
-****What we offer****
- We offer a comprehensive benefits package designed to support your well\-being, growth, and work\-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location\-specific perks.
+ This role is for someone who wants to build practical ML systems that directly improve the quality, reliability, and scalability of expert human data.
    
 
   
 
- For the most up\-to\-date details on benefits available in your location, please refer to our Benefits page.
-   
-
-  
-
-****Privacy Policy****
- Your privacy matters to us. You can learn more about how we handle your personal data in our Applicant Privacy Policy.</description>
-        <pubDate>2026-07-12 01:30:06.507683+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Applied AI, Forward Deployed Machine Learning Engineer - Mistral</title>
-        <link>https://www.linkedin.com/jobs/view/4439511279</link>
-        <description>**About Mistral**
- Mistral provides full\-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high\-stakes industries like finance, manufacturing, defense, healthcare, and the public sector—co\-creating customized AI systems that they can run on their terms.
-   
-
-  
-
- We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low\-ego and team\-spirited.
-   
-
-  
-
-**The Role**
- Mistral AI is seeking a Applied AI Engineer to facilitate the adoption of its products among customers and collaborate with them to address complex technical challenges.
-   
-
-  
-
- The Applied AI Engineer will be an integral part of our Applied AI Engineering team, which is dedicated to driving the successful deployment of Mistral AI products. They will work hand\-in\-hand with customers from the pre\-sale stage to post\-implementation, ensuring our solutions meet and exceed client expectations.
-   
-
-  
-
- In this role, you’ll manage daily customer relations involving multiple stakeholders (CEO/CTO, data scientists, and software engineers) and function as a key resource in externalising our research in production settings.
-   
-
-  
-
-**What You Will Do**
-* You’ll be responsible for onboarding customers on our products and APIs, providing guidance on prompting, evaluation, and fine\-tuning, and ensuring the best production integration with back\-end and front\-end interfaces.
-* You’ll work on state\-of\-the\-art GenAI applications from consumer products to industrial use cases, driving with our customers a crucial technological transformation.
-* You’ll individually help deploy into production use cases with a considerable business impact across various industries.
-* You’ll work in collaboration with our researchers, other AI engineers, product engineers on our most complex customer projects involving complex fine\-tuning, state\-of\-the\-art LLM applications, and contributing to our open source codebases for tasks such as inference and fine\-tuning.
-* You’ll be involved in pre\-sales calls to understand potential clients' needs, challenges, and aspirations. You will provide technical guidance on our products and explain Mistral technologies to various stakeholders.
-* Your collaboration with our product and science team to improve continuously our product and model capabilities based on customers’ feedback
+**Responsibilities**
+* Build ML and data systems that help measure quality across complex human data workflows
+* Develop systems for expert matching, quality prediction, and anomaly detection
+* Build evaluation infrastructure for tasks, reviewers, projects, and data deliveries
+* Turn messy real\-world signals into models, metrics, and product improvements
+* Partner with engineers, domain experts, and operators to improve how high\-quality data is created and reviewed
+* Own high\-impact systems from early design through production deployment
 
 
-**What We're Looking For**
-* You are fluent in English
-* You hold a PhD / master in AI / data science.
-* You have 2\+ years as a technical individual contributor (data scientist or software engineer) on AI\-based products
-* You have experience in Fine Tuning LLMs, tackling advanced RAG or agentic use cases
-* You have deep understanding of concepts and algorithms underlying machine learning and LLMs
-* You're experienced with building and deploying LLMs or NLP applications
-* You have proven experience in AI or machine learning product implementation with APIs, back\-end and front\-end interfaces.
-* You have strong technical coding skills in Python
-* You have experience with deep learning with Pytorch
-* You have experience with agents framework such as Langchain, vector DBs
-* You hold strong communication skills with an ability to explain complex technical concepts in simple terms with technical and non\-technical audiences
+****Required Qualifications****
+* 3\-6 YOE with relevant experiences
+* Strong software engineering background with experience shipping production systems
+* Experience with applied ML, ranking, recommendations, search quality, marketplace systems, trust/safety, fraud, or data quality systems
+* Strong data intuition and ability to work with messy, ambiguous real\-world signals
+* Comfort working across backend systems, data pipelines, ML models, and internal tools
+* Ability to move quickly in a high\-ownership, fast\-changing environment
+* Deep care for quality, precision, and customer impact
 
 
- Ideally you have:
-   
-
-  
-
-* Contributed to open\-source projects in particular in the space of LLMs
-* Experience as a Customer Engineer, Forward Deployed Engineer, Sales Engineer, Solutions Architect or Technical Product Manager
+****Not a Fit If****
+* You want to do pure research without owning production systems
+* You only want to train models and not build product infrastructure
+* You need clean datasets and perfectly scoped problems
+* You do not want to work closely with users, operators, and domain experts
 
 
-****What we offer****
- We offer a comprehensive benefits package designed to support your well\-being, growth, and work\-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location\-specific perks.
-   
-
-  
-
- For the most up\-to\-date details on benefits available in your location, please refer to our Benefits page.
-   
-
-  
-
-****Privacy Policy****
- Your privacy matters to us. You can learn more about how we handle your personal data in our Applicant Privacy Policy.</description>
-        <pubDate>2026-07-12 01:30:06.507767+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer, Model Evaluations (Speech LLM) - San Francisco - Plaud</title>
-        <link>https://www.linkedin.com/jobs/view/4409689882</link>
-        <description>**About Plaud Inc.**
- Plaud is building the world's most trusted AI work companion for professionals to elevate productivity and performance through note\-taking solutions, loved by over 1,500,000 users worldwide since 2023\. With a mission to amplify human intelligence, Plaud is building the next\-generation intelligence infrastructure and interfaces to capture, extract, and utilize what you say, hear, see, and think.
-   
-
-  
-
- Plaud Inc. is a Delaware\-incorporated, San Francisco\-based company pushing the boundary of human–AI intelligence through a hardware–software combination. With SOC 2, HIPAA, GDPR, ISO27001, ISO27701, and EN18031 compliance, Plaud is committed to the highest standards of data security and privacy protection.
-   
-
-  
-
- To learn more about Plaud, please visit https://www.Plaud.ai and follow along on Instagram, X, Facebook, LinkedIn, and YouTube
-   
-
-  
-
-**Why You Should Join Us**
- Plaud is building the next generation intelligence infrastructure and interfaces to capture, extract, and utilize intelligence from what people say, hear, see, and think.
-   
-
-  
-
-* Plaud is a bootstrapped, skyrocketing, profitable company with a $250M revenue run rate achieved in just three years.
-* Define the next\-gen paradigm for human\-AI interaction.
-* Gain exposure to cutting\-edge AI for Pro tools and play a direct role in our global expansion.
-* Work with passionate teammates who value innovation, collaboration, and customer success.
-* Grow your career in a culture that champions continuous learning and fast career development.
-* Market\-competitive compensation, global exposure, and a vibrant, creativity\-fueled work atmosphere.
-
-
-**You may be a good fit if you:**
-* Have a passion for turning ambiguous, subjective concepts like a voice's naturalness, expressiveness, or conversational cadence into clear, defensible, and automated metrics that researchers and leadership can rely on.
-* Possess strong software engineering skills (especially in Python) and have experience building reliable distributed systems, data pipelines, or evaluation harnesses that can run at scale against live model checkpoints.
-* Can deeply partner with ML researchers to define exactly what "good" looks like for a Speech LLM, translating capabilities (like ASR robustness in noisy environments or TTS emotional steerability) into measurable benchmarks.
-* Are comfortable building and owning dashboards that track model health during training, improving signal\-to\-noise ratios, reducing evaluation latency, and making performance regressions impossible to miss.
-* Rapidly debug anomalous mid\-training results to determine if a drop in performance stems from the model architecture, corrupted data, or infrastructure.
-* Communicate complex statistical results and model behaviors clearly to both technical and non\-technical stakeholders.
-
-
-**Strong candidates may also have experience with:**
-* Speech Metrics: Deep familiarity with both traditional (WER, CER, PESQ, etc) and modern audio evaluation frameworks (automated MOS scoring).
-* LLM\-as\-a\-Judge: Using frontier models or finetune multi\-modal LLMs to evaluate the conversational logic, transcription accuracy, audio quality, and reasoning of audio models.
-* Human Evaluation: Managing large\-scale crowdsourcing operations or preference data collection to support RLHF/DPO efforts.
-* Observability: A strong background in statistics and experimental design, paired with experience building trusted tracking dashboards (e.g., Weights \&amp; Biases, MLflow).
-* Adversarial Datasets: Curating complex datasets to test edge cases, such as heavy accents, overlapping speech, or highly noisy acoustic environments.
-
-
-**What we offer**
-* Founding Team Initiative: Opportunity to be an early, foundational member of our core SpeechLLM lab, with meaningful ownership and impact on a fast\-growing startup.
-* Competitive Compensation: $200K \- $365K base salary \+ performance bonus \+ Equity.
-* Comprehensive Benefits: Top\-tier healthcare for employees and dependents, including dental and vision, and a generous employer subsidy.
-* Retirement Planning: 401(k) plan for full\-time employees with company matching.
-* Paid Time Off: Unlimited PTO, plus 13 paid holidays.
-* New Parent Leave: 12 weeks of paid time off to spend time with your new family, regardless of gender.
-* Hybrid Office: Minimum of 3x in\-office per week to foster highly collaborative, fast\-paced research.
-* Gear \&amp; Perks: Choice of top\-of\-the\-line laptops/workstations, annual offsites, and a fully stocked office.
-
-
-*Plaud is and will continue to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristics.*</description>
-        <pubDate>2026-07-12 01:30:06.507851+00:00</pubDate>
+ Compensation Range: $200K \- $300K</description>
+        <pubDate>2026-07-12 12:53:50.206286+00:00</pubDate>
     </item>
     
     <item>
@@ -3228,7 +3451,135 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
   
 
  From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license. .</description>
-        <pubDate>2026-07-12 01:30:06.507933+00:00</pubDate>
+        <pubDate>2026-07-12 12:53:50.206440+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer - Adobe</title>
+        <link>https://www.linkedin.com/jobs/view/4402328212</link>
+        <description>We are looking for a
+ **Machine Learning Engineer** 
+ to join our team of driven machine learning and software engineers. This role covers system design, prompt engineering, ML model evaluation, building data pipelines, prototype creation, and operationalization.
+   
+
+  
+
+ The ideal candidate will have a strong background in both classical and deep learning, along with experience developing and deploying production\-ready ML and GenAI solutions. If you enjoy shipping impactful, customer\-facing features, experimenting with new technologies, and contributing to high\-visibility projects with room for creativity and ownership, this role is for you. Our work is dynamic, collaborative, and data\-driven.
+   
+
+  
+
+**What You’ll Do**
+* Bring a 0→1 product mindset, helping shape ideas into real, measurable impact.
+* Design, build, and optimize backend services that power ML and Generative AI features.
+* Develop, evaluate, and deploy ML models using classical, deep learning, and GenAI approaches.
+* Contribute to agentic systems and orchestration frameworks that enable intelligent, multi\-step reasoning and task automation.
+* Collaborate with cross\-functional teams to integrate ML solutions into production workflows.
+* Analyze and improve the efficiency, accuracy, and scalability of AI\-enabled systems.
+* Stay up to date with advancements in ML, GenAI, and prompt optimization research.
+* Mentor junior engineers and help grow the team’s technical depth.
+
+
+**Required Qualifications**
+**What You Need to Succeed**
+* Master’s or Ph.D. in Computer Science, Machine Learning, or a related technical field.
+* 5\+ years of experience in machine learning engineering, applied research, or production ML systems.
+* Strong Python software engineering skills, including system design, clean architecture, testing, CI/CD, version control, and code review best practices.
+* Experience taking ML\-powered features from 0→1 through production and ongoing iteration.
+* Hands\-on experience deploying and monitoring ML models in production environments.
+* Experience designing or contributing to agentic architectures and multi\-agent orchestration systems.
+* Strong understanding of classical ML, deep learning, and modern Generative AI techniques.
+* Familiarity with cloud platforms (AWS, GCP, or Azure) for scalable ML deployment.
+* Solid foundation in data structures, algorithms, and distributed system design.
+* Comfortable leveraging AI coding agents to accelerate development workflows.
+* Excellent communication skills and demonstrated technical leadership experience.
+
+
+**Preferred Qualifications**
+* Experience with Generative AI systems, prompt optimization frameworks, and LLM\-as\-a\-judge / evaluation methodologies.
+* Deep understanding of Retrieval\-Augmented Generation (RAG) and modern NLP pipelines.
+* Experience with MLOps tooling, experiment tracking, model lifecycle management, and observability frameworks.
+* Track record of mentoring engineers and influencing technical direction on high\-visibility projects.
+
+
+**About Adobe**
+ Adobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe’s industry\-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity.
+   
+
+  
+
+ Our 30,000\+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We’re on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours.
+   
+
+  
+
+**Let’s Adobe together**
+ At Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our values and culture, focus on people, purpose and community, Adobe for All, comprehensive benefits programs, the stories we tell, the customers we serve, and how you can help us advance our mission of empowering everyone to create.
+   
+
+  
+
+ Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic. Learn more.
+   
+
+  
+
+ Adobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call \+1 408\-536\-3015\.
+   
+
+  
+
+**AI Use Guidelines for Interviews:**
+ Our interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process.
+   
+
+  
+
+ At Adobe, we empower employees to innovate with AI — and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it’s restricted during live interviews. See how we think about AI in the hiring experience.
+   
+
+  
+
+**Expected Pay Range:**
+ Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $125,600 \-\- $234,150 annually. Pay within this range varies by work location and may also depend on job\-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+   
+
+  
+
+ In California, the pay range for this position is $161,700 \- $234,150 In Washington, the pay range for this position is $142,500 \- $206,275
+   
+
+  
+
+ At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC \= base \+ commission), and short\-term incentives are in the form of sales commission plans. Non\-sales roles starting salaries are expressed as base salary and short\-term incentives are in the form of the Annual Incentive Plan (AIP).
+   
+
+  
+
+ In addition, certain roles may be eligible for long\-term incentives in the form of a new hire equity award.
+   
+
+  
+
+**State\-Specific Notices:**
+**California:**
+**Fair Chance Ordinances**
+ Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+   
+
+  
+
+**Colorado:**
+**Application Window Notice**
+ There is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.
+   
+
+  
+
+**Massachusetts:**
+**Massachusetts Legal Notice**
+ It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.</description>
+        <pubDate>2026-07-12 12:53:50.206537+00:00</pubDate>
     </item>
     
     <item>
@@ -3397,7 +3748,7 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
   
 
  EEO Know Your Rights poster</description>
-        <pubDate>2026-07-12 01:30:06.508017+00:00</pubDate>
+        <pubDate>2026-07-12 12:53:50.206665+00:00</pubDate>
     </item>
     
 </channel>
