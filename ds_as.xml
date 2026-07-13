@@ -60,68 +60,9 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
     </item>
     
     <item>
-        <title>Senior Data Scientist, Cloud Gaming - Prescriptive Analytics and Optimization - NVIDIA</title>
-        <link>https://www.indeed.com/viewjob?jk=6e3350ce324a5ca2</link>
-        <description>Our team is building an innovative Data Platform that employs advanced analytics, including prescriptive modeling and constrained optimization, for real\-time routing and scheduling at scale.
-
-
-This platform encompasses data collection, processing, visualization, analysis, anomaly detection, root cause identification, and predictive modeling. Our data include GPU availability/lifecycle, latency measurements from end users to data centers, game performance across different GPU types, and queuing information. Our active projects include applying optimization techniques to the cloud gaming experience; developing user behavior profiling, user base segmentation, actionable cluster detection, effective personalized recommendations, lifetime value analysis, and critical areas such as capacity management, prescriptive scheduling, and subscription churn analysis. We also focus on time\-series forecasting, decision\-making models, resource allocation, and latency minimization.
-
-
-You will wield the power of Data, AI, and Operations Research to help deliver a best\-in\-class cloud streaming performance and experience to our users across the world. Our technology stack relies on industry\-standard components (Python, SQL, Delta Lake, Apache Spark, Databricks, MLflow, Grafana, Elasticsearch).
-
-**What You will be Ding:**
-
-* Build and deploy scalable ML/AI and optimization models to enhance demand forecasting, optimize capacity allocation, and develop user\-specific feature engineering for real\-time cloud gaming services.
-* Develop reusable framework deployments for data ingestion, processing, and analysis to support dynamic user interventions for targeted business outcomes.
-* Acquire and apply domain knowledge of the product and software stack to identify and drive the resolution of data inconsistencies and improve model performance, especially in the context of optimization outcomes.
-* Identify, analyze, and interpret trends or patterns in complex data sets using supervised and unsupervised learning techniques, informing prescriptive solutions.
-* Design and implement improvements to real\-time prescriptive scheduling pipelines, using techniques like linear programming and constraint optimization, to enhance capacity utilization and user retention.
-* Improve productivity of the organization by mining petabytes of data for actionable insights for business and engineering, often through prescriptive recommendations.
-* Collaborate with a variety of partners to understand requirements, design robust solutions, and guide the team to deliver impactful results.
-* Leverage agentic AI to deliver best\-in\-class automation and programming solutions for complex analytical problems.
-
-**What We Need to See:**
-
-* BS/MS (or equivalent experience) with 6\+ years of experience or PhD in Data Science, Computer Science, Operations Research, Statistics, Applied Mathematics, or related quantitative fields, with a strong emphasis on prescriptive analytics and optimization.
-* Strong background knowledge and practical experience in probability, statistics, AI/ML, prescriptive modeling, and optimization methodologies (e.g., linear programming, network flow, decision theory, and multi\-armed bandit).
-* Strong coding skills, including the ability to write readable, testable, maintainable, and extensible code (primarily Python), with experience in libraries or tools relevant to optimization (e.g., Google OR\-Tools).
-* Experience with common tools for data storage and processing, including drilling into problems of running large\-scale software across large clusters
-* Strong experience in data cleaning, aggregation, transformation, and extraction, with an understanding of how data quality impacts performance.
-
-**Ways to Stand Out from the Crowd**
-
-* Good interpersonal and presentation skills in working with multiple partners, adept at explaining intricate analytical solutions and their business implications.
-* Experience in time series analysis and forecasting for demand prediction in optimization contexts is a plus.
-* Experience in active ML production pipelines (MLflow, Kubeflow) with a focus on deploying and monitoring optimization models is a plus.
-
-  
-
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
-
-  
-
-
-Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD \- 287,500 USD.
-You will also be eligible for equity and benefits.
-
-
-Applications for this job will be accepted at least until July 11, 2026\.
-This posting is for an existing vacancy.
-
-
-NVIDIA uses AI tools in its recruiting processes.
-
-
-NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
-\#deeplearning</description>
-        <pubDate>2026-07-07</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Product Data Scientist, Digital Media - Waymo</title>
         <link>https://www.indeed.com/viewjob?jk=2b37198b17fcbb6e</link>
-        <description>MOUNTAIN VIEW, CALIFORNIA, UNITED STATES. SAN FRANCISCO, CALIFORNIA, UNITED STATES
+        <description>MOUNTAIN VIEW, CALIFORNIA, UNITED STATES \| SAN FRANCISCO, CALIFORNIA, UNITED STATES
 
 
 FULL\-TIME
@@ -189,6 +130,301 @@ Waymo employees are also eligible to participate in Waymo’s discretionary annu
 Salary Range
 $230,000—$284,000 USD</description>
         <pubDate>2026-07-07</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist, Product - Replit</title>
+        <link>https://www.linkedin.com/jobs/view/4411253059</link>
+        <description>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.
+   
+
+  
+
+**About the Role:**
+ We're redefining how software is built and who gets to build it. Our mission is to achieve Autonomy for All: making programming accessible, collaborative, and powered by AI. To realize this vision, we need people who are obsessed with understanding how users experience our product and can turn that understanding into decisions that move the needle.
+   
+
+  
+
+ You'll directly impact Replit's growth by turning user behavior into actionable insights that shape product strategy, improve activation and retention, and drive sustainable revenue growth across our self\-serve and enterprise segments.
+   
+
+  
+
+**Who You Are**
+ You're a data scientist who moves fast and goes deep. You can spin up an analysis in hours that would take others days; not by cutting corners, but because you've built the intuition and technical toolkit to get to the right answer quickly. You're the person who digs past the top\-line number to find the confound, questions whether the metric actually measures what people think it does, and pressure\-tests your own work before anyone else sees it. You treat experimentation as a craft, not a checkbox. You've felt the pain of underpowered tests and novelty effects, and you have the judgment to get it right.
+   
+
+  
+
+ You use AI agents and tools aggressively to multiply your output \- writing code, exploring data, generating hypotheses, but you treat every AI\-assisted output as a draft, not a deliverable. You know what good analysis looks like and you won't ship anything that doesn't meet that bar. The result is that you operate at a speed and depth that most DS teams can't match.
+   
+
+  
+
+**You will:**
+* Design and analyze product experiments to evaluate feature launches, onboarding changes, and in\-product interventions with rigorous statistical methodology.
+* Own the analytics for core product areas — Growth (activation, engagement, monetization \&amp; retention), feature adoption, product quality, AI agent effectiveness, and proactively surface insights that influence product roadmap decisions.
+* Build the analytical foundation for Replit's enterprise business, understanding team adoption patterns, workspace collaboration dynamics, and expansion signals that inform go\-to\-market and product strategy.
+* Develop predictive models to forecast frameworks to measure impact of features and new launches on user behavior, including likelihood to retain, convert, or expand, and embed those signals directly into product and growth workflows.
+
+
+**Examples of what you could do:**
+* Design and analyze a complex multi\-variant experiment testing pricing, onboarding, and feature gating simultaneously, navigating interaction effects and providing clear recommendations despite ambiguity.
+* Model the "aha moment" for new Replit users — identifying early behaviors most predictive of long\-term retention — and work with the product team to redesign onboarding around those signals.
+* Analyze feature adoption and cohort behavior across user segments (students, hobbyists, professional developers, enterprise teams) to help PMs prioritize the roadmap with confidence.
+* Analyze enterprise team adoption patterns to identify what drives successful rollouts versus stalled deployments, and build the data models that power Replit's enterprise expansion playbook.
+
+
+**Required skills and experience:**
+* Bachelor's degree in Computer Science, Statistics, Mathematics, Economics, or related field, OR equivalent real\-world experience in data roles.
+* 5\+ years of experience in data science with a focus on product analytics, growth, or user behavior.
+* Strong SQL skills and experience working with large datasets, particularly event\-level user behavior data, and designing ETL workflows using dbt.
+* Proficiency in Python and data science libraries (pandas, scikit\-learn, statsmodels, etc.).
+* Experience designing and analyzing A/B tests and experiments, including rigor around sample sizing, power analysis, significance testing, novelty effects, interference between experiments, and causal inference.
+* You leverage AI tools extensively in your own analytical workflow and can demonstrate how they make you more effective, while maintaining high standards for output quality.
+
+
+**Preferred Qualifications:**
+* Experience at a PLG company with a self\-serve funnel and freemium or usage\-based pricing model.
+* Experience with modern data stack (dbt, BigQuery, Snowflake, Fivetran, etc.) and product analytics platforms (Amplitude, Mixpanel, Segment, etc.).
+* Experience with causal inference methods (difference\-in\-differences, synthetic control, propensity score matching).
+* Experience designing ETL workflows and data pipelines using dbt or similar tools.
+
+
+**Bonus Points:**
+* You've built or contributed to AI\-powered analytical tools, automation, or novel measurement approaches.
+* Experience analyzing freemium or usage\-based pricing models.
+* Understanding of developer tools, collaborative coding environments, or technical products.
+* Experience working directly embedded with product teams in an agile environment.
+* Familiarity with customer data platforms (CDPs) and event tracking implementation.
+
+
+*This is a full\-time role that can be held from our Foster City, CA office. The role has an in\-office requirement of Monday, Wednesday, and Friday.*
+**Full\-Time Employee Benefits Include:**
+ 💰 Competitive Salary \&amp; Equity
+   
+
+  
+
+ 💹 401(k) Program with a 4% match (
+ *US Only* 
+ )
+   
+
+  
+
+ ⚕️ Health, Dental, Vision and Life Insurance
+   
+
+  
+
+ 🩼 Short Term and Long Term Disability
+   
+
+  
+
+ 🚼 Paid Parental, Medical, Caregiver Leave
+   
+
+  
+
+ 🏝 Flexible Time Off (FTO) \+ Holidays
+   
+
+  
+
+ 🚗 Commuter Benefits (
+ *In\-Office Only* 
+ )
+   
+
+  
+
+ 📱 Monthly Wellness Stipend
+   
+
+  
+
+ 🧑‍💻 Autonomous Work Environment
+   
+
+  
+
+ 🖥 In Office Set\-Up Reimbursement (
+ *In\-Office Only* 
+ )
+   
+
+  
+
+ 🚀 Quarterly Team Gatherings
+   
+
+  
+
+ ☕ In Office Amenities (
+ *In\-Office Only* 
+ )
+   
+
+  
+
+**Want to learn more about what we are up to?**
+* Meet the Replit Agent
+* Replit: Make an app for that
+* Replit Blog
+* Amjad TED Talk
+
+
+**Interviewing \+ Culture at Replit**
+* Operating Principles
+* Reasons not to work at Replit
+
+
+ To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non\-traditional backgrounds.
+   
+
+  
+
+ Compensation Range: $180K \- $250K</description>
+        <pubDate>2026-07-11</pubDate>
+    </item>
+    
+    <item>
+        <title>Applied Scientist - Monetization GenAI - Global Frontier Tech Recruitment Program - 2027 Start (PhD) - TikTok</title>
+        <link>https://www.linkedin.com/jobs/view/4402365653</link>
+        <description>**Responsibilities**
+ We are looking for talented individuals to join our team in 2027\. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Launch your career where inspiration is infinite at our Company.
+   
+
+  
+
+ Successful candidates must be able to commit to an onboarding date by end of year 2027\. Please state your availability and graduation date clearly in your resume.
+   
+
+  
+
+ Team Introduction: We are the Generative AI team under Monetization Technology. Our team focuses on developing cutting\-edge Generative AI techs across all modalities, including text, image, videos, landing pages, etc., and creates industry\-leading technical solutions to improve creative efficiency for advertisers, agencies and creators. We are committed to automated creative workflows by leveraging Generative AI technologies, to increase overall revenue for advertisers, agencies and creators.
+   
+
+  
+
+ Topic Content: Short\-form videos have become a core format for ads placement. To significantly improve automation in production, this topic aims to build an intelligent agentic closed\-loop system based on TopAds. The system is designed to deeply analyze viral multimodal narratives and camera motion rythms, and automatically orchestrate in\-house models to seamlessly integrate new products for efficient replication of successful content. It further seeks to move beyond traditional open\-loop generation by introducing real ads placement signals as key feedback. Through reinforcement learning (RL), placement data is directly fed back to continuously optimize the agent's decision\-making strategies across the full pipeline, including video understanding, controllable generation, and low\-performing content filtering and replacement.
+   
+
+  
+
+ Ultimately, the system aims to enable scalable production of high\-ROI marketing videos.
+   
+
+  
+
+**Responsibilities:**
+ In this role, you will build an intelligent ad delivery system optimized for user Long\-Term Value (LTV) and long\-term ROAS, achieving an optimal balance between commercial value and user experience.
+   
+
+  
+
+**Qualifications**
+ Minimum Qualifications:
+   
+
+  
+
+* Individuals who are completing or have recently completed a PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+* Modeling experience in one or more of the areas: Ads, Search engine, Recommender System, NLP/CV, multimodal, agent technologies.
+* Have a solid foundation in algorithms related to LLMs, including but not limited to comprehensive learning and
+
+
+ practical experience in areas such as single\-modal LLM application and deployment.
+   
+
+  
+
+* Strong publications record in top conferences (e.g., ICLR, NeurIPS, ICML, ACL, EMNLP, N
+
+
+ CVPR, ICCV, and ECCV)
+   
+
+  
+
+ Job Information
+   
+
+  
+
+**【For Pay Transparency】Compensation Description (Annually)**
+ The base salary range for this position in the selected city is $212800 \- $450000 annually.
+   
+
+  
+
+ Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+   
+
+  
+
+ Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+   
+
+  
+
+ The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+   
+
+  
+
+**For Los Angeles County (unincorporated) Candidates:**
+ Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+   
+
+  
+
+* Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+* Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+* Exercising sound judgment.
+
+
+**About TikTok**
+ TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+   
+
+  
+
+ Why Join Us
+   
+
+  
+
+ Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.
+   
+
+  
+
+ We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+   
+
+  
+
+ Diversity \&amp; Inclusion
+   
+
+  
+
+ TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+   
+
+  
+
+ TikTok Accommodation
+   
+
+  
+
+ TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA\-request</description>
+        <pubDate>2026-07-11</pubDate>
     </item>
     
     <item>
@@ -614,273 +850,417 @@ $230,000—$284,000 USD</description>
     </item>
     
     <item>
-        <title>Senior Data Scientist, Lifecycle - Thumbtack</title>
-        <link>https://www.linkedin.com/jobs/view/4439094949</link>
-        <description>**Thumbtack helps millions of people confidently care for their homes.**
- Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best\-in\-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together.
+        <title>Applied Scientist - Monetization Technology - Global Frontier Tech Recruitment Program - 2027 Start (PhD) - TikTok</title>
+        <link>https://www.linkedin.com/jobs/view/4401862605</link>
+        <description>**Responsibilities**
+ We are looking for talented individuals to join our team in 2027\. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Launch your career where inspiration is infinite at our Company.
    
 
   
 
-**About The Data Science Team**
- The Data Science team empowers Thumbtack to use data to guide business decisions. We collaborate with partners across the company to solve the most analytically challenging problems — everything from informing how we set prices across almost a thousand local services categories, to evaluating the impact of a new business model on company performance, to identifying early predictors of high\-quality customers. We are a tight\-knit, intellectually curious team committed to improving Thumbtack and improving each other.
+ Successful candidates must be able to commit to an onboarding date by end of year 2027\. Please state your availability and graduation date clearly in your resume.
    
 
   
 
-**About The Role**
- As a data scientist on the experience led growth team, you will partner with a world\-class cross\-functional team — lifecycle marketers, product managers, engineers, and applied scientists— to build the analytical foundation that powers Thumbtack’s full lifecycle strategy for both homeowners and pros. This is a high\-ownership role at the intersection of measurement, product analytics and applied science, where you will shape how Thumbtack thinks about engagement across the entire customer and pro journey.
+ Team Introduction: Global Monetization Product and Technology team are building the next\-generation monetization platforms to help millions of customers grow their businesses, utilizing our products like TikTok. Our team develops a wide variety of advertisements for numerous uses including feeds, live streaming, branding, measurement, targeting, search, vertical solutions, creative solutions, and business integrity.
    
 
   
 
- You will be embedded in the Lifecycle Center of Excellence (COE), which is expanding its mandate from homeowner lifecycle to include pro lifecycle. The team’s priorities span personalized contextual communications, in\-app lifecycle experiences, and the foundational data infrastructure and tooling needed to deliver these at scale — including end\-to\-end funnel reporting, self\-serve analytics tooling, and measurement frameworks that cover the full lifecycle.
+ Topic Content: This topic dives deep into TikTok's core global advertising scenarios, driving innovation and implementation of the cutting\-edge generative technologies in search, recommendation, and advertising. By deeply integrating foundation models with the advertising business, we address key technical challenges in Large Recommender Models and Large Language Models (LLMs) to build a next\-generation intelligent advertising engine with autonomous decision\-making capabilities.
    
 
   
 
- You will use your technical leadership to identify opportunities across both homeowner and pro lifecycle, develop a unified view of engagement on the Thumbtack platform, and partner with data engineering to build the data infrastructure that enables the team to move faster. You will be leading long\-term initiatives with significant ambiguity, exercising independent judgment, and influencing senior cross\-functional partners with the implications of your work.
+ Our research covers cutting\-edge directions, including Large Recommender Model scaling laws, end\-to\-end unified modeling, generative full\-link technologies (retrieval, ranking, AIGC material generation, bidding), intelligent advertising placement agents, ultra\-long sequence modeling, and causal inference. We tackle extreme challenges of trillion\-level features and millisecond responses, advancing advertising recommendation toward the foundation model paradigm to achieve dual improvements in monetization efficiency and user experience.
    
 
   
 
-**What You’ll Do**
-* Build the Lifecycle measurement framework — define lifecycle health metrics for both homeowner and pro, design experiments with appropriate rigor, and navigate attribution and contamination challenges in ambiguous measurement contexts.
-* Build relationships with cross\-functional teams across pro and homeowner lifecycle. Understand strategic challenges and contextualize them to use data to unlock new growth levers and inform product roadmap.
-* Synthesize evidence across data sources to produce insights that shift senior leaders’ mental models — going beyond what happened to explain why and what to do next across the full pro and customer lifecycle; provide analytical rigor for the evolution toward intelligent, customer\-centric decisioning and personalization.
-* Serve as the tech lead for the Lifecycle — influence senior cross\-functional partners, drive pillar\-level alignment through insights and partnership. Be opinionated about strategic decisions and trade\-offs based on your deep domain knowledge.
-* Continue to evolve workflow automation and self\-serve. Discovering new ideas, implementing POCs and coaching fellow DS team members.
+**Responsibilities:**
+* Explore scaling laws for foundation models in recommendation and advertising, and build a foundation model based on unified multimodal semantic modeling.
+* Build an intelligent ad placement system optimized for users' Long\-Term Value (LTV) and long\-term ROAS, achieving an optimal balance between commercial value and user experience.
+* Optimize the full\-process training and online inference framework for foundation models, balance computing power costs and real\-time response performance, and resolve the performance\-latency trade\-off in real\-world deployment.
 
 
-**In order to be successful, you must bring**
-* Bachelor’s or Master’s degree in Statistics, Math, Economics, Computer Science, or another STEM field.
-* 5\+ years of experience in a highly analytical role, with strong proficiency in SQL and Python for working with large, complex datasets.
-* Cultivated a reputation as a trusted advisor to senior leadership and diverse cross\-functional teams esp. managing non\-technical stakeholders, leveraging insights to build consensus and influence strategy across product, marketing, and engineering, successfully influencing without direct authority.
-* Proven track record of independently leading long\-term, ambiguous analytical initiatives with measurable business impact — not just executing defined analyses but scoping and shaping the work.
-* Deep expertise in experimental design, causal inference, and statistical methods — with the ability to navigate ambiguity in measurement contexts and communicate uncertainty clearly to non\-technical stakeholders.
-* Experience building data products — dashboards, self\-service tools, or reusable analytical frameworks — that scale beyond your immediate team.
-* Strong business acumen and ability to connect data findings to lifecycle strategy, making crisp prioritization recommendations under uncertainty.
-
-
-**Expected salary ranges**
-* For candidates living in San Francisco / Bay Area, San Jose, New York City, or Seattle metros, the expected salary range for the role is currently $202,300\.00 \- $261,800\.00\.
-* For candidates living in Austin, TX or Washington DC metros or in California, Massachusetts, New Jersey, or Washington states, the expected salary range for the role is currently $181,900\.00 \- $235,400\.00\.
-* For candidates living in all other US locations, the expected salary range for this role is currently $171,700\.00 \- $222,200\.00\.
-
-
- Actual offered salaries will vary and will be based on various factors, such as calibrated job level, qualifications, skills, competencies, and proficiency for the role.
+**Qualifications**
+ Minimum Qualifications:
    
 
   
 
- Thumbtack embraces diversity. We are proud to be an equal opportunity workplace and do not discriminate on the basis of sex, race, color, age, pregnancy, sexual orientation, gender identity or expression, religion, national origin, ancestry, citizenship, marital status, military or veteran status, genetic information, disability status, or any other characteristic protected by federal, provincial, state, or local law. We also will consider for employment qualified applicants with arrest and conviction records, consistent with applicable law.
+* Individuals who are completing or have recently completed a PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+* Modeling experience in one or more of the areas: Ads, Search engine, Recommender System, NLP/CV.
+* Have a solid foundation in algorithms related to LLMs, including but not limited to comprehensive learning and
+
+
+ practical experience in areas such as single\-modal LLM application and deployment.
    
 
   
 
- Thumbtack is committed to working with and providing reasonable accommodation to individuals with disabilities. If you would like to request a reasonable accommodation for a medical condition or disability during any part of the application process, please contact: recruitingops@thumbtack.com.
+* Strong publications record in top conferences (e.g., ICLR, NeurIPS, ICML, ACL, EMNLP, N
+
+
+ CVPR, ICCV, and ECCV)
    
 
   
 
- If you are a California resident, please review information regarding your rights under California privacy laws contained in Thumbtack’s Privacy policy available at https://www.thumbtack.com/privacy/.
+ Job Information
    
 
   
 
- We put as much craftsmanship into candidate safety as we do into the hiring experience itself. While scammers may try to impersonate our team, we’ll never ask you for money, banking info, or SSNs during hiring. Check out our blueprint on how to spot the fakes.</description>
+**【For Pay Transparency】Compensation Description (Annually)**
+ The base salary range for this position in the selected city is $212800 \- $450000 annually.
+   
+
+  
+
+ Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+   
+
+  
+
+ Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+   
+
+  
+
+ The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+   
+
+  
+
+**For Los Angeles County (unincorporated) Candidates:**
+ Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+   
+
+  
+
+* Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+* Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+* Exercising sound judgment.
+
+
+**About TikTok**
+ TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+   
+
+  
+
+ Why Join Us
+   
+
+  
+
+ Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.
+   
+
+  
+
+ We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+   
+
+  
+
+ Diversity \&amp; Inclusion
+   
+
+  
+
+ TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+   
+
+  
+
+ TikTok Accommodation
+   
+
+  
+
+ TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA\-request</description>
         <pubDate>2026-07-10</pubDate>
     </item>
     
     <item>
-        <title>Data Scientist, Marketing Inference - BetterHelp</title>
-        <link>https://www.linkedin.com/jobs/view/4429370244</link>
-        <description>**Who are we and why should you join us?**
- BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of over 30,000 licensed therapists has helped millions of people take ownership of their mental health and change their lives forever. And we’re not stopping there – as the unmet need for mental health services continues to grow, BetterHelp is committed to being part of the solution.
+        <title>Staff/Lead Data Scientist (Bangkok based, Relocation provided) - Agoda</title>
+        <link>https://www.linkedin.com/jobs/view/4411437747</link>
+        <description>**About Agoda**
+ At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world.
    
 
   
 
- As a Data Scientist at BetterHelp, you’ll join a diverse team of licensed clinicians, engineers, product pros, creatives, marketers, and business leaders who share a passion for expanding access to therapy. And as a mental health company, we take employee mental health just as seriously as we do our mission. We deeply invest in our team’s well\-being and professional development, because we know that business and individual growth go hand\-in\-hand. At BetterHelp, you’ll carve your own path, make an immediate impact, and be challenged every day – with a supportive community behind you the whole way.
+ Today, we are part of Booking Holdings \[NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.
    
 
   
 
-**What are we looking for?**
- BetterHelp is looking for a Data Scientist to help us scale and increase our impact. You will use cutting\-edge methods to optimize our marketing efforts. The ideal candidate would have experience analyzing large and complex data sets related to web products. You'll be contributing to efforts in marketing inference, including our Marketing Mix Model and Attribution.
+ No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us.
    
 
   
 
-**What will you do?**
-* Get insight from an enormous amount of data, and take a proactive role partnering with the marketing team in finding and testing data\-driven ideas for improving our efficiency.
-* Contribute to the development, implementation, and maintenance of our marketing models, including a Bayesian Marketing Mix Model and a Multi\-Touch Attribution model.
-* Monitor and analyze marketing uplift tests with statistical rigor, present the data and insights to the team, and drive marketing decisions.
-* Look at complex problems and come up with testable models and algorithms that have measurable business impact.
-* Enjoy great teamwork, have lots of fun, and take pride in building a world\-class product that makes a difference in people's lives.
-
-
-**What will you NOT do?**
-* You will NOT worry about "runway", "cash left", or "how much time we have until the next round". We have the startup DNA but we're fully backed and funded, all the way to success.
-* You will NOT be confined to your "job". You will get involved in product, marketing, business strategy, and almost everything we do.
-* You will NOT be bogged down by office politics, ego, or bad attitude. Only positive, pleasure\-to\-work\-with people are allowed here!
-* You will NOT get yourself burned out. We work hard but we believe in maintaining a sustainable work/life balance. Really.
-
-
-**Can I work remotely?**
- Yes. We operate on PST and candidates in any time zone are welcome to apply. We ask employees to travel to our San Jose, CA office up to three times per year plus one company\-wide offsite to collaborate in person and strengthen working relationships. Travel expenses are covered and reasonable accommodations are made for those under unique circumstances who cannot travel.
+**Get to Know Our Team**
+ The Data department , based in Bangkok , oversees all of Agoda’s data\-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
    
 
   
 
-**Requirements**
-* BSc/MA in a quantitative discipline such as Statistics, Math, Economics, Computer Science, Operations Research, or Engineering
-* 3\+ years of experience in a quantitative data analysis role involving user behavior (e.g. marketing, product, UI/UX) and large data sets
-* Expertise in statistics, especially as it relates to hypothesis testing and experiment design
-* Experience analyzing A/B tests as well as experiments with more advanced statistical methods like difference\-in\-difference, regression discontinuity, or other methods that deal with network effects or panel data
-* Experience building predictive models and causal inference models
-* Experience analyzing large and complex data sets to drive business insights and decisions
-* Expertise in using tools like R and Python for data analysis
-* Proven success supporting or making business decisions based on your data analysis
-* Excellent communication skills, with experience simplifying complex topics and communicating technical ideas with non\-technical audiences.
-* Advanced experience with SQL
-
-
-**Bonus (Great To Have But Not Required)**
-* Experience with Bayesian modeling methods
-* Experience with Marketing Mix Models and Multi\-Touch Attribution models
-* Experience analyzing two\-sided marketplaces
-* Experience with B2C, marketplace products
-* Experience with BI tools like Tableau and Looker
-
-
-**Benefits**
-* Remote work with regular in\-person bonding experiences sponsored by the company
-* Competitive compensation
-* Holistic perks program (including free therapy, employee wellness, and more)
-* Excellent health, dental, and vision coverage
-* 401k benefits with employer matching contribution
-* The chance to build something that changes lives – and that people love
-* Any piece of hardware or software that will make you happy and productive
-* An awesome community of co\-workers
-
-
- The base salary range for this position is $130,000 \- $160,000\. In addition to the base salary, this position is eligible for a performance bonus and the extensive benefits listed here (subject to eligibility requirements): Teladoc Health Benefits 2026\. Total compensation is based on several factors – including, but not limited to, type of position, location, education level, work experience, and certifications. This information is applicable to all full\-time positions.
+**The Opportunity**
+**Please note \-The role will be based in Bangkok.**
+ We are looking for ambitious and agile data scientists that would like to seize the opportunity to work on some of the most challenging productive machine learning and big data platforms worldwide, processing some 600B events every day and making some 5B predictions.
    
 
   
 
-*At BetterHelp we thrive on difference and individuality, and as part of the Teladoc Health family, we are proud to be an Equal Opportunity Employer. We never have and never will discriminate against any job candidate or employee due to age, race, ethnicity, religion, sex, color, national origin, gender, gender identity, sexual orientation, medical condition, marital status, parental status, disability, or Veteran status.
+ As part of the Data Science and Machine Learning (AI/ML) team you will be exposed to real\-world challenges such as: dynamic pricing, predicting customer intents in real time, ranking search results to maximize lifetime value, classifying and deep learning content and personalization signals from unstructured data such as images and text, making personalized recommendations, innovating algorithm\-supported promotions and products for supply partners, discovering insights from big data, and innovating the user experience. To tackle these challenges, you will have the opportunity to work on one of the world's largest ML infrastructure employing dozens of GPUs working in parallel, 30K\+ CPU cores and 150TB of memory.
    
 
   
 
-**Notice To Candidates**
- BetterHelp has been made aware of fraudulent job postings and unaffiliated third parties posing as our recruiting team – please know that we have no affiliation or connection to these situations. We only post open roles on our career page (betterhelp.com/careers) or reputable job boards like our official LinkedIn or Indeed pages, and all official BetterHelp recruitment emails will come from the domain @betterhelp.com. Our commitment is to ensure a safe and transparent hiring experience for all candidates.
- **We will never ask you for money, gift cards, or any form of payment during our hiring process, and we will never send money or checks to candidates. If you experience this, it is a scam.***</description>
+**In This Role, You’ll Get to**
+* Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness.
+* Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation.
+* Work with developers and a variety of business owners to deliver daily results with the best quality.
+* Research discover and harness new ideas that can make a difference
+
+
+**What You’ll Need To Succeed**
+* 4\+ years hands\-on data science experience.
+* Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks.
+* Significant proficiency in SQL and languages like Python, PySpark and/or Scala.
+* Can lead, work independently as well as play a key role in a team.
+* Good communication and interpersonal skills for working in a multicultural work environment.
+
+
+**It’s Great if You Have**
+* PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
+* Experience in NLP, image processing and/or recommendation systems
+* Hands on experience in data engineering, working with big data framework like Spark/Hadoop
+* Experience in data science for e\-commerce and/or OTA
+
+
+*We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available for eligible candidates.*
+ \#sanfrancisco \#sanjose \#losangeles \#sandiego \#oakland \#denver \#miami \#orlando \#atlanta \#chicago \#boston \#detroit \#newyork \#portland \#philadelphia \#dallas \#houston \#austin \#seattle \#sydney \#melbourne \#perth \#toronto \#vancouver \#montreal \#shanghai \#beijing \#shenzhen \#prague \#Brno \#Ostrava \#cairo \#alexandria \#giza \#estonia \#paris \#berlin \#munich \#hamburg \#stuttgart \#cologne \#frankfurt \#hongkong \#budapest \#jakarta \#bali \#dublin \#telaviv \#milan \#rome \#venice \#florence \#naples \#turin \#palermo \#bologna \#tokyo \#osaka \#kualalumpur \#malta \#amsterdam \#oslo \#manila \#warsaw \#krakow \#doha \#alrayyan \#riyadh \#jeddah \#mecca \#medina \#singapore \#seoul \#barcelona \#madrid \#stockholm \#zurich \#taipei \#tainan \#taichung \#kaohsiung \#bangkok \#Phuket \#istanbul \#london \#manchester \#edinburgh \#hcmc \#hanoi \#lodz \#wroclaw \#poznan \#katowice \#rio \#salvador \#newdelhi \#bangalore \#bandung \#yokohama \#nagoya \#okinawa \#fukuoka \#jerusalem \#mumbai \#bengalulu \#hyderabad \#pune \# \#IT \#4
+   
+
+  
+
+ Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works.
+   
+
+  
+
+**Discover More About Working At Agoda**
+* Agoda Careers https://careersatagoda.com
+* Facebook https://www.facebook.com/agodacareers/
+* LinkedIn https://www.linkedin.com/company/agoda
+* YouTube https://www.youtube.com/agodalife
+
+
+**Equal Opportunity Employer**
+ At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+   
+
+  
+
+ We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
+   
+
+  
+
+**Disclaimer**
+ We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third\-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.</description>
         <pubDate>2026-07-10</pubDate>
     </item>
     
     <item>
-        <title>Sr. Data Scientist, Marketing - Pinterest</title>
-        <link>https://www.linkedin.com/jobs/view/4430716232</link>
-        <description>**About Pinterest**
- Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+        <title>Staff/Lead Data Scientist (Bangkok based, Relocation provided) - Agoda</title>
+        <link>https://www.linkedin.com/jobs/view/4411452447</link>
+        <description>**About Agoda**
+ At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world.
    
 
   
 
- Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
+ Today, we are part of Booking Holdings \[NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.
    
 
   
 
- At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
+ No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us.
    
 
   
 
- Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
+**Get to Know Our Team**
+ The Data department , based in Bangkok , oversees all of Agoda’s data\-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
    
 
   
 
- Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+**The Opportunity**
+**Please note \-The role will be based in Bangkok.**
+ We are looking for ambitious and agile data scientists that would like to seize the opportunity to work on some of the most challenging productive machine learning and big data platforms worldwide, processing some 600B events every day and making some 5B predictions.
    
 
   
 
- Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
+ As part of the Data Science and Machine Learning (AI/ML) team you will be exposed to real\-world challenges such as: dynamic pricing, predicting customer intents in real time, ranking search results to maximize lifetime value, classifying and deep learning content and personalization signals from unstructured data such as images and text, making personalized recommendations, innovating algorithm\-supported promotions and products for supply partners, discovering insights from big data, and innovating the user experience. To tackle these challenges, you will have the opportunity to work on one of the world's largest ML infrastructure employing dozens of GPUs working in parallel, 30K\+ CPU cores and 150TB of memory.
    
 
   
 
- We are looking for a Data Scientist to join our marketing org. As a Data Scientist you introduce greater scientific rigor into the marketing measurement and optimization processes to shape Pinterest’s revenue growth and marketing strategy. The results of your work will influence and drive strategic decisions for the company \- identify investment opportunities for growth, understand revenue growth and behavior, and define metrics to grow and sustain our advertiser base. You will collaborate on a wide array of business problems with a diverse set of cross\-functional partners across Marketing, Product, Engineering, Analytics and others.
+**In This Role, You’ll Get to**
+* Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness.
+* Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation.
+* Work with developers and a variety of business owners to deliver daily results with the best quality.
+* Research discover and harness new ideas that can make a difference
+
+
+**What You’ll Need To Succeed**
+* 4\+ years hands\-on data science experience.
+* Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks.
+* Significant proficiency in SQL and languages like Python, PySpark and/or Scala.
+* Can lead, work independently as well as play a key role in a team.
+* Good communication and interpersonal skills for working in a multicultural work environment.
+
+
+**It’s Great if You Have**
+* PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
+* Experience in NLP, image processing and/or recommendation systems
+* Hands on experience in data engineering, working with big data framework like Spark/Hadoop
+* Experience in data science for e\-commerce and/or OTA
+
+
+*We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available for eligible candidates.*
+ \#sanfrancisco \#sanjose \#losangeles \#sandiego \#oakland \#denver \#miami \#orlando \#atlanta \#chicago \#boston \#detroit \#newyork \#portland \#philadelphia \#dallas \#houston \#austin \#seattle \#sydney \#melbourne \#perth \#toronto \#vancouver \#montreal \#shanghai \#beijing \#shenzhen \#prague \#Brno \#Ostrava \#cairo \#alexandria \#giza \#estonia \#paris \#berlin \#munich \#hamburg \#stuttgart \#cologne \#frankfurt \#hongkong \#budapest \#jakarta \#bali \#dublin \#telaviv \#milan \#rome \#venice \#florence \#naples \#turin \#palermo \#bologna \#tokyo \#osaka \#kualalumpur \#malta \#amsterdam \#oslo \#manila \#warsaw \#krakow \#doha \#alrayyan \#riyadh \#jeddah \#mecca \#medina \#singapore \#seoul \#barcelona \#madrid \#stockholm \#zurich \#taipei \#tainan \#taichung \#kaohsiung \#bangkok \#Phuket \#istanbul \#london \#manchester \#edinburgh \#hcmc \#hanoi \#lodz \#wroclaw \#poznan \#katowice \#rio \#salvador \#newdelhi \#bangalore \#bandung \#yokohama \#nagoya \#okinawa \#fukuoka \#jerusalem \#mumbai \#bengalulu \#hyderabad \#pune \# \#IT \#4
    
 
   
 
- This role sits within the Marketing team and supports business marketing efforts aimed at driving revenue growth for Pinterest.
+ Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works.
    
 
   
 
-**What You’ll Do**
-* Analyze advertiser behavior across the end\-to\-end funnel to identify factors influencing acquisition, conversion, retention and churn.
-* Lead the design, implementation, and continuous improvement of advanced marketing measurement frameworks and statistical models to quantify marketing ROI. Marketing channels could be different paid media, email, in\-product, organic social, webinars, elearning platform,in person events etc.
-* Build and deploy statistical and machine learning models such as propensity, forecasting, and lifetime value (LTV) models—to optimize marketing strategies and enhance audience targeting.
-* Develop and refine attribution methodologies to evaluate the effectiveness of marketing initiatives across multiple channels.
-* Assess the incremental impact of marketing activities using causal inference techniques and testing/experiment frameworks.
-* Conduct deep, strategic analyses to address key business questions, such as how to improve marketing ROI, how to improve marketing budget allocation to optimize the business impact, measuring the impact of marketing in both mature and new markets, identifying opportunities to increase advertiser growth and revenue through marketing initiatives
-* Translate complex analytical findings into clear, actionable insights and strategic recommendations for both technical and non\-technical stakeholders, including senior leadership.
-* Design, maintain, and promote dashboards and automated reporting tools to empower stakeholders with self\-serve, data\-driven decision\-making capabilities. Build and optimize ETL data pipelines to automate reporting, support deep dive analysis and feature engineering for analytical models.
+**Discover More About Working At Agoda**
+* Agoda Careers https://careersatagoda.com
+* Facebook https://www.facebook.com/agodacareers/
+* LinkedIn https://www.linkedin.com/company/agoda
+* YouTube https://www.youtube.com/agodalife
 
 
-**What We’re Looking For**
-* 6\+ years of combined post\-graduate academic and industry experience applying scientific methods to solve real\-world problems.
-* Masters degree in a quantitative field such as mathematics, statistics, computer science or engineering.
-* Excellent communication skills, able to lead initiatives and communicate findings to the leadership and cross\-functional teams, especially non\-technical audiences. Explains work and thought processes clearly and concisely.
-* Hands\-on experiences with building marketing measurement solutions to quantify the business impact of marketing tactics and investments.
-* Strong background in statistics and quantitative analysis, with experience in applying advanced statistical techniques to real\-world problems.
-* Expertise in at least one scripting language (ideally Python/R). Proficiency in SQL/Hive. Ability to write efficient SQL queries.
-* Strong business and product sense. Strong skills in shaping vague questions into well\-defined analyses and success metrics that drive business decisions.
-* Experience leading key technical projects.
-* Strong Experimentation background.
-* Statistical rigor. Experience with causal inference projects.
-
-
-**In\-Office Requirement Statement**
-* We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day\-to\-day can vary based on the needs of each organization or role.
-* This role will need to be in the office for in\-person collaboration 1\-2 times/quarter and therefore can be situated anywhere in the country.
-
-
-**Relocation Statement:**
-* This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
-
-
- At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+**Equal Opportunity Employer**
+ At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
    
 
   
 
-*Information regarding the culture at Pinterest and benefits available for this position can be found here.*
- US based applicants only
+ We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
    
 
   
 
- $139,764—$287,749 USD
+**Disclaimer**
+ We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third\-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.</description>
+        <pubDate>2026-07-10</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff/Lead Data Scientist (Bangkok based, Relocation provided) - Agoda</title>
+        <link>https://www.linkedin.com/jobs/view/4411440696</link>
+        <description>**About Agoda**
+ At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world.
    
 
   
 
-**Our Commitment To Inclusion**
- Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
+ Today, we are part of Booking Holdings \[NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.
    
 
   
 
-*By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.*</description>
+ No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us.
+   
+
+  
+
+**Get to Know Our Team**
+ The Data department , based in Bangkok , oversees all of Agoda’s data\-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+   
+
+  
+
+**The Opportunity**
+**Please note \-The role will be based in Bangkok.**
+ We are looking for ambitious and agile data scientists that would like to seize the opportunity to work on some of the most challenging productive machine learning and big data platforms worldwide, processing some 600B events every day and making some 5B predictions.
+   
+
+  
+
+ As part of the Data Science and Machine Learning (AI/ML) team you will be exposed to real\-world challenges such as: dynamic pricing, predicting customer intents in real time, ranking search results to maximize lifetime value, classifying and deep learning content and personalization signals from unstructured data such as images and text, making personalized recommendations, innovating algorithm\-supported promotions and products for supply partners, discovering insights from big data, and innovating the user experience. To tackle these challenges, you will have the opportunity to work on one of the world's largest ML infrastructure employing dozens of GPUs working in parallel, 30K\+ CPU cores and 150TB of memory.
+   
+
+  
+
+**In This Role, You’ll Get to**
+* Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness.
+* Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation.
+* Work with developers and a variety of business owners to deliver daily results with the best quality.
+* Research discover and harness new ideas that can make a difference
+
+
+**What You’ll Need To Succeed**
+* 4\+ years hands\-on data science experience.
+* Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks.
+* Significant proficiency in SQL and languages like Python, PySpark and/or Scala.
+* Can lead, work independently as well as play a key role in a team.
+* Good communication and interpersonal skills for working in a multicultural work environment.
+
+
+**It’s Great if You Have**
+* PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
+* Experience in NLP, image processing and/or recommendation systems
+* Hands on experience in data engineering, working with big data framework like Spark/Hadoop
+* Experience in data science for e\-commerce and/or OTA
+
+
+*We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available for eligible candidates.*
+ \#sanfrancisco \#sanjose \#losangeles \#sandiego \#oakland \#denver \#miami \#orlando \#atlanta \#chicago \#boston \#detroit \#newyork \#portland \#philadelphia \#dallas \#houston \#austin \#seattle \#sydney \#melbourne \#perth \#toronto \#vancouver \#montreal \#shanghai \#beijing \#shenzhen \#prague \#Brno \#Ostrava \#cairo \#alexandria \#giza \#estonia \#paris \#berlin \#munich \#hamburg \#stuttgart \#cologne \#frankfurt \#hongkong \#budapest \#jakarta \#bali \#dublin \#telaviv \#milan \#rome \#venice \#florence \#naples \#turin \#palermo \#bologna \#tokyo \#osaka \#kualalumpur \#malta \#amsterdam \#oslo \#manila \#warsaw \#krakow \#doha \#alrayyan \#riyadh \#jeddah \#mecca \#medina \#singapore \#seoul \#barcelona \#madrid \#stockholm \#zurich \#taipei \#tainan \#taichung \#kaohsiung \#bangkok \#Phuket \#istanbul \#london \#manchester \#edinburgh \#hcmc \#hanoi \#lodz \#wroclaw \#poznan \#katowice \#rio \#salvador \#newdelhi \#bangalore \#bandung \#yokohama \#nagoya \#okinawa \#fukuoka \#jerusalem \#mumbai \#bengalulu \#hyderabad \#pune \# \#IT \#4
+   
+
+  
+
+ Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works.
+   
+
+  
+
+**Discover More About Working At Agoda**
+* Agoda Careers https://careersatagoda.com
+* Facebook https://www.facebook.com/agodacareers/
+* LinkedIn https://www.linkedin.com/company/agoda
+* YouTube https://www.youtube.com/agodalife
+
+
+**Equal Opportunity Employer**
+ At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+   
+
+  
+
+ We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
+   
+
+  
+
+**Disclaimer**
+ We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third\-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.</description>
         <pubDate>2026-07-10</pubDate>
     </item>
     
@@ -1003,181 +1383,6 @@ $230,000—$284,000 USD</description>
     </item>
     
     <item>
-        <title>Senior Data Scientist - MrBeast</title>
-        <link>https://www.linkedin.com/jobs/view/4430142018</link>
-        <description>**About Us** 
-
- Beast Industries is a multifaceted media and entertainment company founded by Jimmy Donaldson, popularly known as MrBeast, the most watched person in the world. Renowned for revolutionizing digital content creation, Beast Industries encompasses a diverse portfolio of ventures that extend far beyond its origins on YouTube. With a mission to entertain, inspire, and create significant social impact, Beast Industries operates across various domains including digital media, philanthropy, consumer products, and innovative business initiatives. At Beast Industries, we believe in the transformative power of digital media and its potential to entertain, educate, and effect positive change. Our commitment to innovation, creativity, and philanthropy drives us to explore new frontiers, create unforgettable experiences, and build a legacy that inspires future generations.
- 
-
-
-
-**Senior Data Scientist** 
-
-
-
-
- Primary: Bay Area (San Francisco / Peninsula)   \|   Secondary: NYC
-   
-
-  
-
-
-
-
-
-**The Opportunity** 
-
-
-
-
- We're doing an AI\-first engineering rebuild for a company that already has an audience of 100M\+ people. This is a zero\-to\-one build with no legacy constraints, so your analysis and models shape the foundation instead of explaining an old one. You're here to turn data into decisions that move the business for one of the largest audiences on the planet.
- 
-
-
-
-**The Work** 
-
-
-
-
- You'll apply advanced statistics, experimentation, and machine learning to hard business problems, partnering with product, engineering, operations, and business leaders to find opportunities and prove impact. That means:
- 
-
-
-* Ship predictive models, experiments, and decision\-support analytics that move key business KPIs.
-* Build a privacy\-safe understanding of a 100M\+ audience that powers product and partner decisions.
-* Raise the bar on experimentation and causal analysis, and bring AI tooling into the workflow where it helps.
-
-
-
-**What You'll Do** 
-
-
-
-* Lead end\-to\-end data science projects from problem definition through deployment and measurement.
-* Design, build, validate, and maintain statistical and machine learning models.
-* Partner with stakeholders to turn business objectives into analytical approaches and success metrics.
-* Run experimentation, causal analysis, and hypothesis testing to guide real decisions.
-* Communicate complex findings to technical and non\-technical audiences through clear storytelling.
-* Build scalable analytical frameworks and reusable assets, and set data\-quality standards.
-* Mentor junior data scientists and analysts, and partner with engineering to productionize models.
-
-
-
-**Who You Are** 
-
-
-
-* **AI\-Native:** 
- You're already using AI in your daily workflow to move faster from question to insight to shipped model.
-* **Rigorous Analyst:** 
- Typically 6\+ years in data science or advanced analytics, with deep expertise in statistical modeling, experimentation, and machine learning, plus strong SQL and Python or R.
-* **Business\-Impact Driven:** 
- You've influenced real business decisions with data, and you measure success by adoption and outcomes, not just model metrics.
-* **Clear Communicator:** 
- You use evidence to challenge assumptions, explain complex ideas to anyone, and hold a high bar for rigor and reproducibility.
-
-
-
- Bonus points for a Master's or PhD in a quantitative field, deploying ML models to production, cloud\-based analytics and ML platforms, and mentoring data scientists or leading cross\-functional initiatives.
- 
-
-
-
-**Benefits** 
-
-
-
-* **Equity:** 
- Highly competitive equity package designed for a foundational hire.
-* **Hybrid Model:** 
- Expected :2 days per week in\-office (Bay Area or NYC).
-
-
-
-  
- 
-
-
-**Benefits** 
-**The Perks, Why Work On the MrBeast Team** 
-
- We are redefining what entertainment and storytelling look like at global scale. Every piece of content we publish reaches millions and influences culture in real time. This is your opportunity to lead the team that decides how those moments come to life across every screen.
- 
-
-
-* Competitive Salary
-* Generous Medical (Blue Cross Blue Shield), Dental, Vision and company\-paid Life Insurance
-* Company contributions to employee Health Savings Accounts (HSA)
-* 401k Plan with Safe Harbor company\-matching
-* Flexible vacation policy and paid company holidays
-* Company\-provided technology package
-* Relocation assistance where applicable, including travel and company\-provided housing for the first 90 days</description>
-        <pubDate>2026-07-09</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, Growth Analytics - Tubi</title>
-        <link>https://www.linkedin.com/jobs/view/4438687854</link>
-        <description>**About the Role:**
- We are looking for a problem solver who thrives at the intersection of data science, growth strategy, and AI\-powered automation. You’ll focus on diving deep into data, creating scalable data solutions, building agentic AI workflows, supporting growth marketing measurement, and enabling growth experimentation to power smarter decision\-making for growth marketing. This is a highly technical and data\-intensive role ideal for someone who is passionate about applying advanced analytics and AI to drive business impact in a fast\-paced environment.This is a hybrid role based out of our San Francisco or Los Angeles office. You must be willing to travel to the office two days/week.
-   
-
-  
-
-**What You'll Do:**
-* Lead the design and evolution of measurement frameworks that quantify marketing effectiveness across the full customer lifecycle, including acquisition, activation, retention, and brand impact.
-* Create business intelligence suites that provide a holistic view of marketing performance across growth marketing, brand marketing, Search/Answer Engine Optimization (SEO/AEO), Customer Relationship Management (CRM), social, content, partnerships, and business development, spanning both performance and brand health metrics.
-* Build scalable analytics products that provide executive visibility into marketing performance across paid, owned, and earned channels.
-* Design and implement agentic AI solutions that automate recurring analyses, generate actionable insights, orchestrate multi\-step analytical workflows, and accelerate decision\-making for growth marketing, brand marketing, SEO/AEO, CRM, social, and broader marketing operations teams.
-* Leverage large language models (LLMs), AI agents, and modern AI frameworks to improve productivity, automate reporting, enhance experimentation workflows, and surface intelligent recommendations.
-* Evaluate and implement advanced statistical techniques \- including Bayesian modeling, causal inference, uplift modeling, and media mix modeling \- to improve marketing measurement and optimization.
-* Drive the organization's experimentation strategy by designing rigorous A/B tests, incrementality studies, geo experiments, and causal inference methodologies to measure both short\-term performance and long\-term business impact.
-* Partner closely with Data Engineering to design robust data models, improve data quality, and define scalable pipelines that support analytics at scale.
-* Build and maintain dashboards and self\-service analytics solutions in Preset, Databricks, or Tableau that empower growth marketing, brand marketing, SEO/AEO, CRM, social, and cross\-functional partners with timely, actionable insights.
-
-
-**Your Background:**
-* 4\+ years of experience in Analytics, Data Science, Decision Science, or Growth Analytics, with demonstrated impact in a high\-growth B2C technology company. (streaming, gaming, fintech, or consumer app businesses preferred).
-* Deep expertise in SQL, including complex query optimization, dimensional modeling, and large\-scale analytical data warehouses such as Databricks, Snowflake, BigQuery, or Redshift.
-* Strong programming experience in Python for statistical modeling, automation, experimentation, AI applications, and production\-quality analytics workflows.
-* Experience building AI\-powered analytical tools, agentic workflows, or LLM\-based applications that automate repetitive analysis, accelerate decision\-making, or improve business operations.
-* Proven experience building predictive models and applying machine learning techniques to solve business problems in marketing, growth, or customer lifecycle optimization.
-* Deep understanding of experimentation methodologies, including A/B testing, causal inference, Bayesian statistics, incrementality testing, and observational analysis.
-* Experience developing executive\-facing dashboards and scalable self\-service analytics solutions using Tableau, Preset, or similar BI platforms.
-* Demonstrated ability to influence cross\-functional strategy and communicate complex analytical concepts to executive and non\-technical audiences.
-* Strong curiosity, autonomy, and passion for building scalable analytics capabilities and establishing best practices that raise the bar across the organization.
-* Familiarity with modern AI frameworks and tooling (e.g., LangChain, LangGraph, OpenAI APIs, MCP, vector databases, or similar agent orchestration frameworks) is highly desirable.
-* Strong understanding of digital marketing measurement, attribution methodologies, media performance, and customer acquisition economics is a plus.
-
-
- Tubi is a division of Fox Corporation, and the FOX Employee Benefits summarized here, covers the majority of all US employee benefits. The following distinctions below outline the differences between the Tubi and FOX benefits:
-   
-
-  
-
-* For US\-based non\-exempt Tubi employees, the FOX Employee Benefits summary accurately captures the Vacation and Sick Time.
-* For all salaried/exempt employees, in lieu of the FOX Vacation policy, Tubi offers a Flexible Time off Policy to manage all personal matters.
-* For all full\-time, regular employees, in lieu of FOX Paid Parental Leave, Tubi offers a generous Parental Leave Program, which allows parents twelve (12\) weeks of paid bonding leave within the first year of birth, adoption, surrogacy, or foster placement of a child in addition to applicable government leave program(s) and FOX’s short\-term disability policy. This time is 100% paid through a combination of any applicable state, city, and federal leaves and wage\-replacement programs in addition to contributions made by Tubi.
-* For all full\-time, regular employees, Tubi offers a monthly wellness reimbursement.
-
-
- About Tubi:
-   
-
-  
-
- Boldly built for every fandom, Tubi is a free streaming service that entertains over 100 million monthly active users. Tubi offers the world's largest collection of Hollywood movies and TV shows, thousands of creator\-led stories and hundreds of Tubi Originals made for the most passionate fans. Headquartered in San Francisco and founded in 2014, Tubi is part of Tubi Media Group, a division of Fox Corporation.
-   
-
-  
-
-*We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law.*</description>
-        <pubDate>2026-07-09</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Data Scientist (Pricing) - GoFundMe</title>
         <link>https://www.linkedin.com/jobs/view/4428183726</link>
         <description>**Want to help us help others? We’re hiring!**
@@ -1283,257 +1488,6 @@ $230,000—$284,000 USD</description>
     </item>
     
     <item>
-        <title>IC8 Data Scientist, Product Analytics - CP New Revenue Bets - Meta</title>
-        <link>https://www.linkedin.com/jobs/view/4427321631</link>
-        <description>We're looking for a experienced Data Scientist who can serve as a product analytics leader and strategic generalist across the CP \- New Revenue Bets org. This role is designed for someone who combines deep analytical rigor with strong product sense \- someone who can step into any pillar (Subscriptions, BizAI, or XF APAC) and quickly add leverage where the team needs it most.You'll operate with significant autonomy, partnering directly with VPs and cross\-functional leaders at the most senior levels of company leadership to shape strategy and unblock critical workstreams. You'll be the analytical connective tissue across our pillars \- building bridges between teams, synthesizing insights across workstreams, and ensuring our bets are informed by the rigorous data\-driven perspective.
-   
-
-  
-
- IC8 Data Scientist, Product Analytics \- CP New Revenue Bets Responsibilities:
-   
-
-  
-
-* Provide senior analytical leadership across New Revenue Bets workstreams \- Subscriptions, BizAI, and XF APAC \- where it's most needed at any given moment
-* Work directly with VPs and senior cross\-functional leaders across the company
-* synthesize complex analysis into actionable insights for executive audiences and shape investment decisions at the highest levels
-* Define measurement frameworks and success metrics for nascent revenue products where playbooks don't yet exist
-* make ambiguity tractable for emerging business models
-* Drive analytical insights on subscriber growth, retention, LTV modeling, pricing/packaging strategy, and product\-market fit for Meta's subscription offerings
-* Partner on the data strategy for AI\-powered business tools \- measurement of AI agent effectiveness, ROI frameworks for business customers, and opportunity sizing for new capabilities
-* Lead cross\-functional analytics supporting APAC market expansion \- localization insights, regional product\-market dynamics, and go\-to\-market measurement
-* Serve as a unifying analytical voice across multiple teams and workstreams
-* identify shared challenges, propagate learnings, and ensure teams are building on each other's work
-* Establish best practices in measurement, experimentation, and causal inference for early\-stage revenue products
-* propagate learnings across the org and beyond
-* Elevate the craft and impact of other ICs and managers through coaching, collaboration, and exemplar work
-* Redesign analytical workflows to leverage AI/ML tools and agents at scale
-* model how ICs should integrate AI as a force multiplier
-
-
- Minimum Qualifications:
-   
-
-  
-
-* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
-* 12\+ years of experience in data science, analytics, or a quantitative field
-* Advanced degree (MS/PhD) in Statistics, Economics, Computer Science, or related quantitative discipline
-* Demonstrated company\-wide influence, cross\-org strategy, and sustained execution on high\-complexity problems
-* Proven ability to context\-switch across disparate problem domains (growth, monetization, international expansion, AI products) while maintaining high\-quality output
-* Track record of setting direction on company\-critical problems and influencing cross\-org strategy
-* Experience thriving in multi\-team, multi\-stakeholder environments with the ability to build trust quickly and drive outcomes through influence
-* Comfort operating in early\-stage, high\-ambiguity environments where metrics, frameworks, and questions haven't been defined yet
-* Ability to synthesize complex analysis into clear narratives for VP\+ and cross\-functional leadership
-
-
- Preferred Qualifications:
-   
-
-  
-
-* Familiarity with Meta's data infrastructure (large\-scale data querying tools (e.g., Hive, Presto, Spark), experimentation platforms, and ML infrastructure)
-* Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies
-* Experience in subscription/recurring\-revenue businesses (LTV modeling, retention analytics, pricing strategy)
-* Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)
-* Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)
-* Background in AI product measurement or AI agent evaluation frameworks
-* International/APAC market analytics experience \- understanding regional dynamics, localization challenges, and cross\-market comparisons
-* Prior experience operating as a principal\-level IC embedded in a leadership team across multiple concurrent bets
-
-
- About Meta:
-   
-
-  
-
- Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
-   
-
-  
-
- Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E\-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
-   
-
-  
-
- Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations\-ext@meta.com.
-   
-
-  
-
- $253,000/year to $314,000/year \+ bonus \+ equity \+ benefits
-   
-
-  
-
- Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.</description>
-        <pubDate>2026-07-08</pubDate>
-    </item>
-    
-    <item>
-        <title>Marketing Data Scientist - Beezwax Datatools, Inc.</title>
-        <link>https://www.linkedin.com/jobs/view/4438249739</link>
-        <description>Beezwax is seeking a Marketing Data Scientist who is passionate about using data, AI, and machine learning to optimize consumer marketing experiences for payments \&amp; digital cash products. In this role, you will provide actionable insights and build scalable analytical solutions to support marketing strategies across the entire customer lifecycle \- from acquisition and engagement to retention and reactivation.
- 
-
-
-
- You will collaborate closely with marketing, product, and business stakeholders to evaluate campaign effectiveness, uncover new growth opportunities, and integrate AI\-driven models into existing business processes. This role combines deep analytical expertise with creative problem\-solving and strong communication skills to drive measurable impact.
- 
-
-
-
- Our team culture values speed, curiosity, and collaboration. We iterate quickly, challenge assumptions, and make data\-informed decisions that shape our global payments ecosystem.
- 
-
-
-
- This position requires onsite presence on a hybrid schedule in Cupertino, CA, and is not currently open to relocation candidates.
- 
-
-
-
-**Duties:** 
-
-
-
-* Analyze marketing and business performance using SQL, Python, and statistical methods to surface actionable insights and inform optimization strategy.
-* Design and execute A/B tests, multivariate experiments, and causal inference analyses to measure campaign effectiveness.
-* Develop and deploy AI/ML models (e.g., customer segmentation, churn prediction, recommendation systems, marketing optimization) to enhance targeting, personalization, insights discovery, and decision\-making.
-* Integrate machine learning insights into existing business workflows to enable automation and real\-time optimization of marketing programs.
-* Partner with marketing leaders as a trusted thought partner, advising on campaign design, measurement frameworks, and data\-driven storytelling.
-* Communicate insights through clear and visually compelling presentations using Keynote, Tableau, or other visualization tools.
-* Collaborate cross\-functionally with engineering, product, and finance teams to ensure data accuracy, scalability, and accountability towards business impacts.
-
-
-
-  
-
-
-
-
-
-**Requirements** 
-
-
-
-* 3\+ years of experience in data science, marketing analytics, or related quantitative fields applied in a business, preferably Enterprise, context.
-* Proven expertise with large, complex datasets and transforming data into actionable business insights.
-* Demonstrated ability to understand complex business data end\-to\-end, from raw data to insight, and communicate findings effectively to both technical and non\-technical audiences.
-* Proficiency in SQL and Python (including libraries such as pandas, scikit\-learn, casualimpact, statsmodels, LLMs packages like GPT, Claude, etc.).
-* Strong understanding of AI/ML techniques, including regression, classification, clustering, segmentation, and predictive modeling, deep learning models, and LLMs.
-* Experience integrating machine learning outputs into marketing or business processes to drive automation and performance.
-* Skilled in experimental design, significance testing, and multivariate analysis.
-* Excellent data storytelling and visualization abilities, translating technical findings into clear business recommendations.
-* Outstanding verbal and written communication skills; ability to influence and build trust across functions.
-
-
-
-  
-
-
-
-
-
-**Education:** 
-
-
-
-
- Advanced degree (Master's or Ph.D.) in Data Science, Statistics, Economics/Econometrics, Computer Science, Marketing Science, Operations Research, Mathematics, or Engineering — completed or in progress.
- 
-
-
-
-  
-
-
-
-
-
-**Benefits** 
-
-
-
-* Competitive compensation
-* Healthcare package with vision and dental
-* Vacation / PTO
-* Retirement plan
-* Support for your continued learning and professional development
-* Hardware and software
-* Office in Cupertino, CA</description>
-        <pubDate>2026-07-08</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, Marketing - Harvey</title>
-        <link>https://www.linkedin.com/jobs/view/4359264895</link>
-        <description>**Why Harvey**
- At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise\-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.
-   
-
-  
-
- This is a rare chance to help build a generational company at a true inflection point. With 1500\+ customers in 60\+ countries, strong product\-market fit, and world\-class investor support, we’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.
-   
-
-  
-
- Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.
-   
-
-  
-
- At Harvey, the future of professional services is being written today — and we’re just getting started.
-   
-
-  
-
-**Role Overview**
- We’re hiring a Marketing Data Scientist to partner closely with Harvey’s Marketing organization and build our marketing data science function from the ground up. In this role, you’ll serve as a trusted analytical partner to Marketing, GTM, and Finance \- defining how we measure marketing success, understanding what drives channel and campaign performance, and informing where and how we invest to accelerate growth. As one of the earliest Marketing data science hires, you’ll own the development of core Marketing metrics, scalable dashboards, and analytical frameworks that enable data\-driven decision\-making across the business.
-   
-
-  
-
-**What You’ll Do**
-* Embed deeply with the Marketing organization as a trusted partner, identifying opportunities to improve performance and drive growth.
-* Define, track, and evolve core metrics across marketing and business functions, building scalable dashboards and reporting frameworks that enable data\-driven decision\-making.
-* Design, implement, and evaluate models (multi\-touch attribution, marketing mix modeling, incrementality) for comprehensive Marketing Channel and Campaign performance and contribution.
-* Apply statistical and machine learning techniques to model user behavior, forecast trends, and identify opportunities for growth and optimization.
-* Translate complex analyses into compelling stories, delivering clear recommendations to cross\-functional partners and executives.
-* Partner with Marketing, RevOps and GTM System, to co\-develop data infrastructure, ensuring robust pipelines, reliable data sources, and scalable systems that power analytics and modeling.
-* Lead cross\-functional analytics initiatives that synthesize competitive dynamics, customer feedback, and market trends into actionable opportunities for the business.
-* Champion a data\-informed culture by establishing best practices, mentoring peers, and shaping the strategic role of data science at Harvey.
-
-
-**What You Have**
-* 5\+ years of experience in quantitative roles operating in highly ambiguous environments, ideally as an early data scientist or Marketing analyst within a hyper\-growth product company or research organization
-* Expertise in SQL, with extensive experience extracting large datasets and designing ETL workflows
-* Expertise working with Salesforce, Marketo and Ads spent data
-* Strong experience with modern data stack, such as DBT, Looker and Omni
-* Proficiency in quantitative programming languages, such as Python and R
-* Experience defining, implementing, and operationalizing Marketing campaign\- and channel\-level metrics from the ground up
-* Strong communication skills, with the ability to effectively partner with leaders across Marketing, GTM and Finance
-* Strategic mindset capable of generating insights that extend beyond traditional statistical significance testing to inform long\-term product and business direction
-
-
-**Compensation**
- $170,000 \- $260,000 USD
-   
-
-  
-
-**Depending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices \[** 
-**here** 
-**].**
-*Harvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.*
- We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@harvey.ai</description>
-        <pubDate>2026-07-08</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Data Scientist, CX Analytics - Coinbase</title>
         <link>https://www.linkedin.com/jobs/view/4429541827</link>
         <description>Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote\-first, but not remote\-only company. Expect to get together quarterly for intense in\-person working sessions called “surges.” learn more about working at Coinbase.
@@ -1600,62 +1554,103 @@ $230,000—$284,000 USD</description>
     </item>
     
     <item>
-        <title>Data Scientist - Tarro</title>
-        <link>https://www.linkedin.com/jobs/view/4298469184</link>
-        <description>**About Us**
- Here at Tarro we build products that empower small brick and mortar restaurants by liberating them of the operational burden of running their business. We accomplish this by providing a frictionless connection between them and their customers through our multi\-product ecosystem offering AI\-enabled order taking, delivery enablement, payment solutions, and point\-of\-sale software. At Tarro, we use a combination of bits (technology) and atoms (people) to solve real world problems facing small business owners.
-   
+        <title>Staff Finance Data Scientist, Consumption Forecasting - Harnham</title>
+        <link>https://www.linkedin.com/jobs/view/4417315799</link>
+        <description>**Staff Finance Data Scientist, Consumption Forecasting** 
+
+
+
+
+**Location:** 
+ San Francisco or New York \| Hybrid (3 days per week in office)
+ 
+
+
+
+**Salary:** 
+ $240\-300k base \+ bonus \+ equity (RSUs)
+ 
+
+
 
   
 
- We obsess over placing our customers first and working backwards from there. When our customers succeed, we succeed. The restaurant industry in the US is over a $1 trillion total addressable market (TAM), but remains relatively underserved by technology. Large chains are able to afford expensive tech that gives them a huge advantage; we believe that small restaurant owners deserve access to the same technologies at an affordable price.
-   
+
+
+
+
+ This is a rare chance to own forecasting infrastructure at the center of a high\-growth, consumption\-based developer platform, one that powers some of the world's most dynamic applications and scales with every developer and enterprise building on it.
+ 
+
+
 
   
 
- Tarro has been profitable for nearly a decade and seen 5x revenue growth in the past four years. As of our last fundraising round in mid\-2022, we were valued at $450M and have since seen substantial growth across customer acquisition, product development and company headcount. Thousands of loyal restaurants have entrusted Tarro with their success, and together we have supported nearly 20 million customers. We are proud to be named one of Built In’s top companies to work for in 2023\.
-   
+
+
+
+
+ As a consumption\-based business, forecasting usage across compute, bandwidth, edge, and storage isn't a support function. It's foundational to how we plan infrastructure, revenue, and long\-term strategy. This role exists to lead that work at the highest level.
+ 
+
+
 
   
 
- To learn more about our culture, values and how you can be a part of helping mom \&amp; pop restaurants thrive, please visit us here! Helping restaurants thrive, not just survive
- **.**
-**What We're Looking For**
- We are looking to hire a Data Scientist to drive impactful insights and build data\-driven solutions across multiple Tarro product areas. In this role, you’ll analyze complex datasets, develop predictive models, and collaborate closely with product, engineering, operations and a variety of stakeholders. You’ll own end\-to\-end data initiatives, deploy models into production, and play a critical role in shaping Tarro’s growth and evolution. As a key member of our growing team, you’ll move fast, experiment often, and wear many hats to uncover patterns, optimize decision\-making, and solve high\-impact business challenges.
-   
+
+
+
+
+**What you'll own** 
+
+
+
+
+ This is a senior individual contributor role with organization\-wide impact. You'll define forecasting methodology, build systems that scale with a rapidly growing platform, and sit at the intersection of Finance, Infrastructure, Product, and GTM with direct visibility to executive leadership.
+ 
+
+
+* Own production revenue forecasting end\-to\-end: model development, backtesting, deployment, monitoring, and iteration from first principles to live system
+* Build forecasting systems that account for usage\-based pricing dynamics, consumption patterns, and customer lifecycle across the platform, built for how this business actually works, not retrofitted SaaS models
+* Design hierarchical forecasting models across account, cohort, segment, and global aggregate levels, covering operational, quarterly, and long\-range planning cycles
+* Build scenario simulation frameworks to evaluate pricing changes, packaging adjustments, and product launches
+* Partner with Finance on board\-level reporting, with Infrastructure Engineering on capacity planning, and with Product and GTM on adoption curves and usage drivers
+
+
 
   
 
-**What You Will Accomplish**
-* You will be responsible for owning entire data science model pipelines, from development to support
-* You will help make key decisions on the technologies and tools we use as we scale
-* You will write high quality code for all parts of our data science pipelines.
-* You will work closely with Marketing, Sales, Customer Success, Product and other functions to define and execute on data diagnosis, prediction, prescriptive and experimentation requirements
-* You will create scalable data science models following software and data engineering practices like versioning, CI/CD, workflow orchestration, data ops and ml ops
-* You will implement rigorous code reviews and testing guidelines to ensure that we have a high quality data science products
-* You will create and improve our data science CI/CD pipeline to enable high developer velocity
-* You will help in improving the life of independent restaurant owners and ultimately their customers
 
 
-**About You**
-* You have Bachelors in Computer Science or Engineering, Statistics, or equivalent experience.
-* You have 3\+ years of ELT/ETL, data exploration, transformation and building production models.
-* You have 3\+ years working with cloud databases, such as Snowflake, Redshift or similar
-* Practical experience with statistical testing (p/t/z tests, power analysis), time series, regression/classification, clustering, and NLP.
-* You have experience with programming languages such as Python and its usage for data processing, making API calls along with Advanced SQL
-* You have built with at least one of OpenAI/Anthropic/Google/OSS (Llama/Mistral), using embeddings, RAG (vector DB \+ hybrid search \+ re\-ranking), prompt engineering, function/tool calling, JSON\-schema outputs, and evaluation frameworks (e.g., prompt/unit tests, hallucination checks).
-* You have exposure to MLflow or equivalent for experiment tracking/model registry; data \&amp; model versioning; orchestration (Dagster/Airflow); containerization (Docker) and monitoring (latency, cost, quality)
-* You have exceptional product sense, communication and bias to ship
 
 
-**Bonus Points**
-* You have experience with dbt, Dagster, MLflow/DVC, Weights \&amp; Biases, or Feast/feature stores.
-* You are obsessed with data and patterns to solve business problems.
-* You will be jumping in deep into a new territory for the business, and you have a strong hunger to learn along with us.
-* You got Restaurant tech or marketplace/logistics experience; you’re customer\-obsessed and love turning noisy operational data into outcomes.
+**What we're looking for** 
 
 
- The base salary range for this role is $180,000 – $250,000 USD.</description>
+
+* 7\+ years in data science, quantitative analytics, or applied statistics at senior or staff level
+* Deep expertise in time\-series forecasting and statistical modelling in a usage\-based or SaaS environment
+* Proven track record building and productionizing ML systems at scale
+* Strong Python and SQL, with experience on large\-scale usage and billing datasets
+* Familiarity with probabilistic modelling, hierarchical forecasting, and causal inference
+* Experience partnering with Finance or executive leadership on planning cycles
+* Comfortable operating autonomously in fast\-moving, ambiguous environments
+
+
+
+  
+
+
+
+
+
+**Nice to have** 
+
+
+
+* Background in cloud infrastructure, developer tools, or consumption\-based revenue models
+* Familiarity with modern data stacks: Snowflake, Delta Lake, dbt, Airflow
+* Prior technical mentorship or informal leadership experience</description>
         <pubDate>2026-07-07</pubDate>
     </item>
     
@@ -1735,251 +1730,130 @@ $230,000—$284,000 USD</description>
     </item>
     
     <item>
-        <title>Data Scientist, Platform and B2B Products - OpenAI</title>
-        <link>https://www.linkedin.com/jobs/view/4417166213</link>
-        <description>**About The Team**
- OpenAI’s
- **Platform** 
- team powers how millions of developers and enterprises build with our models. We provide APIs and agentic solutions used by global startups and fortune 500s. We work closely with product, engineering, design, and go\-to\-market to build a world\-class platform that pushes the frontier of AI capabilities.
+        <title>Data Scientist, Product Analytics - Whatnot</title>
+        <link>https://www.linkedin.com/jobs/view/4327061575</link>
+        <description>****🚀 Join the Future of Commerce with Whatnot!****
+ Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the things you love. Whether it's trading cards, fashion, electronics, or live plants, our sellers are building real businesses across hundreds of categories. We're building live commerce at a scale that's never been done in the West, and there's no playbook to copy. The people here are shaping how an entirely new industry develops.
    
 
   
 
-**About The Role**
- As a Data Scientist on the Platform team, you will drive a data\-driven culture for OpenAI’s API and B2B solutions. You’ll define the metrics that matter for developer success and enterprise value, measure the impact of new models and features, and partner with PMs and engineers to improve model quality, reliability, latency, and cost. Your work will shape how thousands of products adopt agentic AI.
+ As a remote co\-located team, we're inspired by our values and anchored in hubs across the US, UK, Ireland, Poland, Germany, and Australia. We move fast, stay close to our users, and focus on the work that drives the most impact.
    
 
   
 
- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+ We're one of the fastest growing marketplaces and were recently named the \#1 Best Startup Employer in America by Forbes. Check out the latest Whatnot updates on our news and engineering blogs and join us as we enable anyone to turn their passion into a business and bring people together through commerce.
    
 
   
 
-**In this role, you will**
-* Embed with the Platform product team as a trusted partner, uncovering ways to improve developer experience, reliability, and usage growth
-* Define north\-star metrics across the developer funnel (activation, retention, growth), as well as latency/cost guardrails for new features and models
-* Design and interpret A/B tests and controlled rollouts (e.g., new model versions, pricing/limits, new API features, new B2B products)
-* Build source\-of\-truth dashboards and self\-serve data tools for product, engineering, and go\-to\-market teams
-* Translate product learnings into actionable feedback for Research (e.g., failure modes, eval gaps, model response quality)
-
-
-**You might thrive in this role if you have**
-* 5\+ years in a quantitative role in ambiguous, high\-growth environments (platforms, APIs, or B2B products a plus)
-* Depth in SQL and Python, with a track record proposing, designing, and running rigorous experiments
-* Experience defining and operationalizing metrics from scratch (including reliability/latency/cost and safety)
-* Strong cross\-functional communication with PMs, engineers, and executives
-* Strategic instincts beyond p\-values—clear thinking about tradeoffs and business impact
-
-
-**You could be an especially great fit if you have**
-* Background in developer platforms, observability, or usage\-based pricing/quotas
-* Experience connecting offline evals to online product impact
-* Prior work in NLP/LLMs or agentic systems, or in enterprise analytics for B2B products
-
-
-**About OpenAI**
- OpenAI is an AI research and deployment company dedicated to ensuring that general\-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+**💻 Role**
+ As Whatnot rapidly scales, data is central to shaping our product strategy and helping us build delightful, high\-performing experiences for both buyers and sellers. We’re looking for a
+ **Product Data Scientist** 
+ who will partner closely with Product, Engineering, Design, and Operations to drive insights, experimentation, and decision\-making across the company.
    
 
   
 
- We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+**In This Role, You Will**
+**🔍 Generate Insights \&amp; Shape Product Direction**
+* Define and own the KPIs that measure product health, user engagement, and marketplace performance.
+* Analyze user behavior, product usage patterns, and marketplace dynamics to identify opportunities and inform product priorities.
+* Translate complex data into actionable recommendations for product and leadership teams.
+
+
+**🧪 Drive Experimentation \&amp; Measurement**
+* Partner with product managers and engineers to design, implement, and evaluate A/B tests and feature rollouts.
+* Develop frameworks for causal inference, impact measurement, and long\-term product evaluation.
+* Build scalable methodologies to understand feature performance and guide iteration.
+
+
+**🛠 Build Data Products \&amp; Tools**
+* Use our modern data stack to build dashboards, data pipelines, and self\-serve tools that empower teams across Whatnot.
+* Partner with engineers to improve data accessibility, ensure data quality, and support instrumentation for new product features.
+
+
+**🤝 Lead Cross\-Functional Collaboration**
+* Advocate for data\-driven decision\-making and foster a culture of measurement across the product organization.
+* Communicate insights clearly to both technical and non\-technical audiences, influencing roadmaps and strategic decisions.
+* Serve as a thought partner to product leads, shaping how we build, launch, and iterate on experiences across the platform.
+
+
+**US Based**
+**We offer flexibility to work from home or from one of our global office hubs, and we value in\-person time for planning, problem\-solving, and connection. Team members in this role must live within commuting distance of our New York, Seattle, Los Angeles, and San Francisco hubs.**
+**👋 You**
+ People who do well at Whatnot tend to be comfortable figuring things out as they go, biased toward action, and genuinely curious about what they're building. They care more about outcomes than credit and stay close to the product and the people using it.
    
 
   
 
- For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
+**🎓 Experience \&amp; Expertise**
+ As our next
+ **Product Data Scientist** 
+ , you bring:
    
 
   
 
- Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US\-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non\-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+* 3\+ years of experience in Data Science, Decision Science, or Analytics within a product\-focused organization.
+* A bachelor’s degree in Computer Science, Economics, Statistics, or a related quantitative field or equivalent experience.
+* Proven experience applying statistical and analytical methods to real\-world product problems.
+
+
+**🧠 Technical Skills**
+* Advanced SQL skills and experience with modern data warehouses (Snowflake, BigQuery, Redshift) and tools like Spark or DBT.
+* Proficiency with Python or R for data analysis, modeling, and experimentation.
+* Experience designing and analyzing A/B tests and understanding causal inference techniques.
+* Strong data visualization skills and familiarity with BI tools for building interactive dashboards.
+
+
+**🗣 Collaboration \&amp; Leadership**
+* Ability to communicate complex ideas clearly, concisely, and impactfully across diverse stakeholders.
+* Experience leading cross\-functional projects and influencing product strategy with data.
+* Comfortable working in fast\-paced, ambiguous environments with a high degree of ownership.
+
+
+**💰Compensation**
+**For Full\-Time (Salary) US based applicants:** 
+ $185,000/year to $240,000/year \+ benefits \+ equity.
    
 
   
 
- To notify OpenAI that you believe this job posting is non\-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.
+ The salary range may be inclusive of several levels that would be applicable to the position. Final salary will be based on a number of factors including, level, relevant prior experience, skills, and expertise. This range is only inclusive of base salary, not benefits (more details below) or equity.
    
 
   
 
- We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+**🎁 Benefits**
+* Flexible Time off Policy and Company\-wide Holidays (including a spring and winter break)
+* Health Insurance options including Medical, Dental, Vision
+* Work From Home Support
++ Home office setup allowance
++ Monthly allowance for cell phone and internet
+
+* Care benefits
++ Monthly allowance for wellness
++ Annual allowance towards Childcare
++ Lifetime benefit for family planning, such as adoption or fertility expenses
+
+* Retirement; 401k offering for Traditional and Roth accounts in the US (employer match up to 4% of base salary) and Pension plans internationally
+* Monthly allowance to dogfood the app
++ All Whatnauts are expected to develop a deep understanding of our product. We're passionate about building the best user experience, and all employees are expected to use Whatnot as both a buyer and a seller as part of their job (our dogfooding budget makes this fun and easy!).
+
+* Parental Leave
++ 16 weeks of paid parental leave \+ one month gradual return to work \*company leave allowances run concurrently with country leave requirements which take precedence.
+
+
+****💛 EOE****
+ Whatnot is proud to be an Equal Opportunity Employer. We value diversity, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, parental status, disability status, or any other status protected by local law. We believe that our work is better and our company culture is improved when we encourage, support, and respect the different skills and experiences represented within our workforce.
    
 
   
 
- OpenAI Global Applicant Privacy Policy
-   
-
-  
-
- At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
-   
-
-  
-
- Compensation Range: $230K \- $385K</description>
-        <pubDate>2026-07-05</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, Product - Replit</title>
-        <link>https://www.linkedin.com/jobs/view/4411253059</link>
-        <description>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.
-   
-
-  
-
-**About the Role:**
- We're redefining how software is built and who gets to build it. Our mission is to achieve Autonomy for All: making programming accessible, collaborative, and powered by AI. To realize this vision, we need people who are obsessed with understanding how users experience our product and can turn that understanding into decisions that move the needle.
-   
-
-  
-
- You'll directly impact Replit's growth by turning user behavior into actionable insights that shape product strategy, improve activation and retention, and drive sustainable revenue growth across our self\-serve and enterprise segments.
-   
-
-  
-
-**Who You Are**
- You're a data scientist who moves fast and goes deep. You can spin up an analysis in hours that would take others days; not by cutting corners, but because you've built the intuition and technical toolkit to get to the right answer quickly. You're the person who digs past the top\-line number to find the confound, questions whether the metric actually measures what people think it does, and pressure\-tests your own work before anyone else sees it. You treat experimentation as a craft, not a checkbox. You've felt the pain of underpowered tests and novelty effects, and you have the judgment to get it right.
-   
-
-  
-
- You use AI agents and tools aggressively to multiply your output \- writing code, exploring data, generating hypotheses, but you treat every AI\-assisted output as a draft, not a deliverable. You know what good analysis looks like and you won't ship anything that doesn't meet that bar. The result is that you operate at a speed and depth that most DS teams can't match.
-   
-
-  
-
-**You will:**
-* Design and analyze product experiments to evaluate feature launches, onboarding changes, and in\-product interventions with rigorous statistical methodology.
-* Own the analytics for core product areas — Growth (activation, engagement, monetization \&amp; retention), feature adoption, product quality, AI agent effectiveness, and proactively surface insights that influence product roadmap decisions.
-* Build the analytical foundation for Replit's enterprise business, understanding team adoption patterns, workspace collaboration dynamics, and expansion signals that inform go\-to\-market and product strategy.
-* Develop predictive models to forecast frameworks to measure impact of features and new launches on user behavior, including likelihood to retain, convert, or expand, and embed those signals directly into product and growth workflows.
-
-
-**Examples of what you could do:**
-* Design and analyze a complex multi\-variant experiment testing pricing, onboarding, and feature gating simultaneously, navigating interaction effects and providing clear recommendations despite ambiguity.
-* Model the "aha moment" for new Replit users — identifying early behaviors most predictive of long\-term retention — and work with the product team to redesign onboarding around those signals.
-* Analyze feature adoption and cohort behavior across user segments (students, hobbyists, professional developers, enterprise teams) to help PMs prioritize the roadmap with confidence.
-* Analyze enterprise team adoption patterns to identify what drives successful rollouts versus stalled deployments, and build the data models that power Replit's enterprise expansion playbook.
-
-
-**Required skills and experience:**
-* Bachelor's degree in Computer Science, Statistics, Mathematics, Economics, or related field, OR equivalent real\-world experience in data roles.
-* 5\+ years of experience in data science with a focus on product analytics, growth, or user behavior.
-* Strong SQL skills and experience working with large datasets, particularly event\-level user behavior data, and designing ETL workflows using dbt.
-* Proficiency in Python and data science libraries (pandas, scikit\-learn, statsmodels, etc.).
-* Experience designing and analyzing A/B tests and experiments, including rigor around sample sizing, power analysis, significance testing, novelty effects, interference between experiments, and causal inference.
-* You leverage AI tools extensively in your own analytical workflow and can demonstrate how they make you more effective, while maintaining high standards for output quality.
-
-
-**Preferred Qualifications:**
-* Experience at a PLG company with a self\-serve funnel and freemium or usage\-based pricing model.
-* Experience with modern data stack (dbt, BigQuery, Snowflake, Fivetran, etc.) and product analytics platforms (Amplitude, Mixpanel, Segment, etc.).
-* Experience with causal inference methods (difference\-in\-differences, synthetic control, propensity score matching).
-* Experience designing ETL workflows and data pipelines using dbt or similar tools.
-
-
-**Bonus Points:**
-* You've built or contributed to AI\-powered analytical tools, automation, or novel measurement approaches.
-* Experience analyzing freemium or usage\-based pricing models.
-* Understanding of developer tools, collaborative coding environments, or technical products.
-* Experience working directly embedded with product teams in an agile environment.
-* Familiarity with customer data platforms (CDPs) and event tracking implementation.
-
-
-*This is a full\-time role that can be held from our Foster City, CA office. The role has an in\-office requirement of Monday, Wednesday, and Friday.*
-**Full\-Time Employee Benefits Include:**
- 💰 Competitive Salary \&amp; Equity
-   
-
-  
-
- 💹 401(k) Program with a 4% match (
- *US Only* 
- )
-   
-
-  
-
- ⚕️ Health, Dental, Vision and Life Insurance
-   
-
-  
-
- 🩼 Short Term and Long Term Disability
-   
-
-  
-
- 🚼 Paid Parental, Medical, Caregiver Leave
-   
-
-  
-
- 🏝 Flexible Time Off (FTO) \+ Holidays
-   
-
-  
-
- 🚗 Commuter Benefits (
- *In\-Office Only* 
- )
-   
-
-  
-
- 📱 Monthly Wellness Stipend
-   
-
-  
-
- 🧑‍💻 Autonomous Work Environment
-   
-
-  
-
- 🖥 In Office Set\-Up Reimbursement (
- *In\-Office Only* 
- )
-   
-
-  
-
- 🚀 Quarterly Team Gatherings
-   
-
-  
-
- ☕ In Office Amenities (
- *In\-Office Only* 
- )
-   
-
-  
-
-**Want to learn more about what we are up to?**
-* Meet the Replit Agent
-* Replit: Make an app for that
-* Replit Blog
-* Amjad TED Talk
-
-
-**Interviewing \+ Culture at Replit**
-* Operating Principles
-* Reasons not to work at Replit
-
-
- To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non\-traditional backgrounds.
-   
-
-  
-
- Compensation Range: $180K \- $250K</description>
-        <pubDate>2026-07-12 12:53:50.202205+00:00</pubDate>
+ Compensation Range: $194K \- $260K</description>
+        <pubDate>2026-07-13 01:30:50.303338+00:00</pubDate>
     </item>
     
 </channel>
