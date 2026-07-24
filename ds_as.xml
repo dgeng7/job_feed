@@ -299,240 +299,271 @@ $230,000—$284,000 USD</description>
     </item>
     
     <item>
-        <title>Sr. Data Scientist - Slickdeals</title>
-        <link>https://www.indeed.com/viewjob?jk=45b252c58bf4076f</link>
-        <description>**About Slickdeals:**
-
-
-
-We believe shopping should feel like winning. That's why 10 million people come to Slickdeals to swap tips, upvote the best finds, and share the thrill of a great deal. Together, our community has saved more than $10 billion over the past 26 years.
-
-
-
-We're profitable, passionate, and in the middle of an exciting evolution, transforming from the internet's most trusted deal forum into the go to daily shopping destination. If you thrive in a fast moving, collaborative environment where ideas turn into impact fast, you'll fit right in.
-
-
-**The Purpose:**
-
-
-
-Slickdeals is seeking a Senior Data Scientist to help shape how we grow by partnering with Product, Design, Engineering, Finance, and Marketing to deepen our quantitative understanding of what drives user growth. In this role, you'll combine data science, statistics, and causal inference to develop the frameworks and insights that inform product decisions and shape our growth strategy. As a trusted cross functional partner, you'll turn complex business questions into actionable insights that help us build products our users love.
-
-
-**What You'll Do:**
-
-
-* Partner with Product, Design, Engineering, Finance, and Marketing to inform product development and growth strategy through data driven insights.
-* Identify new opportunities, define success metrics, quantify business challenges, and turn open ended questions into structured, high impact analytics projects.
-* Build scalable measurement frameworks, including lifetime value (LTV) and retention models, to evaluate growth initiatives and support data driven decision making.
-* Design, execute, and interpret A/B tests to evaluate product changes and validate hypotheses using causal inference, machine learning methodologies, and experimentation best practices.
-* Develop dashboards and reporting that make key metrics and insights accessible and actionable across the organization.
-* Translate complex analyses into clear narratives, recommendations, and data stories that influence both technical and non technical stakeholders.
-* Collaborate across teams to strengthen the data foundation that supports user growth and experimentation at scale.
-
-
-**What We're Looking For:**
-
-
-
-* Advanced degree (MS or PhD) in Statistics, Economics, Computer Science, Engineering, Sciences, or another quantitative field.
-* 5\+ years of experience in a Data Scientist role.
-* Strong track record designing, executing, and interpreting A/B tests using causal inference methodologies.
-* Proficiency in SQL and Python or R, with experience working with large scale datasets and data visualization tools.
-* Proven experience translating data into actionable recommendations for executives and cross functional teams.
-* Strong analytical mindset with the ability to navigate ambiguity and uncover meaningful insights from complex business problems.
-* Excellent communication and interpersonal skills with the ability to collaborate effectively in fast paced, cross functional environments.
-**LOCATION: San Mateo, CA**
-
-*Hybrid schedule visiting San Mateo office three days a week (Tues\-Thurs).*
-
-
-
-**Slickdeals Compensation, Benefits, Perks:**
-
-The expected base pay for this role is between $145,000 \- $175,000\. Pay is based on a number of factors including market location and may vary depending on job\-related knowledge, skills, and experience. Exact compensation will be discussed during the interview process and tailored to the candidate's qualifications.
-* Competitive base salary, annual bonus, and equity package
-* Competitive paid time off in addition to holiday time off
-* A variety of healthcare insurance plans to give you the best care for your needs
-* 401K matching above the industry standard
-* Professional Development Reimbursement Program
-
-
-**Work Authorization**  
+        <title>Staff Data Scientist, Pricing - Square</title>
+        <link>https://www.linkedin.com/jobs/view/4441069940</link>
+        <description>Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
+   
 
   
 
-Candidates must be eligible to work in the United States.  
+ So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, offer buy now, pay later functionality, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
+   
 
   
 
-Slickdeals is an Equal Opportunity Employer; employment is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender (including pregnancy, childbirth, or related medical conditions), national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other protected status. Slickdeals will consider qualified applicants with criminal histories consistent with the "Ban the Box" legislation. We may access publicly available information as part of your application.
+ Today, we are a partner to sellers of all sizes – large, enterprise\-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
+ 
+
+
+**The Role** 
+
+ The Data Science team at Block turns insights from our unique datasets into actions that improve the customer experience every day. In this role, we're looking for a Data Scientist to own the modeling and experimentation at the core of how Square prices globally. You'll build the elasticity and willingness\-to\-pay models, design and run the pricing experiments, and stand up the analytical infrastructure that makes pricing measurable and controllable — shaping pricing strategy and deal\-desk automation through the models and experiments you build.
+ 
+
+
+**You Will** 
+* Model price elasticity and willingness\-to\-pay across segments, geographies, and payment methods, and quantify the trade\-off between margin, conversion, and merchant retention
+* Design, run, and read out pricing experiments (A/B, difference\-in\-differences, and bandit\-based dynamic tests) and translate results into recommendations that shape strategy
+* Decompose merchant economics across interchange, scheme, and risk\-cost layers to identify where pricing can flex and where it can't
+* Build the pricing intelligence that powers Square's agentic deal tooling (DealBot) — rate recommendations, ROI and pre\-approval logic, guardrail configurations, and mispricing detection — so quotes are fast, accurate, and within guardrails at scale
+* Evaluate and monitor the AI systems you ship — pre\-deployment testing for accuracy, boundary and edge cases, and bias in rate recommendations, and in\-production monitoring for accuracy, drift, and mispricing — so agentic pricing tools stay reliable as the business changes
+* Own end\-to\-end execution across the stack — analysis, pipeline, ETL, experimentation, and visualization
+* Approach problems from first principles, using a variety of statistical and modeling techniques to understand customer behavior and price response
+* Build and maintain the pricing analytics the team relies on — price realization, margin leakage, discount\-waterfall, and win/loss analyses — as self\-serve dashboards and curated datasets
+* Measure the impact of AI\-driven pricing automation with causal methods (interrupted time series, difference\-in\-differences) on deal velocity, quote acceptance, and margin
+* Write code to process, cleanse, and combine data sources into curated ETL datasets easily used by the broader team
+* Partner closely with cross\-functional stakeholders across Finance, Risk, Product, and go\-to\-market teams, translating complex technical and AI concepts clearly for non\-technical audiences
+
+
+**You Have** 
+* A bachelor degree in statistics, data science, economics, or similar STEM field with 7\+ years of experience in a relevant role OR a graduate degree in statistics, data science, economics, or similar STEM field with 5\+ years of experience in a relevant role
+* Fluency in causal inference and experimentation, with hands\-on experience modeling price elasticity or willingness\-to\-pay
+* Prior exposure to a pricing\-adjacent domain a strong plus — risk\-based pricing (payments, lending, insurance), pricing science, or deal pricing analytics
+* Advanced proficiency with SQL and data visualization tools (e.g. Tableau, Looker, etc)
+* Experience with scripting and data analysis programming languages, such as Python or R, including using them to evaluate AI system behavior
+* Gone deep with cohort and funnel analyses, with a solid understanding of statistical concepts such as selection bias, probability distributions, and conditional probabilities
+* Comfort leveraging AI tools to accelerate modeling and analysis, and a working understanding of generative AI architectures — LLMs, RAG systems, and agentic AI; experience building, testing, or evaluating LLM\-powered systems in production a strong plus
+
+
+**Technologies We Use and Teach** 
+* SQL, Snowflake, etc.
+* Python (Pandas, Numpy)
 
 
 
-Slickdeals participates in E\-Verify. For more information, please refer to E\-Verify Participation and Right to Work.
+ We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+   
+
+  
+
+ We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.
+ **Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our** 
+ I\+D page.
+ 
 
 
-***Slickdeals does not accept unsolicited resumes from agencies and is not responsible for related fees.***</description>
-        <pubDate>2026-07-16</pubDate>
+
+ While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.
+ 
+
+
+
+  Block takes a market\-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job\-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.  
+ 
+
+
+
+ Zone A:: $239,600 USD \- $359,400 USD
+ 
+
+
+
+ Zone B: : $239,600 USD \- $359,400 USD
+ 
+
+
+
+ Zone C:: $239,600 USD \- $359,400 USD
+ 
+
+
+
+ Zone D:: $239,600 USD \- $359,400 USD
+ 
+
+
+
+**Application Guidelines** 
+
+
+
+
+ Candidates may submit up to 9 active applications within a 60\-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.
+ 
+
+
+
+**Use of AI in Our Hiring Process** 
+
+
+
+
+ We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws. 
+ 
+
+
+
+ Contact us here with hiring practice or data usage questions.
+ 
+
+
+
+*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.* 
+*Check out our other benefits at Block.* 
+</description>
+        <pubDate>2026-07-22</pubDate>
     </item>
     
     <item>
-        <title>Sr. Data Scientist - Slickdeals</title>
-        <link>https://www.indeed.com/viewjob?jk=05db8d4b4d084c6f</link>
-        <description>**About Slickdeals:**
-
-
-
-We believe shopping should feel like winning. That's why 10 million people come to Slickdeals to swap tips, upvote the best finds, and share the thrill of a great deal. Together, our community has saved more than $10 billion over the past 26 years.
-
-
-
-We're profitable, passionate, and in the middle of an exciting evolution, transforming from the internet's most trusted deal forum into the go to daily shopping destination. If you thrive in a fast moving, collaborative environment where ideas turn into impact fast, you'll fit right in.
-
-
-**The Purpose:**
-
-
-
-Slickdeals is seeking a Senior Data Scientist to help shape how we grow by partnering with Product, Design, Engineering, Finance, and Marketing to deepen our quantitative understanding of what drives user growth. In this role, you'll combine data science, statistics, and causal inference to develop the frameworks and insights that inform product decisions and shape our growth strategy. As a trusted cross functional partner, you'll turn complex business questions into actionable insights that help us build products our users love.
-
-
-**What You'll Do:**
-
-
-* Partner with Product, Design, Engineering, Finance, and Marketing to inform product development and growth strategy through data driven insights.
-* Identify new opportunities, define success metrics, quantify business challenges, and turn open ended questions into structured, high impact analytics projects.
-* Build scalable measurement frameworks, including lifetime value (LTV) and retention models, to evaluate growth initiatives and support data driven decision making.
-* Design, execute, and interpret A/B tests to evaluate product changes and validate hypotheses using causal inference, machine learning methodologies, and experimentation best practices.
-* Develop dashboards and reporting that make key metrics and insights accessible and actionable across the organization.
-* Translate complex analyses into clear narratives, recommendations, and data stories that influence both technical and non technical stakeholders.
-* Collaborate across teams to strengthen the data foundation that supports user growth and experimentation at scale.
-
-
-**What We're Looking For:**
-
-
-
-* Advanced degree (MS or PhD) in Statistics, Economics, Computer Science, Engineering, Sciences, or another quantitative field.
-* 5\+ years of experience in a Data Scientist role.
-* Strong track record designing, executing, and interpreting A/B tests using causal inference methodologies.
-* Proficiency in SQL and Python or R, with experience working with large scale datasets and data visualization tools.
-* Proven experience translating data into actionable recommendations for executives and cross functional teams.
-* Strong analytical mindset with the ability to navigate ambiguity and uncover meaningful insights from complex business problems.
-* Excellent communication and interpersonal skills with the ability to collaborate effectively in fast paced, cross functional environments.
-**LOCATION: San Mateo, CA**
-
-*Hybrid schedule visiting San Mateo office three days a week (Tues\-Thurs).*
-
-
-
-**Slickdeals Compensation, Benefits, Perks:**
-
-The expected base pay for this role is between $145,000 \- $175,000\. Pay is based on a number of factors including market location and may vary depending on job\-related knowledge, skills, and experience. Exact compensation will be discussed during the interview process and tailored to the candidate's qualifications.
-* Competitive base salary, annual bonus, and equity package
-* Competitive paid time off in addition to holiday time off
-* A variety of healthcare insurance plans to give you the best care for your needs
-* 401K matching above the industry standard
-* Professional Development Reimbursement Program
-
-
-**Work Authorization**  
+        <title>Staff Data Scientist, Growth Data Science - Moloco</title>
+        <link>https://www.linkedin.com/jobs/view/4425935335</link>
+        <description>**About Moloco:**
+ Moloco builds some of the most powerful AI advertising solutions in the world. Our name—short for "machine learning company"—reflects our core mission: democratizing access to the advanced AI that has historically been reserved for tech giants. Led by machine learning pioneers who built some of the most successful ad systems at Google, including YouTube's monetization engine and key search advertising technologies, we're transforming how businesses grow and compete in the digital economy.
+   
 
   
 
-Candidates must be eligible to work in the United States.  
+ Built with AI from day one, Moloco’s planet\-scale machine learning platform powers a suite of solutions for advertising growth and monetization.
+ **Moloco Ads** 
+ is an AI\-powered platform that delivers real business outcomes for mobile app marketers through performance\-based user acquisition.
+ **Moloco Commerce Media** 
+ enables retailers and marketplaces to build revenue\-generating ad businesses that balance user experience and advertiser performance.
+   
 
   
 
-Slickdeals is an Equal Opportunity Employer; employment is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender (including pregnancy, childbirth, or related medical conditions), national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other protected status. Slickdeals will consider qualified applicants with criminal histories consistent with the "Ban the Box" legislation. We may access publicly available information as part of your application.
-
-
-
-Slickdeals participates in E\-Verify. For more information, please refer to E\-Verify Participation and Right to Work.
-
-
-***Slickdeals does not accept unsolicited resumes from agencies and is not responsible for related fees.***</description>
-        <pubDate>2026-07-16</pubDate>
-    </item>
-    
-    <item>
-        <title>Sr. Data Scientist - Slickdeals</title>
-        <link>https://www.indeed.com/viewjob?jk=d89d4355b301978a</link>
-        <description>**About Slickdeals:**
-
-
-
-We believe shopping should feel like winning. That's why 10 million people come to Slickdeals to swap tips, upvote the best finds, and share the thrill of a great deal. Together, our community has saved more than $10 billion over the past 26 years.
-
-
-
-We're profitable, passionate, and in the middle of an exciting evolution, transforming from the internet's most trusted deal forum into the go to daily shopping destination. If you thrive in a fast moving, collaborative environment where ideas turn into impact fast, you'll fit right in.
-
-
-**The Purpose:**
-
-
-
-Slickdeals is seeking a Senior Data Scientist to help shape how we grow by partnering with Product, Design, Engineering, Finance, and Marketing to deepen our quantitative understanding of what drives user growth. In this role, you'll combine data science, statistics, and causal inference to develop the frameworks and insights that inform product decisions and shape our growth strategy. As a trusted cross functional partner, you'll turn complex business questions into actionable insights that help us build products our users love.
-
-
-**What You'll Do:**
-
-
-* Partner with Product, Design, Engineering, Finance, and Marketing to inform product development and growth strategy through data driven insights.
-* Identify new opportunities, define success metrics, quantify business challenges, and turn open ended questions into structured, high impact analytics projects.
-* Build scalable measurement frameworks, including lifetime value (LTV) and retention models, to evaluate growth initiatives and support data driven decision making.
-* Design, execute, and interpret A/B tests to evaluate product changes and validate hypotheses using causal inference, machine learning methodologies, and experimentation best practices.
-* Develop dashboards and reporting that make key metrics and insights accessible and actionable across the organization.
-* Translate complex analyses into clear narratives, recommendations, and data stories that influence both technical and non technical stakeholders.
-* Collaborate across teams to strengthen the data foundation that supports user growth and experimentation at scale.
-
-
-**What We're Looking For:**
-
-
-
-* Advanced degree (MS or PhD) in Statistics, Economics, Computer Science, Engineering, Sciences, or another quantitative field.
-* 5\+ years of experience in a Data Scientist role.
-* Strong track record designing, executing, and interpreting A/B tests using causal inference methodologies.
-* Proficiency in SQL and Python or R, with experience working with large scale datasets and data visualization tools.
-* Proven experience translating data into actionable recommendations for executives and cross functional teams.
-* Strong analytical mindset with the ability to navigate ambiguity and uncover meaningful insights from complex business problems.
-* Excellent communication and interpersonal skills with the ability to collaborate effectively in fast paced, cross functional environments.
-**LOCATION: San Mateo, CA**
-
-*Hybrid schedule visiting San Mateo office three days a week (Tues\-Thurs).*
-
-
-
-**Slickdeals Compensation, Benefits, Perks:**
-
-The expected base pay for this role is between $145,000 \- $175,000\. Pay is based on a number of factors including market location and may vary depending on job\-related knowledge, skills, and experience. Exact compensation will be discussed during the interview process and tailored to the candidate's qualifications.
-* Competitive base salary, annual bonus, and equity package
-* Competitive paid time off in addition to holiday time off
-* A variety of healthcare insurance plans to give you the best care for your needs
-* 401K matching above the industry standard
-* Professional Development Reimbursement Program
-
-
-**Work Authorization**  
+ Moloco is headquartered in Silicon Valley, with offices in Seattle, New York, San Francisco, Seoul, Beijing, Singapore, Gurgaon, Tokyo, Shanghai, London, Tel Aviv, and Berlin.
+   
 
   
 
-Candidates must be eligible to work in the United States.  
+ Moloco is a truly rewarding place to work and in an exciting period of growth, which you could be a part of. Join us today and apply now!
+   
 
   
 
-Slickdeals is an Equal Opportunity Employer; employment is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender (including pregnancy, childbirth, or related medical conditions), national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other protected status. Slickdeals will consider qualified applicants with criminal histories consistent with the "Ban the Box" legislation. We may access publicly available information as part of your application.
+**About The Role**
+ Growth Data Science (GDS) is Moloco's global team of data scientists who partner with advertisers, sales, product, and engineering teams to maximize the effectiveness of Moloco Ads. As a Staff Data Scientist, you will hold one of the most cross\-functional, high\-visibility roles in the team \- serving as the primary bridge between the commercial objectives of our advertisers and the technical direction of the Moloco Ads product.
+   
+
+  
+
+ This is a newly created role designed to fill a critical gap: the need for a senior, technically strong, DS who can both drive performant activation of Moloco products with our largest advertisers and synthesize customer signals into product priorities. A key component of this scope will be operating globally across GDS \- creating the frameworks, playbooks, and product feedback loops that the broader team can scale.
+   
+
+  
+
+ You will work in the overlap of customer\-facing data science and product strategy, partnering daily with product, engineering, sales, and GTM teams to ensure that what Moloco builds gets activated effectively and that what advertisers need shapes what we build next.
+   
+
+  
+
+**The Impact You'll Have**
+**Strategic Advertiser Engagement**
+* Partner directly with Moloco’s top tier of advertisers to ensure they are extracting maximum value from the Moloco product suite, advising on campaign structure, measurement, bidding strategy, and optimization levers.
+* Translate account insights into product roadmap signals \- feeding structured product and GTM feedback upwards
+* Set the standard for GDS advertiser engagement as a model others learn from
 
 
+**Product Strategy \&amp; Roadmap Influence**
+* Build and scale activation frameworks that regional GDS teams can run across their books \- moving the team from ad hoc activation to a repeatable, scalable model.
+* Serve as a senior technical voice from GDS in product conversations \- bringing the depth of advertiser insight and analytical rigor needed to influence roadmap decisions at the highest level.
+* Systematically collect, synthesize, and communicate customer feedback and market signals to product and engineering, ensuring the Moloco roadmap is grounded in real advertiser needs.
+* Partner with product DS and engineering teams to define success metrics, design experiments, and evaluate new product features before and after launch.
+* Translate complex, ambiguous advertiser problems into clear product requirements and value propositions, acting as a credible interpreter between commercial and technical teams.
 
-Slickdeals participates in E\-Verify. For more information, please refer to E\-Verify Participation and Right to Work.
+
+**Global Frameworks \&amp; Team Leverage**
+* Define and own the GDS approach to product activation globally. Building frameworks, tools, and best practices that elevate the impact of the entire team.
+* Act as a thought leader within GDS: setting a high bar for analytical rigor, stakeholder communication, and cross\-functional influence.
+* Work across AMER, EMEA, and APAC GDS teams to ensure consistency in how we bring product to market and how we surface customer insight back to the business.
 
 
-***Slickdeals does not accept unsolicited resumes from agencies and is not responsible for related fees.***</description>
-        <pubDate>2026-07-16</pubDate>
+**Minimum Requirements**
+* Education: Bachelor's degree in a quantitative discipline (Statistics, Computer Science, Economics, Mathematics, Physics, or equivalent practical experience).
+* Experience: 8\+ years in data science, analytics, or a closely related quantitative field, with significant time in a customer\-facing or product\-facing IC capacity.
+* Statistics: Strong foundation in experimental design, hypothesis testing, regression, and causal inference methods.
+* Programming: Proficiency in Python and SQL is required. Experience with large\-scale data platforms (e.g., BigQuery) preferred.
+* Communication: Exceptional verbal and written communication skills. Proven ability to distill complex technical concepts into clear recommendations for non\-technical audiences up to C\-level.
+* Stakeholder management: Demonstrated ability to build and maintain credibility with cross\-functional partners across product, engineering, sales, and GTM functions.
+* Ownership: Proven ability to own projects end\-to\-end in ambiguous problem spaces, with a track record of driving them to measurable outcomes.
+* Leadership: Demonstrated self\-direction and senior\-level judgment. Comfortable operating without a playbook and building one where none exists.
+
+
+**Preferred Qualifications**
+* Graduate degree (Master's or PhD) in a quantitative discipline.
+* Prior experience in ad tech, programmatic advertising, DSP/SSP, or performance marketing. Strong familiarity with mobile app ecosystems and MMP measurement frameworks.
+* Experience working with or at a mobile app advertiser (gaming, fintech, social) with direct exposure to UA strategy, LTV optimization, or monetization.
+* Hands\-on experience shaping product roadmaps as a DS \- not just evaluating features, but actively influencing what gets built and why.
+* Track record of building scalable frameworks, playbooks, or methodologies that have been adopted by a wider team.
+* Familiarity with incrementality testing methodologies (geo holdouts, ghost bidding, PSA tests) and their practical application with advertisers.
+
+
+**Compensation \&amp; Benefits**
+ U.S.\-based employees have access to medical, dental, and vision insurance, a 401(k) plan with company match, short\-term and long\-term disability coverage, basic life insurance, and well\-being benefits and perks. U.S.\-based employees also receive up to 12 scheduled paid holidays per calendar year and one Thrive Day off per quarter. Additionally, all employees have Flexible Time Off (FTO).
+   
+
+  
+
+ The successful candidate may be eligible for a bonus and equity awards. Eligibility and amounts are determined by performance and the terms of the applicable plans.
+   
+
+  
+
+ The location for this role is listed above. For base pay range purposes, location\-based compensation is grouped into the following regions. Your region is determined by your assigned work location.
+   
+
+  
+
+* Region A: Menlo Park Office, New York Office, SF Bay Area, New York Metro Area
+* Region B: Seattle Office, Seattle, Los Angeles/Orange County, San Diego, Austin, Boston, Washington DC Metro Area, Miami
+* Region C: All other U.S. locations
+
+
+**Salary Ranges:**
+ Region A:
+   
+
+  
+
+ $211,200—$264,000 USD
+   
+
+  
+
+ Region B:
+   
+
+  
+
+ $190,000—$237,500 USD
+   
+
+  
+
+ Region C:
+   
+
+  
+
+ $179,600—$224,500 USD
+   
+
+  
+
+**Moloco Thrive: Benefits and Well\-Being:**
+ We take care of you and create the conditions for you to do the best work of your career. Through a lens of inclusion, we offer innovative benefits that empower our employees to take care of themselves and their families so they can do </description>
+        <pubDate>2026-07-22</pubDate>
     </item>
     
     <item>
@@ -695,6 +726,287 @@ Slickdeals participates in E\-Verify. For more information, please refer to E\-V
   
 
  Compensation Range: $180K \- $500K</description>
+        <pubDate>2026-07-21</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist, Growth - Quince</title>
+        <link>https://www.linkedin.com/jobs/view/4442695496</link>
+        <description>**ABOUT QUINCE**
+ Founded in 2018, Quince was built to challenge the idea that nice things have to cost a lot. Our mission is simple: to make really high quality essentials for really low prices, produced fairly and sustainably. We believe everyone deserves exceptional craftsmanship and timeless design without the traditional markups. Quince is a direct\-to\-consumer (DTC) model that cuts out middlemen and leverages just\-in\-time manufacturing to minimize waste and maximize value.
+   
+
+  
+
+ Quince is a tech company disrupting the retail industry by putting AI, analytics and automation at the center of everything we do. Our unwavering commitment to excellence and company values guide our teams and actions:
+   
+
+  
+
+* Customer First: We prioritize customer satisfaction in every decision.
+* High Quality: True quality means premium materials and rigorous production standards you can feel good about.
+* Essential Design: We focus on timeless, functional essentials instead of chasing trends.
+* Always a Better Deal: Innovation and transparency ensure value for both customers and partners.
+* Social \&amp; Environmental Responsibility: We commit to sustainable materials, ethical production, and fair wages.
+
+
+ Quince partners with world\-class manufacturers across the globe and serves millions of customers. With strong investor backing and a focus on sustainable growth, we are a company that is rapidly scaling while maintaining a commitment to quality, simplicity, and radical price transparency.
+   
+
+  
+
+**OUR TEAM AND SUCCESS**
+ At Quince, you will be part of a high\-performing team that is redefining what quality, value, and sustainability mean in modern retail. We are a destination for builders, innovators, and operators to come together and challenge the status quo. Our collective ambition is bold. We are creating an entirely new category and customer experience – one that democratizes luxury and provides high quality products at radically low prices. That mission demands a world\-class team committed to excellence.
+   
+
+  
+
+ If you are motivated by impact, growth, and purpose, you will find a strong sense of belonging at Quince.
+   
+
+  
+
+**THE ROLE**
+**Data Scientist, Growth**
+ We are seeking a
+ **Data Scientist, Growth** 
+ to join our growing team. In this high\-exposure role, you will own the machine\-driven decision engines and automated bidding infrastructure guiding a massive global performance marketing spend across 40\+ business units. You will have the 0\-to\-1 autonomy to build end\-to\-end production models and write the core software fueling our growth engine. Blending rigorous applied research with immediate technical execution, this position offers a direct line to executive leadership and a clear, measurable view of your impact on our top and bottom lines.
+   
+
+  
+
+**Responsibilities**
+* Work on the core automated bidding infrastructure and allocation algorithms to model where the next advertising dollar yields maximum return.
+* Build end\-to\-end production machine learning models from 0 to 1 with immediate, high\-visibility impact on the company's top line.
+* Design, build, and productionalize autonomous models and production\-level data pipelines that automate operational business logic and spend efficiency.
+* Manage ad platform integrations, handle bidding automation, and optimize complex marketing tech workflows.
+* Work on automated processes for design and creative production
+* Function as a deep, independent individual contributor digging deep into complex systems and tackling loosely defined optimization and statistical problems.
+* Collaborate cross\-functionally with marketing, product, and data science teams while maintaining high\-visibility access to executive leadership.
+
+
+**Qualifications**
+**Required**
+* 2\+ years of technical experience, including at least 1 year of corporate/industry experience.
+* Technical proficiency in Python and SQL.
+* Proven background as a Data Scientist, Machine Learning Engineer, or ML Researcher with hands\-on experience independently pushing machine learning models into a live production environment.
+* Deep analytical and problem\-solving strengths with a demonstrated history of working independently on loosely defined optimization and statistical problems.
+* Excellent collaboration and communication skills to work effectively with cross\-functional partners and leadership teams.
+* Ability to dig deep into complex systems within a fast\-paced, high\-leverage entrepreneurial environment without a massive supporting infrastructure.
+
+
+**Preferred**
+* Direct domain experience in ad tech infrastructure, automated campaign management, digital advertising, performance marketing tech, programmatic bidding optimization or automated investment platforms.
+* Experience working within a direct\-to\-consumer, retail, or e\-commerce environment, particularly owning data pipelines for real\-time bid pricing or user attribution platforms.
+* Practical engineering exposure to large language models (such as Claude) and working with vector spaces.
+
+
+ All posted ranges are reflective of base salary and may vary depending upon experience level and location. Bonus and equity may also be provided for eligible roles.
+   
+
+  
+
+ Pay Range: $171,000 USD \- $198,000 USD
+   
+
+  
+
+**WHY QUINCE?**
+ Joining Quince means being part of a mission\-driven team reshaping retail. You will work alongside talented colleagues, tackle meaningful challenges, and contribute to building a more sustainable, accessible future for customers and partners alike.
+   
+
+  
+
+**EQUAL OPPORTUNITY \&amp; HIRING INTEGRITY**
+ Quince provides equal employment opportunities to all employees and applications for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran or military status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+   
+
+  
+
+ Quince is committed to providing reasonable accommodations to qualified individuals with disabilities. If you need a reasonable accommodation to complete your application or to perform the essential functions of a role at Quince, please let us know by completing this accommodation form. We review all requests individually and will work with you to determine appropriate accommodations on a case\-by\-case basis.
+   
+
+  
+
+ Employment is contingent upon successful completion of a background check. Quince will conduct background checks in compliance with applicable federal, state, and local laws.
+   
+
+  
+
+*Security Advisory: Beware of Frauds*
+ At Quince, we're dedicated to recruiting top talent who share our drive for innovation. To safeguard candidates, Quince emphasizes legitimate recruitment practices. Initial communication is primarily via official Quince email addresses and LinkedIn; beware of deviations. Personal data and sensitive information will not be solicited during the application phase. Interviews are conducted via phone, in person, or through the approved platforms Google Meets or Zoom—never via messaging apps or other calling services. Offers are merit\-based, communicated verbally, and followed up in writing. If personal information is requested to initiate the hiring process, rest assured it will be through secure and protected means.</description>
+        <pubDate>2026-07-21</pubDate>
+    </item>
+    
+    <item>
+        <title>Sr Data Scientist, WWSO Bedrock - Amazon Web Services (AWS)</title>
+        <link>https://www.linkedin.com/jobs/view/4443039316</link>
+        <description>**Description**
+ Are you passionate about Generative AI? Do you want to help define the future of Go to Market (GTM) at AWS using generative AI? In this role, you will help our customers build and deploy GenAI enabled applications using Amazon Bedrock, customize Generative AI models, and help enterprise customers leverage these models to power end applications. You will engage with product owners to influence product direction and help our customers tap into new markets by utilizing GenAI along with AWS Services.
+   
+
+  
+
+ The Worldwide Specialist Organization (WWSO) is part of AWS Sales, Marketing, and Global Services (SMGS), which is responsible for driving revenue, adoption, and growth from the largest and fastest growing small\- and mid\-market accounts to enterprise\-level customers including public sector. We work backwards from our customer’s most complex and business critical problems to build and execute go\-to\-market plans that turn AWS ideas into multi\-billion\-dollar businesses. WWSO teams include business development, specialist and technical solutions architecture. As part of WWSO, you'll provide expertise across the entire life cycle of an AWS customer initiative, from developing ideas for new services to accelerating the adoption of established businesses. We pride ourselves on thinking big, delivering exceptional results for our customers, and working across AWS as \#OneTeam
+   
+
+  
+
+ The Generative AI Worldwide Specialist team guides AWS customers on building enterprise\-grade GenAI systems. This role will support development of techniques, solutions and architectural blueprints that our customers can use to build their own enterprise\-wide Generative AI and Agentic systems in a responsible way, helping them balance democratization of access to GenAI and speed of innovation with following best practices around trustworthy AI, cost efficiency, security, etc. This role specifically will be owning development of best practices around Responsible AI covering such important topics as guardrails, veracity, model evaluations, automated reasoning, fairness, explainability, etc. The role with partner with others on the team to develop comprehensive guidance for AWS GenAI customers using Amazon Bedrock. The deliverables include: helping customers solve complex problems with data science, contributions to the joint technical guidance, architectural blueprints / whitepapers, feedback to AWS Bedrock science teams, thought leadership in the form of public writing and speaking, as well as internal enablement. The role has a global remit.
+   
+
+  
+
+ Key job responsibilities
+   
+
+  
+
+* Customer Advisor\- Implement, and deploy state of the art machine learning algorithms under Gen AI. You will build prototypes, troubleshoot customer issues, and explore new solutions. You will interact closely with our customers and with the academic community.
+* Thought Leadership – Evangelize AWS features relating to Responsible AI and share best practices through forums such as AWS blogs, white\-papers, reference architectures and public\-speaking events such as AWS Summit, AWS re:Invent, etc.
+* Partner with SAs, Sales, Business Development and the AI/ML Service teams to accelerate customer adoption and providing guidance on their customer engagements.
+* Develop and support an AWS internal community of ML related subject matter experts worldwide. Create field enablement materials for the broader SA population, to help them understand how to integrate Amazon Web Services GenAI solutions into customer architectures.
+
+
+**Basic Qualifications**
+* 5\+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+* 4\+ years of data scientist experience
+* Experience with statistical models e.g. multinomial logistic regression
+* 5\+ years of management of technical, enterprise customer facing resources or equivalent experience
+* 7\+ years design/implementation/consulting experience of distributed applications
+* 5\+ years of hands\-on experience with AI/ML or related technology domain
+* 3\+ years of hands\-on experience with Responsible AI
+
+
+**Preferred Qualifications**
+* 2\+ years of data visualization using AWS QuickSight, Tableau, R Shiny, etc. experience
+* Experience managing data pipelines
+* Experience as a leader and mentor on a data science team
+* Experience architecting, migrating, transforming or modernizing customer requirements to the cloud
+* Experience with presentations and speaking with executives, IT, management, and developers
+* BS degree in computer science or equivalent, or 4\+ years of technical work experience
+* History of successful technical consulting and/or architecture engagements with large\-scale customers or enterprises
+* Track record of thought leadership and innovation around Responsible AI.
+
+
+ Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+   
+
+  
+
+ Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+   
+
+  
+
+ Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\-we\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+   
+
+  
+
+ The base salary range for this position is listed below. Your Amazon package will include sign\-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life \&amp; AD\&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+   
+
+  
+
+ USA, CA, East Palo Alto \- 183,000\.00 \- 247,600\.00 USD annually
+   
+
+  
+
+ USA, NY, New York \- 175,100\.00 \- 236,900\.00 USD annually
+   
+
+  
+
+ USA, TX, AUSTIN \- 159,200\.00 \- 215,300\.00 USD annually
+   
+
+  
+
+ USA, VA, Arlington \- 159,200\.00 \- 215,300\.00 USD annually
+   
+
+  
+
+ USA, WA, Seattle \- 159,200\.00 \- 215,300\.00 USD annually
+   
+
+  
+
+  
+
+**Company** 
+ \- Amazon Web Services, Inc.
+   
+
+  
+
+ Job ID: A10422870</description>
+        <pubDate>2026-07-21</pubDate>
+    </item>
+    
+    <item>
+        <title>Member of Data Staff (Analytics Engineer) - Perplexity</title>
+        <link>https://www.linkedin.com/jobs/view/4374657493</link>
+        <description>Perplexity is AI for people who expect more. On the data team, that means building the systems that make our data reliable, understandable, and usable by both humans and AI.
+   
+
+  
+
+ We're looking for an analytics engineer or data engineer who wants to build the foundation for an AI\-native data organization. You'll design core data models, pipelines, semantic layers, data quality systems, governance practices, and warehouse workflows that power the entire company: helping teams make strategic decisions, operate the business, and move faster with trusted data. You'll also make sure those systems are secure, privacy\-aware, and legible to AI agents, data scientists, and the rest of the company.
+   
+
+  
+
+ This role is for someone who can operate at the boundary of analytics engineering, data engineering, data governance, and internal product. You care about dimensional modeling, dbt standards, cost\-aware warehouse design, access controls, privacy, and the details that make data trustworthy. You also believe AI should make the data stack faster, easier to maintain, and more accessible across the company without weakening security or governance.
+   
+
+  
+
+**What You'll Do**
+* Build the core data foundation \- design and maintain high\-quality data models, marts, and pipelines that make analysis fast, reliable, and reusable.
+* Manage the data warehouse \- help own warehouse architecture, environments, permissions, performance, cost, data lifecycle, and operational hygiene so the platform scales cleanly.
+* Make the warehouse AI\-readable \- own the documentation, semantic context, metadata, lineage, and retrieval patterns that AI systems depend on to understand and query Perplexity's data correctly.
+* Own data modeling standards \- define and champion dbt patterns, dimensional modeling practices, naming conventions, tests, and review processes.
+* Lead data governance practices \- define standards for access, ownership, lineage, documentation, retention, quality, and sensitive data handling across the analytical warehouse.
+* Build with security and privacy in mind \- partner with engineering, security, legal, and finance where needed to ensure data access, sharing, and AI\-enabled workflows are appropriate and controlled.
+* Automate data quality and maintenance \- build AI\-assisted workflows that detect issues, explain root causes, suggest fixes, generate tests, and reduce manual firefighting.
+* Improve data team productivity \- automate repetitive workflows, improve tooling, streamline development, and make it easier for data scientists and stakeholders to answer questions.
+* Partner across the company \- work closely with data scientists, engineering, product, finance, and GTM teams to translate analytical needs into durable data systems.
+* Shape tooling decisions \- evaluate build\-versus\-buy tradeoffs, manage vendor relationships when needed, and choose tools that scale with the team.
+
+
+**What We're Looking For**
+* 6\+ years of experience as an analytics engineer, data engineer, data scientist, or closely related role.
+* Deep SQL expertise \- you can reason about correctness, performance, joins, grain, and edge cases in complex warehouse queries.
+* Strong data modeling experience \- you've worked hands\-on with dbt (or a similar transformation framework) in production, and you understand dimensional modeling, data contracts, testing, and how analytical schemas should evolve.
+* Pipeline ownership \- you've built, maintained, debugged, and improved production data pipelines.
+* Warehouse management experience \- you've worked with warehouse administration, access patterns, permissions, performance tuning, cost management, or operational ownership.
+* Governance mindset \- you think clearly about data ownership, access controls, privacy, retention, lineage, auditability, and the risks of making data too easy to access.
+* AI\-native working style \- you already use AI to speed up development, documentation, QA, exploration, and repetitive workflow automation.
+* Stakeholder fluency \- you know how to turn messy analytical requirements into trusted models, metrics, and reusable data assets.
+* Autonomy and execution \- you can take projects from ambiguous problem to production\-quality system with minimal oversight.
+* Operational judgment \- you care about reliability, governance, security, cost, and long\-term maintainability.
+
+
+**Bonus**
+* Snowflake administration, optimization, cost management, or warehouse performance tuning.
+* Experience with RBAC, PII handling, data classification, retention policies, audit workflows, or privacy/security reviews.
+* Experience with Databricks or other modern data infrastructure.
+* Experience building semantic layers, metrics layers, metadata systems, or data catalogs.
+* Python experience for data tooling, automation, orchestration, or quality checks.
+* Previous experience as an early analytics engineer or data engineer at a high\-growth startup.
+
+
+**Why This Role**
+* Own the foundation \- your work will determine how fast and confidently the company can use data.
+* Build for humans and AI \- the next generation of data infrastructure needs to be understandable by agents as well as analysts.
+* High leverage \- better models, pipelines, and tools multiply every data scientist and every stakeholder who depends on data.
+* Small team, broad scope \- you'll have room to define standards, choose tools, and ship systems that become company\-wide defaults.
+
+
+ Compensation Range: $175K \- $330K</description>
         <pubDate>2026-07-21</pubDate>
     </item>
     
@@ -1003,6 +1315,173 @@ Slickdeals participates in E\-Verify. For more information, please refer to E\-V
     </item>
     
     <item>
+        <title>Staff Data Scientist, Marketing - Reddit, Inc.</title>
+        <link>https://www.linkedin.com/jobs/view/4442748024</link>
+        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000\+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
+   
+
+  
+
+**Location: At Reddit we continue to grow our teams with the best talent. We're completely remote friendly.**
+**Team Description:**
+ The Marketing Science team at Reddit leverages data to maximize the impact of Reddit's own marketing investments. We serve as the engine behind our growth, using advanced experimentation, causal inference, and econometrics to understand what drives users to Reddit and what brings advertisers to our platform. We work at the intersection of brand building and performance marketing, ensuring every dollar spent is an investment in the long\-term health of our ecosystem.
+   
+
+  
+
+**Role Description:**
+ Reddit is looking for a highly experienced Staff Data Scientist to lead the strategy and technical execution of our Marketing Intelligence efforts. In this role, you will be the primary architect of how we measure and optimize Reddit's marketing spend. You will focus on two critical flywheels:
+ **B2B Marketing** 
+ (acquiring and retaining advertisers) and
+ **B2C Growth** 
+ (acquiring and engaging new Redditors).
+   
+
+  
+
+ This is a high\-autonomy, high\-impact role where you will set the long\-term strategic goals for Reddit's marketing measurement, influencing senior leadership and defining how we value our brand and performance efforts.
+   
+
+  
+
+**Responsibilities:**
+* **Set Long\-Term Marketing Strategy:** 
+ Define the 2–3 year technical roadmap for marketing measurement. Establish the "North Star" metrics and frameworks that determine how Reddit allocates hundreds of millions in marketing budget.
+* **Optimize Marketing ROI:** 
+ Build and refine Media Mix Models (MMM) and Multi\-Touch Attribution (MTA) systems to mathematically quantify the incremental impact of marketing spend.
+* **Bridge B2B \&amp; B2C Growth:** 
+ Design unified frameworks to optimize marketing aimed at both new advertisers (driving revenue) and new users (driving engagement), identifying synergies where brand awareness for one fuels growth for the other.
+* **Advance Causal Inference \&amp; Experimentation:** 
+ Lead the design of complex "always\-on" incrementality testing and geo\-holdout experiments. Develop methodologies to measure the long\-term "halo effect" of brand marketing on organic growth.
+* **Lead Through Influence:** 
+ Collaborate deeply with Marketing, Growth, and Finance to translate complex data insights into actionable budget shifts.
+* **Be the Technical Guide for the Team** 
+ : Mentor junior scientists and set the technical bar for code quality and statistical rigor across the Marketing organization.
+
+
+**Minimum Qualifications:**
+* **Education:** 
+ Advanced degree (Master's or Ph.D.) in Statistics, Economics, Mathematics, or a related quantitative field.
+* **Experience:**
++ For M.S. holders: 10\+ years of industry experience in marketing science, growth data science, or econometrics.
++ For Ph.D. holders: 6\+ years of industry experience.
+
+* **Domain Expertise:** 
+ Deep understanding of the marketing ecosystem, including hands\-on experience with Marketing Mix Modeling (MMM), Incrementality Testing, and Customer Lifetime Value (LTV) prediction.
+* **Technical Skills:** 
+ Advanced proficiency in Python or R and SQL. Experience building production\-grade data pipelines and using machine learning for predictive modeling (e.g., churn prediction, lead scoring).
+* **Strategic Communication:** 
+ Proven track record of influencing C\-suite stakeholders and "translating" complex statistical concepts into business strategy.
+* **Adaptability:** 
+ Experience working in fast\-paced environments where you must navigate ambiguity and build frameworks from the ground up.
+
+
+**Preferred Qualifications:**
+* Experience with Bayesian structural time series or causal inference libraries.
+* Previous experience in a high\-growth marketplace or social media platform.
+* A passion for the Reddit community and an understanding of our unique "Ads\-as\-Content" philosophy.
+
+
+**Benefits:**
+* Comprehensive Healthcare Benefits and Income Replacement Programs
+* 401k with Employer Match
+* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
+* Family Planning Support
+* Gender\-Affirming Care
+* Mental Health \&amp; Coaching Benefits
+* Flexible Vacation \&amp; Paid Volunteer Time Off
+* Generous Paid Parental Leave
+
+
+**Pay Transparency:**
+ This job posting may span more than one career level.
+   
+
+  
+
+ In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.\-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+   
+
+  
+
+ To provide greater transparency to candidates, we share base salary ranges for all US\-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+   
+
+  
+
+ The base salary range for this position is:
+   
+
+  
+
+ $217,000—$303,900 USD
+   
+
+  
+
+ In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
+   
+
+  
+
+ During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment\-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
+   
+
+  
+
+*Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.*</description>
+        <pubDate>2026-07-20</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff Product Data Scientist, Pixel Growth, Google Store - Google</title>
+        <link>https://www.linkedin.com/jobs/view/4442082066</link>
+        <description>**Minimum qualifications:**
+* Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
+* 10 years of experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL) or 8 years of experience with a Master's degree.
+* Experience with commercial metrics or business models (e.g., e\-commerce, retail, subscriptions, promotions, or pricing).
+
+
+**Preferred qualifications:**
+* Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
+* 12 years of experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL).
+* Experience building predictive models for customer lifetime value (LTV), pricing, or user churn.
+
+
+**About The Job**
+ Google Store is the first\-party e\-commerce site for Google's expanding portfolio of hardware products and associated services. As the authoritative place to learn about and purchase Google's hardware, our product range includes Pixel phones, Pixel Watch, Fitbit, Google Home and Health products, and accessories. The data science team drives business and product decisions through measurement, experimentation, modeling, causal inference, and optimization.
+   
+
+  
+
+ Individual pay is determined by factors including job\-related skills, experience, and relevant education or training.
+   
+
+  
+
+ US: $192000 \- $279000 (USD) \+ 20% bonus target \+ equity \+ benefits
+   
+
+  
+
+**Responsibilities**
+ Learn more about benefits at Google .
+   
+
+  
+
+* Perform analysis utilizing relevant tools (e.g., SQL, R, Python) and provide investigative thought leadership through proactive and strategic contributions.
+* Develop the data science roadmap that delivers against the broader strategy. Establish project goals, coordinate resources, and provide technical leadership.
+* Synthesize insights from cross\-channel experimentation, calculating price elasticity curves and establishing performance baselines for user interventions.
+* Define and report Key Performance Indicators (KPIs) during business reviews. Translate analysis results into business insights or product improvement opportunities.
+* Build predictive models integrating complex datasets and serve as the subject matter expert driving metrics development, modeling, and presenting to stakeholders.
+
+
+ Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .</description>
+        <pubDate>2026-07-20</pubDate>
+    </item>
+    
+    <item>
         <title>Data Scientist - Figma</title>
         <link>https://www.linkedin.com/jobs/view/4239984023</link>
         <description>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!
@@ -1235,78 +1714,233 @@ Slickdeals participates in E\-Verify. For more information, please refer to E\-V
     </item>
     
     <item>
-        <title>Sr. Data Scientist - Slickdeals</title>
-        <link>https://www.linkedin.com/jobs/view/4441668742</link>
-        <description>**About Slickdeals:**
- We believe shopping should feel like winning. That’s why 10 million people come to Slickdeals to swap tips, upvote the best finds, and share the thrill of a great deal. Together, our community has saved more than $10 billion over the past 26 years.
+        <title>Data Scientist, Supply - Anthropic</title>
+        <link>https://www.linkedin.com/jobs/view/4410837539</link>
+        <description>****About Anthropic****
+ Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
    
 
   
 
- We’re profitable, passionate, and in the middle of an exciting evolution, transforming from the internet’s most trusted deal forum into the go to daily shopping destination. If you thrive in a fast moving, collaborative environment where ideas turn into impact fast, you'll fit right in.
+****About Anthropic****
+ Anthropic is an AI safety and research company. We build reliable, interpretable, and steerable AI systems, and we believe AI will have a vast impact on the world — our goal is to ensure that impact is positive.
    
 
   
 
-**The Purpose:**
- Slickdeals is seeking a Senior Data Scientist to help shape how we grow by partnering with Product, Design, Engineering, Finance, and Marketing to deepen our quantitative understanding of what drives user growth. In this role, you'll combine data science, statistics, and causal inference to develop the frameworks and insights that inform product decisions and shape our growth strategy. As a trusted cross functional partner, you'll turn complex business questions into actionable insights that help us build products our users love.
+****About The Role****
+ Anthropic is compute\-constrained, and how we allocate that compute is one of the highest\-leverage decisions we make as a company. Today, allocation choices are only loosely tied to the user outcomes we ultimately care about — retention, lifetime value, and the experience of people relying on Claude. This role exists to change that by addressing two intertwined problems at the heart of how we allocate compute.
    
 
   
 
-**What You'll Do:**
-* Partner with Product, Design, Engineering, Finance, and Marketing to inform product development and growth strategy through data driven insights.
-* Identify new opportunities, define success metrics, quantify business challenges, and turn open ended questions into structured, high impact analytics projects.
-* Build scalable measurement frameworks, including lifetime value (LTV) and retention models, to evaluate growth initiatives and support data driven decision making.
-* Design, execute, and interpret A/B tests to evaluate product changes and validate hypotheses using causal inference, machine learning methodologies, and experimentation best practices.
-* Develop dashboards and reporting that make key metrics and insights accessible and actionable across the organization.
-* Translate complex analyses into clear narratives, recommendations, and data stories that influence both technical and non technical stakeholders.
-* Collaborate across teams to strengthen the data foundation that supports user growth and experimentation at scale.
-
-
-**What We're Looking For:**
-* Advanced degree (MS or PhD) in Statistics, Economics, Computer Science, Engineering, Sciences, or another quantitative field.
-* 5\+ years of experience in a Data Scientist role.
-* Strong track record designing, executing, and interpreting A/B tests using causal inference methodologies.
-* Proficiency in SQL and Python or R, with experience working with large scale datasets and data visualization tools.
-* Proven experience translating data into actionable recommendations for executives and cross functional teams.
-* Strong analytical mindset with the ability to navigate ambiguity and uncover meaningful insights from complex business problems.
-* Excellent communication and interpersonal skills with the ability to collaborate effectively in fast paced, cross functional environments.
-
-
-**LOCATION: San Mateo, CA**
-*Hybrid schedule visiting San Mateo office three days a week (Tues\-Thurs).*
-**Slickdeals Compensation, Benefits, Perks:**
- The expected base pay for this role is between $145,000 \- $175,000\. Pay is based on a number of factors including market location and may vary depending on job\-related knowledge, skills, and experience. Exact compensation will be discussed during the interview process and tailored to the candidate's qualifications.
+ The first is an allocation problem: matching a volatile, heterogeneous stream of demand to a finite, heterogeneous fleet of chips. Which models run on which hardware, in which regions, under what serving configurations — with demand shifting and capacity bounded — is a problem the team navigates continuously today, with more intuition than rigor. You will bring structure to it: building the metrics and analytical frameworks that make the trade\-offs legible, and partnering with the infrastructure teams that own these systems to turn that understanding into better decisions.
    
 
   
 
-* Competitive base salary, annual bonus, and equity package
-* Competitive paid time off in addition to holiday time off
-* A variety of healthcare insurance plans to give you the best care for your needs
-* 401K matching above the industry standard
-* Professional Development Reimbursement Program
-
-
-**Work Authorization**
- Candidates must be eligible to work in the United States.
+ The second is a causal\-inference problem: there are many levers — rate limits, pricing, cache behavior, capacity shifts, routing changes — and only a partial picture of what pulling each one actually does to the users on the other end. You will build the causal understanding that closes that gap, choosing whatever approach the question calls for, so allocation decisions are made on expected user impact rather than intuition.
    
 
   
 
- Slickdeals is an Equal Opportunity Employer; employment is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender (including pregnancy, childbirth, or related medical conditions), national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other protected status. Slickdeals will consider qualified applicants with criminal histories consistent with the "Ban the Box" legislation. We may access publicly available information as part of your application.
+ This role is a fit for someone who thinks natively in terms of constrained allocation and queueing, who treats "what would happen if we changed X" as an identification problem rather than a dashboard query, and who wants their work to translate into operational and productionized change. You will work closely with the infrastructure engineers who run our compute, and your findings will be presented to senior leadership.
    
 
   
 
- Slickdeals participates in E\-Verify. For more information, please refer to E\-Verify Participation and Right to Work.
+****Key Responsibilities****
+* Build and run testing frameworks — observational and synthetic — to quantify how different inputs affect compute allocation outcomes
+* Connect compute allocation decisions to downstream user outcomes (retention, lifetime value, revenue)
+* Partner closely with infrastructure engineers, product, and research to instrument systems, measure what matters, and ship operational changes
+* Develop the metric hierarchies, dashboards, and reporting that turn supply decisions into shared understanding across the company
+* Contribute analyses and recommendations to executive forums, and co\-author the supply narrative shared with the CTO and staff
+
+
+****Minimum Qualifications****
+* Strong technical individual\-contributor background in data science, analytics, or operations research
+* Demonstrated comfort reasoning about resource allocation and trade\-offs under constraints — drawn to systems problems, not just dashboards
+* Working fluency with causal inference — able to recognize when an effect needs to be identified, not just measured, and to choose an appropriate design
+* Deep proficiency with Python, SQL, and data visualization tools
+* Track record of owning analyses end\-to\-end and communicating results clearly to engineering and product leadership
+* Direct experience working closely with engineering teams on production systems
+* Alignment with Anthropic's mission of building helpful, honest, and harmless AI
+
+
+****Preferred Qualifications****
+* 8\+ years of hands\-on data science experience
+* Significant technical individual\-contributor experience in data science, analytics, or operations research at staff level scope
+* Experience with highly complex systems with many interacting components (ad networks, payment processing, marketplace matching, routing, etc.)
+* Hands\-on operations\-research depth: experience formulating and shipping real\-time constrained\-allocation, routing, or scheduling problems in production (LP/MILP, queueing, or RL\-based control), with the ability to defend modeling choices
+* Causal\-inference depth beyond off\-the\-shelf quasi\-experimental templates — particularly methods for recovering long\-term impact from short\-horizon data: surrogate/proxy\-outcome models, off\-policy evaluation and counterfactual policy learning, or structural approaches, built rather than merely run
+* Experience contributing to or designing experimentation platforms, not just using them
+* Exposure to AI/ML products, large language models, or large\-scale inference systems
+* Track record of setting technical direction across multiple workstreams or mentoring senior individual contributors without formal management responsibility
+
+
+**Equal Opportunity**
+ Anthropic is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other characteristic protected by applicable law. We will also consider qualified applicants with criminal histories in accordance with applicable law (e.g., the San Francisco Fair Chance Ordinance, where applicable).
    
 
   
 
-***Slickdeals does not accept unsolicited resumes from agencies and is not responsible for related fees.***</description>
-        <pubDate>2026-07-16</pubDate>
+ The annual compensation range for this role is listed below.
+   
+
+  
+
+ For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+   
+
+  
+
+**Annual Salary:**
+ $285,000—$460,000 USD
+   
+
+  
+
+**Logistics**
+**Minimum education:** 
+ Bachelor’s degree or an equivalent combination of education, training, and/or experience
+   
+
+  
+
+**Required field of study:** 
+ A field relevant to the role as demonstrated through coursework, training, or professional experience
+   
+
+  
+
+**Minimum years of experience:** 
+ Years of experience required will correlate with the internal job level requirements for the position
+   
+
+  
+
+**Location\-based hybrid policy:** 
+ Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+   
+
+  
+
+**Visa sponsorship:** 
+ We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+   
+
+  
+
+**We encourage you to apply even if you do not believe you meet every single qualification.** 
+ Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+   
+
+  
+
+**Your safety matters to us.** 
+ To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or ban</description>
+        <pubDate>2026-07-17</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff Finance Data Scientist, Consumption Forecasting - Harnham</title>
+        <link>https://www.linkedin.com/jobs/view/4417315799</link>
+        <description>**Staff Finance Data Scientist, Consumption Forecasting** 
+
+
+
+
+**Location:** 
+ San Francisco or New York \| Hybrid (3 days per week in office)
+ 
+
+
+
+**Salary:** 
+ $240\-300k base \+ bonus \+ equity (RSUs)
+ 
+
+
+
+  
+
+
+
+
+
+ This is a rare chance to own forecasting infrastructure at the center of a high\-growth, consumption\-based developer platform, one that powers some of the world's most dynamic applications and scales with every developer and enterprise building on it.
+ 
+
+
+
+  
+
+
+
+
+
+ As a consumption\-based business, forecasting usage across compute, bandwidth, edge, and storage isn't a support function. It's foundational to how we plan infrastructure, revenue, and long\-term strategy. This role exists to lead that work at the highest level.
+ 
+
+
+
+  
+
+
+
+
+
+**What you'll own** 
+
+
+
+
+ This is a senior individual contributor role with organization\-wide impact. You'll define forecasting methodology, build systems that scale with a rapidly growing platform, and sit at the intersection of Finance, Infrastructure, Product, and GTM with direct visibility to executive leadership.
+ 
+
+
+* Own production revenue forecasting end\-to\-end: model development, backtesting, deployment, monitoring, and iteration from first principles to live system
+* Build forecasting systems that account for usage\-based pricing dynamics, consumption patterns, and customer lifecycle across the platform, built for how this business actually works, not retrofitted SaaS models
+* Design hierarchical forecasting models across account, cohort, segment, and global aggregate levels, covering operational, quarterly, and long\-range planning cycles
+* Build scenario simulation frameworks to evaluate pricing changes, packaging adjustments, and product launches
+* Partner with Finance on board\-level reporting, with Infrastructure Engineering on capacity planning, and with Product and GTM on adoption curves and usage drivers
+
+
+
+  
+
+
+
+
+
+**What we're looking for** 
+
+
+
+* 7\+ years in data science, quantitative analytics, or applied statistics at senior or staff level
+* Deep expertise in time\-series forecasting and statistical modelling in a usage\-based or SaaS environment
+* Proven track record building and productionizing ML systems at scale
+* Strong Python and SQL, with experience on large\-scale usage and billing datasets
+* Familiarity with probabilistic modelling, hierarchical forecasting, and causal inference
+* Experience partnering with Finance or executive leadership on planning cycles
+* Comfortable operating autonomously in fast\-moving, ambiguous environments
+
+
+
+  
+
+
+
+
+
+**Nice to have** 
+
+
+
+* Background in cloud infrastructure, developer tools, or consumption\-based revenue models
+* Familiarity with modern data stacks: Snowflake, Delta Lake, dbt, Airflow
+* Prior technical mentorship or informal leadership experience</description>
+        <pubDate>2026-07-17</pubDate>
     </item>
     
     <item>
@@ -1408,134 +2042,11 @@ Slickdeals participates in E\-Verify. For more information, please refer to E\-V
 
   
 
+*Beware of Scams: Cohere will never ask for payment or third\-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our* 
+*official careers* 
+*page.*
  Compensation Range: $150K \- $225K</description>
-        <pubDate>2026-07-23 13:21:57.416312+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Data Scientist AI and Pricing - Square</title>
-        <link>https://www.linkedin.com/jobs/view/4441069940</link>
-        <description>Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
-   
-
-  
-
- So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, offer buy now, pay later functionality, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
-   
-
-  
-
- Today, we are a partner to sellers of all sizes – large, enterprise\-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
- 
-
-
-**The Role** 
-
- The Data Science team at Block turns insights from our unique datasets into actions that improve the customer experience every day. In this role, we're looking for a Data Scientist to own the modeling and experimentation at the core of how Square prices globally. You'll build the elasticity and willingness\-to\-pay models, design and run the pricing experiments, and stand up the analytical infrastructure that makes pricing measurable and controllable — shaping pricing strategy and deal\-desk automation through the models and experiments you build.
- 
-
-
-**You Will** 
-* Model price elasticity and willingness\-to\-pay across segments, geographies, and payment methods, and quantify the trade\-off between margin, conversion, and merchant retention
-* Design, run, and read out pricing experiments (A/B, difference\-in\-differences, and bandit\-based dynamic tests) and translate results into recommendations that shape strategy
-* Decompose merchant economics across interchange, scheme, and risk\-cost layers to identify where pricing can flex and where it can't
-* Build the pricing intelligence that powers Square's agentic deal tooling (DealBot) — rate recommendations, ROI and pre\-approval logic, guardrail configurations, and mispricing detection — so quotes are fast, accurate, and within guardrails at scale
-* Evaluate and monitor the AI systems you ship — pre\-deployment testing for accuracy, boundary and edge cases, and bias in rate recommendations, and in\-production monitoring for accuracy, drift, and mispricing — so agentic pricing tools stay reliable as the business changes
-* Own end\-to\-end execution across the stack — analysis, pipeline, ETL, experimentation, and visualization
-* Approach problems from first principles, using a variety of statistical and modeling techniques to understand customer behavior and price response
-* Build and maintain the pricing analytics the team relies on — price realization, margin leakage, discount\-waterfall, and win/loss analyses — as self\-serve dashboards and curated datasets
-* Measure the impact of AI\-driven pricing automation with causal methods (interrupted time series, difference\-in\-differences) on deal velocity, quote acceptance, and margin
-* Write code to process, cleanse, and combine data sources into curated ETL datasets easily used by the broader team
-* Partner closely with cross\-functional stakeholders across Finance, Risk, Product, and go\-to\-market teams, translating complex technical and AI concepts clearly for non\-technical audiences
-
-
-**You Have** 
-* A bachelor degree in statistics, data science, economics, or similar STEM field with 7\+ years of experience in a relevant role OR a graduate degree in statistics, data science, economics, or similar STEM field with 5\+ years of experience in a relevant role
-* Fluency in causal inference and experimentation, with hands\-on experience modeling price elasticity or willingness\-to\-pay
-* Prior exposure to a pricing\-adjacent domain a strong plus — risk\-based pricing (payments, lending, insurance), pricing science, or deal pricing analytics
-* Advanced proficiency with SQL and data visualization tools (e.g. Tableau, Looker, etc)
-* Experience with scripting and data analysis programming languages, such as Python or R, including using them to evaluate AI system behavior
-* Gone deep with cohort and funnel analyses, with a solid understanding of statistical concepts such as selection bias, probability distributions, and conditional probabilities
-* Comfort leveraging AI tools to accelerate modeling and analysis, and a working understanding of generative AI architectures — LLMs, RAG systems, and agentic AI; experience building, testing, or evaluating LLM\-powered systems in production a strong plus
-
-
-**Technologies We Use and Teach** 
-* SQL, Snowflake, etc.
-* Python (Pandas, Numpy)
-
-
-
- We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
-   
-
-  
-
- We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.
- **Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our** 
- I\+D page.
- 
-
-
-
- While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.
- 
-
-
-
-  Block takes a market\-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job\-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.  
- 
-
-
-
- Zone A:: $239,600 USD \- $359,400 USD
- 
-
-
-
- Zone B: : $239,600 USD \- $359,400 USD
- 
-
-
-
- Zone C:: $239,600 USD \- $359,400 USD
- 
-
-
-
- Zone D:: $239,600 USD \- $359,400 USD
- 
-
-
-
-**Application Guidelines** 
-
-
-
-
- Candidates may submit up to 9 active applications within a 60\-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.
- 
-
-
-
-**Use of AI in Our Hiring Process** 
-
-
-
-
- We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws. 
- 
-
-
-
- Contact us here with hiring practice or data usage questions.
- 
-
-
-
-*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.* 
-*Check out our other benefits at Block.* 
-</description>
-        <pubDate>2026-07-23 13:21:57.416411+00:00</pubDate>
+        <pubDate>2026-07-24 01:30:01.920052+00:00</pubDate>
     </item>
     
     <item>
@@ -1661,110 +2172,7 @@ Slickdeals participates in E\-Verify. For more information, please refer to E\-V
  Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues.
  **Guidance on Candidates' AI Usage:** 
  Learn about our policy for using AI in our application process.</description>
-        <pubDate>2026-07-23 13:21:57.416500+00:00</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, North Insights - Cohere</title>
-        <link>https://www.linkedin.com/jobs/view/4443825598</link>
-        <description>**Who are we?**
- Cohere is the leading security\-first enterprise AI company. We build cutting\-edge foundation AI models and end\-to\-end products that are designed to solve real\-world business problems.
-   
-
-  
-
- We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
-   
-
-  
-
- We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
-   
-
-  
-
- We are a global technology company co\-headquartered in Toronto and San Francisco, with key offices in London, New York City, Montreal, Seoul, Germany and Paris. Join us!
-   
-
-  
-
-**Why this role?**
- We're building the foundational infrastructure that will define how the world thinks about and deploys AI, and we want the sharpest, most curious people to help us do it. As a Data Scientist on our Analytics and Data Insights team, you'll work on problems that don't have textbook answers yet; building the analytics that shape product and company strategy, designing the experiments that prove or kill our biggest bets, and helping enterprise customers understand what foundational AI actually means for their bottom line. You'll own analytical work end\-to\-end: from framing the right questions and building the models to shipping insights, tools, and results that product leaders, sales teams, and enterprise customers rely on.
-   
-
-  
-
-**As a Data Scientist, You Will**
-* Drive the mission forward.
-* Build bleeding\-edge agentic analytics: Agentic analytics is far from a solved problem, and we want to be the company that solves it. We need the sharpest minds with the curiosity, drive, and focus required to build the tools necessary to bring order and clarity to real world data.
-* Define AI impact measurement: own the end\-to\-end analytics story around adoption, growth, and impact that North leadership uses to prioritize features by measured value rather than customer feedback alone.
-* Ship customer\-facing analytics: insights that our enterprise customers recognize as evidence of value created.
-* Build small language models to categorize, classify, and enrich message data to give customers visibility into how their teams are using our products in their enterprise.
-* Design and run experiments: A/B tests, causal inference studies, and opportunity sizing that directly map to product and go\-to\-market decisions.
-* Build predictive models that matter: develop and deploy models for forecasting, segmentation, propensity scoring, and opportunity sizing across Cohere's core business lines.
-* Act like an owner: no waiting around. You'll define analytical priorities within your scope, push initiatives from question to production, and own what you build.
-
-
-**You May Be a Good Fit, If You Have**
-* Strong command of SQL, Python, and Git, alongside expertise in statistical inference, experimental design, and predictive modeling
-* A proven ability to turn ambiguous business questions into rigorous analytical problems, with clear and compelling recommendations to match
-* Experience building and deploying production models, not just notebook analysis. You know what it takes to get a classifier down the stack from prototype to production volume.
-* Familiarity with modern data stack tools such as BigQuery, dbt, Looker, or Airflow (nice to have, not essential)
-* Genuine excitement about AI: you follow the research, have opinions, and enjoy being in the weedsComfort operating in ambiguity, managing multiple workstreams across different stakeholders, and distilling insights into a concise, actionable narrative
-* A collaborative style grounded in empathy as much as in data; you work alongside product, research, sales, and finance, not in a silo
-
-
- If some of the above doesn't line up perfectly with your experience, we still encourage you to apply!
-   
-
-  
-
-**Full\-Time Employees At Cohere Enjoy These Perks**
-* A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
-* Full health and dental benefits, including a separate budget for mental health.
-* RRSP matching, 401K, Pension Scheme.
-* 100% Parental Leave top\-up for up to 6 months, for either parent.
-* Annual enrichment benefits:
-
-
- Arts \&amp; culture, fitness/wellness, quality time, and a workspace improvement credit.
-   
-
-  
-
- Education \&amp; learning stipend for conferences, courses, and coaching.
-   
-
-  
-
-* 6 weeks of paid vacation (30 working days!)
-* Budget for traveling to other offices if you are remote, plus an annual company offsite.
-
-
-**How And Where We Work**
-* Cohere is remote\-friendly. We have offices in Toronto, San Francisco, New York City, London, Paris, Montreal, and more coming soon.
-* For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
-* For those not near an office: a co\-working benefit so you can work alongside others in your city.
-* Everyone receives a $500 home office stipend to set up your workspace properly.
-
-
- If any of the above doesn’t line up exactly with your experience, we still encourage you to apply.
-   
-
-  
-
- We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs.
-   
-
-  
-
- We may use AI\-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
-   
-
-  
-
- Compensation Range: $150K \- $225K</description>
-        <pubDate>2026-07-23 13:21:57.416578+00:00</pubDate>
+        <pubDate>2026-07-24 01:30:01.920126+00:00</pubDate>
     </item>
     
 </channel>
