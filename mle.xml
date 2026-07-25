@@ -6,6 +6,96 @@
     <description>jobs</description>
     
     <item>
+        <title>Machine learning Engineer - Agentic Retrieval - Zoom Communications</title>
+        <link>https://www.indeed.com/viewjob?jk=9de4652778e8afa2</link>
+        <description>* San Jose, California, United States
+* Seattle, Washington, United States
+* Full time
+
+  
+**What you can expect**
+
+
+Zoom is looking for a Machine Learning Engineer to join our Agentic Retrieval team. You will design and build the core retrieval and reasoning systems that power Zoom’s AI Companion — enabling AI agents to search, reason over, and act on enterprise knowledge to deliver high\- quality, trustworthy, and actionable answers at scale.
+
+**About the Team**
+
+
+The Agentic Retrieval team sits within Zoom’s GenAI Engineering organization and is responsible for building a multi\-tenant, permission\-aware retrieval platform. We operate at the intersection of distributed systems, machine learning, and large language models — powering search and answer generation across meetings, chat, docs, and third\-party enterprise applications through a layered API architecture (keyword search, natural language search, and agentic RAG\-based answer generation).
+
+**Responsibilities:**
+
+* Designing and implementing scalable retrieval systems including vector search, hybrid search (keyword \+ embedding \+ reranking), and structured query planning.
+* Designing and optimize Retrieval\-Augmented Generation (RAG) pipelines for multi\-step, tool\-using AI agents.
+* Developing ranking, relevance modeling, and evaluation frameworks to improve search quality and answer grounding.
+* Building indexing pipelines that transform heterogeneous enterprise data into unified, retrieval\-ready representation.
+* Building entity extraction and NLP pipelines that support agentic reasoning over enterprise content.
+* Partnering with product, infrastructure, and applied research teams to ship production\- grade AI capabilities.
+
+**What we’re looking for**
+
+* Master’s degree or higher in Computer Science, Artificial Intelligence, Machine Learning, Distributed Systems, or a related field.
+* 5\+ years of experience in machine learning, search infrastructure, information retrieval, or distributed systems
+* Strong hands\-on experience building and operating large\-scale search or data platforms in production environments.
+* Have experience building or integrating RAG systems and LLM\-based applications in production.
+* Possess proficiency in one or more of: Python, Go, Java, C\#, or C\+\+.
+* Solid understanding of information retrieval fundamentals (inverted index, ranking,  
+
+embeddings, hybrid retrieval).
+* Strong system design skills with the ability to reason about scale, reliability, latency, and cost trade\-off
+
+**Salary Range or On Target Earnings:**
+
+
+Minimum:
+
+
+$151,800\.00
+Maximum:
+
+
+$332,200\.00
+In addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.
+
+
+Note: Starting pay will be based on a number of factors and commensurate with qualifications \&amp; experience.
+
+
+We also have a location based compensation structure; there may be a different range for candidates in this and other locations.
+
+**Ways of Working**  
+
+Our structured hybrid approach is centered around our offices and remote work environments. The work style of each role, Hybrid, Remote, or In\-Person is indicated in the job description/posting.
+
+**Benefits**  
+
+As part of our award\-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support work\-life balance; and contribute to their community in meaningful ways.
+
+**About Us**  
+
+Zoomies help people stay connected so they can get more done together. We set out to build the best collaboration platform for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.  
+
+We’re problem\-solvers, working at a fast pace to design solutions with our customers and users in mind. Find room to grow with opportunities to stretch your skills and advance your career in a collaborative, growth\-focused environment.
+
+ **Our Commitment**
+
+At Zoom, we believe great work happens when people feel supported and empowered. We’re committed to fair hiring practices that ensure every candidate is evaluated based on skills, experience, and potential. If you require an accommodation during the hiring process, let us know—we’re here to support you at every step.
+
+
+We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records and any qualified applicants requiring reasonable accommodations in accordance with the law.
+
+
+If you need assistance navigating the interview process due to a medical disability, please submit an Accommodations Request Form and someone from our team will reach out soon. This form is solely for applicants who require an accommodation due to a qualifying medical disability. Non\-accommodation\-related requests, such as application follow\-ups or technical issues, will not be addressed.
+
+
+Think of this opportunity as a marathon, not a sprint! We're building a strong team at Zoom, and we're looking for talented individuals to join us for the long haul. No need to rush your application – take your time to ensure it's a good fit for your career goals. We continuously review applications, so submit yours whenever you're ready to take the next step.
+
+
+Our interviews are supported by BrightHire, a tool that helps us create a consistent and thoughtful interview experience and may include recordings. Please refer to our candidate privacy statement for more information of how we use your data.</description>
+        <pubDate>2026-07-24</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Machine Learning Engineer, LLM Inference Optimization - Nebius</title>
         <link>https://www.indeed.com/viewjob?jk=8745a4fdc2dd4a42</link>
         <description>**About Nebius:**
@@ -779,123 +869,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Sr Machine Learning Engineer - PayPal</title>
-        <link>https://www.linkedin.com/jobs/view/4436113334</link>
-        <description>**The Company**
- PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.
-   
-
-  
-
- We operate a global, two\-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third\-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.
-   
-
-  
-
- We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end\-to\-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross\-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross\-border trade.
-   
-
-  
-
- Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.
-   
-
-  
-
-**Job Summary:**
- This job will design, develop, and implement machine learning models and algorithms to solve complex problems. You will work closely with data scientists, software engineers, and product teams to enhance services through innovative AI/ML solutions. Your role will involve building scalable ML pipelines, ensuring data quality, and deploying models into production environments to drive business insights and improve customer experiences.
-   
-
-  
-
-**Job Description:**
-**Essential Responsibilities:**
-* Develop and optimize machine learning models for various applications.
-* Preprocess and analyze large datasets to extract meaningful insights.
-* Deploy ML solutions into production environments using appropriate tools and frameworks.
-* Collaborate with cross\-functional teams to integrate ML models into products and services.
-* Monitor and evaluate the performance of deployed models.
-
-
-**Minimum Qualifications:**
-* 3\+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience.
-* Experience with ML frameworks like TensorFlow, PyTorch, or scikit\-learn.
-* Familiarity with cloud platforms (AWS, Azure, GCP) and tools for data processing and model deployment.
-* Several years of experience in designing, implementing, and deploying machine learning models.
-
-
-**Additional Responsibilities \&amp; Preferred Qualifications:**
-* PhD in Computer Science, AI/ML, NLP, or a related field — with research in one or more of: LLM agents, multi\-agent systems, tool\-use, reasoning, planning, dialogue systems, or reinforcement learning
-* Strong engineering skills — you can take a research idea from paper to production. Python is second nature. You've built systems, not just run experiments.
-* Deep familiarity with agentic frameworks and architectures — LangChain, Google ADK, or custom orchestration systems. You understand the tradeoffs.
-* Experience with LLM APIs and tool\-use patterns — function calling, structured outputs, retrieval\-augmented generation, chain\-of\-thought, and prompt engineering at scale
-* Understanding of evaluation methodology for AI systems — how to measure agent performance beyond academic benchmarks, including safety, hallucination rates, and task completion in adversarial conditions
-* Published research is a plus — but shipping code matters more than citation count
-
-
- The base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by location is:
- **Primary Location : Pay Range:**
- San Jose, California : ($159,500\.00 \- $236,500\.00 Annually)
-   
-
-  
-
-**Subsidiary:**
- PayPal
-   
-
-  
-
-**Travel Percent:**
- 0
-   
-
-  
-
- PayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application directly, we will never ask you to share passwords, one\-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam. All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact\-us.
-   
-
-  
-
- For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in\-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.
-   
-
-  
-
-**Our Benefits:**
- At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset\-you. That’s why we offer comprehensive, choice\-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it matters most. We strive to create a flexible, balanced work culture with a holistic approach to benefits, including generous paid time off, healthcare coverage for you and your family, and resources to create financial security and support your mental health.
-   
-
-  
-
-**Who We Are:**
- Click Here to learn more about our culture and community.
-   
-
-  
-
-**Commitment to Diversity and Inclusion**
- PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.
-   
-
-  
-
-**Belonging at PayPal:**
- Our employees are central to advancing our mission, and we strive to create an environment where everyone can do their best work with a sense of purpose and belonging. Belonging at PayPal means creating a workplace with a sense of acceptance and security where all employees feel included and valued. We are proud to have a diverse workforce reflective of the merchants, consumers, and communities that we serve, and we continue to take tangible actions to cultivate inclusivity and belonging at PayPal.
-   
-
-  
-
- Any general requests for consideration of your skills, please Join our Talent Community.
-   
-
-  
-
- We know the confidence gap and imposter syndro</description>
-        <pubDate>2026-07-23</pubDate>
-    </item>
-    
-    <item>
         <title>Machine Learning Engineer, Local Search &amp; Marketplace - NewsBreak</title>
         <link>https://www.linkedin.com/jobs/view/4441099086</link>
         <description>**About NewsBreak**
@@ -1026,477 +999,256 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Data Scientist, Growth - Basis Set</title>
-        <link>https://www.linkedin.com/jobs/view/4443979257</link>
-        <description>Home
+        <title>Machine Learning Engineer, Marketplace - Mercor</title>
+        <link>https://www.linkedin.com/jobs/view/4435372215</link>
+        <description>**About Mercor**
+ Mercor's mission is to organize human intelligence to power the AI economy. We're a leading AI data company, building the layer between human expertise and frontier models. Millions of domain experts on the platform are paid over $4 million per day to train frontier AI models. Mercor's APEX benchmark family measures AI's real\-world impact on professional work. Mercor Enterprise brings this same infrastructure to Fortune 500 companies: helping companies capture how their best people actually work, translating that expertise directly back into agents.
    
 
   
 
- Portfolio
+ Mercor is creating a new category of work where expertise powers AI advancement. Achieving this requires an ambitious, fast\-paced and deeply committed team. You’ll work alongside researchers, operators, and AI companies at the forefront of shaping the systems that are redefining society. Mercor is a profitable Series C company valued at $10 billion. We work in\-person five days a week in our San Francisco, NYC, or London offices.
    
 
   
 
- Portfolio
+**About The Role**
+ As a Machine Learning Engineer on the Marketplace team, you will build the models and decision systems that power Mercor's hiring engine. This includes search and ranking, candidate\-job matching, marketplace recommendations, personalization, and allocation decisions across a rapidly growing talent network.
    
 
   
 
- Team
+ This is an applied ML role with direct product and revenue impact. You will work on problems shaped by real marketplace constraints: sparse and delayed labels, cold start, noisy feedback, heterogeneous supply and demand, and the need to optimize across speed, quality, and conversion simultaneously.
    
 
   
 
- Team
+ What You'll Build
    
 
   
 
- Research
+* Ranking and matching systems that determine which candidates and opportunities are surfaced
+* Models for recommendation, personalization, and marketplace optimization
+* Retrieval, scoring, and decision pipelines operating at global scale
+* Feedback loops that learn from downstream hiring outcomes, not just top\-of\-funnel engagement
+* Real\-time and batch inference systems embedded in product\-critical workflows
+
+
+ Example Problems
    
 
   
 
- Research
+* Improve candidate\-job matching using embeddings, structured attributes, and behavioral signals
+* Optimize ranking toward long\-term hiring outcomes under delayed and incomplete labels
+* Design models that balance marketplace objectives such as fill rate, quality, speed, and conversion
+* Build systems for candidate allocation, opportunity routing, and liquidity optimization
+* Develop evaluation and experimentation frameworks that connect model performance to business results
+
+
+ What We're Looking For
    
 
   
 
- Jobs
+* Strong track record of shipping ML systems into production
+* Experience with ranking, recommendation, search, matching, or marketplace problems
+* Good judgment on model design, objective functions, evaluation, and tradeoffs
+* Comfort working across the full applied ML stack: data, features, training, inference, and iteration
+* Strong engineering fundamentals and a bias toward simple, robust systems
+
+
+ Why This Role
    
 
   
 
- Jobs
+ This role sits on a core decision layer of the product. Your work will directly shape how talent is discovered, matched, and hired, and will influence fundamental marketplace outcomes across quality, speed, and revenue.
    
 
   
 
- Home
+ Tech Stack
    
 
   
 
- Portfolio
+ Python, Go, embeddings, fine\-tuning, RAG, Kafka, Postgres, Redis, Elasticsearch, Kubernetes, Terraform
    
 
   
 
- Portfolio
-   
-
-  
-
- Team
-   
-
-  
-
- Team
-   
-
-  
-
- Research
-   
-
-  
-
- Research
-   
-
-  
-
- Jobs
-   
-
-  
-
- Jobs
-   
-
-  
-
- Let's build together...
-   
-
-  
-
- Join our exceptional founders forging an intelligent future
-   
-
-  
-
- Search
-   
-
-  
-
- jobs
-   
-
-  
-
- 904
-   
-
-  
-
- Explore
-   
-
-  
-
- companies
-   
-
-  
-
- 117
-   
-
-  
-
- Join talent network
-   
-
-  
-
- Talent
-   
-
-  
-
- Data Scientist, Growth
-   
-
-  
-
- Quince
-   
-
-  
-
- Sales \&amp; Business Development, Data Science
-   
-
-  
-
- Palo Alto, CA, USA
-   
-
-  
-
- USD 171k\-198k / year
-   
-
-  
-
- Posted on Jul 22, 2026
-   
-
-  
-
- Apply now
-   
-
-  
-
-**About Quince**
- Founded in 2018, Quince was built to challenge the idea that nice things have to cost a lot. Our mission is simple: to make really high quality essentials for really low prices, produced fairly and sustainably. We believe everyone deserves exceptional craftsmanship and timeless design without the traditional markups. Quince is a direct\-to\-consumer (DTC) model that cuts out middlemen and leverages just\-in\-time manufacturing to minimize waste and maximize value.
-   
-
-  
-
- Quince Is a Tech Company Disrupting The Retail Industry By Putting AI, Analytics And Automation At The Center Of Everything We Do. Our Unwavering Commitment To Excellence And Company Values Guide Our Teams And Actions
-   
-
-  
-
-* Customer First: We prioritize customer satisfaction in every decision.
-* High Quality: True quality means premium materials and rigorous production standards you can feel good about.
-* Essential Design: We focus on timeless, functional essentials instead of chasing trends.
-* Always a Better Deal: Innovation and transparency ensure value for both customers and partners.
-* Social \&amp; Environmental Responsibility: We commit to sustainable materials, ethical production, and fair wages.
-
-
- Quince partners with world\-class manufacturers across the globe and serves millions of customers. With strong investor backing and a focus on sustainable growth, we are a company that is rapidly scaling while maintaining a commitment to quality, simplicity, and radical price transparency.
-   
-
-  
-
-**OUR TEAM AND SUCCESS**
- At Quince, you will be part of a high\-performing team that is redefining what quality, value, and sustainability mean in modern retail. We are a destination for builders, innovators, and operators to come together and challenge the status quo. Our collective ambition is bold. We are creating an entirely new category and customer experience – one that democratizes luxury and provides high quality products at radically low prices. That mission demands a world\-class team committed to excellence.
-   
-
-  
-
- If you are motivated by impact, growth, and purpose, you will find a strong sense of belonging at Quince.
-   
-
-  
-
-**THE ROLE**
-**Data Scientist, Growth**
- We are seeking a
- **Data Scientist, Growth** 
- to join our growing team. In this high\-exposure role, you will own the machine\-driven decision engines and automated bidding infrastructure guiding a massive global performance marketing spend across 40\+ business units. You will have the 0\-to\-1 autonomy to build end\-to\-end production models and write the core software fueling our growth engine. Blending rigorous applied research with immediate technical execution, this position offers a direct line to executive leadership and a clear, measurable view of your impact on our top and bottom lines.
-   
-
-  
-
-**Responsibilities**
-* Work on the core automated bidding infrastructure and allocation algorithms to model where the next advertising dollar yields maximum return.
-* Build end\-to\-end production machine learning models from 0 to 1 with immediate, high\-visibility impact on the company's top line.
-* Design, build, and productionalize autonomous models and production\-level data pipelines that automate operational business logic and spend efficiency.
-* Manage ad platform integrations, handle bidding automation, and optimize complex marketing tech workflows.
-* Work on automated processes for design and creative production
-* Function as a deep, independent individual contributor digging deep into complex systems and tackling loosely defined optimization and statistical problems.
-* Collaborate cross\-functionally with marketing, product, and data science teams while maintaining high\-visibility access to executive leadership.
-
-
-**Qualifications**
-**Required**
-* 2\+ years of technical experience, including at least 1 year of corporate/industry experience.
-* Technical proficiency in Python and SQL.
-* Proven background as a Data Scientist, Machine Learning Engineer, or ML Researcher with hands\-on experience independently pushing machine learning models into a live production environment.
-* Deep analytical and problem\-solving strengths with a demonstrated history of working independently on loosely defined optimization and statistical problems.
-* Excellent collaboration and communication skills to work effectively with cross\-functional partners and leadership teams.
-* Ability to dig deep into complex systems within a fast\-paced, high\-leverage entrepreneurial environment without a massive supporting infrastructure.
-
-
-**Preferred**
-* Direct domain experience in ad tech infrastructure, automated campaign management, digital advertising, performance marketing tech, programmatic bidding optimization or automated investment platforms.
-* Experience working within a direct\-to\-consumer, retail, or e\-commerce environment, particularly owning data pipelines for real\-time bid pricing or user attribution platforms.
-* Practical engineering exposure to large language models (such as Claude) and working with vector spaces.
-
-
-*All posted ranges are reflective of base salary and may vary depending upon experience level and location.* 
-*Bonus and equity may also be provided for eligible roles.*
- Pay Range
-   
-
-  
-
- $171,000—$198,000 USD
-   
-
-  
-
-**WHY QUINCE?**
- Joining Quince means being part of a mission\-driven team reshaping retail. You will work alongside talented colleagues, tackle meaningful challenges, and contribute to building a more sustainable, accessible future for customers and partners alike.
-   
-
-  
-
-**EQUAL OPPORTUNITY \&amp; HIRING INTEGRITY**
- Quince provides equal employment opportunities to all employees and applications for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran or military status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
-   
-
-  
-
- Quince is committed to providing reasonable accommodations to qualified individuals with disabilities. If you need a reasonable accommodation to complete your application or to perform the essential functions of a role at Quince, please let us know by completing this accommodation form. We review all requests individually and will work with you to determine appropriate accommodations on a case\-by\-case basis.
-   
-
-  
-
- Employment is contingent upon successful completion of a background check. Quince will conduct background checks in compliance with applicable federal, state, and local laws.
-   
-
-  
-
-*Security Advisory: Beware of Frauds*
- At Quince, we're dedicated to recruiting top talent who share our drive for innovation. To safeguard candidates, Quince emphasizes legitimate recruitment practices. Initial communication is primarily via official Quince email addresses and LinkedIn; beware of deviations. Personal data and sensitive information will not be solicited during the application phase. Interviews are conducted via phone, in person, or through the approved platforms Google Meets or Zoom—never via messaging apps or other calling services. Offers are merit\-based, commun</description>
+**Benefits**
+* Bi\-annual performance bonus structure
+* Generous equity grant vested over 4 years
+* Up to $15k Relocation bonus
+* $10K housing bonus (if you live within 0\.5 miles of our office)
+* $1\.5K monthly stipend for meals
+* Free Equinox membership
+* $200 monthly laundry reimbursement
+* $200 monthly personal wellness reimbursement
+* Health, Dental, Vision insurance
+
+
+ Compensation Range: $130K \- $500K</description>
         <pubDate>2026-07-22</pubDate>
     </item>
     
     <item>
-        <title>Sr. Machine Learning Engineer (Recommendation Systems) - Philo</title>
-        <link>https://www.linkedin.com/jobs/view/4439420555</link>
-        <description>At Philo, we’re a group of technology and product people who set out to build the future of television, marrying the best in modern technology with the most compelling medium ever invented — in short, we’re building the TV experience that we’ve always wanted for ourselves. In practice this means leveraging cloud delivery, modern tech stacks, machine learning, and hand\-crafted native app experiences on all of our platforms. We aim to deliver a rock solid experience on the streaming basics, while cooking up next generation multi\-screen and multi\-user playback experiences.
+        <title>Machine Learning Engineer, Marketplace Optimization - DoorDash</title>
+        <link>https://www.linkedin.com/jobs/view/4356782624</link>
+        <description>**About The Team**
+ The mission of the Marketplace Optimization team is to ensure we maintain a healthy Ads Marketplace across all our verticals for both search (query context) and discovery experiences while fulfilling the requirements of all players in this marketplace.
    
 
   
 
-**Senior Machine Learning Engineer (Recommendation Systems)**
- Philo’s recommendation system improves user engagement and customer satisfaction by tailoring content discovery to individual preferences and viewing habits. We want users to be confident that Philo will have something they want to watch every time they open the app.
+ Marketplace Optimization is a critical part of the Ads Delivery funnel with a broad charter responsible for Bidding, Auction Design, Budget Pacing, Forecasting, and Ads Experimentation. Our work directly shapes advertiser experience, consumer experience, and marketplace balance. We leverage artificial intelligence and advanced ML, deep learning techniques to power decision\-making in real time — from optimizing ad auctions to generating the most efficient bids and pacing budgets dynamically. These models sit at the heart of DoorDash’s ad delivery and play a pivotal role in improving the efficiency, fairness, and scalability of our marketplace.
    
 
   
 
- We are seeking a Senior Machine Learning Engineer to lead our content personalization efforts, shaping experiences that impact millions of users. In this role, you will research, design, and build advanced algorithms and large\-scale systems that power Philo’s recommendation engine.
+ The opportunity is massive as DoorDash expands into new verticals like Grocery and Retail while building unique innovative ad products to leverage the closed loop marketplace.
    
 
   
 
- As a senior member of a growing team, you will tackle complex machine learning challenges and collaborate with data science, product, infrastructure, and backend engineering teams to deliver innovative, data\-driven personalization solutions. Your work will directly impact content discovery, deepen user engagement, and drive long\-term retention.
+**About The Role**
+ We’re looking for a Machine Learning Engineer to help design, build, optimize and scale large\-scale ML systems within the Ads Delivery funnel.
    
 
   
 
-**Responsibilities:**
-* Lead development of recommendation systems: Design, build, and optimize advanced algorithms for SVOD, Live TV, and FAST personalization.
-* Drive ML innovation at scale: Conduct deep dives into models and system components, ensuring performance, scalability, and robustness across regions and product areas.
-* Own the ML pipeline: Build and maintain reliable pipelines for data extraction, feature engineering, model training, testing, and deployment.
-* Collaborate with Product, Data Science \&amp; Engineering: Translate product requirements into ML solutions, set clear expectations, and deliver measurable improvements in user engagement.
-* Advance deep learning in recommendations: Apply frameworks such as TensorFlow, PyTorch, or similar to develop state\-of\-the\-art recommendation models.
-* Experimentation: Conduct rigorous A/B testing and ML experiments to understand model performance and iterate rapidly based on feedback.
-* ML Vision and Roadmap: Contribute to the strategic planning of the recommendations roadmap, aligning engineering efforts with business objectives and user needs.
-* Explore advanced architectures: Experience with frameworks like Two\-Tower models and Deep Cross Networks (DCN) is a strong plus.
+* Design, build, and deploy ML models and pipelines for pacing, bidding, auction and targeting optimization.
+* Collaborate with Data Science and Product teams to develop and evaluate new algorithms through rigorous experimentation.
+* Improve and scale existing ML infrastructure and data pipelines in partnership with Platform and Infra teams.
+* Write high\-quality, maintainable code and participate in system design and peer reviews.
+* Learn from senior engineers and contribute to technical discussions that shape the team’s roadmap.
+* Partner with Data Science and Marketing to design and execute lift tests; collaborate with Platform teams on budget A/B testing and evaluation framework.
 
 
-**Qualifications:**
-* 8\+ years of experience in backend engineering and/or data science, including 4\+ years focused on machine learning. Experience with recommendation systems is a big plus.
-* Strong coding skills in Python, as well as proficiency in using ML frameworks like PyTorch or TensorFlow.
-* Excellent analytical and problem\-solving skills, with the ability to translate complex technical challenges into business solutions.
-* Proven track record of leading projects and delivering impactful machine learning solutions.
-* Strong communication and documentation skills; capable of explaining complex, technical concepts to non\-technical stakeholders and to diligently document your work to help the team as a whole learn and move quickly.
-* Experience with Amazon SageMaker or similar MLOps platforms
-
-
-**More About Philo**
- At Philo, we’re a company that puts people first—both our subscribers and our team. We empower our colleagues to do their best work while supporting one another in pursuing shared goals. We value pragmatism, pride in our work, and passion, with transparency and openness as fundamental parts of our culture.
+ This is a high\-impact role for someone who enjoys combining economic intuition, large\-scale ML modeling, and applied engineering to solve complex real\-world optimization problems.
    
 
   
 
- We’re committed to diversity, equity, inclusion, and accessibility as we grow the Philo team and shape the future of TV. We believe that a diverse range of voices and perspectives enables us to innovate faster and create the best experiences for our subscribers. Philo is proud to be an Equal Opportunity Employer. We’re committed to supporting every candidate and employee. If you need an accommodation at any stage of the process, please email
- **recruiting@philo.com** 
- and we’ll work with you to meet your needs.
+ You’re excited about this opportunity because you will…
    
 
   
 
- Philo offers 70\+ top\-rated networks, including AMC, BET, CMT, Comedy Central, Discovery Channel, Food Network, Hallmark Channel, HGTV, HISTORY, Investigation Discovery, Lifetime, MTV, Nickelodeon, OWN, VH1, We TV, and more. It also includes all the groundbreaking originals and blockbuster movies available with AMC\+ and access to HBO Max Basic With Ads and discovery\+. Our service also includes 100\+ free channels and premium add\-ons like STARZ and MGM\+.
+* Own impactful ML systems: Build and improve models that directly have a large impact on top and bottom line financials.
+* Drive experimentation: Rapidly test hypotheses via robust sequential experiments; measure and explain your models’ impact on marketplace KPIs
+* Optimize at scale: Work with one of the largest delivery datasets, building optimization pipelines that consider budget, fairness, assignment rates, and more
+* Collaborate cross\-functionally: Partner with engineering, analytics, product, and operations to iterate quickly, moving models from prototype to production
+* Shape the future: We're one of the fastest growing Ads platforms in the world and we're looking to take that even further!
+
+
+**We’re Excited About You Because You Have…**
+* B.S., M.S. or Ph.D. in Computer Science, Machine Learning, Statistics, or a related field.
+* Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software
+* Industry experience building or maintaining machine learning systems in production.
+* Solid understanding of machine learning fundamentals, statistics, and data modeling.
+* Strong programming skills in Python, Java, or C\+\+, and experience with ML frameworks such as TensorFlow, PyTorch, or XGBoost.
+* Excellent communication and collaboration skills — comfortable working with cross\-functional partners in Product, DS, and Engineering.
+* Curiosity and a growth mindset — motivated to learn, iterate quickly, and take ownership of impactful projects.
+* Familiarity with auction systems, bidding, forecasting, or budget optimization (or other experience in ads or marketplaces) is a plus.
+* Familiarity with experimentation science, including experience designing lift tests; marketplace incrementality experience is a plus.
+
+
+**Notice Regarding Use of AI and Automated Tools:** 
+ To streamline our hiring process, DoorDash utilizes an automated recruitment tool called Gem.
    
 
   
 
- Our extensive library boasts over 85,000 titles, and our unlimited DVR allows users to save their favorite shows and movies for up to a year, skipping ads for a seamless viewing experience. Stream on up to three devices simultaneously, whether on your phone, tablet, laptop, or TV using Roku, Apple TV, Fire TV, Samsung TV, Android TV, Vizio TV, or Chromecast.
+**How it works:** 
+ Gem assists our recruiting team by evaluating job related qualifications and characteristics in connection with hiring. The tool is designed and used to support \- rather than replace \- human decision\-making; trained personnel make final decisions with meaningful human review and oversight, and DoorDash does not use Gem or other AI\-enabled tool in a manner that has the effect of subjecting applicants or employees to discrimination based on any protected characteristic or proxy or for engaging in any protected activity under applicable law.
    
 
   
 
- Philo is headquartered in San Francisco, with offices in New York City and Cambridge, MA. Our leadership team includes alums from HBO, Tubi, and Meraki, and is backed by NEA and industry partners like Warner Brothers Discovery, Paramount, AMC, and A\&amp;E.
+**Data Retention, Privacy \&amp; Bias Audit:** 
+ Data collected during this process is retained in accordance with our Candidate Privacy Policy and applicable state laws. In compliance with New York City Local Law 144, the independent bias audit summary for Gem is publicly available for review at our Careers Page.
    
 
   
 
- Join us at Philo and be part of a team that's shaping the future of TV!
+ Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
    
 
   
 
-**Status:** 
- Full\-time
+ We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024\.
    
 
   
 
-**Location:** 
- San Francisco, CA or remote within the U.S.
+ The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey
    
 
   
 
-**Compensation:** 
- Includes annual salary, company stock options, and health benefits. Salary is determined by experience and location:
+**Compensation**
+ The successful candidate's starting pay will fall within the pay range listed below and is determined based on job\-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market\-dependent and may be modified in the future.
    
 
   
 
-  
-
-* San Francisco, New York City: $175K \- $270K
-* Boston, DC Metro, Los Angeles, Seattle: $165K \- $250K
-* Denver, Atlanta, Austin, Las Vegas, Sacramento, Chicago: $155K \- $240K
-* Texas, Florida: $150K \- $230K
-
-
- We value a diverse and inclusive workplace and we welcome people of different backgrounds, experiences, skills, and perspectives. Philo is an equal opportunity employer. We believe that everyone does their best work when they are supported by each other and the company, and we offer a generous set of benefits to make sure the Philo team is happy and healthy. Here is a sampling of the benefits we offer our team:
+ In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
    
 
   
 
-  
-
-* Full health, dental and vision coverage for you and your family
-* 401(k) plan with employer contributions (we match 100% of deferrals up to 3% of pay and 50% of the next 2% of pay)
-* Flexible working hours
-* Up to 20 weeks of fully paid parental leave
-* Unlimited paid time off for vacation and sick leave
-* $2,000 annual vacation bonus (we pay you to take a two week vacation)
-* $5,250 annually for professional development and educational assistance
-* $1,250 annual home office \+ TV stipend during first year of employment ($250 annually thereafter)
-* $500/month ($6,000/year) bonus for employees who commit to working at least 3 days per week in our offices, plus generous commuter benefits ($315/month towards transit, rideshare, bike rental, or parking at our HQ office in San Francisco)
-* Free Gympass subscription — an all\-in\-one corporate benefit that gives employees the largest selection of gyms, studios, classes, training and wellness apps
-* Dog\-friendly office
-* And much more!
-
-
- For California Residents: Philo’s CCPA Notice at Collection – Employees, Applicants, Owners, Directors, Officers and Contractors
+ DoorDash cares about you and your overall well\-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family\-forming assistance, and a mental health program, among others.
    
 
   
 
- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</description>
-        <pubDate>2026-07-22</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer - RZR</title>
-        <link>https://www.linkedin.com/jobs/view/4404911793</link>
-        <description>**Who are we?**
- RZR Global is an AI\-driven company specializing in mobile advertising solutions designed to fuel revenue growth. We leverage AI to discover audiences in a privacy\-first environment through trillions of contextual bidding signals and proprietary behavioral models. Our audience engagement platform includes creative strategy and execution. We handle 5 million mobile ad requests per second from over 10 billion devices, driving performance for both publishers and brands. We are headquartered in San Francisco, CA, with a global presence across the United States, EMEA, and APAC.
+ To learn more about our benefits, visit our careers page here.
    
 
   
 
-  
+**See Below For Paid Time Off Details**
+* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+* For hourly roles: vacation accrued at about 1 hour for every 25\.97 hours worked (e.g. about 6\.7 hours/month if working 40 hours/week; about 3\.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5\.8 hours/month if working 40 hours/week; about 2\.9 hours/month if working 20 hours/week).
 
-  
 
- Role Overview
+**The national base pay ranges for this position within the United States, including Illinois and Colorado.**
+ I4
    
 
   
 
- We are seeking a motivated and detail\-oriented Machine Learning Engineer to join our team. As an ML Engineer, you will be involved in designing and implementing machine learning models and data pipelines to enhance our programmatic demand\-side platform (DSP). You will work closely with Senior MLE and other team members to drive impactful machine learning projects and contribute to innovative solutions.
+ $137,100—$201,600 USD
    
 
   
 
- Key Responsibilities
+ I5
    
 
   
 
-* Support the development of machine learning models to address challenges in programmatic advertising, such as predicting user responses, forecasting bid landscapes, and detecting fraud.
-* Collaborate with senior data scientists and cross\-functional teams (product, engineering, and analytics) to integrate models into production workflows.
-* Analyze the impact of integrating new data sources and features into our models.
-* Build and maintain data pipelines to process and prepare large datasets for model training and evaluation.
-* Contribute ideas and assist in testing new tools, methodologies, and technologies to improve our machine learning capabilities.
-* Document experiments, assumptions, and outcomes; maintain reproducibility
-
-
-**Required Skills / Experience**
-* Bachelor’s or Master's degree in Mathematics, Physics, Computer Science, or a related technical field.
-* At least 1 year of professional experience in machine learning, statistical analysis, and data analysis.
-* Experience with machine learning techniques such as regression, classification, and clustering.
-* Proficiency in Python and SQL and familiarity with big data tools (e.g., Spark) and ML libraries (e.g., TensorFlow, PyTorch, Scikit\-Learn).
-* Strong grasp of probability, statistics, and data analysis principles.
-* Ability to work effectively in a team environment, with good communication skills to explain complex concepts to diverse stakeholders.
-
-
- Nice\-to\-Have
+ $167,800—$246,800 USD
    
 
   
 
-* Familiarity with system programming languages including C\+\+ and Rust is a plus.
-* Exposure to online inference systems, gRPC/REST model endpoints, or streaming features (Kafka/Flink)
-* Ad\-tech familiarity: auction dynamics, pacing, fraud signals, creative personalization.</description>
+ I6
+   
+
+  
+
+ $203,500—$299,300 USD
+   
+
+  
+
+**About DoorDash**
+ At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—f</description>
         <pubDate>2026-07-22</pubDate>
     </item>
     
@@ -1854,124 +1606,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Machine Learning Engineer, Multimodal - Intelligent Integrity - TikTok</title>
-        <link>https://www.linkedin.com/jobs/view/4442924215</link>
-        <description>**Responsibilities**
- Our Business Integrity team has a strong user focus and a dedication to technical excellence. We aim to meet our users’ needs with reliable and high\-performing platforms and services. We are looking for strong machine learning engineers who are excited to grow their business understanding, build highly scalable machine learning models, and partner across disciplines with global teams, in pursuit of excellence. Given the fast growth of TikTok in the world, we are working on building a next\-generation content understanding system for TikTok monetization. We are seeking Research Engineers who are experienced in machine learning, which can help us create an ecosystem that rewards high quality user experience and advertiser value.
-   
-
-  
-
- Responsibilities:
-   
-
- 1\. Focus on ad content understanding and security, conduct algorithm R\&amp;D for large model implementation, and apply LLM/MLLM and other AIGC technologies to e\-commerce and short\-video ad content understanding to build a next\-gen large model\-based commercial intelligence review system.
-   
-
-  
-
- 2\. Deepen multimodal understanding tech for text, audio, video, live streaming, etc., optimize model decision\-making for high\-accuracy autonomous risk judgment, and implement interpretable CoT generation for traceable model decisions.
-   
-
-  
-
- 3\. Explore RL/Agent applications in multimodal review scenarios, track AIGC cutting\-edge trends, and deliver algorithm innovation and engineering implementation tailored to commercial business needs.
-   
-
-  
-
- 4\. Develop dedicated multimodal content understanding models to empower ad intent recognition, intelligent rule retrieval and accurate risk judgment, enhance advertisers' creation experience, reduce non\-compliant content non\-detection risks, and protect ad ecosystem security.
-   
-
-  
-
-**Qualifications**
- Minimum Qualifications:
-   
-
- 1\. Bachelor’s degree or above in CS, AI, Mathematics, Statistics or related majors, with 1\+ year of algorithm R\&amp;D/project implementation experience in content understanding or AIGC.
-   
-
- 2\. Solid ML/DL theoretical foundation, in\-depth understanding of MLLM/LLM, CV, NLP, multimodal fusion and Agent technologies; strong mathematical skills, excellent self\-learning and problem\-solving abilities; project implementation experience preferred.
-   
-
- 3\. Proficient in PyTorch/TensorFlow, with hands\-on experience in large model training, fine\-tuning and inference deployment; excellent engineering capabilities, master Python/C\+\+.
-   
-
- 4\. Familiar with technical principles and applications of multimodal large models; experience in content understanding, ad analysis, multimodal representation learning or intelligent review preferred.
-   
-
-  
-
-**About TikTok**
- TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.​
-   
-
-  
-
-  
-
-**Why Join Us**
- Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.​
-   
-
- We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
-   
-
- ​
-   
-
- Diversity \&amp; Inclusion​
-   
-
- TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
-   
-
-  
-
-  
-
-**TikTok Accommodation**
- TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA\-request​
-   
-
-  
-
-  
-
-**Job Information**
- 【For Pay Transparency】Compensation Description (Annually)
-   
-
- The base salary range for this position in the selected city is $156000 \- $316800 annually.​
-   
-
- Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
-   
-
- Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​
-   
-
- The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
-   
-
- For Los Angeles County (unincorporated) Candidates:​
-   
-
- Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
-   
-
- 1\. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
-   
-
- 2\. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
-   
-
- 3\. Exercising sound judgment.​</description>
-        <pubDate>2026-07-22</pubDate>
-    </item>
-    
-    <item>
         <title>Sr. Machine Learning Engineer, Medical Imaging - Intuitive</title>
         <link>https://www.linkedin.com/jobs/view/4426376954</link>
         <description>**Company Description**
@@ -2294,256 +1928,176 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Machine Learning Engineer, Marketplace - Mercor</title>
-        <link>https://www.linkedin.com/jobs/view/4435372215</link>
-        <description>**About Mercor**
- Mercor's mission is to organize human intelligence to power the AI economy. We're a leading AI data company, building the layer between human expertise and frontier models. Millions of domain experts on the platform are paid over $4 million per day to train frontier AI models. Mercor's APEX benchmark family measures AI's real\-world impact on professional work. Mercor Enterprise brings this same infrastructure to Fortune 500 companies: helping companies capture how their best people actually work, translating that expertise directly back into agents.
+        <title>[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career - Roblox</title>
+        <link>https://www.linkedin.com/jobs/view/4434344274</link>
+        <description>Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
    
 
   
 
- Mercor is creating a new category of work where expertise powers AI advancement. Achieving this requires an ambitious, fast\-paced and deeply committed team. You’ll work alongside researchers, operators, and AI companies at the forefront of shaping the systems that are redefining society. Mercor is a profitable Series C company valued at $10 billion. We work in\-person five days a week in our San Francisco, NYC, or London offices.
+ At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
    
 
   
 
-**About The Role**
- As a Machine Learning Engineer on the Marketplace team, you will build the models and decision systems that power Mercor's hiring engine. This includes search and ranking, candidate\-job matching, marketplace recommendations, personalization, and allocation decisions across a rapidly growing talent network.
+ A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
    
 
   
 
- This is an applied ML role with direct product and revenue impact. You will work on problems shaped by real marketplace constraints: sparse and delayed labels, cold start, noisy feedback, heterogeneous supply and demand, and the need to optimize across speed, quality, and conversion simultaneously.
+**Team**
+* Creator Services Machine Intelligence Team: The Machine Intelligence team is building an NPC system that can (1\) play any Roblox game and (2\) perform real\-time inference efficiently enough to support deployment to all Roblox players.
+* ML Platform Team: The Foundation AI Group is on a mission to establish Roblox as the standard for 3D foundational models (3DFMs), democratizing creation by making it simple for anyone to generate high\-quality, immersive 3D experiences using AI. The AI Platform team is a foundational part of this vision, supporting hundreds of ML use cases and billions of inferences daily across Discovery, Safety, Engine, and more. We are seeking exceptional PhD new graduates to drive innovation across three critical areas: AI Platform, Distributed Inference Systems.
+
+
+**What You Will Do**
+ As a Senior Machine Learning Engineer, you will be a key contributor to building the cutting\-edge systems that power AI at Roblox.
    
 
   
 
- What You'll Build
+**Creator Services Machine Intelligence Team**
+* Develop Scale Data Pipelines: Design, build and maintain robust data pipelines to collect complex 3D game states and real\-time player actions across the platform.
+* Train Novel Architectures: Solve the feature extraction across games for NPC model in a general and scalable way and drive model training speed for novel, sophisticated deep learning architectures.
+* Optimize Real\-Time Inference: Engineer high\-performance model inference solutions to support the seamless deployment of 10s to 100s of autonomous NPCs in real\-time environments.
+
+
+**ML Platform Team**
+**Track 1: AI Platform Projects**
+* Pioneer next\-generation AI tooling to enhance the efficiency, cost, and usability of ML@Roblox.
+* Build and maintain core platform components: Serving Layer, Model Registry, Pipeline Orchestrator, and Training/Inference control planes.
+* Design great developer experiences (paved\-road templates, tooling, visualizations) to reduce time\-to\-production and ensure foundational AI systems are scalable and reliable.
+
+
+**Track 2: Distributed Inference \&amp; Systems Optimization**
+* Architect and implement scalable distributed inference systems for efficiently serving LLMs and Large Recommender Models at massive scale.
+* Optimize our inference engine to serve millions of QPS at low latency.
+* Conduct deep, low\-level performance analysis and optimize ML models (using techniques like continuous batching, speculative decoding, and quantization) and systems on GPU architectures to maintain peak performance and stability.
+
+
+**You Have**
+* Possessing or pursuing a Ph.D. in Computer Science, Computer Engineering, Mathematics, Statistics, or a related technical field, with a thesis aligned to Roblox’s research areas.
+* Built end\-to\-end ML pipelines and managed model inference and deployment.
+* Experience with novel datasets, and building real\-world agentic applications.
+* Scaled high\-performance, high\-availability architectures.
+* Handled infrastructure using Kubernetes and major cloud providers (AWS, Azure, or GCP).
+
+
+ For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job\-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full\-time employees are also eligible for equity compensation and for benefits as described on
+ **this page** 
+ .
    
 
   
 
-* Ranking and matching systems that determine which candidates and opportunities are surfaced
-* Models for recommendation, personalization, and marketplace optimization
-* Retrieval, scoring, and decision pipelines operating at global scale
-* Feedback loops that learn from downstream hiring outcomes, not just top\-of\-funnel engagement
-* Real\-time and batch inference systems embedded in product\-critical workflows
-
-
- Example Problems
+ Annual Salary Range
    
 
   
 
-* Improve candidate\-job matching using embeddings, structured attributes, and behavioral signals
-* Optimize ranking toward long\-term hiring outcomes under delayed and incomplete labels
-* Design models that balance marketplace objectives such as fill rate, quality, speed, and conversion
-* Build systems for candidate allocation, opportunity routing, and liquidity optimization
-* Develop evaluation and experimentation frameworks that connect model performance to business results
-
-
- What We're Looking For
+ $196,750—$243,290 USD
    
 
   
 
-* Strong track record of shipping ML systems into production
-* Experience with ranking, recommendation, search, matching, or marketplace problems
-* Good judgment on model design, objective functions, evaluation, and tradeoffs
-* Comfort working across the full applied ML stack: data, features, training, inference, and iteration
-* Strong engineering fundamentals and a bias toward simple, robust systems
-
-
- Why This Role
+ Roles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).
    
 
   
 
- This role sits on a core decision layer of the product. Your work will directly shape how talent is discovered, matched, and hired, and will influence fundamental marketplace outcomes across quality, speed, and revenue.
+ Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
    
 
   
 
- Tech Stack
-   
-
-  
-
- Python, Go, embeddings, fine\-tuning, RAG, Kafka, Postgres, Redis, Elasticsearch, Kubernetes, Terraform
-   
-
-  
-
-**Benefits**
-* Bi\-annual performance bonus structure
-* Generous equity grant vested over 4 years
-* Up to $15k Relocation bonus
-* $10K housing bonus (if you live within 0\.5 miles of our office)
-* $1\.5K monthly stipend for meals
-* Free Equinox membership
-* $200 monthly laundry reimbursement
-* $200 monthly personal wellness reimbursement
-* Health, Dental, Vision insurance
-
-
- Compensation Range: $130K \- $500K</description>
+ For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H\-1B sponsorship at this time.</description>
         <pubDate>2026-07-22</pubDate>
     </item>
     
     <item>
-        <title>Machine Learning Engineer, Marketplace Optimization - DoorDash</title>
-        <link>https://www.linkedin.com/jobs/view/4356782624</link>
-        <description>**About The Team**
- The mission of the Marketplace Optimization team is to ensure we maintain a healthy Ads Marketplace across all our verticals for both search (query context) and discovery experiences while fulfilling the requirements of all players in this marketplace.
+        <title>[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career - Roblox</title>
+        <link>https://www.linkedin.com/jobs/view/4434350172</link>
+        <description>Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
    
 
   
 
- Marketplace Optimization is a critical part of the Ads Delivery funnel with a broad charter responsible for Bidding, Auction Design, Budget Pacing, Forecasting, and Ads Experimentation. Our work directly shapes advertiser experience, consumer experience, and marketplace balance. We leverage artificial intelligence and advanced ML, deep learning techniques to power decision\-making in real time — from optimizing ad auctions to generating the most efficient bids and pacing budgets dynamically. These models sit at the heart of DoorDash’s ad delivery and play a pivotal role in improving the efficiency, fairness, and scalability of our marketplace.
+ At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
    
 
   
 
- The opportunity is massive as DoorDash expands into new verticals like Grocery and Retail while building unique innovative ad products to leverage the closed loop marketplace.
+ A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
    
 
   
 
-**About The Role**
- We’re looking for a Machine Learning Engineer to help design, build, optimize and scale large\-scale ML systems within the Ads Delivery funnel.
+**Team**
+* Creator Services Machine Intelligence Team: The Machine Intelligence team is building an NPC system that can (1\) play any Roblox game and (2\) perform real\-time inference efficiently enough to support deployment to all Roblox players.
+* ML Platform Team: The Foundation AI Group is on a mission to establish Roblox as the standard for 3D foundational models (3DFMs), democratizing creation by making it simple for anyone to generate high\-quality, immersive 3D experiences using AI. The AI Platform team is a foundational part of this vision, supporting hundreds of ML use cases and billions of inferences daily across Discovery, Safety, Engine, and more. We are seeking exceptional PhD new graduates to drive innovation across three critical areas: AI Platform, Distributed Inference Systems.
+
+
+**What You Will Do**
+ As a Senior Machine Learning Engineer, you will be a key contributor to building the cutting\-edge systems that power AI at Roblox.
    
 
   
 
-* Design, build, and deploy ML models and pipelines for pacing, bidding, auction and targeting optimization.
-* Collaborate with Data Science and Product teams to develop and evaluate new algorithms through rigorous experimentation.
-* Improve and scale existing ML infrastructure and data pipelines in partnership with Platform and Infra teams.
-* Write high\-quality, maintainable code and participate in system design and peer reviews.
-* Learn from senior engineers and contribute to technical discussions that shape the team’s roadmap.
-* Partner with Data Science and Marketing to design and execute lift tests; collaborate with Platform teams on budget A/B testing and evaluation framework.
+**Creator Services Machine Intelligence Team**
+* Develop Scale Data Pipelines: Design, build and maintain robust data pipelines to collect complex 3D game states and real\-time player actions across the platform.
+* Train Novel Architectures: Solve the feature extraction across games for NPC model in a general and scalable way and drive model training speed for novel, sophisticated deep learning architectures.
+* Optimize Real\-Time Inference: Engineer high\-performance model inference solutions to support the seamless deployment of 10s to 100s of autonomous NPCs in real\-time environments.
 
 
- This is a high\-impact role for someone who enjoys combining economic intuition, large\-scale ML modeling, and applied engineering to solve complex real\-world optimization problems.
+**ML Platform Team**
+**Track 1: AI Platform Projects**
+* Pioneer next\-generation AI tooling to enhance the efficiency, cost, and usability of ML@Roblox.
+* Build and maintain core platform components: Serving Layer, Model Registry, Pipeline Orchestrator, and Training/Inference control planes.
+* Design great developer experiences (paved\-road templates, tooling, visualizations) to reduce time\-to\-production and ensure foundational AI systems are scalable and reliable.
+
+
+**Track 2: Distributed Inference \&amp; Systems Optimization**
+* Architect and implement scalable distributed inference systems for efficiently serving LLMs and Large Recommender Models at massive scale.
+* Optimize our inference engine to serve millions of QPS at low latency.
+* Conduct deep, low\-level performance analysis and optimize ML models (using techniques like continuous batching, speculative decoding, and quantization) and systems on GPU architectures to maintain peak performance and stability.
+
+
+**You Have**
+* Possessing or pursuing a Ph.D. in Computer Science, Computer Engineering, Mathematics, Statistics, or a related technical field, with a thesis aligned to Roblox’s research areas.
+* Built end\-to\-end ML pipelines and managed model inference and deployment.
+* Experience with novel datasets, and building real\-world agentic applications.
+* Scaled high\-performance, high\-availability architectures.
+* Handled infrastructure using Kubernetes and major cloud providers (AWS, Azure, or GCP).
+
+
+ For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job\-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full\-time employees are also eligible for equity compensation and for benefits as described on
+ **this page** 
+ .
    
 
   
 
- You’re excited about this opportunity because you will…
+ Annual Salary Range
    
 
   
 
-* Own impactful ML systems: Build and improve models that directly have a large impact on top and bottom line financials.
-* Drive experimentation: Rapidly test hypotheses via robust sequential experiments; measure and explain your models’ impact on marketplace KPIs
-* Optimize at scale: Work with one of the largest delivery datasets, building optimization pipelines that consider budget, fairness, assignment rates, and more
-* Collaborate cross\-functionally: Partner with engineering, analytics, product, and operations to iterate quickly, moving models from prototype to production
-* Shape the future: We're one of the fastest growing Ads platforms in the world and we're looking to take that even further!
-
-
-**We’re Excited About You Because You Have…**
-* B.S., M.S. or Ph.D. in Computer Science, Machine Learning, Statistics, or a related field.
-* Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software
-* Industry experience building or maintaining machine learning systems in production.
-* Solid understanding of machine learning fundamentals, statistics, and data modeling.
-* Strong programming skills in Python, Java, or C\+\+, and experience with ML frameworks such as TensorFlow, PyTorch, or XGBoost.
-* Excellent communication and collaboration skills — comfortable working with cross\-functional partners in Product, DS, and Engineering.
-* Curiosity and a growth mindset — motivated to learn, iterate quickly, and take ownership of impactful projects.
-* Familiarity with auction systems, bidding, forecasting, or budget optimization (or other experience in ads or marketplaces) is a plus.
-* Familiarity with experimentation science, including experience designing lift tests; marketplace incrementality experience is a plus.
-
-
-**Notice Regarding Use of AI and Automated Tools:** 
- To streamline our hiring process, DoorDash utilizes an automated recruitment tool called Gem.
+ $196,750—$243,290 USD
    
 
   
 
-**How it works:** 
- Gem assists our recruiting team by evaluating job related qualifications and characteristics in connection with hiring. The tool is designed and used to support \- rather than replace \- human decision\-making; trained personnel make final decisions with meaningful human review and oversight, and DoorDash does not use Gem or other AI\-enabled tool in a manner that has the effect of subjecting applicants or employees to discrimination based on any protected characteristic or proxy or for engaging in any protected activity under applicable law.
+ Roles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).
    
 
   
 
-**Data Retention, Privacy \&amp; Bias Audit:** 
- Data collected during this process is retained in accordance with our Candidate Privacy Policy and applicable state laws. In compliance with New York City Local Law 144, the independent bias audit summary for Gem is publicly available for review at our Careers Page.
+ Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
    
 
   
 
- Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
-   
-
-  
-
- We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024\.
-   
-
-  
-
- The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey
-   
-
-  
-
-**Compensation**
- The successful candidate's starting pay will fall within the pay range listed below and is determined based on job\-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market\-dependent and may be modified in the future.
-   
-
-  
-
- In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
-   
-
-  
-
- DoorDash cares about you and your overall well\-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family\-forming assistance, and a mental health program, among others.
-   
-
-  
-
- To learn more about our benefits, visit our careers page here.
-   
-
-  
-
-**See Below For Paid Time Off Details**
-* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
-* For hourly roles: vacation accrued at about 1 hour for every 25\.97 hours worked (e.g. about 6\.7 hours/month if working 40 hours/week; about 3\.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5\.8 hours/month if working 40 hours/week; about 2\.9 hours/month if working 20 hours/week).
-
-
-**The national base pay ranges for this position within the United States, including Illinois and Colorado.**
- I4
-   
-
-  
-
- $137,100—$201,600 USD
-   
-
-  
-
- I5
-   
-
-  
-
- $167,800—$246,800 USD
-   
-
-  
-
- I6
-   
-
-  
-
- $203,500—$299,300 USD
-   
-
-  
-
-**About DoorDash**
- At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—f</description>
+ For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H\-1B sponsorship at this time.</description>
         <pubDate>2026-07-22</pubDate>
     </item>
     
@@ -2854,405 +2408,159 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Staff Machine Learning Engineer (Pricing) - Help Bali</title>
-        <link>https://www.linkedin.com/jobs/view/4443561803</link>
-        <description>**Want to help us help others? We’re hiring!**
- GoFundMe is the world’s most powerful community for good, dedicated to helping people help each other. By uniting individuals and nonprofits in one place, GoFundMe makes it easy and safe for people to ask for help and support causes – for themselves and each other. Together, our community has raised more than $40 billion since 2010\.
+        <title>Machine Learning Engineer, Marketplace Optimization - DoorDash</title>
+        <link>https://www.linkedin.com/jobs/view/4356682801</link>
+        <description>**About The Team**
+ The mission of the Marketplace Optimization team is to ensure we maintain a healthy Ads Marketplace across all our verticals for both search (query context) and discovery experiences while fulfilling the requirements of all players in this marketplace.
    
 
   
 
- Join GoFundMe as our next
- **Staff Machine Learning Engineer (Pricing)** 
- . In this role, you will design, develop, and deploy machine learning systems that power pricing and monetization programs across GoFundMe such as personalized donation and checkout experiences, donation yield optimization (one\-time and recurring), recurring donor LTV optimization, fundraising goal suggestions, and more. This role requires strong end\-to\-end execution and deep expertise in building production ML systems (data → training → online inference → measurement) with rigorous experimentation and monitoring.
+ Marketplace Optimization is a critical part of the Ads Delivery funnel with a broad charter responsible for Bidding, Auction Design, Budget Pacing, Forecasting, and Ads Experimentation. Our work directly shapes advertiser experience, consumer experience, and marketplace balance. We leverage artificial intelligence and advanced ML, deep learning techniques to power decision\-making in real time — from optimizing ad auctions to generating the most efficient bids and pacing budgets dynamically. These models sit at the heart of DoorDash’s ad delivery and play a pivotal role in improving the efficiency, fairness, and scalability of our marketplace.
    
 
   
 
- Candidates considered for this role will be located in the San Francisco, Bay Area. There will be an in\-office requirement of 3x a week.
+ The opportunity is massive as DoorDash expands into new verticals like Grocery and Retail while building unique innovative ad products to leverage the closed loop marketplace.
    
 
   
 
-**The Job…**
-* Own end\-to\-end ML systems for pricing optimization, from problem framing and metric definition (e.g., donation yield, conversion, retention, LTV) to model development, launch, and iteration in production.
-* Design and implement backend model pipelines including feature engineering, training, and evaluation.
-* Build low\-latency real\-time inferencing services, including API design, caching strategies, model packaging, and deployment on Kubernetes.
-* Collaborate with teams to develop instrumentation and event pipelines to capture user and campaign activity required for training and evaluation (e.g., impression/click/submit, donation amount, tip amount, recurring enrollment/cancellation), ensuring schema quality, lineage, and privacy\-by\-design.
-* Apply causal and experimental methodologies to measure impact and avoid biased optimization, including online A/B testing design, guardrail metrics, sequential testing considerations, and counterfactual/causal approaches when needed.
-* Develop optimization approaches appropriate for pricing\-like problems, such as uplift modeling, bandits, constrained optimization, calibration, and multi\-objective tradeoffs (e.g., yield vs. donor trust, short\-term conversion vs. long\-term retention).
-* Establish ML operational excellence by implementing model observability (latency, errors, drift, calibration, business KPI deltas), automated retraining triggers, rollback strategies, and incident response playbooks for pricing systems.
-* Partner cross\-functionally with Product, Engineering, Design, and Legal/Privacy stakeholders to translate business goals into measurable technical deliverables and ship safely.
-* Mentor and set technical direction for other engineers and scientists through design reviews, architecture decisions, and shared best practices for production ML in monetization.
-* Employ a diverse set of tools and platforms, including Python, AWS, Databricks, Docker, Kubernetes, FastAPI, Terraform, Snowflake, and GitHub, to develop, deploy, and maintain scalable and robust machine learning systems. (Full\-stack experience—e.g., integrating with web clients and experimentation frameworks—is a plus.)
-
-
-**You…**
-* 7\+ years of hands\-on experience building and shipping production machine learning systems, with demonstrated ownership of backend services and ML pipelines in a high\-availability environment.
-* Strong proficiency in Python and ML libraries/frameworks such as PyTorch, TensorFlow, Scikit\-learn, plus strong software engineering fundamentals (testing, code review, CI/CD, API design, performance, and reliability).
-* Demonstrated experience in pricing/monetization or growth optimization domains preferred.
-* Experience designing and deploying real\-time model serving (sub\-100ms to low\-hundreds ms latency targets), including containerization, scalable inference, feature retrieval, and safe rollout strategies (canaries, shadowing, backward\-compatible schema evolution).
-* Strong data engineering fluency: building reliable datasets and features using SQL, Spark/Databricks, and warehouse technologies (e.g., Snowflake), with an understanding of event semantics, identity resolution, and data quality controls.
-* Working knowledge of experiment design and causal measurement for monetization systems, including pitfalls such as selection bias, interference, and delayed outcomes; familiarity with uplift modeling, bandits, or constrained optimization is a strong plus.
-* Experience implementing ML monitoring for both technical and business metrics (drift, calibration, segment performance, latency, error budgets) and operating models in production.
-* Ability to break down ambiguous, high\-impact problems, define crisp interfaces and success metrics, and deliver iteratively with strong stakeholder communication.
-* Strong leadership and mentoring skills and a proven ability to raise the bar on architecture, engineering quality, and operational rigor for ML\-powered pricing systems.
-* Advanced degree (Master’s or Ph.D.) in Computer Science, Statistics, Data Science, or a related technical field is preferred.
-* Sense of humor is optional but appreciated.
-
-
-**Why you’ll love it here**
-* Make an Impact: Be part of a mission\-driven organization making a positive difference in millions of lives every year.
-* Innovative Environment: Work with a diverse, passionate, and talented team in a fast\-paced, forward\-thinking atmosphere.
-* Collaborative Team: Join a fun and collaborative team that works hard and celebrates success together.
-* Competitive Benefits: Enjoy competitive pay and comprehensive healthcare benefits.
-* Holistic Support: Enjoy financial assistance for things like hybrid work, family planning, along with generous parental leave, flexible time\-off policies, and mental health and wellness resources to support your overall well\-being.
-* Growth Opportunities: Participate in learning, development, and recognition programs to help you thrive and grow.
-* Commitment to DEI: Contribute to diversity, equity, and inclusion through ongoing initiatives and employee resource groups.
-* Community Engagement: Make a difference through our volunteering program.
-
-
-**We live by our core values:** 
-*impatient to be great* 
- ,
- *find a way* 
- ,
- *earn trust every day* 
- ,
- *fueled by purpose* 
- . Be a part of something bigger with us!
+**About The Role**
+ We’re looking for a Machine Learning Engineer to help design, build, optimize and scale large\-scale ML systems within the Ads Delivery funnel.
    
 
   
 
- GoFundMe is proud to be an equal opportunity employer that actively pursues candidates of diverse backgrounds and experiences. We do not discriminate on the basis of race, color, religion, ethnicity, nationality or national origin, sex, sexual orientation, gender, gender identity or expression, pregnancy status, marital status, age, medical condition, mental or physical disability, or military or veteran status.
+* Design, build, and deploy ML models and pipelines for pacing, bidding, auction and targeting optimization.
+* Collaborate with Data Science and Product teams to develop and evaluate new algorithms through rigorous experimentation.
+* Improve and scale existing ML infrastructure and data pipelines in partnership with Platform and Infra teams.
+* Write high\-quality, maintainable code and participate in system design and peer reviews.
+* Learn from senior engineers and contribute to technical discussions that shape the team’s roadmap.
+* Partner with Data Science and Marketing to design and execute lift tests; collaborate with Platform teams on budget A/B testing and evaluation framework.
+
+
+ This is a high\-impact role for someone who enjoys combining economic intuition, large\-scale ML modeling, and applied engineering to solve complex real\-world optimization problems.
    
 
   
 
- The annual U.S. salary range for this full\-time position is $215,000 \- $322,000\. The company also offers equity and other benefits to employees, including healthcare, dental, vision, life insurance and 401(k) saving program. In addition to this wage, there are geolocation differentials that will increase pay depending on the work location. Additionally pay may vary depending on other factors including skills, experience, education, or training. Your recruiter can share more about the
- **specific total compensation package** 
- based on your location during the hiring process.
+ You’re excited about this opportunity because you will…
    
 
   
 
- If you require a reasonable accommodation to complete a job application or a job interview or to otherwise participate in the hiring process, please contact us at accommodationrequests@gofundme.com.
+* Own impactful ML systems: Build and improve models that directly have a large impact on top and bottom line financials.
+* Drive experimentation: Rapidly test hypotheses via robust sequential experiments; measure and explain your models’ impact on marketplace KPIs
+* Optimize at scale: Work with one of the largest delivery datasets, building optimization pipelines that consider budget, fairness, assignment rates, and more
+* Collaborate cross\-functionally: Partner with engineering, analytics, product, and operations to iterate quickly, moving models from prototype to production
+* Shape the future: We're one of the fastest growing Ads platforms in the world and we're looking to take that even further!
+
+
+**We’re Excited About You Because You Have…**
+* B.S., M.S. or Ph.D. in Computer Science, Machine Learning, Statistics, or a related field.
+* Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software
+* Industry experience building or maintaining machine learning systems in production.
+* Solid understanding of machine learning fundamentals, statistics, and data modeling.
+* Strong programming skills in Python, Java, or C\+\+, and experience with ML frameworks such as TensorFlow, PyTorch, or XGBoost.
+* Excellent communication and collaboration skills — comfortable working with cross\-functional partners in Product, DS, and Engineering.
+* Curiosity and a growth mindset — motivated to learn, iterate quickly, and take ownership of impactful projects.
+* Familiarity with auction systems, bidding, forecasting, or budget optimization (or other experience in ads or marketplaces) is a plus.
+* Familiarity with experimentation science, including experience designing lift tests; marketplace incrementality experience is a plus.
+
+
+**Notice Regarding Use of AI and Automated Tools:** 
+ To streamline our hiring process, DoorDash utilizes an automated recruitment tool called Gem.
    
 
   
 
-**Global Data Privacy Notice For Job Candidates And Applicants**
- Depending on your location, the General Data Protection Regulation (GDPR) or certain US privacy laws may regulate the way we manage the data of job applicants. Our full notice o</description>
-        <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, Growth - Quince</title>
-        <link>https://www.linkedin.com/jobs/view/4442695496</link>
-        <description>**ABOUT QUINCE**
- Founded in 2018, Quince was built to challenge the idea that nice things have to cost a lot. Our mission is simple: to make really high quality essentials for really low prices, produced fairly and sustainably. We believe everyone deserves exceptional craftsmanship and timeless design without the traditional markups. Quince is a direct\-to\-consumer (DTC) model that cuts out middlemen and leverages just\-in\-time manufacturing to minimize waste and maximize value.
+**How it works:** 
+ Gem assists our recruiting team by evaluating job related qualifications and characteristics in connection with hiring. The tool is designed and used to support \- rather than replace \- human decision\-making; trained personnel make final decisions with meaningful human review and oversight, and DoorDash does not use Gem or other AI\-enabled tool in a manner that has the effect of subjecting applicants or employees to discrimination based on any protected characteristic or proxy or for engaging in any protected activity under applicable law.
    
 
   
 
- Quince is a tech company disrupting the retail industry by putting AI, analytics and automation at the center of everything we do. Our unwavering commitment to excellence and company values guide our teams and actions:
+**Data Retention, Privacy \&amp; Bias Audit:** 
+ Data collected during this process is retained in accordance with our Candidate Privacy Policy and applicable state laws. In compliance with New York City Local Law 144, the independent bias audit summary for Gem is publicly available for review at our Careers Page.
    
 
   
 
-* Customer First: We prioritize customer satisfaction in every decision.
-* High Quality: True quality means premium materials and rigorous production standards you can feel good about.
-* Essential Design: We focus on timeless, functional essentials instead of chasing trends.
-* Always a Better Deal: Innovation and transparency ensure value for both customers and partners.
-* Social \&amp; Environmental Responsibility: We commit to sustainable materials, ethical production, and fair wages.
-
-
- Quince partners with world\-class manufacturers across the globe and serves millions of customers. With strong investor backing and a focus on sustainable growth, we are a company that is rapidly scaling while maintaining a commitment to quality, simplicity, and radical price transparency.
+ Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
    
 
   
 
-**OUR TEAM AND SUCCESS**
- At Quince, you will be part of a high\-performing team that is redefining what quality, value, and sustainability mean in modern retail. We are a destination for builders, innovators, and operators to come together and challenge the status quo. Our collective ambition is bold. We are creating an entirely new category and customer experience – one that democratizes luxury and provides high quality products at radically low prices. That mission demands a world\-class team committed to excellence.
+ We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024\.
    
 
   
 
- If you are motivated by impact, growth, and purpose, you will find a strong sense of belonging at Quince.
+ The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey
    
 
   
 
-**THE ROLE**
-**Data Scientist, Growth**
- We are seeking a
- **Data Scientist, Growth** 
- to join our growing team. In this high\-exposure role, you will own the machine\-driven decision engines and automated bidding infrastructure guiding a massive global performance marketing spend across 40\+ business units. You will have the 0\-to\-1 autonomy to build end\-to\-end production models and write the core software fueling our growth engine. Blending rigorous applied research with immediate technical execution, this position offers a direct line to executive leadership and a clear, measurable view of your impact on our top and bottom lines.
+**Compensation**
+ The successful candidate's starting pay will fall within the pay range listed below and is determined based on job\-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market\-dependent and may be modified in the future.
    
 
   
 
-**Responsibilities**
-* Work on the core automated bidding infrastructure and allocation algorithms to model where the next advertising dollar yields maximum return.
-* Build end\-to\-end production machine learning models from 0 to 1 with immediate, high\-visibility impact on the company's top line.
-* Design, build, and productionalize autonomous models and production\-level data pipelines that automate operational business logic and spend efficiency.
-* Manage ad platform integrations, handle bidding automation, and optimize complex marketing tech workflows.
-* Work on automated processes for design and creative production
-* Function as a deep, independent individual contributor digging deep into complex systems and tackling loosely defined optimization and statistical problems.
-* Collaborate cross\-functionally with marketing, product, and data science teams while maintaining high\-visibility access to executive leadership.
-
-
-**Qualifications**
-**Required**
-* 2\+ years of technical experience, including at least 1 year of corporate/industry experience.
-* Technical proficiency in Python and SQL.
-* Proven background as a Data Scientist, Machine Learning Engineer, or ML Researcher with hands\-on experience independently pushing machine learning models into a live production environment.
-* Deep analytical and problem\-solving strengths with a demonstrated history of working independently on loosely defined optimization and statistical problems.
-* Excellent collaboration and communication skills to work effectively with cross\-functional partners and leadership teams.
-* Ability to dig deep into complex systems within a fast\-paced, high\-leverage entrepreneurial environment without a massive supporting infrastructure.
-
-
-**Preferred**
-* Direct domain experience in ad tech infrastructure, automated campaign management, digital advertising, performance marketing tech, programmatic bidding optimization or automated investment platforms.
-* Experience working within a direct\-to\-consumer, retail, or e\-commerce environment, particularly owning data pipelines for real\-time bid pricing or user attribution platforms.
-* Practical engineering exposure to large language models (such as Claude) and working with vector spaces.
-
-
- All posted ranges are reflective of base salary and may vary depending upon experience level and location. Bonus and equity may also be provided for eligible roles.
+ In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
    
 
   
 
- Pay Range: $171,000 USD \- $198,000 USD
+ DoorDash cares about you and your overall well\-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family\-forming assistance, and a mental health program, among others.
    
 
   
 
-**WHY QUINCE?**
- Joining Quince means being part of a mission\-driven team reshaping retail. You will work alongside talented colleagues, tackle meaningful challenges, and contribute to building a more sustainable, accessible future for customers and partners alike.
+ To learn more about our benefits, visit our careers page here.
    
 
   
 
-**EQUAL OPPORTUNITY \&amp; HIRING INTEGRITY**
- Quince provides equal employment opportunities to all employees and applications for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran or military status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+**See Below For Paid Time Off Details**
+* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+* For hourly roles: vacation accrued at about 1 hour for every 25\.97 hours worked (e.g. about 6\.7 hours/month if working 40 hours/week; about 3\.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5\.8 hours/month if working 40 hours/week; about 2\.9 hours/month if working 20 hours/week).
+
+
+**The national base pay ranges for this position within the United States, including Illinois and Colorado.**
+ I4
    
 
   
 
- Quince is committed to providing reasonable accommodations to qualified individuals with disabilities. If you need a reasonable accommodation to complete your application or to perform the essential functions of a role at Quince, please let us know by completing this accommodation form. We review all requests individually and will work with you to determine appropriate accommodations on a case\-by\-case basis.
+ $137,100—$201,600 USD
    
 
   
 
- Employment is contingent upon successful completion of a background check. Quince will conduct background checks in compliance with applicable federal, state, and local laws.
+ I5
    
 
   
 
-*Security Advisory: Beware of Frauds*
- At Quince, we're dedicated to recruiting top talent who share our drive for innovation. To safeguard candidates, Quince emphasizes legitimate recruitment practices. Initial communication is primarily via official Quince email addresses and LinkedIn; beware of deviations. Personal data and sensitive information will not be solicited during the application phase. Interviews are conducted via phone, in person, or through the approved platforms Google Meets or Zoom—never via messaging apps or other calling services. Offers are merit\-based, communicated verbally, and followed up in writing. If personal information is requested to initiate the hiring process, rest assured it will be through secure and protected means.</description>
-        <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Machine Learning Engineer - Roku</title>
-        <link>https://www.linkedin.com/jobs/view/4425670452</link>
-        <description>Teamwork makes the stream work.
- 
-  
- 
+ $167,800—$246,800 USD
+   
 
+  
 
-**Roku is changing how the world watches TV** 
+ I6
+   
 
- Roku is the \#1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.
- 
+  
 
+ $203,500—$299,300 USD
+   
 
+  
 
- From your first day at Roku, you'll make a valuable \- and valued \- contribution. We're a fast\-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.
- 
-
-
-
-  
- 
-
-
-
- About the team
- 
-
-  
- 
-
-
- The Advertising Performance group focuses on performance for all participants in the Advertising ecosystem \- Advertisers, Publishers, and Roku. The systems and solutions span multiple disciplines and technologies to perform real\-time multi\-objective optimization across distributed systems at large scale and with low latency. We use Machine Learning, Reinforcement Learning, AI, Control and Optimization Systems, and Auction Dynamics to solve a large set of complex problems. At the core of this is our Machine Learning, Experimentation, and Inference Platform that powers the entire landscape, which we continuously evolve over time.
- 
-
-  
- 
-
-
-
-
-
-  
- 
-
-  
- 
-
-
-
-
- About the role
- 
-
-  
- 
-
-
- We are seeking a talented and experienced Senior Software Engineer, MLOps/DevOps, to join the Advertising Performance team and play a critical role in supporting and scaling our Machine Learning infrastructure. The ideal candidate has a strong background in DevOps/SRE practices, cloud infrastructure management, and MLOps tooling — with a passion for building platforms that accelerate ML experimentation and deployment at internet scale.
- 
-
-  
- 
-
-
-
-
-
- You will partner closely with ML Scientists and Engineers to streamline the end\-to\-end ML lifecycle across training, evaluation, deployment, and monitoring — on top of a modern, cloud\-native stack running on GCP and AWS using Kubernetes, Apache Airflow, Spark, Ray, MLflow, Chronon, etc.
- 
-
-
-
-
-
-
-
- For California Only \- The estimated annual salary for this position is between $148,750 \- $361,000 annually.
- 
-
-
-
- Compensation packages are based on factors unique to each candidate, including but not limited to skill set, certifications, and specific geographical location.
- 
-
-
-
- This role is eligible for health insurance, equity awards, life insurance, disability benefits, parental leave, wellness benefits, and paid time off.
- 
-
-
-  
- 
-
-
-
-
-  
- 
- What you’ll be doing
- 
-
-  
- 
-* Lead the design and operation of scalable, production\-grade cloud infrastructure for ML workloads across AWS and GCP, including GPU/TPU\-based training and inference environments
-* Architect and improve CI/CD systems for ML models and platform services to enable fast, reliable, and safe production releases
-* Own and evolve low\-latency infrastructure for real\-time model inference, including KV store and vector databases
-* Define and enforce observability standards for ML systems, including model performance monitoring, drift detection, capacity planning, and pipeline health metrics
-* Participate in on\-call rotation, leading incident response and root\-cause analysis for critical ML training and serving infrastructure
-* Partner with data scientists and ML engineers to improve platform usability, accelerate model iteration, and implement strong MLOps and SRE best practices
-* Champion operational excellence across ML infrastructure through automation, resilience engineering, disaster recovery planning, and continuous improvement
-
-
-
-  
- 
-
-
-
- We’re excited if you have
- 
-
-  
- 
-* BS or MS in Computer Science, Engineering, or a related quantitative field
-* 8\+ years of experience in DevOps, SRE, or ML infrastructure, including 4\+ years supporting large\-scale ML or AI systems
-* Strong programming skills in Python, and/or Scala, or Java for platform automation and tooling
-* Deep experience with Kubernetes and container orchestration on GCP (GKE) and/or AWS (EKS)
-* Expertise with NoSQL or low\-latency data stores such as Aerospike or similar technologies
-* Hands\-on experience with data and orchestration technologies such as Apache Spark, Apache Flink, Apache Airflow, and Kafka
-* Experience building and maintaining CI/CD systems using tools such as Jenkins or GitLab Runner
-* Familiarity with feature engineering platforms such as Chronon and model lifecycle tools such as MLflow
-* Strong infrastructure\-as\-code experience with Terraform or similar tooling
-* Experience with observability platforms such as Prometheus, Grafana, and Datadog
-* Excellent communication and cross\-functional collaboration skills
-* Experience in the Advertising domain is a plus
-
-
-
-
-
-  
- 
-
-
-**Our Hybrid Work Approach** 
-
- Roku fosters an inclusive and collaborative environment where teams work in the office Monday through Thursday. Fridays are flexible for remote work except for employees whose roles are required to be in the office five days a week or employees who are in offices with a five day in office policy.
- 
-
-
-
-  
- 
-
-
-**Benefits** 
-
- Roku is committed to offering a diverse range of benefits as part of our compensation package to support our employees and their families. Our comprehensive benefits include global access to mental health and financial wellness support and resources. Local benefits include statutory and voluntary benefits which may include healthcare (medical, dental, and vision), life, accident, disability, commuter, and retirement options (401(k)/pension). Employees are supported in taking time off, in accordance with local leave policies and other personal needs to support their evolving work and life needs. It's important to note that not every benefit is available in all locations or for every role. For details specific to your location, please consult with your recruiter.
- 
-
-
-
-  
- 
-
-
-**Accommodations** 
-
- Roku welcomes applicants of all backgrounds and provides reasonable accommodations and adjustments in accordance with applicable law. If you require reasonable accommodation at any point in the hiring process, please direct your inquiries to EmployeeRelations@Roku.com.
- 
-
-
-
-  
- 
-
-
-**The Roku Culture** 
-
- Roku is a great place for people who want to work in a fast\-paced environment where everyone is focused on the company's success rather than their own. We try to surround ourselves with people who are great at their jobs, who are easy to work with, and who keep their egos in check. We appreciate a sense of humor. We believe a fewer number of very talented folks can do more for less cost than a larger number of less talented teams. We're independent thinkers with big ideas who act boldly, move fast and accomplish extraordinary things through collaboration and trust. In short, at Roku you'll be part of a company that's changing how the world watches TV.
- 
-
-
-
- We have a unique culture that we are proud of. We think of ourselves primarily as problem\-solvers, which itself is a two\-part idea. We come up with the solution, but the solution isn't real until it is built and delivered to the customer. That penchant for action gives us a pragmatic approach to innovation, one that has served us well since 2002\.
- 
-
-
-
- To learn more about Roku, our global footprint, and how we've grown, visit https://www.weareroku.com/factsheet.
- 
-
-
-
- By providing your information, you acknowledge that you want Roku to contact you about job roles, that you have read Roku's Applicant Privacy Notice, and understand that Roku will use your information as described in that notice. If you do not wish to receive any communications from Roku regarding this role or similar roles in the future, you may unsubscribe at any time by emailing</description>
+**About DoorDash**
+ At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—f</description>
         <pubDate>2026-07-21</pubDate>
     </item>
     
@@ -3418,163 +2726,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Machine Learning Engineer, Marketplace Optimization - DoorDash</title>
-        <link>https://www.linkedin.com/jobs/view/4356682801</link>
-        <description>**About The Team**
- The mission of the Marketplace Optimization team is to ensure we maintain a healthy Ads Marketplace across all our verticals for both search (query context) and discovery experiences while fulfilling the requirements of all players in this marketplace.
-   
-
-  
-
- Marketplace Optimization is a critical part of the Ads Delivery funnel with a broad charter responsible for Bidding, Auction Design, Budget Pacing, Forecasting, and Ads Experimentation. Our work directly shapes advertiser experience, consumer experience, and marketplace balance. We leverage artificial intelligence and advanced ML, deep learning techniques to power decision\-making in real time — from optimizing ad auctions to generating the most efficient bids and pacing budgets dynamically. These models sit at the heart of DoorDash’s ad delivery and play a pivotal role in improving the efficiency, fairness, and scalability of our marketplace.
-   
-
-  
-
- The opportunity is massive as DoorDash expands into new verticals like Grocery and Retail while building unique innovative ad products to leverage the closed loop marketplace.
-   
-
-  
-
-**About The Role**
- We’re looking for a Machine Learning Engineer to help design, build, optimize and scale large\-scale ML systems within the Ads Delivery funnel.
-   
-
-  
-
-* Design, build, and deploy ML models and pipelines for pacing, bidding, auction and targeting optimization.
-* Collaborate with Data Science and Product teams to develop and evaluate new algorithms through rigorous experimentation.
-* Improve and scale existing ML infrastructure and data pipelines in partnership with Platform and Infra teams.
-* Write high\-quality, maintainable code and participate in system design and peer reviews.
-* Learn from senior engineers and contribute to technical discussions that shape the team’s roadmap.
-* Partner with Data Science and Marketing to design and execute lift tests; collaborate with Platform teams on budget A/B testing and evaluation framework.
-
-
- This is a high\-impact role for someone who enjoys combining economic intuition, large\-scale ML modeling, and applied engineering to solve complex real\-world optimization problems.
-   
-
-  
-
- You’re excited about this opportunity because you will…
-   
-
-  
-
-* Own impactful ML systems: Build and improve models that directly have a large impact on top and bottom line financials.
-* Drive experimentation: Rapidly test hypotheses via robust sequential experiments; measure and explain your models’ impact on marketplace KPIs
-* Optimize at scale: Work with one of the largest delivery datasets, building optimization pipelines that consider budget, fairness, assignment rates, and more
-* Collaborate cross\-functionally: Partner with engineering, analytics, product, and operations to iterate quickly, moving models from prototype to production
-* Shape the future: We're one of the fastest growing Ads platforms in the world and we're looking to take that even further!
-
-
-**We’re Excited About You Because You Have…**
-* B.S., M.S. or Ph.D. in Computer Science, Machine Learning, Statistics, or a related field.
-* Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software
-* Industry experience building or maintaining machine learning systems in production.
-* Solid understanding of machine learning fundamentals, statistics, and data modeling.
-* Strong programming skills in Python, Java, or C\+\+, and experience with ML frameworks such as TensorFlow, PyTorch, or XGBoost.
-* Excellent communication and collaboration skills — comfortable working with cross\-functional partners in Product, DS, and Engineering.
-* Curiosity and a growth mindset — motivated to learn, iterate quickly, and take ownership of impactful projects.
-* Familiarity with auction systems, bidding, forecasting, or budget optimization (or other experience in ads or marketplaces) is a plus.
-* Familiarity with experimentation science, including experience designing lift tests; marketplace incrementality experience is a plus.
-
-
-**Notice Regarding Use of AI and Automated Tools:** 
- To streamline our hiring process, DoorDash utilizes an automated recruitment tool called Gem.
-   
-
-  
-
-**How it works:** 
- Gem assists our recruiting team by evaluating job related qualifications and characteristics in connection with hiring. The tool is designed and used to support \- rather than replace \- human decision\-making; trained personnel make final decisions with meaningful human review and oversight, and DoorDash does not use Gem or other AI\-enabled tool in a manner that has the effect of subjecting applicants or employees to discrimination based on any protected characteristic or proxy or for engaging in any protected activity under applicable law.
-   
-
-  
-
-**Data Retention, Privacy \&amp; Bias Audit:** 
- Data collected during this process is retained in accordance with our Candidate Privacy Policy and applicable state laws. In compliance with New York City Local Law 144, the independent bias audit summary for Gem is publicly available for review at our Careers Page.
-   
-
-  
-
- Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
-   
-
-  
-
- We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024\.
-   
-
-  
-
- The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey
-   
-
-  
-
-**Compensation**
- The successful candidate's starting pay will fall within the pay range listed below and is determined based on job\-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market\-dependent and may be modified in the future.
-   
-
-  
-
- In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
-   
-
-  
-
- DoorDash cares about you and your overall well\-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family\-forming assistance, and a mental health program, among others.
-   
-
-  
-
- To learn more about our benefits, visit our careers page here.
-   
-
-  
-
-**See Below For Paid Time Off Details**
-* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
-* For hourly roles: vacation accrued at about 1 hour for every 25\.97 hours worked (e.g. about 6\.7 hours/month if working 40 hours/week; about 3\.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5\.8 hours/month if working 40 hours/week; about 2\.9 hours/month if working 20 hours/week).
-
-
-**The national base pay ranges for this position within the United States, including Illinois and Colorado.**
- I4
-   
-
-  
-
- $137,100—$201,600 USD
-   
-
-  
-
- I5
-   
-
-  
-
- $167,800—$246,800 USD
-   
-
-  
-
- I6
-   
-
-  
-
- $203,500—$299,300 USD
-   
-
-  
-
-**About DoorDash**
- At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—f</description>
-        <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
         <title>Machine Learning Engineer - Sift</title>
         <link>https://www.linkedin.com/jobs/view/4442794447</link>
         <description>**The Role:**
@@ -3725,69 +2876,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Machine Learning Engineer - TechDoQuest</title>
-        <link>https://www.linkedin.com/jobs/view/4440183762</link>
-        <description>Build and optimize RAG pipelines, vector databases, embeddings, and document\-processing workflows
- 
-
-
-
- Design agentic AI systems — including tool calling, orchestration, reasoning loops, and workflow automation
- 
-
-
-
- Develop Applied AI solutions that integrate with customer backend systems, APIs, and data sources
- 
-
-
-
- Implement AI services on Kubernetes, cloud environments, or customer\-controlled infrastructure
- 
-
-
-
- Work directly with customers to deliver high\-quality technical implementations, demos, and documentation
- 
-
-
-
- (Good to have) Integrate AI workflows with PLM systems or enterprise knowledge platforms
- 
-
-
-
-  
-
-
-
-
-
- REQUIRED SKILLS
- 
-
-
-
- Strong experience with LLMs and agent frameworks such as LangChain, LlamaIndex, or custom\-built solutions
- 
-
-
-
- Expertise in Python, vector databases (Elastic, Milvus, Pinecone, etc.), embeddings, and chunking strategies
- 
-
-
-
- Hands\-on experience with Kubernetes, Docker, and scalable API deployment
- 
-
-
-
- Ability to understand customer workflows and translate them into actionable technical solutions</description>
-        <pubDate>2026-07-20</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Machine Learning Engineer - Kikoff</title>
         <link>https://www.linkedin.com/jobs/view/4443010619</link>
         <description>**Kikoff: The Fintech Powering Financial Security at Scale**
@@ -3868,198 +2956,6 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
 
  Please reference the following for more information.</description>
         <pubDate>2026-07-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer, LLM Inference Optimization - GMI Cloud</title>
-        <link>https://www.linkedin.com/jobs/view/4442771622</link>
-        <description>About Us
- 
-
-
-
-**GMI Cloud** 
- is a fast\-growing AI infrastructure company backed by Headline VC and one of only seven cloud providers worldwide to earn NVIDIA's prestigious
- **Reference Platform Cloud Partner** 
- designation. We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to "build AI without limits," providing everything they need to prototype, train, and deploy AI models quickly and reliably.
- 
-
-
-
- About this role
- 
-
-
-
-  
-
-
-
-
-
- GMI Cloud is building the
- **leading inference optimization solution and the most advanced token platform** 
- in the global token market — and we are hiring world\-class Machine Learning Engineers to make GMI the new industry benchmark for LLM serving performance, cost efficiency, and production reliability.
- 
-
-
-
-  
-
-
-
-
-
- This role is for engineers who want to live at the frontier of LLM inference systems. You will drive the research, validation, and productionization of the most advanced inference optimization techniques, and turn them into real competitive advantage over top open\-source baselines (vLLM, SGLang, and so on). Our charter is not just to adopt what's published — it is to
- **define the recipes, ship the optimizations, and contribute back to the community** 
- that the rest of the industry follows.
- 
-
-
-
-  
-
-
-
-
-
- You will focus on B200\-first optimization, with support for H200 evolution, across core domains including quantization, speculative decoding, KV cache and memory management, prefill/decode disaggregation, and system\-level inference optimization. You will work closely with platform and infrastructure teams to transform cutting\-edge ideas into measurable gains in latency, throughput, cost efficiency, and production scalability.
- 
-
-
-
-  
-
-
-
-
-
- Key Responsibilities
- 
-
-
-* Drive frontier research and engineering in LLM inference optimization across one of the four focus tracks (Speculative Decoding, Quantization, PD Disaggregation, KV Cache \&amp; Memory) while contributing across the full optimization stack.
-* Develop next\-generation optimization strategies for large\-scale LLM serving across model execution, runtime systems, and production inference platforms — with B200 as the primary target and H200 as a continuing platform.
-* Advance state\-of\-the\-art techniques in
- **quantization** 
- (NVFP4 / MXFP4 / FP8, QAT),
- **speculative decoding** 
- (EAGLE\-3, MTP, DFlash, ModelOpt, SpecForge),
- **KV cache \&amp; memory management** 
- (LMCache / HiCache / NV KVBM, paged attention, prefix\-aware routing), and
- **PD disaggregation** 
- (NVIDIA Dynamo, KV\-aware router/planner, fault recovery).
-* Drive system\-level optimization across scheduling, batching, routing, gateway orchestration, adapter serving, and end\-to\-end inference efficiency.
-* Build scalable optimization frameworks, performance methodologies, and benchmark infrastructure that allow GMI to stay ahead of the industry as models, hardware, and serving patterns evolve.
-* Productionize cutting\-edge ideas into real customer workloads — measured by TTFT, ITL, throughput, goodput, tail latency, quality, and unit token cost.
-* Engage with and contribute to the open\-source community (vLLM, SGLang, TensorRT\-LLM, NVIDIA Dynamo / ModelOpt, FlashInfer, LMCache, etc.) — read upstream code, file issues, send PRs, and publish tech blogs and case studies.
-* Collaborate closely with platform, infrastructure, and product teams to make inference optimization a core technical advantage of GMI Cloud.
-
-
-
-  
-
-
-
-
-
- Required Skills
- 
-
-
-* Strong hands\-on experience with
- **LLM inference systems** 
- and performance optimization on modern GPUs.
-* Solid understanding of inference metrics and tradeoffs, including
- **TTFT, ITL, throughput, goodput, tail latency, GPU utilization, memory efficiency, and quality/cost tradeoffs** 
- .
-* Experience with one or more modern serving stacks such as
- **SGLang, vLLM, TensorRT\-LLM, NVIDIA Dynamo, or Triton** 
- .
-* Deep familiarity with GPU\-based inference, model serving architecture, and production bottlenecks around compute, memory bandwidth, KV\-cache behavior, and scheduling.
-* Demonstrable depth in at least one of the four focus areas: speculative decoding, quantization \&amp; precision, PD disaggregation, or KV cache \&amp; memory management.
-* Strong experimentation skills: able to design benchmarks, interpret results, debug regressions, and produce actionable conclusions rather than isolated microbenchmark wins.
-* Proficient with Claude Code at an advanced level — fluent with sub\-agents, MCP servers, hooks, custom slash commands, and skills — with practical experience leveraging them for rapid iteration, profiling, observability, and performance debugging.
-* Clear communication — able to explain technical tradeoffs to engineers and cross\-functional stakeholders, and willing to publish results externally.
-
-
-
-  
-
-
-
-
-
- Preferred Qualifications
- 
-
-
-* 2\+ years of hands\-on experience in
- **LLM inference optimization** 
- ,
- **ML systems optimization** 
- , or PhD degree in related areas.
-* Track record of large\-scale model serving optimization (latency reduction, throughput improvement, memory efficiency, cost\-performance tuning) in production.
-* Specific track depth in one or more of:
-* **Speculative Decoding:** 
- EAGLE\-3 / MTP / DFlash / Medusa / SpecForge / ModelOpt; experience training and shipping draft models for production.
-* **Quantization \&amp; Precision:** 
- NVFP4 / MXFP4 / FP8 / INT4\-AWQ / GPTQ; QAT pipelines on Blackwell or Hopper; rigorous accuracy benchmarking.
-* **PD Disaggregation:** 
- NVIDIA Dynamo, KV\-aware router/planner, large MoE serving (DeepSeek\-V3/V4, Kimi, GLM, Minimax), fault recovery, autoscaling.
-* **KV Cache \&amp; Memory:** 
- LMCache / HiCache / NV KVBM, paged attention internals, prefix\-aware routing, long\-context and agentic workloads.
-* Familiarity with FlashInfer, Blackwell MLA, FA4, TRT\-LLM MLA, or NSA is a strong plus.
-* Open\-source contributions to vLLM, SGLang, TensorRT\-LLM, NVIDIA Dynamo / ModelOpt, FlashInfer, LMCache, or related projects.
-* Experience publishing technical blogs, case studies, or papers on inference optimization.</description>
-        <pubDate>2026-07-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer - Quantcast</title>
-        <link>https://www.linkedin.com/jobs/view/4430612937</link>
-        <description>At Quantcast, we don't just build advertising technology, we revolutionize how it works. Our AI\-powered Demand Side Platform (DSP) connects the world's most ambitious marketers with their ideal audiences across the open internet, delivering results that actually move the needle. Since 2006, we've been the industry's trailblazer, launching the first AI\-powered measurement platform for publishers and the first AI\-driven DSP. Our AI doesn't just optimize—it delivers the measurable outcomes that matter most to our clients, giving them the competitive edge they need in a crowded marketplace. Ready to join the team that's defining the future of digital advertising?
-   
-
-  
-
- The Modeling team is responsible for Machine Learning (ML) systems at Quantcast. We build and maintain multiple ML products that price millions of bid requests per second in a real\-time auction environment to maximize advertiser outcomes. For each bid our models predict age, gender, viewability, fraud, advertiser relevance and many more characteristics. Using NLP, clustering and LLMs we build topics in multiple languages to help our advertisers target customers interested in relevant content.
-   
-
-  
-
- As a Machine Learning Engineer you care about the health and maintainability of our systems and the velocity of the engineering teams. You explore data, research new algorithms, experiment with proof of concepts, and build out scalable real\-time production systems to tackle challenges the company faces.
-   
-
-  
-
-**What You'll Do**
-* Design, code, test, and debug ML applications and constantly improve large\-scale global systems that respond to millions of real\-time requests per second efficiently.
-* Run Machine Learning experiments to test new modeling ideas.
-* Write clean, efficient, and maintainable code using industry best practices.
-* Collaborate closely with engineering teams, to deliver high\-quality ML products. Participate in code reviews and provide constructive feedback to team members.
-* Identify performance bottlenecks and optimize system components for enhanced scalability.
-* Keep up to date with developments in machine learning outside the company.
-
-
-**Who You Are**
-* New Grad to 1 year of experience.
-* You must be work\-authorized in the United States without the need for employer sponsorship.
-* This is a hybrid role based in our San Francisco office. To ensure a manageable commute for in\-office days, candidates must reside within a 60\-mile radius of San Francisco, CA. No relocation candidates at this time.
-* Must currently be based in the SF/Bay Area. Part of the interview process will be conducted in person at our San Francisco office.
-* Fluency in Python, Java or similar programming languages.
-* Strong skills in mathematics and statistics.
-* Working knowledge of ML algorithms such as classification, control systems, optimization, clustering, LLMs or recommendation systems.
-* An interest in distributed system and software design, concurrent algorithms, data structures, and software engineering.
-
-
- At Quantcast, we craft offers that reflect your unique skills, expertise, and geographic location. On top of a competitive salary, this position includes a performance bonus, equity, and a comprehensive benefits package. For more details, visit our Careers Page and see how we support our team. We are headquartered in San Francisco with offices around the world. Quantcast is an Equal Opportunity Employer. Please see the Applicant Privacy Notice for details on our applicant privacy policy. Join the team that unlocks potential.
-   
-
-  
-
- Compensation Range: $151\.3K \- $178K</description>
-        <pubDate>2026-07-18</pubDate>
     </item>
     
     <item>
@@ -4270,410 +3166,250 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
-        <title>Machine Learning Engineer - Applied Materials</title>
-        <link>https://www.linkedin.com/jobs/view/4439250585</link>
-        <description>**Who We Are**
- Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting\-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the boundaries of materials science and engineering to create next generation technology, join us to deliver material innovation that changes the world.
+        <title>Staff Machine Learning Engineer - Omnissa</title>
+        <link>https://www.linkedin.com/jobs/view/4405032713</link>
+        <description>**Job Description**
+**We are Omnissa!** 
+  
+
+  
+
+ Omnissa is the first AI\-driven digital work platform, built to support flexible, secure, work\-from anywhere experiences. We integrate industry\-leading solutions—including Unified Endpoint Management, Virtual Apps and Desktops, Digital Employee Experience, and Security \&amp; Compliance—into a seamless, autonomous workspace that adapts to how people work. Our platform boosts employee engagement while optimizing IT operations, security, and cost.
    
 
   
 
-**What We Offer**
- Salary:
+ Guided by our Core Values—
+ **Act in Alignment, Build Trust, Foster Inclusiveness, Drive Efficiency, and Maximize Customer Value** 
+ —we’re growing rapidly and committed to delivering meaningful impact. If you're passionate about shaping the future of work, we’d love to hear from you.
    
 
   
 
- $184,000\.00 \- $253,000\.00
+ At Omnissa, we are committed to maintaining a fair, consistent, and secure hiring process for all candidates. As part of this approach, we use standard interview and verification practices designed to ensure alignment and protect both candidates and the organization. These practices are applied thoughtfully and with respect for candidate privacy.
    
 
   
 
- Location:
+**What is the opportunity?**
+ Our platform manages millions of devices across multiple operating systems, requiring exceptional performance, scalability, availability, and resilience. You will join the
+ **AI Platform Team** 
+ , the group responsible for building foundational AI capabilities across the Omnissa product ecosystem.
    
 
   
 
- Santa Clara,CA
+**Responsibilities**
+ As a
+ **Staff Machine Learning Engineer** 
+ , you will design, build, and deploy machine learning systems that power predictive analytics, personalization, automation, and intelligent platform behaviors. You’ll work closely with engineering and product teams to operationalize models across our cloud scale environment while driving best in class ML engineering practices. You will own engineering initiatives end to end and help foster a culture of high ownership, continuous improvement, and engineering excellence. Here is a breakdown:
    
 
   
 
- You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more.
+* Design, develop, and deploy machine learning models for classification, prediction, anomaly detection, and intelligent automation.
+* Build and maintain scalable data pipelines for model training, evaluation, and real time/batch inference.
+* Optimize ML models and pipelines for performance, scalability, reliability, and cost efficiency.
+* Collaborate with cross functional teams to integrate ML solutions into core platform features and services.
+* Conduct model experimentation, evaluation, and iteration using quantitative metrics and A/B testing as needed.
+* Implement model observability, monitoring, and drift detection to ensure production reliability.
+* Stay current with advancements in machine learning, AI, and LLM technologies, and apply them to product use cases.
+
+
+**What will you bring to Omnissa?**
+* 5\+ years of experience in machine learning engineering or data science roles.
+* Strong proficiency in Python and ML frameworks (e.g., PyTorch, TensorFlow, Scikitlearn).
+* Experience building and operating data processing workflows (batch or streaming) and working with cloud platforms (AWS, Azure, or GCP).
+* Solid understanding of machine learning algorithms, statistics, and model evaluation techniques.
+* Familiarity with containerization and orchestration technologies (Docker, Kubernetes).
+* Handson experience with Large Language Models (LLMs), including finetuning, prompt engineering, and deployment.
+* Knowledge of text embedding models, and vector databases for Retrieval Augmented Generation (RAG) systems
+* Strong problem\-solving skills and the ability to collaborate effectively in Agile teams.
+* Highly motivated, adaptable, and eager to learn new technologies.
+
+
+**Preferred Skills**
+* Experience with distributed computing frameworks (e.g., Spark, Ray).
+* Experience with orchestration frameworks (e.g., LangChain/LangGraph) to build AI agents and multi\-agent systems.
+* Experience building feature stores or working with vector databases.
+* Knowledge of real\-time inference architectures and model monitoring systems.
+* Experience developing scalable ML services via REST/gRPC.
+
+
+**Location:** 
+ Mountain View, CA or Atlanta, GA
    
 
   
 
- At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits.
+**Location Type:** 
+ hybrid
    
 
   
 
-**Team Overview**
- We are a passionate, cross\-functional team at the forefront of applying cutting\-edge AI and machine learning to accelerate scientific and materials innovation. Our mission is to create domain\-specific, product\-centric algorithmic solutions that drive real impact for our customers.
+**Travel Expectations:** 
+ None
    
 
   
 
- We thrive in a collaborative environment that encourages out\-of\-the\-box thinking and values diverse perspectives. Here, creativity flourishes—groundbreaking ideas are born from the synergy of technical expertise and open\-minded teamwork. We believe the best solutions emerge when everyone is empowered to share their unique insights and challenge conventional boundaries.
+**Education:** 
+ Bachelor's Degree preferred, or equivalent combination of education and relevant professional experience.
    
 
   
 
- Our team applies modern generative AI and large language models to tackle complex problems in materials science, scientific discovery, and hardware design. We work closely with scientists, engineers, and product leaders to translate frontier methods into practical, high\-value applications.
-   
-
-  
-
- We’re looking for a seasoned machine learning engineer with a deep ML foundation who has actively kept pace with the field—someone equally comfortable with classical ML and the latest generative methods. If you love turning hard problems into working algorithms and shipping them into real products, join us.
-   
-
-  
-
-**Key Responsibilities**
-* Design, develop, and adapt generative algorithms to solve concrete problems in process engineering, materials discovery, and hardware design.
-* Fine\-tune, adapt, and optimize models for downstream workflows.
-* Build robust evaluation protocols, benchmarks, and validation pipelines to ensure models are accurate and trustworthy for scientific use cases.
-* Translate published methods and frontier techniques into production\-ready algorithmic solutions, balancing model quality with practical constraints.
-* Collaborate with scientists, engineers, and product teams to identify high\-impact applications of generative AI.
-* Build and curate scientific datasets for model development and continuous improvement.
-* Stay current with advances in the field and bring promising techniques into the team’s work.
-* Mentor team members and contribute to a collaborative, inclusive engineering culture.
-
-
-**Technical Skills**
-* Strong foundation in machine learning and deep learning, with hands\-on experience developing algorithms using modern generative methods and LLMs.
-* A track record of keeping current: comfort moving from classical ML/optimization into newer architectures and methods as the field evolves.
-* Experience adapting, and evaluating models for real applications.
-* Proficiency in Python and frameworks such as PyTorch or TensorFlow.
-* Excellent communication skills and the ability to collaborate across disciplines.
-
-
-**Requirements / Education**
-* MS or Ph.D. in Computer Science, Computer/Electrical Engineering, Mathematics, Statistics, or a related field—or equivalent industry experience developing and shipping ML algorithms.
-
-
-**Additional Information**
-**Time Type:**
- Full time
-   
-
-  
-
-**Employee Type:**
- Assignee / Regular
-   
-
-  
-
-**Travel:**
- No
-   
-
-  
-
-**Relocation Eligible:**
- Yes
-   
-
-  
-
- The salary offered to a selected candidate will be based on multiple factors including location, hire grade, job\-related knowledge, skills, experience, and with consideration of internal equity of our current team members. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation such as participation in a bonus and a stock award program, as applicable.
-   
-
-  
-
- For all sales roles, the posted salary range is the Target Total Cash (TTC) range for the role, which is the sum of base salary and target bonus amount at 100% goal achievement.
-   
-
-  
-
- Applied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law.
-   
-
-  
-
- In addition, Applied endeavors to make our careers site accessible to all users. If you would like to contact us regarding accessibility of our website or need assistance completing the application process, please contact us via e\-mail at Accommodations\_Program@amat.com, or by calling our HR Direct Help Line at 877\-612\-7547, option 1, and following the prompts to speak to an HR Advisor. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.</description>
-        <pubDate>2026-07-17</pubDate>
+**Compensation:** 
+*The typical base salary for this role is between USD $162,512 – $342,750 per year and it may be eligible for participation in a corporate bonus program. Actual compensation offer may vary from posted hiring range based upon geographic location, work experience, education, skill level, or other relevant factors. In addition to competitive compensation, Omnissa offers a variety of benefits such as employee ownership, health insurance, 401k with matching contributions, disability insurance, paid\-time off, growth opportunities, and more.*
+**Omnissa is an Equal Employment Opportunity company and Prohibits Discrimination and Harassment of Any Kind:**
+ Omnissa is committed to the principle of equal employment opportunity and to providing a work environment free of discrimination and harassment. All employment decisions at Omnissa are based on business needs, job requirements and individual qualifications, without regard to race, color, religion, ancestry, ethnicity, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past, present, or prospective service in the uniformed services, family medical history or genetic information, family or parental status, veteran status, or any other status protected by applicable laws or regulations in the locations where we operate. Omnissa will not tolerate discrimination or harassment based on any of these characteristics. Omnissa welcomes applicants of all ages. Omnissa will provide reasonable accommodations to applicants and employees who have protected disabilities consistent with applicable federal, state and local law.</description>
+        <pubDate>2026-07-18</pubDate>
     </item>
     
     <item>
-        <title>Machine Learning Engineer, Enterprise Brain - Glean</title>
-        <link>https://www.linkedin.com/jobs/view/4324842782</link>
-        <description>**About Glean**
- Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full\-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business \- without vendor lock\-in or costly implementation cycles.
+        <title>Staff Applied Machine Learning Engineer - Intelligent Data, Signals &amp; Systems - Block</title>
+        <link>https://www.linkedin.com/jobs/view/4424108032</link>
+        <description>Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.
    
 
   
 
- At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context\-aware responses for every employee. This foundation powers Glean’s agentic capabilities \- AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real\-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level.
+ Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self\-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.
    
 
   
 
- Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025\), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026\), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its global impact. With customers across 50\+ industries and 1,000\+ employees in more than 25 countries, we’re helping the world’s largest organizations make every employee AI\-fluent, and turning the superintelligent enterprise from concept into reality.
-   
-
-  
-
- If you’re excited to shape how the world works, you’ll help build systems used daily across Microsoft Teams, Zoom, ServiceNow, Zendesk, GitHub, and many more \- deeply embedded where people get things done. You’ll ship agentic capabilities on an open, extensible stack, with the craft and care required for enterprise trust, as we bring Work AI to every employee, in every company.
-   
-
-  
-
-**About The Role**
- Glean is seeking a few Machine Learning engineers who want to focus on a combination of Quality and traditional ML work to help us build the Enterprise Brain. The Enterprise Brain team is developing a suite of proactive AI products that aims to revolutionize enterprise workflows by proactively detecting and automating tasks for users \- thus unlocking true productivity. This is built on top of a deep user understanding and state of the art Enterprise graph. The project involves using both LLM and other advanced ML techniques, agent orchestration and cutting\-edge ranking techniques.
-   
-
-  
-
-**You Will**
-* Work on deeply challenging ML problems involving user understanding and task prediction.
-* Invent new LLM workflows and signals to improve reasoning, planning, and personalization.
-* Design and optimize reinforcement learning and fine\-tuning approaches to improve the quality of understanding, prediction and other agentic systems.
-* Lead development of scalable evaluation, benchmarking, and optimization loops.
-* Build and maintain robust ML pipelines for enterprise and knowledge graph construction.
-* Drive initiatives to measure, monitor, and improve data quality, model quality, and end\-to\-end system performance.
-* Collaborate with cross\-functional teams to deeply understand customer pain points and deliver high\-quality, production\-ready ML solutions.
-* Mentor junior engineers or learn from experienced ones in a tight\-knit, high\-velocity environment.
-
-
-**About You**
-* 3\+ years of industry experience in AI or Machine Learning Engineering.
-* BA/BS in computer science, math, sciences, or a related field.
-* Experience with search, recommendation, natural language processing, or other large\-scale ML systems.
-* Proven ability to design, build, and ship production\-ready models and systems.
-* Demonstrated expertise in ML evaluation, benchmarking, and data quality—ideally with experience in building or maintaining evaluation frameworks for complex enterprise tasks.
-* Proficiency in your ML framework of choice (e.g., TensorFlow, PyTorch).
-* Strong coding skills (Python, Go, Java, C\+\+, etc.).
-* Thrive in a customer\-focused, cross\-functional environment; a proactive and positive attitude is a must.
-
-
-**Location:**
-* This role is hybrid (4 days a week in our Mountain View, CA office)
-
-
-**Compensation \&amp; Benefits**
- The standard base salary range for this position is $200,000 \- $300,000 annually. Compensation offered will be determined by factors such as location, level, job\-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.
-   
-
-  
-
- We offer a comprehensive benefits package including competitive compensation, Medical, Vision, and Dental coverage, generous time\-off policy, and the opportunity to contribute to your 401k plan to support your long\-term goals. When you join, you'll receive a home office improvement stipend, as well as an annual education and wellness stipends to support your growth and wellbeing. We foster a vibrant company culture through regular events, and provide healthy lunches daily to keep you fueled and focused.
-   
-
-  
-
- We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organization. We're committed to an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.
-   
-
-  
-
-**AI\-First Mindset At Glean**
- At Glean, AI fluency is core to how we work and we're committed to ensuring every new hire feels confident integrating AI into their everyday work.
- **As part of the interview process, you'll complete a brief AI\-focused exercise or discussion so we can understand how you think about, design, and use AI to drive impact in your role.** 
- Feel free to reference any tools, platforms, or workflows you use today — prior Glean experience isn't required.
-   
-
-  
-
-**Global Data Privacy Notice For Job Candidates And Applicants**
- Depending on your location, the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), or other privacy laws may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available in our
- **Privacy Policy** 
- . By submitting your application, you are agreeing to our use and processing of your data as required. US applicants and their applications are subject to arbitration of disputes as outlined in our
- **Applicant Arbitration Agreement** 
- .
-   
-
-  
-
- By clicking “Submit Application,” I confirm that I have read the Global Data Privacy Notice and the
- **Applicant Arbitration Agreement** 
- , and I agree to the terms.</description>
-        <pubDate>2026-07-17</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Machine Learning Engineer, Agentic App Platform - Moveworks - ServiceNow</title>
-        <link>https://www.linkedin.com/jobs/view/4432898900</link>
-        <description>**Company Description**
-**Who we are**
- Moveworks is the Agentic AI Assistant platform that empowers the entire workforce.
-   
-
-  
-
- Our platform enables employees to converse with all of their business systems through natural language to quickly find answers and automate tasks. Powered by the world's most advanced LLMs, our proprietary models, and a sophisticated Agentic AI platform, we're transforming how work gets done by allowing AI to take initiative, streamline complex workflows, and continuously learn and adapt.
-   
-
-  
-
- Moveworks is trusted by over 5\.5 million employees at more than 350 of the world’s largest companies, including 10% of the Fortune 500, to automate everyday tasks and streamline business operations. Recognized on the Forbes Cloud 100 and AI 50 lists, Moveworks was also named one of Fast Company’s 2025 Most Innovative Companies and Inc’s Best in Business, in the Best in Innovation category. Moveworks was also recognized at Microsoft’s 2025 Partner of the Year and in 2024, received the AI Breakthrough Award.
-   
-
-  
-
- In December 2025, Moveworks was acquired by ServiceNow, marking a pivotal milestone in our journey to create a single front door to work for all business systems. By combining ServiceNow’s leading workflow automation with Moveworks’ Reasoning Engine and natural language capabilities, we deliver the AI platform for every person and every workflow. Built to go beyond basic summaries to deliver meaningful business impact. Together, our AI acts across enterprise systems to turn conversations into completed work.
-   
-
-  
-
- By joining our team, you’ll be at the forefront of the AI transformation, backed by the global scale of ServiceNow and the agility of a high\-growth company. We are looking for world\-class talent to help us extend agentic AI to every employee across every corner of the business.
-   
-
-  
-
- Come join us!
-   
-
-  
-
-**ServiceNow**
- It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI\-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud\-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
-   
-
-  
-
-**Job Description**
 **The Role**
- Are you up for an exciting challenge? Picture yourself scaling and optimizing a cutting\-edge Generative AI product that offers instant assistance to enterprise users. Ever wondered how to apply abstraction, scalability, and optimization to a dynamic, probabilistic, and generative conversational system? If so, we invite you to join our Conversation Engine team. At our company, you'll have the unique opportunity to work at the core of Moveworks Generative AI product. Your main focus will be scaling and optimizing it to meet the growing demands of the enterprise solution space. Take a look at our recent posts (Moveworks Live, Creator Studio) on Moveworks’s groundbreaking solutions for enterprise AI. As pioneers in enterprise AI, we don't follow a set formula for building the next solution. Instead, we encourage you to bring your innovative ideas and imagination to solve unsolved problems. You'll collaborate closely with machine learning experts and cross\-functional teams, rapidly iterating over new ideas, and leveraging user behavior data to make informed decisions. Your challenge will be to scale and optimize our conversation engine to support hundreds of millions of users, across multiple chat channels and use cases, and enhance our end\-to\-end product infrastructure with the utmost engineering quality and robustness.
+ As a Staff Applied Machine Learning Engineer focused on Intelligent Data, Signals \&amp; Systems, you will build production ML systems that transform customer behavior, product context, model outputs, and feedback loops into trusted signals used by recommendations, ranking, risk\-aware decisioning, growth, and customer intelligence systems.
    
 
   
 
-**What You Get To Do In This Role**
-* Construct an extensive product infrastructure, complete with user\-friendly interfaces that empower engineers and configurators to effortlessly customize and optimize generative AI models. This includes collecting data and feedback, adapting to diverse enterprise use cases and business contexts, and delivering domain\-specific conversational experiences.
-* Design scalable API abstractions for our conversation platform, which supports all popular chat clients (for example, MSTeams, Slack, and Web) and offers a neutral API for developing other parts of the engineering system.
-* Optimize the dialog engine to accommodate a wide range of conversational features, leveraging private domain knowledge unique to each enterprise customer in the cloud, and enable real\-time multilingual translation. You will achieve this with minimal memory footprint, low latency, and streamlined development process for application engineers.
-* Champion the best practices for coding patterns, API design, scalability, robustness, and optimization. Foster a culture of excellence and continuous improvements among fellow engineers.
-* Provide comprehensive insights and visibility into the performance of our conversational AI product. This involves implementing a robust logging and tracing framework, user\-friendly debugging and triaging tools, and automated metrics for efficient monitoring and analysis.
-* Collaborate closely with ML engineers, application engineers, product teams, and customer support teams to drive the development of new features and scalability initiatives.
-
-
-**Qualifications**
-**To be successful in this role you have:**
-* A strong foundation in computer science and software engineering, coupled with expertise in building scalable systems.
-* A deep understanding of clean, modular, and scalable API design. You have the ability to champion best coding practices and influence fellow engineers to uphold high standards of code quality and craftsmanship.
-* A passion for optimizing systems and improving performance. You are well\-versed in tracing, logging, and metrics frameworks, and possess a systematic approach to quickly identify and resolve latency bottlenecks, race conditions, and throughput limitations.
-* The ability to independently research new requirements and develop innovative solutions. You thrive in an environment of fast\-paced coding and execution, embracing rapid iterations to deliver results.
-* Strong communication skills to effectively articulate rationales and design approaches. You have a cross\-functional awareness that enables you to collaborate seamlessly with various teams.
-* A bachelor's degree or higher in computer science or a related field, demonstrating your academic foundation in the field.
-* 7\+ years of professional development experience, specifically in building systems at scale.
-
-
- For positions in this location, we offer a base pay of $176,100\-308,200, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs.
+ This role centers on customer intelligence and reusable model\-derived signal systems: ranking and retrieval, recommendations, search, propensity and churn/LTV, next\-best\-action decisioning, experimentation, and feedback loops. These systems help product, growth, fraud, and risk teams make better decisions with clear freshness, provenance, confidence, and evaluation guarantees.
    
 
   
 
- Compensation is based on the geographic location in which the role is located and is subject to change based on work location.
-   
-
-  
-
- Additional Information
-   
-
-  
-
-**Work Personas**
- We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the clos</description>
-        <pubDate>2026-07-17</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer, Search Quality - Glean</title>
-        <link>https://www.linkedin.com/jobs/view/4195257196</link>
-        <description>**About Glean**
- Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full\-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business \- without vendor lock\-in or costly implementation cycles.
-   
-
-  
-
- At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context\-aware responses for every employee. This foundation powers Glean’s agentic capabilities \- AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real\-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level.
-   
-
-  
-
- Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025\), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026\), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its global impact. With customers across 50\+ industries and 1,000\+ employees in more than 25 countries, we’re helping the world’s largest organizations make every employee AI\-fluent, and turning the superintelligent enterprise from concept into reality.
-   
-
-  
-
- If you’re excited to shape how the world works, you’ll help build systems used daily across Microsoft Teams, Zoom, ServiceNow, Zendesk, GitHub, and many more \- deeply embedded where people get things done. You’ll ship agentic capabilities on an open, extensible stack, with the craft and care required for enterprise trust, as we bring Work AI to every employee, in every company.
-   
-
-  
-
-**About The Role**
- Glean is looking for engineers to help build the world’s best search and assistant product for work. Our engineers work on a range of systems across the stack, including query understanding, document understanding, domain\-adapted language models, natural language question\-answering, evaluation, and experimentation. We interact regularly with customers, deeply understand their pain points, and use whatever tool is necessary, simple or complex, to solve their problems.
+ The work combines production ML systems with composable signal interfaces that can be consumed by product surfaces, decision engines, internal tools, and verified AI\-assisted workflows. The role is flexible across Applied ML Engineering domains while still requiring deep expertise.
    
 
   
 
 **You Will**
-* Invent new signals to improve the personalization of our search engine
-* Train a model to capture interactions between signals in our ranking system
-* Design smarter ways to domain\-adapt language models to each customer’s corpus
-* Discover new ways of combining LLMs with search engines to answer complex questions
-* Write robust code that’s easy to read, maintain, and test
-* Mentor more junior engineers, or learn from battle\-tested ones
+* Build and operate production ML systems that turn customer and product context into trusted signals, rankings, recommendations, and decision capabilities.
+* Design production data and signal contracts that define intended use, freshness, provenance, confidence, eligibility, and calibration for downstream consumers.
+* Own ranking, retrieval, recommendation, search, propensity, and next\-best\-action systems end to end, from feature and candidate generation through serving, experimentation, monitoring, and feedback loops.
+* Evaluate customer and business impact beyond short\-term conversion, including trust, fairness, access, risk, compliance, long\-term engagement, and segment\-level performance.
+* Partner across product, growth, data, platform, modeling, risk, and compliance to translate ambiguous goals into measurable ML system designs.
+* Use AI and agents to accelerate development, analysis, testing, documentation, and operations while exposing reusable capabilities to product services, internal tools, and AI\-assisted workflows.
 
 
-**About You**
-* 2\+ years of experience
-* BA/BS in computer science, math, sciences, or a related degree
-* Experience working with search, recommendation, natural language processing, or other large systems involving machine learning
-* Strong analytical skills and ability to work with data
-* Proven ability to design, build, and ship production\-ready models
-* Proficiency in your ML framework of choice
-* Strong coding skills (Python, Go, Java, C\+\+, ...)
-* Thrive in a customer\-focused, tight\-knit and cross\-functional environment \- being a team player and willing to take on whatever is most impactful for the company is a must
-* A proactive and positive attitude to lead, learn, troubleshoot and take ownership of both small tasks and large features
+**You Have**
+* 12\+ years building and operating production software and ML systems for business\-critical products.
+* Deep expertise in intelligent systems such as ranking/retrieval, recommendations, search, personalization, growth and lifecycle ML, customer intelligence, propensity/churn/LTV, next\-best\-action, or model\-derived risk signals.
+* Strong production ML judgment across feature pipelines, model serving, experimentation, monitoring, feedback loops, online/offline consistency, and reliable signal interfaces.
+* Ability to evaluate impact beyond short\-term conversion, including trust, fairness, access, risk, compliance, and long\-term engagement.
+* Experience using AI\-assisted engineering tools with appropriate verification, testing, and review for customer\-impacting systems.
 
 
-**Location:**
-* This role is hybrid (3\-4 days a week in our Mountain View, CA office)
-
-
-**Compensation \&amp; Benefits**
- The standard base salary range for this position is $140,000 \- $265,000 annually. Compensation offered will be determined by factors such as location, level, job\-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.
+ Nice to Have
    
 
   
 
- We offer a comprehensive benefits package including competitive compensation, Medical, Vision, and Dental coverage, generous time\-off policy, and the opportunity to contribute to your 401k plan to support your long\-term goals. When you join, you'll receive a home office improvement stipend, as well as an annual education and wellness stipends to support your growth and wellbeing. We foster a vibrant company culture through regular events, and provide healthy lunches daily to keep you fueled and focused.
+* Experience with semantic retrieval, embeddings, two\-tower models, graph features, LLM\-powered retrieval or decision systems, entity resolution, or real\-time personalization.
+* Experience with experimentation, online evaluation, interleaving, counterfactual evaluation, multi\-objective optimization, or long\-term holdouts.
+* Experience building reusable feature/signal platforms, decision services, customer intelligence layers, model\-derived data products, or agent\-assisted operations.
+
+
+**Technologies We Use and Teach**
+**About**
+ We do not expect candidates to have used our exact stack. We do expect strong production engineering fundamentals, deep domain expertise in intelligent ML systems, and judgment about how ML\-derived signals should be used safely in customer\-impacting products. Examples of technologies and methods include:
    
 
   
 
- We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organization. We're committed to an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.
+* Python, Java, Kotlin, SQL.
+* TensorFlow, PyTorch, XGBoost/LightGBM, ranking/retrieval systems, embeddings, semantic search, recommendation frameworks.
+* Event streams, batch pipelines, feature stores, model\-serving infrastructure, workflow orchestration, experimentation systems, and data warehouses/lakehouses.
+* Cloud infrastructure, Kubernetes, observability tooling, coding agents, evaluation harnesses, and agent\-assisted operations tooling.
+
+
+ We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
    
 
   
 
-**AI\-First Mindset At Glean**
- At Glean, AI fluency is core to how we work and we're committed to ensuring every new hire feels confident integrating AI into their everyday work.
- **As part of the interview process, you'll complete a brief AI\-focused exercise or discussion so we can understand how you think about, design, and use AI to drive impact in your role.** 
- Feel free to reference any tools, platforms, or workflows you use today — prior Glean experience isn't required.
+ We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.
+ **Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our** 
+ I\+D page.
    
 
   
 
-**Global Data Privacy Notice For Job Candidates And Applicants**
- Depending on your location, the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), or other privacy laws may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available in our
- **Privacy Policy** 
- . By submitting your application, you are agreeing to our use and processing of your data as required. US applicants and their applications are subject to arbitration of disputes as outlined in our
- **Applicant Arbitration Agreement** 
- .
+ While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.
    
 
   
 
- By clicking “Submit Application,” I confirm that I have read the Global Data Privacy Notice and the
- **Applicant Arbitration Agreement** 
- , and I agree to the terms.</description>
-        <pubDate>2026-07-17</pubDate>
+ Block takes a market\-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job\-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.
+   
+
+  
+
+ To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.
+   
+
+  
+
+**Zone A**
+ $276,800—$415,200 USD
+   
+
+  
+
+**Zone B**
+ $276,800—$415,200 USD
+   
+
+  
+
+**Zone C**
+ $276,800—$415,200 USD
+   
+
+  
+
+**Zone D**
+ $276,800—$415,200 USD
+   
+
+  
+
+**Application Guidelines**
+ Candidates may submit up to 9 active applications within a 60\-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.
+   
+
+  
+
+**Use of AI in Our Hiring Process**
+ We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.
+   
+
+  
+
+ Contact us here with hiring practice or data usage questions.
+   
+
+  
+
+*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.* 
+*Check out our other benefits at Block.*
+*Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.
+ **Square** 
+ makes commerce and financial services access</description>
+        <pubDate>2026-07-18</pubDate>
     </item>
     
     <item>
@@ -4738,13 +3474,149 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
   
 
  While this represents our expected range based on market data, final compensation will be determined based on your specific qualifications and may be outside this range. Please keep in mind that the equity portion of the offer is not included in this estimate.</description>
-        <pubDate>2026-07-24 13:16:20.266212+00:00</pubDate>
+        <pubDate>2026-07-25 01:30:17.769856+00:00</pubDate>
     </item>
     
     <item>
-        <title>Machine Learning Engineer - Harrison Clarke</title>
-        <link>https://www.linkedin.com/jobs/view/4440978408</link>
-        <description>We're looking for an AI Engineer who is excited about turning breakthrough machine learning research into real\-world products that create measurable business impact.
+        <title>Machine Learning Engineer II - Tinder</title>
+        <link>https://www.linkedin.com/jobs/view/4444612499</link>
+        <description>**Our Mission**
+ As humans, there are few things more exciting than meeting someone new. At Tinder, we’re inspired by the challenge of keeping the magic of human connection alive. With tens of millions of users, hundreds of millions of downloads, 2\+ billion swipes per day, 20\+ million matches per day, and a presence in 190\+ countries, our reach is expansive—and rapidly growing.
+   
+
+  
+
+ We work together to solve complex problems. Behind the simplicity of every match, we think deeply about human relationships, behavioral science, network economics, AI and ML, online and real\-world safety, cultural nuances, loneliness, love, sex, and more.
+   
+
+  
+
+**Our Values**
+* Take the Lead: We don't ghost our work or each other. Just as users don't leave their matches hanging, we don't let each other down.
+* Move Fast: We have a bias for action and urgency. Something that could be done tomorrow would be better if done today.
+* Better Together: We keep connection at the heart of dating and at the heart of how we work. Just as our users are better when they connect with others, so are we when we collaborate.
+* Real Talk: We say the hard thing the human way. Just as we ask our users to behave with kindness and candor in our community, we expect Team Tinder to do the same.
+* Safety First: We act with integrity, transparency, and consistency so people feel safe—whether they're swiping, matching, or working alongside us.
+* Spark Fun: We have fun to unlock creativity, fuel innovation, and help us build better experiences for daters.
+
+
+**The Team**
+ The Tinder ML team drives impact across nearly every core domain of the product — Recommendations, Trust \&amp; Safety, Profile, Chat, Growth, and Revenue optimization. Our mission is to apply machine learning to enhance user experiences, foster trust, and accelerate business growth across Tinder’s ecosystem.
+   
+
+  
+
+ ML at Tinder is organized into three groups with distinct roles:
+   
+
+  
+
+* Machine Learning Engineers (this role) who focus on modeling and algorithmic innovation
+* Machine Learning Infrastructure Engineers who build the platforms and tools that enable scalable training, serving, and feature management
+* Machine Learning Software Engineers who bridge the gap between research and production by delivering machine learning models into real\-world product experiences at scale
+
+
+**About The Role**
+ We are looking for a Machine Learning Engineer II to help build and ship machine learning systems that improve product experience and drive measurable business impact. This role is ideal for an engineer with a strong foundation in machine learning and software engineering who is excited to work on real\-world problems, partner cross\-functionally, and grow quickly in a high\-impact environment.
+   
+
+  
+
+ This is an individual contributor role focused on modeling and algorithmic innovation. You will work closely with product, engineering, data, and platform partners to translate product opportunities into machine learning solutions, run experiments, and help bring models from development into production. The team’s work directly translates into measurable business outcomes, and many of its models are embedded in core Tinder user flows at scale.
+   
+
+  
+
+**Where You'll Work**
+ This is a hybrid role and requires in\-office collaboration three times per week in Palo Alto, California.
+   
+
+  
+
+**In This Role, You Will**
+* Translate product and business problems into clear machine learning problems with measurable success criteria
+* Build, train, evaluate, and improve production machine learning models
+* Partner with software engineers and ML infrastructure engineers to deploy models and improve reliability, scalability, and performance in production
+* Design and analyze offline evaluations and online experiments to understand model impact
+* Contribute to feature engineering, data preparation, training pipelines, and model monitoring
+* Write clean, maintainable, production\-quality code and participate in design and code reviews
+* Communicate technical findings, trade\-offs, and recommendations clearly to both technical and non\-technical partners
+
+
+**You'll Need**
+* BS or MS in Computer Science, Machine Learning, Statistics, Mathematics, or a related technical field
+* 1\+ year of industry experience in machine learning, software engineering, data science, or a related field
+* Strong foundation in computer science fundamentals, including data structures, algorithms, and software design
+* Experience building ML or AI\-related systems, or strong understanding of how modern machine learning systems are developed and operated
+* Proficiency in Python and at least one additional programming language such as Java, Kotlin, Go, Scala, or a similar language
+* Strong understanding of machine learning fundamentals, including model training, evaluation, and experimentation
+* Strong communication skills and the ability to collaborate effectively across functions
+* Self\-motivated, proactive, and comfortable taking ownership of well\-scoped problems
+
+
+**Nice To Have**
+* Experience with recommendation systems or casual inference
+* Familiarity with big data or stream processing frameworks such as Spark or Flink
+* Familiarity with cloud platforms such as AWS and containerized environments such as Kubernetes
+* Familiarity with ML model serving frameworks such as TensorFlow Serving, TorchServe, Triton Inference Server, or Ray Serve
+* Experience with feature stores, ML data pipelines, and orchestration frameworks such as Airflow
+* Understanding of MLOps practices including CI/CD for ML, model versioning, and automated evaluation
+* Exposure to observability and monitoring for ML systems
+* Exposure to LLM\-related use cases or applied generative AI projects
+
+
+**As a Full\-time Employee, You’ll Enjoy**
+* Flexible Vacation, 10 Sick Days
+* Time off to volunteer and charitable donations matched up to $15,000 annually
+* Comprehensive health, vision, and dental coverage
+* 100% 401(k) employer match up to 10%, Employee Stock Purchase Plan (ESPP)
+* 100% paid parental leave (including for non\-birthing parents) and family forming benefits
+* Investment in your development: mentorship through our MentorMatch program, access to 6,000\+ online courses through Udemy, and an annual $3,000 stipend for your professional development
+* Investment in your wellness: access to mental health support via Modern Health, paid concierge medical membership, pet insurance, fitness membership subsidy, and commuter subsidy
+* Free subscription to Tinder Gold
+
+
+**Commitment to Inclusion**
+ At Tinder, we don’t just accept difference, we celebrate it. We strive to build a workplace that reflects the rich diversity of our members around the world, and we value unique perspectives and backgrounds. Even if you don’t meet all the listed qualifications, we invite you to apply and show us how your skills could transfer. Tinder is proud to be an equal opportunity workplace where we welcome people of all sexes, gender identities, races, ethnicities, disabilities, and other lived experiences. Learn more here: https://www.lifeattinder.com/dei
+   
+
+  
+
+*If you require reasonable accommodation to complete a job application, pre\-employment testing, or a job interview or to otherwise participate in the hiring process, please speak to your Talent Acquisition Partner directly.*
+*\#Tinder*
+ The salary range for this position is $145,000 \- $165,000\. Factors such as scope and responsibilities of the position, candidate's work experience, education/training, job\-related skills, internal peer equity, as well as market and business considerations may influence base pay offered. This salary range is reflective of a position based in Palo Alto, California. This salary will be subject to a geographic adjustment (according to a specific city and state), if an authorization is granted to work outside of the location listed in this posting.</description>
+        <pubDate>2026-07-25 01:30:17.769928+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer - TechDoQuest</title>
+        <link>https://www.linkedin.com/jobs/view/4440183762</link>
+        <description>Build and optimize RAG pipelines, vector databases, embeddings, and document\-processing workflows
+ 
+
+
+
+ Design agentic AI systems — including tool calling, orchestration, reasoning loops, and workflow automation
+ 
+
+
+
+ Develop Applied AI solutions that integrate with customer backend systems, APIs, and data sources
+ 
+
+
+
+ Implement AI services on Kubernetes, cloud environments, or customer\-controlled infrastructure
+ 
+
+
+
+ Work directly with customers to deliver high\-quality technical implementations, demos, and documentation
+ 
+
+
+
+ (Good to have) Integrate AI workflows with PLM systems or enterprise knowledge platforms
  
 
 
@@ -4755,100 +3627,129 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
 
 
 
- You'll work at the intersection of large language models, machine learning, data intelligence, and software engineering, helping build intelligent systems capable of understanding, reasoning over, and extracting value from complex datasets. This role offers the opportunity to tackle challenging problems, experiment with emerging AI technologies, and contribute directly to products used by customers at scale.
+ REQUIRED SKILLS
  
 
 
 
-  
-
-
-
-
-
- If you're passionate about generative AI, language models, and building systems that bridge research and production, we'd love to speak with you.
+ Strong experience with LLMs and agent frameworks such as LangChain, LlamaIndex, or custom\-built solutions
  
 
 
 
-  
+ Expertise in Python, vector databases (Elastic, Milvus, Pinecone, etc.), embeddings, and chunking strategies
+ 
 
 
 
-
-
-**What You'll Do** 
-
-
-
-* Design, build, and deploy scalable machine learning systems that power intelligent products and workflows.
-* Develop and optimize NLP and LLM\-based solutions that solve complex business and operational challenges.
-* Experiment with prompt engineering, retrieval strategies, fine\-tuning techniques, and model optimization approaches to improve performance and reliability.
-* Analyze large and complex datasets to uncover insights that drive product decisions and model improvements.
-* Collaborate closely with product, engineering, and business stakeholders to transform ambiguous requirements into impactful AI solutions.
-* Evaluate and integrate emerging AI technologies, frameworks, and research developments into production systems.
-* Build robust data pipelines, experimentation frameworks, and evaluation systems that support continuous model improvement.
-* Contribute to the architecture and evolution of next\-generation AI capabilities across the organization.
+ Hands\-on experience with Kubernetes, Docker, and scalable API deployment
+ 
 
 
 
-  
-
-
-
-
-
-**What We're Looking For** 
-
-
-
-* Experience building machine learning or data\-driven applications in production environments.
-* Strong foundation in machine learning, statistics, data science, or applied AI.
-* Proficiency in Python and modern machine learning frameworks such as PyTorch, TensorFlow, or similar technologies.
-* Hands\-on experience working with large language models, generative AI applications, or NLP systems.
-* Understanding of concepts such as retrieval, prompt engineering, embeddings, fine\-tuning, evaluation, and model performance optimization.
-* Experience working with structured and unstructured datasets to generate meaningful insights.
-* Strong problem\-solving abilities and a passion for tackling complex, open\-ended challenges.
-* Excellent communication skills and the ability to collaborate across technical and non\-technical teams.
-
-
+ Ability to understand customer workflows and translate them into actionable technical solutions</description>
+        <pubDate>2026-07-25 01:30:17.769984+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer, Assessments - Speak</title>
+        <link>https://www.linkedin.com/jobs/view/4398980271</link>
+        <description>**About Us**
+**Our mission is to reinvent the way people learn, starting with language.**
+ Learning a language can change a life by opening doors to new cultures, careers, and communities. Two billion people around the world are actively trying to learn a language, but the best way to learn (one\-on\-one tutoring) is hard to access at scale and hasn’t been meaningfully improved in decades. Speak is building a human\-level, AI\-powered tutor in your pocket: a conversation\-first experience that lets learners actually speak, get instant feedback, and progress through carefully designed lessons. The result is a complete path from beginner to confident speaker across multiple languages.
+   
 
   
 
-
-
-
-
-**Bonus Points** 
-
-
-
-* Advanced degree (Master's or PhD) in Computer Science, Machine Learning, AI, Mathematics, Statistics, or a related field.
-* Experience deploying AI and machine learning systems at scale.
-* Familiarity with cloud\-native machine learning infrastructure and modern MLOps practices.
-* Experience with distributed computing, large\-scale data processing, or analytics platforms.
-* Publications, open\-source contributions, or demonstrated involvement in the AI research community.
-* Experience building customer\-facing AI products or agentic AI systems.
-
-
+ Speak first launched in South Korea in 2019, where Speak has now become the number one language learning app, and we now serve learners across many markets and 15\+ languages. Speak is one of the world’s leading AI companies, with over $150m raised in venture investment from OpenAI, Accel, Founders Fund, Khosla Ventures, and more, with a distributed team across San Francisco, Seoul, Tokyo, Taipei, and Ljubljana.
+   
 
   
 
+**About This Role**
+ We’re hiring an
+ **ML Engineer, Assessments** 
+ to help build best\-in\-class assessment systems across multiple products (Speak for Business, B2C, and new surfaces). You will work in a tight loop with our
+ **Assessment Design Lead (Content/Learning Design)** 
+ , Machine Learning, Product, and Engineering to turn assessment constructs and rubrics into reliable, scalable scoring \+ feedback systems.
+   
+
+  
+
+ This role owns the implementation, deployment, and ongoing quality of our assessment algorithms and ML systems. While there is immediate need to improve and expand production assessments, this work is also building a platform capability that can be reused across the app.
+   
+
+  
+
+ What you’ll be doing
+   
+
+  
+
+* Ship and own assessment ML systems end\-to\-end
++ Build, deploy, and maintain scoring models/pipelines (feature extraction → model training → inference → feedback generation)
++ Own monitoring, regression tests, and ongoing iteration to maintain accuracy targets
+
+* Define and operationalize evaluation
++ Implement validation/evaluation frameworks for assessments, including metrics, test sets, and offline/online analysis
++ Translate assessment requirements into measurable acceptance criteria and guardrails
+
+* Partner deeply with the Assessment Design Lead
++ Co\-develop the strategy, together with the Content team, to grow assessments into a core platform at Speak
++ Work in a tight weekly loop to deliver incremental improvement
+
+* Drive near\-term delivery across products
++ Stand up or improve summative assessments (spoken language ability) and bring them reliably to production
++ Prototype and validate formative assessment approaches to measure improvement over weeks/months
+
+* Support data and labeling strategy
++ Help define data needs for training/evaluation (including psychometric measurement needs)
++ Build or improve pipelines that support label collection and analysis (especially for efficacy studies)
 
 
+ What we’re looking for
+   
+
+  
+
+* Domain expertise in spoken language proficiency assessment (linguistics, applied linguistics, pedagogy, or equivalent experience)
+* Strong experience designing and running evaluation \+ validation for assessment/scoring systems, and tailoring approaches to a specific product use case
+* 4\+ years building automatic proficiency assessment systems (or equivalent depth in closely related scoring/evaluation domains)
++ PhD is helpful but not required
+
+* Proven ability to ship ML models to production (not only research), including reliability, monitoring, and iteration
+* Strong generalist ML/analysis skills (statistics, Python, PyTorch/model training)
+* Ability to operate cross\-functionally and communicate clearly with non\-technical partners (Content/LD, PM, leadership)
 
 
-**Why This Role** 
+ Nice to have
+   
+
+  
+
+* Experience with speech/audio ML
+* Experience with psychometrics concepts (reliability/validity, calibration)
 
 
+ How we work (collaboration expectations)
+   
 
-* Work on frontier AI technologies that are shaping the next generation of intelligent software.
-* Solve highly ambiguous, high\-impact problems with significant ownership and autonomy.
-* Collaborate with a talented team of engineers, researchers, and builders who move quickly and care deeply about product outcomes.
-* See your work deployed into real\-world environments where it delivers measurable value.
-* Gain exposure across machine learning, LLMs, data systems, product strategy, and cutting\-edge AI innovation.
-* Help define what practical, production\-ready AI looks like over the coming decade.</description>
-        <pubDate>2026-07-24 13:16:20.266300+00:00</pubDate>
+  
+
+ This role is designed to be highly collaborative with the Assessment Design Lead. Success depends on a tight loop where constructs/rubrics and model outputs co\-evolve — not a sequential handoff.
+   
+
+  
+
+**Why work at Speak**
+* Join a fantastic, tight\-knit team at the right time: we're growing very quickly, we've most recently raised our Series C from some of the top investors in the valley, and we've achieved product\-market fit in our initial markets. You'd join at a magical time when a single person could significantly change the course of the company.
+* Do your life's work with people you’ll love working with: we care strongly about our craft and want every person at Speak to feel like they're growing every day. We believe in the idea that working with people you both enjoy and have respect for makes everything better. We hire thoughtfully and only work with people we admire deeply.
+* Global in nature: We're live in over 40 countries and launching in a number of new markets soon. We have dedicated offices in San Francisco, Ljubljana, Seoul, Tokyo, and Taipei, and you’ll have the opportunity to talk to users in each of these regions on a regular basis as well as travel.
+* Impact people's lives in a major way: Learning a language is one of the single most life\-changing skills one can learn, and right now 99% of people never achieve their goal because the process is broken. We’re helping millions of people achieve their goals and improve their lives.
+
+
+ Speak does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</description>
+        <pubDate>2026-07-25 01:30:17.770033+00:00</pubDate>
     </item>
     
 </channel>
