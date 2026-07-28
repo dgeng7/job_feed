@@ -6,259 +6,53 @@
     <description>jobs</description>
     
     <item>
-        <title>Data Scientist - Retool</title>
-        <link>https://www.indeed.com/viewjob?jk=315b07ccd90fdbf2</link>
-        <description>**ABOUT RETOOL**
-Nearly every company in the world runs on custom software for critical operations like tracking performance metrics, handling support workflows, building admin dashboards, and countless processes you might never have thought of. But most companies don't have the resources to properly invest in these tools, leading to a lot of old, clunky internal software, or worse, teams still stuck in manual and spreadsheet workflows.
-AI has changed who gets to build software. The definition of "developer" now includes analysts, operators, and domain experts creating solutions directly—and the tools they reach for are multiplying by the week. That's both an opportunity and a challenge: as more people build with more AI tools, the risk of shipping ungoverned software into production grows just as fast.
-At Retool, we're building the platform that makes all of it safe to ship. Build with any AI tool you want, then deploy into one place that connects to your real business data, enforces enterprise policies automatically, and lets teams create once and reuse everywhere with shared, trusted components. The cost of building software has collapsed. The cost of governing it hasn't—and that's the problem we solve.
-Developers and domain experts have already automated over 100 million hours of work on our platform, freeing them to focus on creative problem\-solving and strategic work that drives real business value. The people closest to the problem can now build the software to solve it, safely, and within enterprise guardrails.
-Let's build the future together.  
-
-  
-
-**WHY WE'RE LOOKING FOR YOU**
-Retool is rapidly growing, and we’re tackling increasingly complex questions about our customers, product, and business. We’re looking for a Data Scientist to join our Data Science \&amp; Analytics team to help Retool make better, faster decisions at scale.
-This is a generalist role for someone who’s excited by ambiguity, motivated by impact, and comfortable partnering across teams to shape strategy—not just report on outcomes. You’ll focus on understanding *why* things are happening, what signals matter most, and what Retool should do next, with success measured by real business and customer impact. Your work will inform company‑wide decisions across Product, GTM, and Leadership.
-**WHAT YOU'LL DO**
-* Analyze customer behavior, product usage, and business performance to surface insights tied to core metrics like ARR, retention, and sales efficiency
-* Frame ambiguous business questions into clear analytical approaches and recommendations
-* Build models, frameworks, and narratives that influence strategy, prioritization, and tradeoffs
-* Identify customer friction and risk early—and help teams act before issues escalate
-* Enable teams to self‑serve on foundational analytics so you can stay focused on higher‑impact work
-
-**WHO YOU'LL WORK WITH**
-Data science and analytics is a centralized, company‑level function that partners closely across teams at Retool.
-* Product and Engineering to inform product direction, roadmap, and prioritization
-* GTM teams, such as Marketing, Sales, Customer Success, and RevOps, to understand acquisition, expansion, and retention dynamics
-* Executive leadership—supporting strategic decisions across the company with clear, customer‑grounded insights
-
-**THE SKILLSET YOU'LL BRING**
-We’re looking for someone who’s comfortable operating in fast‑moving, evolving environments, is comfortable making progress with imperfect information, and who enjoys owning problems end‑to‑end.
-* 5\+ years of experience working in data science and/or product analytics
-* Experience working in startup or high‑growth environments, especially B2B SaaS
-* Strong SQL proficiency with an eye for writing performant, robust queries
-* Comfort operating in ambiguity and proactively identifying and defining business problems
-* Experience helping teams shift from intuition‑driven to data‑informed decision‑making
-* Exposure to experimentation, forecasting, or predictive modeling
-* Experience designing data models and building pipelines to unblock yourself
-* Strong ability to synthesize complex information (data, context, and constraints) into clear, concise narratives for business stakeholders
-* Comfort moving quickly by default to produce actionable insights—and slowing down when the cost of a wrong decision is high
-* Ease context‑switching across problem areas and teams, from high‑level strategy to low‑level details as needed
-  
-
-  
-
-For candidates based in the United States, the pay range(s) for this role is listed below and represents base salary range for non\-commissionable roles or on\-target earnings (OTE) for commissionable roles. This salary range may be inclusive of several career levels at Retool and will be narrowed during the interview process based on a number of factors such as (but not limited to), scope and responsibilities, the candidate’s experience and qualifications, and location.
-Additional compensation in the form(s) of equity and/or commission are dependent on the position offered. Retool provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.
-The base pay range for this role is $182,800 – $250,000 per year.  
-
-  
-
-Retool offers generous benefits to all employees and hybrid work location. For more information, please visit the benefits and perks section of our careers page!
-Retool is currently set up to employ all roles in the US and specific roles in the UK. To find roles that can be employed in the UK, please refer to our careers page and review the indicated locations.</description>
-        <pubDate>2026-07-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist - Block</title>
-        <link>https://www.indeed.com/viewjob?jk=a6e37d5028b4f901</link>
-        <description>Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
-
-
-
-So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, offer buy now, pay later functionality, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
-
-
-
-Today, we are a partner to sellers of all sizes – large, enterprise\-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
-
-
-#### **The Role**
-
-
-
-Square's Sales organization is where we're placing our biggest bets, and the go\-to\-market (GTM) Data Science team sits at the heart of that growth engine. Reporting to the Sales Data Science lead, you'll own a mature subdomain of our Sales function and contribute across the full channel, alongside peers in Sales Data Science (DS) and the wider GTM Data Science org. The role is a rare combination: you'll be a trusted analytics leader who sales executives turn to for the ground truth on business performance, and a hands\-on data scientist who solves big, ambiguous problems end to end. This is a DS team on the front lines of AI, one that uses agents daily to clear away the mundane and free up time for the high\-impact, technically challenging work that moves the business forward. You'll grow here: there's no shortage of hard problems, plenty of sharp colleagues to learn from, and the leverage to scale your impact well beyond your own domain.
-
-
-#### **You Will**
-
-
-* Own performance measurement for your subdomain: monitoring the metrics that matter (wins, new revenue, funnel conversion, rep productivity), reporting against plan, and presenting the story in business reviews with sales leadership
-* Lead investigations into performance questions ("why is X down?", "how can we improve Y?"), decomposing KPIs from first principles and designing experiments to test what actually works
-* Take on large, ambiguous projects autonomously: scoping the problem, finding the right data, thinking critically about what it can and can't tell you, and landing the results with stakeholders
-* Own and evolve your subdomain's data foundation, and partner with Sales DS peers on shared metrics, attribution logic, and cross\-cutting analyses
-* Translate data into business context: telling the story behind the numbers, pushing back on hypotheses with evidence, and building trust with senior sales, finance, and operations leaders
-* Work AI\-natively: use agents throughout your workflow and pioneer new ways of applying AI to the hardest problems in the sales domain
-* Build self\-serve dashboards and datasets that let the sales org answer its own questions
-* Raise the bar for the team's analytical rigor, communication, and AI\-enabled ways of working
-
-#### **You Have**
-
-
-* Minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience; or equivalent experience
-* Advanced SQL and strong Python; comfort owning the full stack from ETL to analysis to visualization
-* Strong statistical foundations: experiment design, causal inference, funnel and cohort analysis, and forecasting; you can interpret results with rigor and explain the concepts behind them
-* A track record of running large projects end to end with minimal direction; you're the person leadership trusts when the numbers matter
-* Strong critical thinking: you know when to move fast and when to slow down on a problem with big consequences, and you pressure\-test your own conclusions
-* Exceptional communication: you can present performance to executives, translate technical nuance for non\-technical partners, and write analysis documents that stand on its own
-* Enthusiasm for building with AI, and curiosity about how far it can be pushed in data science work
-* Curiosity about unfamiliar data and how sales organizations actually work, and the empathy to partner well with the people on the frontline
-
-
-**Nice to have, but not required:**
-
-
-* Prior experience supporting sales, GTM, or revenue organizations
-* Familiarity with fintech, payments, or the SMB merchant space
-
-
-We value strong fundamentals and curiosity over industry background; we'll teach you our domain.
-
-
-#### **Technologies We Use and Teach**
-
-
-* SQL, Snowflake, Databricks, Python (Pandas, NumPy)
-* Looker, Omni, Airflow, dbt\-style ETL patterns
-* Agentic AI: agent skills and bots, automated reporting workflows, in\-house tooling
-* Salesforce and the modern GTM data stack
-* A/B, matched\-market, and causal testing
-
-
-**Pay Transparency:**
-
-
-
-Block takes a market\-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate's starting pay will be determined based on job\-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future. To find a location's zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.
-
-
-
-Zone A: ($198,000 \- $297,000\)
-
-
-
-Zone B: ($188,100 \- $282,100\)
-
-
-
-Zone C: ($178,200 \- $267,400\)
-
-
-
-Zone D: ($168,300\- $252,500\)
-
- **Application Guidelines**
-
-
-
-Candidates may submit up to 9 active applications within a 60\-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.
-
-
-**Use of AI in Our Hiring Process**
-
-
-
-We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.
-
-
-
-Contact us here with hiring practice or data usage questions.
-
-
-*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.*
-
-
-*Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.* ***Square*** *makes commerce and financial services accessible to sellers.* ***Cash App*** *is the easy way to spend, send, and store money.* ***Afterpay*** *is transforming the way customers manage their spending over time.* ***TIDAL*** *is a music platform that empowers artists to thrive as entrepreneurs.* ***Bitkey*** *is a simple self\-custody wallet built for bitcoin.* ***Proto*** *is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.*</description>
-        <pubDate>2026-07-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Product Data Scientist, Pixel Growth, Google Store - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=3a86200a47555915</link>
-        <description>### **Minimum qualifications:**
-
-* Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
-* 10 years of experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL) or 8 years of experience with a Master's degree.
-* Experience with commercial metrics or business models (e.g., e\-commerce, retail, subscriptions, promotions, or pricing).
-
-  
-
-### **Preferred qualifications:**
-
-* Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
-* 12 years of experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL).
-* Experience building predictive models for customer lifetime value (LTV), pricing, or user churn.
-
-**About the job**
------------------
-
-
-Google Store is the first\-party e\-commerce site for Google's expanding portfolio of hardware products and associated services. As the authoritative place to learn about and purchase Google's hardware, our product range includes Pixel phones, Pixel Watch, Fitbit, Google Home and Health products, and accessories. The data science team drives business and product decisions through measurement, experimentation, modeling, causal inference, and optimization.
-
-
-Individual pay is determined by factors including job\-related skills, experience, and relevant education or training.
-  
-
-  
-
-US: $192000 \- $279000 (USD) \+ 20% bonus target \+ equity \+ benefits  
-
-  
-
-Learn more about benefits at Google.**Responsibilities**
---------------------
-
-* Perform analysis utilizing relevant tools (e.g., SQL, R, Python) and provide investigative thought leadership through proactive and strategic contributions.
-* Develop the data science roadmap that delivers against the broader strategy. Establish project goals, coordinate resources, and provide technical leadership.
-* Synthesize insights from cross\-channel experimentation, calculating price elasticity curves and establishing performance baselines for user interventions.
-* Define and report Key Performance Indicators (KPIs) during business reviews. Translate analysis results into business insights or product improvement opportunities.
-* Build predictive models integrating complex datasets and serve as the subject matter expert driving metrics development, modeling, and presenting to stakeholders.
-Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
-        <pubDate>2026-07-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, Business - OpenAI</title>
-        <link>https://www.linkedin.com/jobs/view/4417173126</link>
+        <title>Data Scientist, Financial Engineering - OpenAI</title>
+        <link>https://www.linkedin.com/jobs/view/4417176060</link>
         <description>**About The Team**
- The Business Data Science team uses data and analytics to optimize business performance, drive growth, and foster meaningful partnerships, with the goal of ensuring the sustained and impactful expansion of OpenAI's initiatives to maximize the benefits of AGI for all of humanity. We partner with Sales (GTM), Marketing, Partnerships, Support, Finance, Product, and Growth.
+ OpenAI’s
+ **Financial Engineering (FinEng)** 
+ team powers how revenue flows through our products—pricing \&amp; packaging, checkout, payments, subscriptions, and the financial infrastructure behind them. We partner with Product, Engineering, Risk, Finance, and Go\-to\-Market to make paying for OpenAI products seamless, reliable, and efficient worldwide.
    
 
   
 
 **About The Role**
- As a member of our Business Data Science team, you will help build a data\-driven culture around insight generation, decision making, and strategy at OpenAI. This role is focused on driving customer success within our business products (ChatGPT Team, ChatGPT Enterprise, and API). You will work on projects such as identifying opportunities for interventions within a customer lifecycle to drive activation \&amp; onboarding, identifying target audiences for new feature launches, and measuring the efficacy of emails, events, and other interventions to drive ongoing engagement with our products.
+ As a Data Scientist on FinEng, you’ll own the analytics and experimentation that improve our
+ **checkout and payments** 
+ ,
+ **subscriptions** 
+ , and
+ **pricing \&amp; monetization** 
+ systems. You’ll define the metrics that matter, build the source\-of\-truth data assets, and design experiments that increase conversion, reduce churn and payment failures, and expand global payment method coverage. Your work will directly influence revenue, customer experience, and how we scale internationally.
    
 
   
 
- This role is based in San Francisco, CA or New York, NY. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+ This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
    
 
   
 
-**In This Role, You Will**
-* Embed with our Customer Success organization as a trusted partner, uncovering new ways to drive customer adoption and engagement of our business products.
-* Establish key metrics, run experiments, and perform analysis to help us understand the incrementality of our efforts to drive adoption/engagement.
-* Proactively surface insights and opportunities to drive engagement and growth.
-* Build tools and systems for stakeholders to self\-serve routine data and insights freeing up time to work on more leveraged analyses.
-* Become an expert in OpenAI’s data and systems. Through partnership with Data Eng, Finance and other business teams, you will self\-serve all the underlying data for our business and derive insights from them.
-* Partner with other data scientists across the company to share knowledge and continually synthesizing learnings across the organization
+**In this role, you will**
+* Own checkout \&amp; payments analytics and experimentation across methods and locales (e.g., bank transfers, emerging rails), improving conversion while monitoring risk and latency.
+* Build and run the experimentation program for in\-house checkout—define success metrics and guardrails, execute staged rollouts, and use offline incrementality when online tests aren’t feasible.
+* Create operational visibility and source\-of\-truth data with FinEng Data Engineering—land team\-level metrics, SLAs, and self\-serve dashboards that drive proactive action.
+* Lead subscription, retention, and monetization analytics—ship launch\-readiness for new subscription features, reduce involuntary churn (e.g., targeted retrials/nudges), and develop elasticity/FX frameworks toward pricing optimality.
 
 
-**You Might Thrive In This Role If You Have**
-* At least 10\+ years of experience in Data Science roles within dynamic, outcome\-driven organizations.
-* Expertise in statistics and causal inference, applied in both experimentation and observational causal inference studies.
-* Proficiency in quantitative programming languages, such as Python and R.
-* Expertise in SQL, with extensive experience extracting large datasets and designing ETL workflows.
-* Experience using business intelligence tools, such as Mode, Tableau, and Looker.
-* Strategic and impact\-driven mindset, capable of translating complex business problems into actionable frameworks.
-* Ability to build relationships with diverse stakeholders and cultivate strong partnerships.
-* Strong communication skills, including the ability to bridge technical and non\-technical stakeholders and collaborate across various functions to ensure business impact.
-* Ability to craft clear data stories using decks, memos, and dashboards to drive decision\-making at every level.
-* Best\-in\-class attention to detail and unwavering commitment to accuracy.
-* Proven track record in solving problems within Finance, Marketing, Partnerships, Sales, Support, or other GTM areas.
+**You might thrive in this role if you have**
+* 5\+ years in a quantitative role (data science, product analytics, or experimentation) in high\-growth or fintech environments
+* Fluency in SQL and Python, with a track record designing and interpreting A/B tests and quasi\-experiments
+* Experience building product metrics from scratch and operationalizing them for decision\-making
+* Excellent communication skills with PMs, engineers, risk/finance partners, and executives
+* Strategic instincts beyond significance tests—clear thinking about tradeoffs (conversion vs. risk vs. cost vs. user experience)
+
+
+**You could be an especially great fit if you have**
+* Payments, checkout, or subscription analytics experience (PSPs, bank rails, disputes/refunds, risk, e\-commerce)
+* Background in offline incrementality methods, uplift modeling, CUPED/causal inference, or counterfactual evaluation
+* Experience with internationalization/local payments, FX, and pricing \&amp; packaging strategy
+* Comfort building operational analytics (alerting, SLIs/SLOs) and partnering closely with data engineering
 
 
 **About OpenAI**
@@ -302,8 +96,98 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
 
   
 
- Compensation Range: $290K \- $441K</description>
+ Compensation Range: $230K \- $385K</description>
         <pubDate>2026-07-26</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Data Scientist, Product - Mudflap</title>
+        <link>https://www.linkedin.com/jobs/view/4427656639</link>
+        <description>Mudflap serves the $800B trucking industry, the backbone of the U.S. economy. Our market\-leading payment products help truckers save thousands of dollars on fuel (their \#1 business expense), while providing our fuel stop partners with access to new, hard\-to\-reach customers. We’re a fast\-growing marketplace business looking for a new customer\-obsessed teammate to join us on this exciting journey.
+   
+
+  
+
+ At Mudflap, we’re building a data\-driven decision engine that powers every aspect of our business—from product development and customer experience to growth and operational excellence. We’re looking for a versatile Senior Data Scientist, Product to join our high\-impact team.
+   
+
+  
+
+ As a
+ **Senior Data Scientist, Product** 
+ , you’ll partner closely with Product, Engineering, Operations, and Leadership to drive strategic product decisions through advanced analytics, experimentation, and machine learning. You’ll design and analyze A/B tests, develop predictive models, build data products, and uncover actionable insights that influence product strategy and business outcomes. From identifying growth opportunities to measuring feature success and optimizing user experiences, your work will directly impact the trajectory of our platform.
+   
+
+  
+
+**Work Location:** 
+ This role is based in Palo Alto, CA and involves a hybrid work approach, balancing in\-office collaboration with the ability to work remotely.
+   
+
+  
+
+ To support our team, we offer:
+   
+
+  
+
+* Commuter benefits to ease your travel
+* Lunches and snacks to keep you fueled
+* A collaborative, high\-growth environment where you’ll work closely with talented teammates across the company
+
+
+**What You’ll Do**
+* Drive strategic data science initiatives that directly impact business outcomes, working closely with executive leadership to identify high\-value opportunities in your domain.
+* Lead end\-to\-end machine learning projects from problem formulation through production deployment, including model development, validation, A/B testing, and performance monitoring. solve high\-impact business problems such as fraudulent risk assessment, underwriting, customer segmentation, etc.
+* Drive data\-driven decision making across cross\-functional partnerships — Collaborate closely with Product, Engineering, Ops, Risk teams, etc. to translate complex business requirements into analytical solutions and communicate insights to executive stakeholders
+* Mentor junior data scientists and analysts and establish best practices — Provide technical leadership, code reviews, and strategic guidance while developing scalable data science methodologies and standards across the organization
+* Lead experimentation strategy and drive product innovation — Own end\-to\-end A/B testing frameworks, mentor teams on experimental design, and translate test results into actionable product improvements that directly impact key business metrics
+
+
+**What We’re Looking For**
+* 5\+ years of experience in data science, analytics, or related fields.
+* Proficiency in SQL and Python for data manipulation, modeling, and automation.
+* Experience building production\-ready models and pipelines.
+* Strong statistical knowledge and experience designing experiments (A/B testing, cohort analysis, causal inference).
+* Excellent communication skills—ability to present complex insights clearly to technical and non\-technical stakeholders.
+* Experience in at least one of the domains: risk, growth/marketing, or product analytics preferred.
+* Comfortable working in a fast\-paced startup environment where collaboration and flexibility are essential.
+
+
+**Perks and Benefits (What we offer):**
+* Competitive salary and equity in a high\-growth startup
+* Multiple health benefit options
+* Responsible Time Off
+* 401(k) matching
+* Opportunities and support for major career growth
+* Annual Company offsite event (Mudfest!)
+
+
+ The salary range for this role is $185,000 \- 225,000\. This information reflects a base salary range for this position based on current market data, which may be subject to change as new market data becomes available. The candidate's skills, experience, and other relevant factors will determine the exact compensation.
+   
+
+  
+
+**Company Overview (Who we are):**
+ Mudflap is on a mission to transform the trucking and logistics industry by leveling the playing field for owner operators and small fleets. Backed by top\-tier venture investors, including QED, Matrix Partners, Commerce Ventures, NFX, and 500 Startups and included in the Forbes Fintech 50 list, Mudflap offers fleet fuel management solutions. Our core team hails from Disney, Uber, Procore, DoorDash, Google, Meta, Capital One, Affirm and Brex.
+   
+
+  
+
+ Here are the core values that we believe in and look for in new teammates:
+   
+
+  
+
+* Be Customer Obsessed: We deeply understand customer needs and put our customers at the center of everything we do
+* Make it Count: Act like an owner by focusing on the impact of your work
+* Find a Way: Be a creative problem solver who pushes past roadblocks to win for our customers and our teammates
+* Sweat the Details: We keep our standards high and achieve them by paying attention to every detail
+* Be Curious: Use a growth mindset to question assumptions, take calculated risks and stretch the boundaries of what’s possible
+
+
+ Compensation Range: $185K \- $225K</description>
+        <pubDate>2026-07-25</pubDate>
     </item>
     
     <item>
@@ -482,188 +366,198 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
     </item>
     
     <item>
-        <title>Senior Data Scientist, People and Talent - Airwallex</title>
-        <link>https://www.linkedin.com/jobs/view/4433134031</link>
-        <description>**About Airwallex**
- Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Rippling, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale.
+        <title>Senior Data Scientist, Pricing - Mudflap</title>
+        <link>https://www.linkedin.com/jobs/view/4427656640</link>
+        <description>Mudflap serves the $800B trucking industry, the backbone of the U.S. economy. Our market\-leading payment products help truckers save thousands of dollars on fuel (their \#1 business expense), while providing our fuel stop partners with access to new, hard\-to\-reach customers. We’re a fast\-growing marketplace business looking for a new customer\-obsessed teammate to join us on this exciting journey.
    
 
   
 
- Proudly founded in Melbourne, we have a team of over 2,300 of the brightest and most innovative people in tech across 27 offices around the globe. Valued at US$11 billion and backed by world\-leading investors including T. Rowe Price, Visa, Mastercard, Robinhood Ventures, Sequoia, Salesforce Ventures, DST Global, and Lone Pine Capital, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us.
+ At Mudflap, we’re building a data\-driven decision engine that powers every aspect of our business—from product development and growth to risk management and operational excellence. We’re looking for a versatile Senior Data Scientist, Pricing to join our high\-impact team.
    
 
   
 
-**Attributes We Value**
- We hire successful builders with founder\-like energy who want real impact, accelerated learning, and true ownership. You bring strong role\-related expertise and sharp thinking, and you’re motivated by our mission and operating principles. You move fast with good judgment, dig deep with curiosity, and make decisions from first principles, balancing speed and rigor.
+ As a
+ **Senior Data Scientist, Pricing** 
+ , you’ll partner closely with Product, Finance, Revenue Operations, and Engineering to drive strategic pricing decisions that accelerate growth and maximize long\-term value. You’ll develop pricing and elasticity models, estimate customer willingness\-to\-pay, design and analyze pricing experiments, and generate insights that inform revenue, margin, and retention strategies. Your work will directly influence how we price our products, optimize customer value, and compete in the market.
    
 
   
 
- You're humble and collaborative; turn zero‑to‑one ideas into real products, and you “get stuff done” end\-to\-end. You use AI to work smarter and solve problems faster. Here, you’ll tackle complex, high‑visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let’s build what’s next.
+**Work Location:** 
+ This role is based in Palo Alto, CA and involves a hybrid work approach, balancing in\-office collaboration with the ability to work remotely.
    
 
   
 
-**About The Team**
- The Data Science team at Airwallex builds the data foundations, models, and decision\-support systems that help the business scale with speed and precision. We partner closely with leaders across the company to solve high\-impact problems through analytics, experimentation, machine learning, and data products.
+ To support our team, we offer:
    
 
   
 
- Within this team, you'll be the dedicated data science partner for our People \&amp; Talent (P\&amp;T) function — the team that builds the systems, insights, and experiences behind how Airwallex attracts, grows, and retains exceptional people at global scale. You'll work closely with P\&amp;T, Finance, and Engineering to improve how HR and recruiting data is modelled, governed, and used, and help shape a more scalable, self\-serve, and AI\-enabled analytics ecosystem for people's decisions.
+* Commuter benefits to ease your travel
+* Lunches and snacks to keep you fueled
+* A collaborative, high\-growth environment where you’ll work closely with talented teammates across the company
+
+
+**What You’ll Do**
+* Drive strategic data science initiatives that directly impact business outcomes, working closely with executive leadership to identify high\-value opportunities in your domain.
+* Lead end\-to\-end machine learning projects from problem formulation through production deployment, including model development, validation, A/B testing, and performance monitoring. solve high\-impact business problems such as fraudulent risk assessment, underwriting, customer segmentation, etc.
+* Drive data\-driven decision making across cross\-functional partnerships — Collaborate closely with Product, Engineering, Ops, Risk teams, etc. to translate complex business requirements into analytical solutions and communicate insights to executive stakeholders
+* Mentor junior data scientists and analysts and establish best practices — Provide technical leadership, code reviews, and strategic guidance while developing scalable data science methodologies and standards across the organization
+* Lead experimentation strategy and drive product innovation — Own end\-to\-end A/B testing frameworks, mentor teams on experimental design, and translate test results into actionable product improvements that directly impact key business metrics
+
+
+**What We’re Looking For**
+* 5\+ years of experience in data science, analytics, or related fields.
+* Proficiency in SQL and Python for data manipulation, modeling, and automation.
+* Experience building production\-ready models and pipelines.
+* Strong statistical knowledge and experience designing experiments (A/B testing, cohort analysis, causal inference).
+* Excellent communication skills—ability to present complex insights clearly to technical and non\-technical stakeholders.
+* Experience in at least one of the domains: risk, growth/marketing, or product analytics preferred.
+* Comfortable working in a fast\-paced startup environment where collaboration and flexibility are essential.
+
+
+**Perks and Benefits (What we offer):**
+* Competitive salary and equity in a high\-growth startup
+* Multiple health benefit options
+* Responsible Time Off
+* 401(k) matching
+* Opportunities and support for major career growth
+* Annual Company offsite event (Mudfest!)
+
+
+ The salary range for this role is $185,000 \- 225,000\. This information reflects a base salary range for this position based on current market data, which may be subject to change as new market data becomes available. The candidate's skills, experience, and other relevant factors will determine the exact compensation.
    
 
   
 
-**What You'll Do**
- As Senior Data Scientist, People and Talent, you will own the People \&amp; Talent (P\&amp;T) data domain at Airwallex and turn our HR and recruiting data into a scalable analytics foundation for the business. You will define how headcount, hiring, and people metrics are modeled, governed, and accessed, and you will build the pipelines, dashboards, and self‑serve tools that power decisions across P\&amp;T, Finance, Revenue Strategy, and Engineering.
+**Company Overview (Who we are):**
+ Mudflap is on a mission to transform the trucking and logistics industry by leveling the playing field for owner operators and small fleets. Backed by top\-tier venture investors, including QED, Matrix Partners, Commerce Ventures, NFX, and 500 Startups and included in the Forbes Fintech 50 list, Mudflap offers fleet fuel management solutions. Our core team hails from Disney, Uber, Procore, DoorDash, Google, Meta, Capital One, Affirm and Brex.
    
 
   
 
- This role combines hands\-on data engineering and analytics with product thinking and stakeholder management: you will manage the roadmap for P\&amp;T data, act as the subject matter expert on people data, and drive continuous improvements in automation, governance, and AI\-enabled insights. You will also build context layers that make people data more accessible and meaningful across the business, and enable AI analytics capabilities that help P\&amp;T teams move faster and make better decisions.
+ Here are the core values that we believe in and look for in new teammates:
    
 
   
 
-**Responsibilities**
-* Own and manage all People \&amp; Talent (P\&amp;T) data assets, ensuring robust data models, pipelines, documentation, and governance across all HR and recruiting systems.
-* Build and maintain scalable dashboards, reports, and self\-serve analytics supporting stakeholders in People \&amp; Talent, Finance, Revenue Strategy, and Engineering.
-* Partner with cross\-functional teams to prioritize requests, manage the P\&amp;T analytics roadmap, and drive improvements in automation, data quality, and end\-user access workflows.
-* Act as the subject matter expert on people data, supporting metric definition, troubleshooting, and user guidance, while upholding strict governance and privacy standards.
-* Enable AI\-powered and self\-serve analytics use cases, and continuously identify opportunities to enhance the P\&amp;T analytics ecosystem to support global growth.
+* Be Customer Obsessed: We deeply understand customer needs and put our customers at the center of everything we do
+* Make it Count: Act like an owner by focusing on the impact of your work
+* Find a Way: Be a creative problem solver who pushes past roadblocks to win for our customers and our teammates
+* Sweat the Details: We keep our standards high and achieve them by paying attention to every detail
+* Be Curious: Use a growth mindset to question assumptions, take calculated risks and stretch the boundaries of what’s possible
 
 
-**Who You Are**
- We're looking for people who meet the minimum requirements for this role. The preferred qualifications are great to have, but are not mandatory.
-   
-
-  
-
-**Qualifications**
-* 5\+ years of experience in data science, analytics, or a related quantitative field, with end\-to\-end ownership of data models, pipelines, and dashboards in a production environment.
-* Advanced degree (MS or PhD) in Statistics, Computer Science, Engineering, Economics, or a related field.
-* Strong hands\-on proficiency in SQL and Python and/or R, with experience working with large and complex datasets, data transformations, and building robust data solutions.
-* Experience with cloud data platforms such as Databricks (including Delta tables) and transformation frameworks like dbt.
-* Proven ability to translate ambiguous business challenges into clear analytics projects, apply structured problem\-solving, and communicate insights to both technical and non\-technical stakeholders.
-* Experience in causal inference, experimentation, or forecasting to analyze and explain key metric changes.
-* Strong documentation skills and familiarity with tools such as Hex or other notebook\-based analytics platforms.
-* Hands\-on experience with HR and recruiting data systems (e.g., BambooHR, Ashby, HRIS/ATS), including knowledge of data quirks, unique identifiers, and common update patterns.
-* Exposure to high\-growth technology or fintech environments, especially in contexts where People \&amp; Talent analytics intersect with Finance, Revenue Strategy, or GTM teams.
-* Understanding and application of rigorous data governance, privacy standards, and user access controls, especially for sensitive people and HR data.
-* Experience with AI\-powered analytics, self\-serve tools, or LLM\-powered data access solutions is a plus.
-* Excellent communication skills, strong curiosity, and the ability to build effective partnerships across cross\-functional teams.
-
-
-**Applicant Safety Policy: Fraud and Third\-Party Recruiters**
-*To protect you from recruitment scams, please be aware that Airwallex will not ask for bank details, sensitive ID numbers (i.e. passport), or any form of payment during the application or interview process. All official communication will come from an @* 
-*airwallex.com* 
-*email address. Please apply only through* 
-*careers.airwallex.com* 
-*or our official LinkedIn page.*
-*Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.*
-**Equal opportunity**
- Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard color, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status when making our hiring decisions. If you have a disability or special need that requires accommodation, please let us know.
-   
-
-  
-
- Compensation Range: $160K \- $250K</description>
+ Compensation Range: $185K \- $225K</description>
         <pubDate>2026-07-24</pubDate>
     </item>
     
     <item>
-        <title>Senior Data Scientist, Marketing Analytics (Mobile) - Gametime</title>
-        <link>https://www.linkedin.com/jobs/view/4441556834</link>
-        <description>**About Us:**
- Live experiences help people cross today’s digital divide and focus on what truly connects us – the here, the now, this once\-in\-a\-lifetime moment that’s bringing us together. To fulfill Gametime’s mission of uniting the world through shared experiences, we make it easy for people to discover and access the live experiences that matter most.
+        <title>Data Scientist, North Insights - Cohere</title>
+        <link>https://www.linkedin.com/jobs/view/4443825598</link>
+        <description>**Who are we?**
+ Cohere is the leading security\-first enterprise AI company. We build cutting\-edge foundation AI models and end\-to\-end products that are designed to solve real\-world business problems.
    
 
   
 
- With platforms on iOS, Android, mobile web and desktop supporting more than 60,000 events across the US and Canada, we are reimagining the event ticket industry in order to move at the speed of life.
+ We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
    
 
   
 
-**Data Science at Gametime**
- Our Marketing Analytics team is a cross\-functional group supporting all aspects of Gametime, partnering closely with User Acquisition to optimize mobile campaign performance across channels like Meta, TikTok, Reddit, and other paid platforms. We drive creative and spend efficiency through rigorous experimentation, advanced measurement, and granular channel analysis, and we work to strengthen the connection between platform\-reported performance, attribution\-based data, and internal customer economics. The team studies mobile cohorts to identify high\-value opportunities across leagues, teams, performers, and user segments, with an eye toward maximizing lifetime value and durable growth.
+ We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
    
 
   
 
-**The Opportunity**
- We're hiring a
- **Senior Data Scientist** 
- to help build and scale the analytical frameworks that power mobile marketing at Gametime, from executive\-level performance narratives down to campaign, creative, cohort, and audience\-level diagnostics.
+ We are a global technology company co\-headquartered in Toronto and San Francisco, with key offices in London, New York City, Montreal, Seoul, Germany and Paris. Join us!
    
 
   
 
- The ideal candidate has hands\-on experience with mobile marketing, paid social platforms, mobile attribution, experimentation, causal measurement, audience management, and financial profitability modeling in a marketplace or consumer mobile setting, and is comfortable moving fluidly between strategic and highly granular work.
+**Why this role?**
+ We're building the foundational infrastructure that will define how the world thinks about and deploys AI, and we want the sharpest, most curious people to help us do it. As a Data Scientist on our Analytics and Data Insights team, you'll work on problems that don't have textbook answers yet; building the analytics that shape product and company strategy, designing the experiments that prove or kill our biggest bets, and helping enterprise customers understand what foundational AI actually means for their bottom line. You'll own analytical work end\-to\-end: from framing the right questions and building the models to shipping insights, tools, and results that product leaders, sales teams, and enterprise customers rely on.
    
 
   
 
- We hire based on impact and capability, not just years of experience. We encourage you to apply and your level will be fully determined and agreed in the interview process.
+**As a Data Scientist, You Will**
+* Drive the mission forward.
+* Build bleeding\-edge agentic analytics: Agentic analytics is far from a solved problem, and we want to be the company that solves it. We need the sharpest minds with the curiosity, drive, and focus required to build the tools necessary to bring order and clarity to real world data.
+* Define AI impact measurement: own the end\-to\-end analytics story around adoption, growth, and impact that North leadership uses to prioritize features by measured value rather than customer feedback alone.
+* Ship customer\-facing analytics: insights that our enterprise customers recognize as evidence of value created.
+* Build small language models to categorize, classify, and enrich message data to give customers visibility into how their teams are using our products in their enterprise.
+* Design and run experiments: A/B tests, causal inference studies, and opportunity sizing that directly map to product and go\-to\-market decisions.
+* Build predictive models that matter: develop and deploy models for forecasting, segmentation, propensity scoring, and opportunity sizing across Cohere's core business lines.
+* Act like an owner: no waiting around. You'll define analytical priorities within your scope, push initiatives from question to production, and own what you build.
+
+
+**You May Be a Good Fit, If You Have**
+* Strong command of SQL, Python, and Git, alongside expertise in statistical inference, experimental design, and predictive modeling
+* A proven ability to turn ambiguous business questions into rigorous analytical problems, with clear and compelling recommendations to match
+* Experience building and deploying production models, not just notebook analysis. You know what it takes to get a classifier down the stack from prototype to production volume.
+* Familiarity with modern data stack tools such as BigQuery, dbt, Looker, or Airflow (nice to have, not essential)
+* Genuine excitement about AI: you follow the research, have opinions, and enjoy being in the weedsComfort operating in ambiguity, managing multiple workstreams across different stakeholders, and distilling insights into a concise, actionable narrative
+* A collaborative style grounded in empathy as much as in data; you work alongside product, research, sales, and finance, not in a silo
+
+
+ If some of the above doesn't line up perfectly with your experience, we still encourage you to apply!
    
 
   
 
-**What You'll Do**
-* Own the analytical frameworks for tracking mobile marketing effectiveness in a privacy\-aware environment, bridging platform\-reported data, attribution data, MMP data, and internal truth to support confident decisions despite measurement noise.
-* Own the end\-to\-end design and maintenance of marketing analytics dashboards in Sigma/Tableau, serving as a trusted source of truth for performance, user quality, payback, and profitability reporting.
-* Conduct granular analysis on campaign, ad set, ad, and creative performance (IPM, CPM, CPI, CAC, ROAS), providing data\-driven recommendations and partnering with marketing to spot creative fatigue and winning assets.
-* Analyze mobile user cohorts to understand retention, monetization, payback, and LTV behaviors, identifying efficiency trends across leagues, teams, and acquisition sources to guide budget allocation.
-* Partner with marketing and finance to understand channel incrementality, profitability, and spend efficiency, building financial scenario models to inform where to scale, reduce, or reallocate spend.
-* Design, analyze, and interpret experiments to measure true channel incrementality and marketing lift, including geo\-lift, PSA tests, and audience holdouts, translating results into practical recommendations.
-* Own analytical support for retargeting and audience strategy, building and maintaining user lists and improving segmentation to ensure programs drive incremental value rather than capturing organic demand.
-* Analyze how marketplace conditions, event demand, league mix, pricing, and seasonality influence acquisition efficiency, helping distinguish marketing execution shifts from broader marketplace dynamics.
-* Partner with leadership to translate complex analyses into clear recommendations on spend allocation, channel strategy, and growth investment, communicating tradeoffs and risks to support fast decisions.
-* Stay current on the evolving mobile privacy and attribution landscape (Apple ATT, MMP capabilities) to keep data science a competitive advantage in how Gametime measures and scales mobile growth.
+**Full\-Time Employees At Cohere Enjoy These Perks**
+* A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
+* Full health and dental benefits, including a separate budget for mental health.
+* RRSP matching, 401K, Pension Scheme.
+* 100% Parental Leave top\-up for up to 6 months, for either parent.
+* Annual enrichment benefits:
 
 
-**What You'll Bring**
-* 7\+ years of experience in marketing analytics, growth data science, mobile analytics, or a related field; Bachelor's degree in Data Science, Mathematics, Statistics, Computer Science, Economics, or a related field.
-* Prior experience at a mobile\-first company, with deep understanding of mobile attribution, Apple ATT, MMPs, and privacy\-aware measurement solutions.
-* Hands\-on experience with Meta, TikTok, Reddit, or similar paid social platforms, analyzing performance at the campaign, creative, and cohort level.
-* Experience evaluating acquisition and retargeting performance through LTV, CAC, ROAS, payback windows, and profitability models.
-* Experience designing and interpreting marketing experiments or causal measurement studies, such as geo\-lift tests and audience holdouts.
-* Experience building, managing, or analyzing user lists for paid marketing activation, with a strong grasp of segmentation, suppression logic, and saturation.
-* Strong foundation in statistics, with experience in experimentation, incrementality measurement, cohort analysis, and causal inference.
-* Experience analyzing creative performance and identifying fatigue to improve testing frameworks.
-* Proficiency in Python or R and SQL, along with hands\-on experience with BI tools (Tableau, Sigma) and Mobile Measurement Partners (Adjust, AppsFlyer, etc.).
-* Strong communication skills, with the ability to present technical insights and attribution nuances in a way that supports executive decision\-making.
-* Preferred: experience with Marketing Mix Modeling (MMM) or incrementality testing, and experience in ticketing, live events, marketplaces, or consumer mobile apps.
-* Preferred: experience working with highly seasonal businesses, event\-driven demand, or shifting supply and pricing dynamics.
-
-
-**What We Offer:**
-* Flexible PTO
-* Competitive salary \&amp; equity package
-* Monthly Gametime credits for any event ($1,200/yr)
-* Medical, dental, \&amp; vision insurance
-* Life insurance and disability benefits
-* Diverse Family\-forming benefits through Carrot Fertility
-* 401k, HSA, pre\-tax savings programs
-* Company off\-sites and meet\-ups
-* Wellness programs
-* Tenure recognition
-
-
- At Gametime pay ranges are subject to change and assigned to a job based on specific market median of similar jobs according to 3rd party salary benchmark surveys. Individual pay within that range can vary for several reasons including skills/capabilities, experience, and available budget.
+ Arts \&amp; culture, fitness/wellness, quality time, and a workspace improvement credit.
    
 
   
 
- United States \- Pay Range: $192,313 USD \- $226,250 USD
+ Education \&amp; learning stipend for conferences, courses, and coaching.
    
 
   
 
-**Gametime is committed to bringing together individuals from different backgrounds and perspectives. We strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together. As an equal opportunity employer, we prohibit any unlawful discrimination against a job applicant on the basis of their race, color, religion, veteran status, sex, parental status, gender identity or expression, transgender status, sexual orientation, national origin, age, disability or genetic information. We respect the laws enforced by the EEOC and are dedicated to going above and beyond in fostering diversity across our company.**</description>
+* 6 weeks of paid vacation (30 working days!)
+* Budget for traveling to other offices if you are remote, plus an annual company offsite.
+
+
+**How And Where We Work**
+* Cohere is remote\-friendly. We have offices in Toronto, San Francisco, New York City, London, Paris, Montreal, and more coming soon.
+* For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
+* For those not near an office: a co\-working benefit so you can work alongside others in your city.
+* Everyone receives a $500 home office stipend to set up your workspace properly.
+
+
+ If any of the above doesn’t line up exactly with your experience, we still encourage you to apply.
+   
+
+  
+
+ We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs.
+   
+
+  
+
+ We may use AI\-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
+   
+
+  
+
+*Beware of Scams: Cohere will never ask for payment or third\-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our* 
+*official careers* 
+*page.*
+ Compensation Range: $150K \- $225K</description>
         <pubDate>2026-07-23</pubDate>
     </item>
     
@@ -794,144 +688,128 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
     </item>
     
     <item>
-        <title>Staff Data Scientist, Growth Data Science - Moloco</title>
-        <link>https://www.linkedin.com/jobs/view/4425935335</link>
-        <description>**About Moloco:**
- Moloco builds some of the most powerful AI advertising solutions in the world. Our name—short for "machine learning company"—reflects our core mission: democratizing access to the advanced AI that has historically been reserved for tech giants. Led by machine learning pioneers who built some of the most successful ad systems at Google, including YouTube's monetization engine and key search advertising technologies, we're transforming how businesses grow and compete in the digital economy.
+        <title>Staff Data Scientist, Pricing - Square</title>
+        <link>https://www.linkedin.com/jobs/view/4441069940</link>
+        <description>Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
    
 
   
 
- Built with AI from day one, Moloco’s planet\-scale machine learning platform powers a suite of solutions for advertising growth and monetization.
- **Moloco Ads** 
- is an AI\-powered platform that delivers real business outcomes for mobile app marketers through performance\-based user acquisition.
- **Moloco Commerce Media** 
- enables retailers and marketplaces to build revenue\-generating ad businesses that balance user experience and advertiser performance.
+ So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, offer buy now, pay later functionality, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
    
 
   
 
- Moloco is headquartered in Silicon Valley, with offices in Seattle, New York, San Francisco, Seoul, Beijing, Singapore, Gurgaon, Tokyo, Shanghai, London, Tel Aviv, and Berlin.
+ Today, we are a partner to sellers of all sizes – large, enterprise\-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
+ 
+
+
+**The Role** 
+
+ The Data Science team at Block turns insights from our unique datasets into actions that improve the customer experience every day. In this role, we're looking for a Data Scientist to own the modeling and experimentation at the core of how Square prices globally. You'll build the elasticity and willingness\-to\-pay models, design and run the pricing experiments, and stand up the analytical infrastructure that makes pricing measurable and controllable — shaping pricing strategy and deal\-desk automation through the models and experiments you build.
+ 
+
+
+**You Will** 
+* Model price elasticity and willingness\-to\-pay across segments, geographies, and payment methods, and quantify the trade\-off between margin, conversion, and merchant retention
+* Design, run, and read out pricing experiments (A/B, difference\-in\-differences, and bandit\-based dynamic tests) and translate results into recommendations that shape strategy
+* Decompose merchant economics across interchange, scheme, and risk\-cost layers to identify where pricing can flex and where it can't
+* Build the pricing intelligence that powers Square's agentic deal tooling (DealBot) — rate recommendations, ROI and pre\-approval logic, guardrail configurations, and mispricing detection — so quotes are fast, accurate, and within guardrails at scale
+* Evaluate and monitor the AI systems you ship — pre\-deployment testing for accuracy, boundary and edge cases, and bias in rate recommendations, and in\-production monitoring for accuracy, drift, and mispricing — so agentic pricing tools stay reliable as the business changes
+* Own end\-to\-end execution across the stack — analysis, pipeline, ETL, experimentation, and visualization
+* Approach problems from first principles, using a variety of statistical and modeling techniques to understand customer behavior and price response
+* Build and maintain the pricing analytics the team relies on — price realization, margin leakage, discount\-waterfall, and win/loss analyses — as self\-serve dashboards and curated datasets
+* Measure the impact of AI\-driven pricing automation with causal methods (interrupted time series, difference\-in\-differences) on deal velocity, quote acceptance, and margin
+* Write code to process, cleanse, and combine data sources into curated ETL datasets easily used by the broader team
+* Partner closely with cross\-functional stakeholders across Finance, Risk, Product, and go\-to\-market teams, translating complex technical and AI concepts clearly for non\-technical audiences
+
+
+**You Have** 
+* A bachelor degree in statistics, data science, economics, or similar STEM field with 7\+ years of experience in a relevant role OR a graduate degree in statistics, data science, economics, or similar STEM field with 5\+ years of experience in a relevant role
+* Fluency in causal inference and experimentation, with hands\-on experience modeling price elasticity or willingness\-to\-pay
+* Prior exposure to a pricing\-adjacent domain a strong plus — risk\-based pricing (payments, lending, insurance), pricing science, or deal pricing analytics
+* Advanced proficiency with SQL and data visualization tools (e.g. Tableau, Looker, etc)
+* Experience with scripting and data analysis programming languages, such as Python or R, including using them to evaluate AI system behavior
+* Gone deep with cohort and funnel analyses, with a solid understanding of statistical concepts such as selection bias, probability distributions, and conditional probabilities
+* Comfort leveraging AI tools to accelerate modeling and analysis, and a working understanding of generative AI architectures — LLMs, RAG systems, and agentic AI; experience building, testing, or evaluating LLM\-powered systems in production a strong plus
+
+
+**Technologies We Use and Teach** 
+* SQL, Snowflake, etc.
+* Python (Pandas, Numpy)
+
+
+
+ We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
    
 
   
 
- Moloco is a truly rewarding place to work and in an exciting period of growth, which you could be a part of. Join us today and apply now!
-   
-
-  
-
-**About The Role**
- Growth Data Science (GDS) is Moloco's global team of data scientists who partner with advertisers, sales, product, and engineering teams to maximize the effectiveness of Moloco Ads. As a Staff Data Scientist, you will hold one of the most cross\-functional, high\-visibility roles in the team \- serving as the primary bridge between the commercial objectives of our advertisers and the technical direction of the Moloco Ads product.
-   
-
-  
-
- This is a newly created role designed to fill a critical gap: the need for a senior, technically strong, DS who can both drive performant activation of Moloco products with our largest advertisers and synthesize customer signals into product priorities. A key component of this scope will be operating globally across GDS \- creating the frameworks, playbooks, and product feedback loops that the broader team can scale.
-   
-
-  
-
- You will work in the overlap of customer\-facing data science and product strategy, partnering daily with product, engineering, sales, and GTM teams to ensure that what Moloco builds gets activated effectively and that what advertisers need shapes what we build next.
-   
-
-  
-
-**The Impact You'll Have**
-**Strategic Advertiser Engagement**
-* Partner directly with Moloco’s top tier of advertisers to ensure they are extracting maximum value from the Moloco product suite, advising on campaign structure, measurement, bidding strategy, and optimization levers.
-* Translate account insights into product roadmap signals \- feeding structured product and GTM feedback upwards
-* Set the standard for GDS advertiser engagement as a model others learn from
+ We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.
+ **Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our** 
+ I\+D page.
+ 
 
 
-**Product Strategy \&amp; Roadmap Influence**
-* Build and scale activation frameworks that regional GDS teams can run across their books \- moving the team from ad hoc activation to a repeatable, scalable model.
-* Serve as a senior technical voice from GDS in product conversations \- bringing the depth of advertiser insight and analytical rigor needed to influence roadmap decisions at the highest level.
-* Systematically collect, synthesize, and communicate customer feedback and market signals to product and engineering, ensuring the Moloco roadmap is grounded in real advertiser needs.
-* Partner with product DS and engineering teams to define success metrics, design experiments, and evaluate new product features before and after launch.
-* Translate complex, ambiguous advertiser problems into clear product requirements and value propositions, acting as a credible interpreter between commercial and technical teams.
+
+ While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.
+ 
 
 
-**Global Frameworks \&amp; Team Leverage**
-* Define and own the GDS approach to product activation globally. Building frameworks, tools, and best practices that elevate the impact of the entire team.
-* Act as a thought leader within GDS: setting a high bar for analytical rigor, stakeholder communication, and cross\-functional influence.
-* Work across AMER, EMEA, and APAC GDS teams to ensure consistency in how we bring product to market and how we surface customer insight back to the business.
+
+  Block takes a market\-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job\-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.  
+ 
 
 
-**Minimum Requirements**
-* Education: Bachelor's degree in a quantitative discipline (Statistics, Computer Science, Economics, Mathematics, Physics, or equivalent practical experience).
-* Experience: 8\+ years in data science, analytics, or a closely related quantitative field, with significant time in a customer\-facing or product\-facing IC capacity.
-* Statistics: Strong foundation in experimental design, hypothesis testing, regression, and causal inference methods.
-* Programming: Proficiency in Python and SQL is required. Experience with large\-scale data platforms (e.g., BigQuery) preferred.
-* Communication: Exceptional verbal and written communication skills. Proven ability to distill complex technical concepts into clear recommendations for non\-technical audiences up to C\-level.
-* Stakeholder management: Demonstrated ability to build and maintain credibility with cross\-functional partners across product, engineering, sales, and GTM functions.
-* Ownership: Proven ability to own projects end\-to\-end in ambiguous problem spaces, with a track record of driving them to measurable outcomes.
-* Leadership: Demonstrated self\-direction and senior\-level judgment. Comfortable operating without a playbook and building one where none exists.
+
+ Zone A:: $239,600 USD \- $359,400 USD
+ 
 
 
-**Preferred Qualifications**
-* Graduate degree (Master's or PhD) in a quantitative discipline.
-* Prior experience in ad tech, programmatic advertising, DSP/SSP, or performance marketing. Strong familiarity with mobile app ecosystems and MMP measurement frameworks.
-* Experience working with or at a mobile app advertiser (gaming, fintech, social) with direct exposure to UA strategy, LTV optimization, or monetization.
-* Hands\-on experience shaping product roadmaps as a DS \- not just evaluating features, but actively influencing what gets built and why.
-* Track record of building scalable frameworks, playbooks, or methodologies that have been adopted by a wider team.
-* Familiarity with incrementality testing methodologies (geo holdouts, ghost bidding, PSA tests) and their practical application with advertisers.
+
+ Zone B: : $239,600 USD \- $359,400 USD
+ 
 
 
-**Compensation \&amp; Benefits**
- U.S.\-based employees have access to medical, dental, and vision insurance, a 401(k) plan with company match, short\-term and long\-term disability coverage, basic life insurance, and well\-being benefits and perks. U.S.\-based employees also receive up to 12 scheduled paid holidays per calendar year and one Thrive Day off per quarter. Additionally, all employees have Flexible Time Off (FTO).
-   
 
-  
-
- The successful candidate may be eligible for a bonus and equity awards. Eligibility and amounts are determined by performance and the terms of the applicable plans.
-   
-
-  
-
- The location for this role is listed above. For base pay range purposes, location\-based compensation is grouped into the following regions. Your region is determined by your assigned work location.
-   
-
-  
-
-* Region A: Menlo Park Office, New York Office, SF Bay Area, New York Metro Area
-* Region B: Seattle Office, Seattle, Los Angeles/Orange County, San Diego, Austin, Boston, Washington DC Metro Area, Miami
-* Region C: All other U.S. locations
+ Zone C:: $239,600 USD \- $359,400 USD
+ 
 
 
-**Salary Ranges:**
- Region A:
-   
 
-  
+ Zone D:: $239,600 USD \- $359,400 USD
+ 
 
- $211,200—$264,000 USD
-   
 
-  
 
- Region B:
-   
+**Application Guidelines** 
 
-  
 
- $190,000—$237,500 USD
-   
 
-  
 
- Region C:
-   
+ Candidates may submit up to 9 active applications within a 60\-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.
+ 
 
-  
 
- $179,600—$224,500 USD
-   
 
-  
+**Use of AI in Our Hiring Process** 
 
-**Moloco Thrive: Benefits and Well\-Being:**
- We take care of you and create the conditions for you to do the best work of your career. Through a lens of inclusion, we offer innovative benefits that empower our employees to take care of themselves and their families so they can do </description>
+
+
+
+ We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws. 
+ 
+
+
+
+ Contact us here with hiring practice or data usage questions.
+ 
+
+
+
+*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.* 
+*Check out our other benefits at Block.* 
+</description>
         <pubDate>2026-07-22</pubDate>
     </item>
     
@@ -1016,900 +894,6 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
 
  Compensation Range: $160K \- $250K</description>
         <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Applied Scientist, Applied AI Solutions GTM - Amazon Web Services (AWS)</title>
-        <link>https://www.linkedin.com/jobs/view/4443042031</link>
-        <description>**Description**
- Amazon Web Services (AWS) Applied AI Solutions (AAIS) is on a mission to make AI real for enterprises. We build and deploy production AI solutions that drive measurable business outcomes at scale, bringing together applied scientists, AI architects, business development professionals, and GTM specialists to help customers move from AI experimentation to production impact.
-   
-
-  
-
- Within AAIS, the GTM Acceleration team activates the field, measures impact, and scales what works. We are the connective tissue between AAIS product and science teams and the worldwide field organization, ensuring our AI solutions reach customers effectively, that we quantify the value we deliver, and that we build repeatable motions that scale globally.
-   
-
-  
-
- We are looking for an Applied Scientist who will serve as a force multiplier across our customer engagement teams, building the analytical foundations, predictive models, and reusable tooling that power our go\-to\-market strategy. You will work at the intersection of data science, machine learning, and business strategy, building models that quantify our value proposition, and creating scalable analytical assets that accelerate every engagement. This is a highly visible, high\-impact role where your work directly influences how we demonstrate and measure the value of AWS AI solutions for enterprise customers.
-   
-
-  
-
- You will operate with significant autonomy, owning the scientific direction of your projects while collaborating with software engineers, product managers, and business stakeholders. You will identify the right methodology for each problem, whether that is a classical statistical approach, a modern deep learning technique, or a novel combination, and communicate your findings clearly to both technical and non\-technical audiences. This role spans Connect Customer initiatives and across the Applied AI solution portfolio, offering the opportunity to pioneer data science approaches that scale intelligent analytics worldwide.
-   
-
-  
-
- If you thrive at the intersection of rigorous science and customer\-facing impact and are energized by translating complex model outputs into business decisions, we want to talk to you.
-   
-
-  
-
- Key job responsibilities
-   
-
-  
-
- Design, develop, and deploy statistical models and machine learning pipelines to drive product improvements, business decisions, and customer outcomes
-   
-
-  
-
- Work directly with customers during production pilots to build and deploy AI solutions that demonstrate measurable business value
-   
-
-  
-
- Design and execute A/B experiments and causal inference analyses to measure the impact of new features and model changes
-   
-
-  
-
- Build ROI models, business case tools, and forecasting systems for demand prediction, capacity planning, workforce optimization, and value quantification
-   
-
-  
-
- Apply NLP and generative AI techniques to extract insights from structured and unstructured data at scale, and partner with software engineers to productionize models with reliability, monitoring, and operational excellence
-   
-
-  
-
- Build and own customer analytics capabilities including segmentation (by size tier, AI adoption, product penetration, entitlement), usage trend analysis, propensity modeling, and foundational datasets combining service usage with sales data
-   
-
-  
-
- Create self\-service analytics platforms and automated insight delivery mechanisms that enable leadership to pull strategic intelligence on demand
-   
-
-  
-
- Enable field teams with reusable analytical assets, diagnostic notebooks, benchmarking studies, and scalable tooling that accelerate customer engagements
-   
-
-  
-
- Own success metrics and create mechanisms to measure model performance, adoption, and business impact across customer cohorts
-   
-
-  
-
- Define strategic frameworks and GTM recommendations by segment, translating data patterns and market signals into actionable go\-to\-market motions and investment priorities
-   
-
-  
-
- Communicate findings and technical trade\-offs to senior leadership and customer executives through written documents (6\-pagers, science reviews) and presentations, operating as a shared resource across 2\-3 teams simultaneously
-   
-
-  
-
-**About The Team**
- Diverse Experiences
-   
-
-  
-
- AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
-   
-
-  
-
- Why AWS?
-   
-
-  
-
- Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
-   
-
-  
-
- Inclusive Team Culture
-   
-
-  
-
- AWS values curiosity and connection. Our employee\-led and company\-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.
-   
-
-  
-
- Mentorship \&amp; Career Growth
-   
-
-  
-
- We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\-sharing, mentorship and other career\-advancing resources here to help you develop into a better\-rounded professional.
-   
-
-  
-
- Work/Life Balance
-   
-
-  
-
- We value work\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.
-   
-
-  
-
-**Basic Qualifications**
-* PhD, or Master's degree and 6\+ years of applied research experience
-* 5\+ years of building machine learning models for business application experience
-* Experience with neural deep learning methods and machine learning
-* Experience managing analytics, data science or technology teams, with a product or insight focus
-* Experience working with diverse or differing data sets including creating and compiling data into a final distribution for management consumption
-* Experience with customer segmentation, profiling, and targeting
-
-
-**Preferred Qualifications**
-* PhD
-* Track record of delivering end\-to\-end data science solutions from problem definition through production deployment
-
-
- Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
-   
-
-  
-
- Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-
- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-</description>
-        <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Applied Scientist, Applied AI Solutions GTM - Amazon Web Services (AWS)</title>
-        <link>https://www.linkedin.com/jobs/view/4443038181</link>
-        <description>**Description**
- Amazon Web Services (AWS) Applied AI Solutions (AAIS) is on a mission to make AI real for enterprises. We build and deploy production AI solutions that drive measurable business outcomes at scale, bringing together applied scientists, AI architects, business development professionals, and GTM specialists to help customers move from AI experimentation to production impact.
-   
-
-  
-
- Within AAIS, the GTM Acceleration team activates the field, measures impact, and scales what works. We are the connective tissue between AAIS product and science teams and the worldwide field organization, ensuring our AI solutions reach customers effectively, that we quantify the value we deliver, and that we build repeatable motions that scale globally.
-   
-
-  
-
- We are looking for an Applied Scientist who will serve as a force multiplier across our customer engagement teams, building the analytical foundations, predictive models, and reusable tooling that power our go\-to\-market strategy. You will work at the intersection of data science, machine learning, and business strategy, building models that quantify our value proposition, and creating scalable analytical assets that accelerate every engagement. This is a highly visible, high\-impact role where your work directly influences how we demonstrate and measure the value of AWS AI solutions for enterprise customers.
-   
-
-  
-
- You will operate with significant autonomy, owning the scientific direction of your projects while collaborating with software engineers, product managers, and business stakeholders. You will identify the right methodology for each problem, whether that is a classical statistical approach, a modern deep learning technique, or a novel combination, and communicate your findings clearly to both technical and non\-technical audiences. This role spans Connect Customer initiatives and across the Applied AI solution portfolio, offering the opportunity to pioneer data science approaches that scale intelligent analytics worldwide.
-   
-
-  
-
- If you thrive at the intersection of rigorous science and customer\-facing impact and are energized by translating complex model outputs into business decisions, we want to talk to you.
-   
-
-  
-
- Key job responsibilities
-   
-
-  
-
- Design, develop, and deploy statistical models and machine learning pipelines to drive product improvements, business decisions, and customer outcomes
-   
-
-  
-
- Work directly with customers during production pilots to build and deploy AI solutions that demonstrate measurable business value
-   
-
-  
-
- Design and execute A/B experiments and causal inference analyses to measure the impact of new features and model changes
-   
-
-  
-
- Build ROI models, business case tools, and forecasting systems for demand prediction, capacity planning, workforce optimization, and value quantification
-   
-
-  
-
- Apply NLP and generative AI techniques to extract insights from structured and unstructured data at scale, and partner with software engineers to productionize models with reliability, monitoring, and operational excellence
-   
-
-  
-
- Build and own customer analytics capabilities including segmentation (by size tier, AI adoption, product penetration, entitlement), usage trend analysis, propensity modeling, and foundational datasets combining service usage with sales data
-   
-
-  
-
- Create self\-service analytics platforms and automated insight delivery mechanisms that enable leadership to pull strategic intelligence on demand
-   
-
-  
-
- Enable field teams with reusable analytical assets, diagnostic notebooks, benchmarking studies, and scalable tooling that accelerate customer engagements
-   
-
-  
-
- Own success metrics and create mechanisms to measure model performance, adoption, and business impact across customer cohorts
-   
-
-  
-
- Define strategic frameworks and GTM recommendations by segment, translating data patterns and market signals into actionable go\-to\-market motions and investment priorities
-   
-
-  
-
- Communicate findings and technical trade\-offs to senior leadership and customer executives through written documents (6\-pagers, science reviews) and presentations, operating as a shared resource across 2\-3 teams simultaneously
-   
-
-  
-
-**About The Team**
- Diverse Experiences
-   
-
-  
-
- AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
-   
-
-  
-
- Why AWS?
-   
-
-  
-
- Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
-   
-
-  
-
- Inclusive Team Culture
-   
-
-  
-
- AWS values curiosity and connection. Our employee\-led and company\-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.
-   
-
-  
-
- Mentorship \&amp; Career Growth
-   
-
-  
-
- We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\-sharing, mentorship and other career\-advancing resources here to help you develop into a better\-rounded professional.
-   
-
-  
-
- Work/Life Balance
-   
-
-  
-
- We value work\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.
-   
-
-  
-
-**Basic Qualifications**
-* PhD, or Master's degree and 6\+ years of applied research experience
-* 5\+ years of building machine learning models for business application experience
-* Experience with neural deep learning methods and machine learning
-* Experience managing analytics, data science or technology teams, with a product or insight focus
-* Experience working with diverse or differing data sets including creating and compiling data into a final distribution for management consumption
-* Experience with customer segmentation, profiling, and targeting
-
-
-**Preferred Qualifications**
-* PhD
-* Track record of delivering end\-to\-end data science solutions from problem definition through production deployment
-
-
- Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
-   
-
-  
-
- Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-
- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-</description>
-        <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Sr Data Scientist, WWSO Bedrock - Amazon Web Services (AWS)</title>
-        <link>https://www.linkedin.com/jobs/view/4443039316</link>
-        <description>**Description**
- Are you passionate about Generative AI? Do you want to help define the future of Go to Market (GTM) at AWS using generative AI? In this role, you will help our customers build and deploy GenAI enabled applications using Amazon Bedrock, customize Generative AI models, and help enterprise customers leverage these models to power end applications. You will engage with product owners to influence product direction and help our customers tap into new markets by utilizing GenAI along with AWS Services.
-   
-
-  
-
- The Worldwide Specialist Organization (WWSO) is part of AWS Sales, Marketing, and Global Services (SMGS), which is responsible for driving revenue, adoption, and growth from the largest and fastest growing small\- and mid\-market accounts to enterprise\-level customers including public sector. We work backwards from our customer’s most complex and business critical problems to build and execute go\-to\-market plans that turn AWS ideas into multi\-billion\-dollar businesses. WWSO teams include business development, specialist and technical solutions architecture. As part of WWSO, you'll provide expertise across the entire life cycle of an AWS customer initiative, from developing ideas for new services to accelerating the adoption of established businesses. We pride ourselves on thinking big, delivering exceptional results for our customers, and working across AWS as \#OneTeam
-   
-
-  
-
- The Generative AI Worldwide Specialist team guides AWS customers on building enterprise\-grade GenAI systems. This role will support development of techniques, solutions and architectural blueprints that our customers can use to build their own enterprise\-wide Generative AI and Agentic systems in a responsible way, helping them balance democratization of access to GenAI and speed of innovation with following best practices around trustworthy AI, cost efficiency, security, etc. This role specifically will be owning development of best practices around Responsible AI covering such important topics as guardrails, veracity, model evaluations, automated reasoning, fairness, explainability, etc. The role with partner with others on the team to develop comprehensive guidance for AWS GenAI customers using Amazon Bedrock. The deliverables include: helping customers solve complex problems with data science, contributions to the joint technical guidance, architectural blueprints / whitepapers, feedback to AWS Bedrock science teams, thought leadership in the form of public writing and speaking, as well as internal enablement. The role has a global remit.
-   
-
-  
-
- Key job responsibilities
-   
-
-  
-
-* Customer Advisor\- Implement, and deploy state of the art machine learning algorithms under Gen AI. You will build prototypes, troubleshoot customer issues, and explore new solutions. You will interact closely with our customers and with the academic community.
-* Thought Leadership – Evangelize AWS features relating to Responsible AI and share best practices through forums such as AWS blogs, white\-papers, reference architectures and public\-speaking events such as AWS Summit, AWS re:Invent, etc.
-* Partner with SAs, Sales, Business Development and the AI/ML Service teams to accelerate customer adoption and providing guidance on their customer engagements.
-* Develop and support an AWS internal community of ML related subject matter experts worldwide. Create field enablement materials for the broader SA population, to help them understand how to integrate Amazon Web Services GenAI solutions into customer architectures.
-
-
-**Basic Qualifications**
-* 5\+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
-* 4\+ years of data scientist experience
-* Experience with statistical models e.g. multinomial logistic regression
-* 5\+ years of management of technical, enterprise customer facing resources or equivalent experience
-* 7\+ years design/implementation/consulting experience of distributed applications
-* 5\+ years of hands\-on experience with AI/ML or related technology domain
-* 3\+ years of hands\-on experience with Responsible AI
-
-
-**Preferred Qualifications**
-* 2\+ years of data visualization using AWS QuickSight, Tableau, R Shiny, etc. experience
-* Experience managing data pipelines
-* Experience as a leader and mentor on a data science team
-* Experience architecting, migrating, transforming or modernizing customer requirements to the cloud
-* Experience with presentations and speaking with executives, IT, management, and developers
-* BS degree in computer science or equivalent, or 4\+ years of technical work experience
-* History of successful technical consulting and/or architecture engagements with large\-scale customers or enterprises
-* Track record of thought leadership and innovation around Responsible AI.
-
-
- Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
-   
-
-  
-
- Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-   
-
-  
-
- Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\-we\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
-   
-
-  
-
- The base salary range for this position is listed below. Your Amazon package will include sign\-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life \&amp; AD\&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
-   
-
-  
-
- USA, CA, East Palo Alto \- 183,000\.00 \- 247,600\.00 USD annually
-   
-
-  
-
- USA, NY, New York \- 175,100\.00 \- 236,900\.00 USD annually
-   
-
-  
-
- USA, TX, AUSTIN \- 159,200\.00 \- 215,300\.00 USD annually
-   
-
-  
-
- USA, VA, Arlington \- 159,200\.00 \- 215,300\.00 USD annually
-   
-
-  
-
- USA, WA, Seattle \- 159,200\.00 \- 215,300\.00 USD annually
-   
-
-  
-
-  
-
-**Company** 
- \- Amazon Web Services, Inc.
-   
-
-  
-
- Job ID: A10422870</description>
-        <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Member of Data Staff (Analytics Engineer) - Perplexity</title>
-        <link>https://www.linkedin.com/jobs/view/4374657493</link>
-        <description>Perplexity is AI for people who expect more. On the data team, that means building the systems that make our data reliable, understandable, and usable by both humans and AI.
-   
-
-  
-
- We're looking for an analytics engineer or data engineer who wants to build the foundation for an AI\-native data organization. You'll design core data models, pipelines, semantic layers, data quality systems, governance practices, and warehouse workflows that power the entire company: helping teams make strategic decisions, operate the business, and move faster with trusted data. You'll also make sure those systems are secure, privacy\-aware, and legible to AI agents, data scientists, and the rest of the company.
-   
-
-  
-
- This role is for someone who can operate at the boundary of analytics engineering, data engineering, data governance, and internal product. You care about dimensional modeling, dbt standards, cost\-aware warehouse design, access controls, privacy, and the details that make data trustworthy. You also believe AI should make the data stack faster, easier to maintain, and more accessible across the company without weakening security or governance.
-   
-
-  
-
-**What You'll Do**
-* Build the core data foundation \- design and maintain high\-quality data models, marts, and pipelines that make analysis fast, reliable, and reusable.
-* Manage the data warehouse \- help own warehouse architecture, environments, permissions, performance, cost, data lifecycle, and operational hygiene so the platform scales cleanly.
-* Make the warehouse AI\-readable \- own the documentation, semantic context, metadata, lineage, and retrieval patterns that AI systems depend on to understand and query Perplexity's data correctly.
-* Own data modeling standards \- define and champion dbt patterns, dimensional modeling practices, naming conventions, tests, and review processes.
-* Lead data governance practices \- define standards for access, ownership, lineage, documentation, retention, quality, and sensitive data handling across the analytical warehouse.
-* Build with security and privacy in mind \- partner with engineering, security, legal, and finance where needed to ensure data access, sharing, and AI\-enabled workflows are appropriate and controlled.
-* Automate data quality and maintenance \- build AI\-assisted workflows that detect issues, explain root causes, suggest fixes, generate tests, and reduce manual firefighting.
-* Improve data team productivity \- automate repetitive workflows, improve tooling, streamline development, and make it easier for data scientists and stakeholders to answer questions.
-* Partner across the company \- work closely with data scientists, engineering, product, finance, and GTM teams to translate analytical needs into durable data systems.
-* Shape tooling decisions \- evaluate build\-versus\-buy tradeoffs, manage vendor relationships when needed, and choose tools that scale with the team.
-
-
-**What We're Looking For**
-* 6\+ years of experience as an analytics engineer, data engineer, data scientist, or closely related role.
-* Deep SQL expertise \- you can reason about correctness, performance, joins, grain, and edge cases in complex warehouse queries.
-* Strong data modeling experience \- you've worked hands\-on with dbt (or a similar transformation framework) in production, and you understand dimensional modeling, data contracts, testing, and how analytical schemas should evolve.
-* Pipeline ownership \- you've built, maintained, debugged, and improved production data pipelines.
-* Warehouse management experience \- you've worked with warehouse administration, access patterns, permissions, performance tuning, cost management, or operational ownership.
-* Governance mindset \- you think clearly about data ownership, access controls, privacy, retention, lineage, auditability, and the risks of making data too easy to access.
-* AI\-native working style \- you already use AI to speed up development, documentation, QA, exploration, and repetitive workflow automation.
-* Stakeholder fluency \- you know how to turn messy analytical requirements into trusted models, metrics, and reusable data assets.
-* Autonomy and execution \- you can take projects from ambiguous problem to production\-quality system with minimal oversight.
-* Operational judgment \- you care about reliability, governance, security, cost, and long\-term maintainability.
-
-
-**Bonus**
-* Snowflake administration, optimization, cost management, or warehouse performance tuning.
-* Experience with RBAC, PII handling, data classification, retention policies, audit workflows, or privacy/security reviews.
-* Experience with Databricks or other modern data infrastructure.
-* Experience building semantic layers, metrics layers, metadata systems, or data catalogs.
-* Python experience for data tooling, automation, orchestration, or quality checks.
-* Previous experience as an early analytics engineer or data engineer at a high\-growth startup.
-
-
-**Why This Role**
-* Own the foundation \- your work will determine how fast and confidently the company can use data.
-* Build for humans and AI \- the next generation of data infrastructure needs to be understandable by agents as well as analysts.
-* High leverage \- better models, pipelines, and tools multiply every data scientist and every stakeholder who depends on data.
-* Small team, broad scope \- you'll have room to define standards, choose tools, and ship systems that become company\-wide defaults.
-
-
- Compensation Range: $175K \- $330K</description>
-        <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist - Square</title>
-        <link>https://www.linkedin.com/jobs/view/4440164239</link>
-        <description>Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
- 
-
-
-
- So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, offer buy now, pay later functionality,  book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
- 
-
-
-
- Today, we are a partner to sellers of all sizes – large, enterprise\-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
- 
-
-
-**The Role** 
-
- Square's Sales organization is where we're placing our biggest bets, and the go\-to\-market (GTM) Data Science team sits at the heart of that growth engine. Reporting to the Sales Data Science lead, you'll own a mature subdomain of our Sales function and contribute across the full channel, alongside peers in Sales Data Science (DS) and the wider GTM Data Science org. The role is a rare combination: you'll be a trusted analytics leader who sales executives turn to for the ground truth on business performance, and a hands\-on data scientist who solves big, ambiguous problems end to end. This is a DS team on the front lines of AI, one that uses agents daily to clear away the mundane and free up time for the high\-impact, technically challenging work that moves the business forward. You'll grow here: there's no shortage of hard problems, plenty of sharp colleagues to learn from, and the leverage to scale your impact well beyond your own domain.
- 
-
-
-**You Will** 
-* Own performance measurement for your subdomain: monitoring the metrics that matter (wins, new revenue, funnel conversion, rep productivity), reporting against plan, and presenting the story in business reviews with sales leadership
-* Lead investigations into performance questions ("why is X down?", "how can we improve Y?"), decomposing KPIs from first principles and designing experiments to test what actually works
-* Take on large, ambiguous projects autonomously: scoping the problem, finding the right data, thinking critically about what it can and can't tell you, and landing the results with stakeholders
-* Own and evolve your subdomain's data foundation, and partner with Sales DS peers on shared metrics, attribution logic, and cross\-cutting analyses
-* Translate data into business context: telling the story behind the numbers, pushing back on hypotheses with evidence, and building trust with senior sales, finance, and operations leaders
-* Work AI\-natively: use agents throughout your workflow and pioneer new ways of applying AI to the hardest problems in the sales domain
-* Build self\-serve dashboards and datasets that let the sales org answer its own questions
-* Raise the bar for the team's analytical rigor, communication, and AI\-enabled ways of working
-
-
-**You Have** 
-* Minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience; or equivalent experience
-* Advanced SQL and strong Python; comfort owning the full stack from ETL to analysis to visualization
-* Strong statistical foundations: experiment design, causal inference, funnel and cohort analysis, and forecasting; you can interpret results with rigor and explain the concepts behind them
-* A track record of running large projects end to end with minimal direction; you're the person leadership trusts when the numbers matter
-* Strong critical thinking: you know when to move fast and when to slow down on a problem with big consequences, and you pressure\-test your own conclusions
-* Exceptional communication: you can present performance to executives, translate technical nuance for non\-technical partners, and write analysis documents that stand on its own
-* Enthusiasm for building with AI, and curiosity about how far it can be pushed in data science work
-* Curiosity about unfamiliar data and how sales organizations actually work, and the empathy to partner well with the people on the frontline
-
-
-
-**Nice to have, but not required:** 
-
-
-
-* Prior experience supporting sales, GTM, or revenue organizations
-* Familiarity with fintech, payments, or the SMB merchant space
-
-
-
- We value strong fundamentals and curiosity over industry background; we'll teach you our domain.
- 
-
-
-**Technologies We Use and Teach** 
-* SQL, Snowflake, Databricks, Python (Pandas, NumPy)
-* Looker, Omni, Airflow, dbt\-style ETL patterns
-* Agentic AI: agent skills and bots, automated reporting workflows, in\-house tooling
-* Salesforce and the modern GTM data stack
-* A/B, matched\-market, and causal testing
-
-
-
-**Pay Transparency:** 
-
-
-
-
- Block takes a market\-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate's starting pay will be determined based on job\-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future. To find a location's zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.
- 
-
-
-
- Zone A: ($198,000 \- $297,000\)
- 
-
-
-
- Zone B: ($188,100 \- $282,100\)
- 
-
-
-
- Zone C: ($178,200 \- $267,400\)
- 
-
-
-
- Zone D: ($168,300\- $252,500\)
- 
-
-
-
-  
- 
-
-
-
-**Application Guidelines** 
-
-
-
-
- Candidates may submit up to 9 active applications within a 60\-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.
- 
-
-
-
-**Use of AI in Our Hiring Process** 
-
-
-
-
- We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws. 
- 
-
-
-
- Contact us here with hiring practice or data usage questions.
- 
-
-
-
-*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.* 
-*Check out our other benefits at Block.* 
-
-
-
-
-*Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people. 
- **Square** 
-  makes commerce and financial services accessible to sellers. 
- **Cash App** 
-  is the easy way to spend, send, and store money. 
- **Afterpay** 
-  is transforming the way customers manage their spending over time. 
- **TIDAL** 
-  is a music platform that empowers artists to thrive as entrepreneurs. 
- **Bitkey** 
-  is a simple self\-custody wallet built for bitcoin. 
- **Proto** 
-  is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.* 
-
-
-
-
- Privacy Policy</description>
-        <pubDate>2026-07-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Data Scientist, Ads - Reddit, Inc.</title>
-        <link>https://www.linkedin.com/jobs/view/4442727823</link>
-        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000\+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
-   
-
-  
-
- Reddit's Ads Data Science team is seeking a highly motivated Principal Data Scientist to drive the strategic application of advanced quantitative methods across our advertising platform to advance the intelligence powering the advertiser experience on Reddit.
-   
-
-  
-
- In this pivotal leadership role, you will be responsible for defining and implementing the next generation of foundational data science solutions, leveraging expertise in statistics, econometrics, machine learning and/or other quantitative methods to optimize Reddit's Ads marketplace. You will partner closely with Analytics Engineering to ensure our underlying data systems are continuously upleveled to support advanced analysis and modeling at scale. You will be a strategic partner, collaborating closely with Product, Engineering, and Business leaders to establish the long\-term vision for measurement, prediction, and optimization.
-   
-
-  
-
- As a thought leader, you will champion scientific rigor, causal inference, and economic modeling, while providing deep mentorship to the broader team. If you are passionate about applying foundational quantitative science to solve complex, high\-impact business problems, join us in shaping the future of Reddit ads.
-   
-
-  
-
-**What you'll do**
-* **Define the future of Ads Data Science:** 
- Own the design and long\-term evolution of our core Ads Data Science solutions and infrastructure, building for the next several years of continued scale, revenue growth, and relevance.
-* **Strategic leadership \&amp; scientific roadmap:** 
- Identify fundamental gaps and opportunities in our current systems (including platform, auction, targeting, and full\-funnel relevance models). Lead the strategic design and scientific roadmap for new solutions to significantly improve Advertiser ROI, User experience, and Reddit revenue.
-* **Drive end\-to\-end impact:** 
- Take end\-to\-end ownership of complex problem domains such as full funnel acceleration, advertiser lifetime value (LTV), and developing advanced predictive and causal frameworks that power Reddit's strategic investments.
-* **Establish scientific standards:** 
- Define and codify best practices for large\-scale statistical modeling, economic analysis, causal inference, offline model evaluation, and A/B experimentation to ensure scientific rigor and trust across the Ads data science and engineering teams.
-* **Technical deep dive \&amp; authority:** 
- Be the undisputed domain authority for data scientists, engineers, and product managers on complex problems involving large\-scale behavioral data, foundational models for strategic insights, and the economics of marketplace dynamics.
-* **Translate ambiguity into outcomes:** 
- Influence the design and definition of core business and performance metrics, robust measurement methodologies, and collaborate deeply with cross\-org XFNs to align on strategic goals and translate insights into tangible action.
-* **Influence and uplevel the organization:** 
- Lead technically minded peers and mentor senior data scientists, influencing technical and statistical direction across the entire product and engineering organization, and championing innovation in ad systems through advanced quantitative techniques.
-
-
-**Requirements**
-* Demonstrated expertise in at least one of the following: ads marketplace understanding, auctioning/bidding, ads creative \&amp; format evaluation, measurement \&amp; experimentation at scale
-* Master's or Ph.D. in Economics, Statistics, Computer Science, Operations Research, or a related quantitative discipline
-* For M.S. holders: 12\+ years of industry experience in applied science, data science, or machine learning engineering roles
-* For Ph.D. holders: 8\+ years of relevant experience applied science, data science, or machine learning engineering roles
-* Advanced proficiency in statistical programming (Python or R) and SQL
-* Experience with statistical analysis, economic modeling, foundational machine learning and/or optimization techniques
-* Strong understanding of experimental design, causal inference, or A/B testing methodologies
-* Exceptional problem\-solving and communication skills, with a track record of influencing product and engineering partners
-* Experience working in fast\-paced, ambiguous environments with cross\-functional teams
-* Proven experience in influencing large (500\+ engineers/data scientists) organizations on technical direction, statistical rigor, and machine learning best practice
-
-
-**Benefits:**
-* Comprehensive Healthcare Benefits and Income Replacement Programs
-* 401k with Employer Match
-* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
-* Family Planning Support
-* Gender\-Affirming Care
-* Mental Health \&amp; Coaching Benefits
-* Flexible Vacation \&amp; Paid Volunteer Time Off
-* Generous Paid Parental Leave
-
-
-**Pay Transparency:**
- This job posting may span more than one career level.
-   
-
-  
-
- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.\-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-   
-
-  
-
- To provide greater transparency to candidates, we share base salary ranges for all US\-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
-   
-
-  
-
- The base salary range for this position is:
-   
-
-  
-
- $268,000—$365,100 USD
-   
-
-  
-
- In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
-   
-
-  
-
- During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment\-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
-   
-
-  
-
-*Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.*</description>
-        <pubDate>2026-07-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Data Scientist, Marketing - Reddit, Inc.</title>
-        <link>https://www.linkedin.com/jobs/view/4442748024</link>
-        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000\+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
-   
-
-  
-
-**Location: At Reddit we continue to grow our teams with the best talent. We're completely remote friendly.**
-**Team Description:**
- The Marketing Science team at Reddit leverages data to maximize the impact of Reddit's own marketing investments. We serve as the engine behind our growth, using advanced experimentation, causal inference, and econometrics to understand what drives users to Reddit and what brings advertisers to our platform. We work at the intersection of brand building and performance marketing, ensuring every dollar spent is an investment in the long\-term health of our ecosystem.
-   
-
-  
-
-**Role Description:**
- Reddit is looking for a highly experienced Staff Data Scientist to lead the strategy and technical execution of our Marketing Intelligence efforts. In this role, you will be the primary architect of how we measure and optimize Reddit's marketing spend. You will focus on two critical flywheels:
- **B2B Marketing** 
- (acquiring and retaining advertisers) and
- **B2C Growth** 
- (acquiring and engaging new Redditors).
-   
-
-  
-
- This is a high\-autonomy, high\-impact role where you will set the long\-term strategic goals for Reddit's marketing measurement, influencing senior leadership and defining how we value our brand and performance efforts.
-   
-
-  
-
-**Responsibilities:**
-* **Set Long\-Term Marketing Strategy:** 
- Define the 2–3 year technical roadmap for marketing measurement. Establish the "North Star" metrics and frameworks that determine how Reddit allocates hundreds of millions in marketing budget.
-* **Optimize Marketing ROI:** 
- Build and refine Media Mix Models (MMM) and Multi\-Touch Attribution (MTA) systems to mathematically quantify the incremental impact of marketing spend.
-* **Bridge B2B \&amp; B2C Growth:** 
- Design unified frameworks to optimize marketing aimed at both new advertisers (driving revenue) and new users (driving engagement), identifying synergies where brand awareness for one fuels growth for the other.
-* **Advance Causal Inference \&amp; Experimentation:** 
- Lead the design of complex "always\-on" incrementality testing and geo\-holdout experiments. Develop methodologies to measure the long\-term "halo effect" of brand marketing on organic growth.
-* **Lead Through Influence:** 
- Collaborate deeply with Marketing, Growth, and Finance to translate complex data insights into actionable budget shifts.
-* **Be the Technical Guide for the Team** 
- : Mentor junior scientists and set the technical bar for code quality and statistical rigor across the Marketing organization.
-
-
-**Minimum Qualifications:**
-* **Education:** 
- Advanced degree (Master's or Ph.D.) in Statistics, Economics, Mathematics, or a related quantitative field.
-* **Experience:**
-+ For M.S. holders: 10\+ years of industry experience in marketing science, growth data science, or econometrics.
-+ For Ph.D. holders: 6\+ years of industry experience.
-
-* **Domain Expertise:** 
- Deep understanding of the marketing ecosystem, including hands\-on experience with Marketing Mix Modeling (MMM), Incrementality Testing, and Customer Lifetime Value (LTV) prediction.
-* **Technical Skills:** 
- Advanced proficiency in Python or R and SQL. Experience building production\-grade data pipelines and using machine learning for predictive modeling (e.g., churn prediction, lead scoring).
-* **Strategic Communication:** 
- Proven track record of influencing C\-suite stakeholders and "translating" complex statistical concepts into business strategy.
-* **Adaptability:** 
- Experience working in fast\-paced environments where you must navigate ambiguity and build frameworks from the ground up.
-
-
-**Preferred Qualifications:**
-* Experience with Bayesian structural time series or causal inference libraries.
-* Previous experience in a high\-growth marketplace or social media platform.
-* A passion for the Reddit community and an understanding of our unique "Ads\-as\-Content" philosophy.
-
-
-**Benefits:**
-* Comprehensive Healthcare Benefits and Income Replacement Programs
-* 401k with Employer Match
-* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
-* Family Planning Support
-* Gender\-Affirming Care
-* Mental Health \&amp; Coaching Benefits
-* Flexible Vacation \&amp; Paid Volunteer Time Off
-* Generous Paid Parental Leave
-
-
-**Pay Transparency:**
- This job posting may span more than one career level.
-   
-
-  
-
- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.\-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-   
-
-  
-
- To provide greater transparency to candidates, we share base salary ranges for all US\-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
-   
-
-  
-
- The base salary range for this position is:
-   
-
-  
-
- $217,000—$303,900 USD
-   
-
-  
-
- In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
-   
-
-  
-
- During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment\-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
-   
-
-  
-
-*Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.*</description>
-        <pubDate>2026-07-20</pubDate>
     </item>
     
     <item>
@@ -2000,7 +984,7 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
   
 
  Compensation Range: $250K \- $299K</description>
-        <pubDate>2026-07-27 14:08:33.926265+00:00</pubDate>
+        <pubDate>2026-07-28 01:25:31.082672+00:00</pubDate>
     </item>
     
 </channel>
