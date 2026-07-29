@@ -6,6 +6,99 @@
     <description>jobs</description>
     
     <item>
+        <title>Data Scientist, GTM Intelligence - OpenAI</title>
+        <link>https://www.linkedin.com/jobs/view/4445412132</link>
+        <description>**About The Team**
+ The GTM Intelligence Solutions team builds the data and decision systems that help customer\-facing teams take the right action at the right time. We combine product telemetry, commercial data, customer context, and field activity to identify account health and opportunity, recommend actions and use cases, deliver intelligence through field\-facing products and agent workflows, and measure what happens next.
+   
+
+  
+
+ We’re looking for a Data Scientist to help build the next generation of GTM intelligence at OpenAI. You will own a flexible portfolio of high\-impact decision data products and work closely with Technical Success and other GTM teams to ensure the work drives better decisions.
+   
+
+  
+
+**About The Role**
+ As a Data Scientist on GTM Intelligence Solutions, you will define and build the intelligence systems that help customer\-facing teams prioritize accounts, identify risks and opportunities, choose interventions, and understand what worked.
+   
+
+  
+
+ You will set the roadmap and methodology, build canonical features, ship reliable production workflows, monitor quality and adoption, and improve the systems using field feedback and business outcomes.
+   
+
+  
+
+ This role combines hands\-on technical depth with strong product and business judgment. You should be as comfortable writing production Python and advanced SQL, defining durable data contracts, and operating decision products as you are evaluating a ranking approach or designing an experiment. You will personally ship reliable first versions and partner with Analytics Engineering and Data Engineering when work requires shared infrastructure or additional scale.
+   
+
+  
+
+**In This Role, You Will**
+* Set the roadmap and methodology for GTM intelligence and decision products, using deep stakeholder discovery to probe beyond stated requests, uncover the underlying decisions, workflows, constraints, and measures of success, and translate them into measurable systems.
+* Own the full lifecycle of intelligence products, including feature definition, methodology, evaluation, SQL and Python pipelines, scheduled refresh, serving, versioning, monitoring, and history.
+* Build canonical feature datasets across product telemetry, commercial systems, CRM data, customer context, and field activity.
+* Choose appropriately among heuristics, weighted scores, statistical models, ranking approaches, and machine\-learning methods based on the decision, data maturity, and operational constraints.
+* Partner closely with Technical Success and other GTM stakeholders as design partners: digging into their workflows, testing assumptions, and shaping the right solution to improve account prioritization, identify risks and opportunities, select interventions, and measure outcomes.
+* Define the exposure, action, feedback, and outcome data needed to evaluate and continuously improve GTM intelligence products.
+* Create monitoring for data quality, freshness, system behavior, threshold performance, adoption, and drift.
+* Help shape trustworthy consumption layers and machine\-readable interfaces for Field Insights, reporting, alerts, and agent workflows without owning the application experience end to end.
+* Personally ship and operate reliable first versions, partnering with Analytics Engineering and Data Engineering when work requires shared infrastructure, complex ingestion, or greater scale and reliability.
+
+
+ You Might Thrive in This Role If You
+   
+
+  
+
+* Have shipped and operated model\-backed or rules\-based decision products, not only analyses and offline prototypes.
+* Are exceptional in SQL and strong in production Python, including testing, modularity, monitoring, and maintainability.
+* Enjoy rolling up your sleeves to move from source data through a production decision product without waiting for a separate team to complete every step.
+* Can independently define the problem, ask incisive follow\-up questions, challenge assumptions constructively, propose the methodology, establish evaluation standards, and bring stakeholders toward decisions.
+* Can move between feature engineering, applied modeling, data\-product design, stakeholder discovery, and production troubleshooting.
+* Know when to use a pragmatic approach now while designing the data and feedback foundation for more sophisticated modeling later.
+* Prefer measuring success through reliable adoption and better decisions, not the number or sophistication of models produced.
+
+
+**Qualifications**
+* Significant experience in applied Data Science, analytics engineering, machine learning, or a related quantitative role, including direct ownership of production decision systems.
+* Advanced SQL and strong production Python experience.
+* Demonstrated success taking a score, signal, recommendation, ranking model, or decision rule from prototype into monitored production use.
+* Experience with feature engineering, pragmatic model selection, evaluation design, calibration or threshold setting, and ongoing system monitoring.
+* Experience building or owning reliable data transformations, canonical datasets, scheduled workflows, and application\-facing outputs.
+* Strong stakeholder discovery and communication skills, including the ability to uncover the need behind a stated request and align technical and GTM stakeholders around requirements, methodology, ownership, and tradeoffs.
+
+
+**Preferred Qualifications**
+* Experience with Databricks, Spark, dbt, Airflow or comparable orchestration, and modern cloud warehouses or lakehouses.
+* Experience with B2B SaaS, usage\-based products, CRM or Salesforce data, customer lifecycle systems, recommendations, or next\-best\-action products.
+* Familiarity with model and feature versioning, scheduled scoring, monitoring, reproducibility, and safe rollout.
+* Experience defining exposure, action, feedback, and outcome data for decision products, experimentation, or impact measurement.
+* Familiarity with agentic systems and data interfaces designed for both human and machine consumption.
+
+
+**About OpenAI**
+ OpenAI is an AI research and deployment company dedicated to ensuring that general\-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+   
+
+  
+
+ We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+   
+
+  
+
+ For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
+   
+
+  
+
+ Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US\-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non\-public information. In addition, job duties require access to secure and protected information technolog</description>
+        <pubDate>2026-07-27</pubDate>
+    </item>
+    
+    <item>
         <title>Staff Data Scientist, GTM - Airwallex</title>
         <link>https://www.linkedin.com/jobs/view/4385493283</link>
         <description>**About Airwallex**
@@ -182,191 +275,6 @@
 
  Compensation Range: $290K \- $441K</description>
         <pubDate>2026-07-26</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, Financial Engineering - OpenAI</title>
-        <link>https://www.linkedin.com/jobs/view/4417176060</link>
-        <description>**About The Team**
- OpenAI’s
- **Financial Engineering (FinEng)** 
- team powers how revenue flows through our products—pricing \&amp; packaging, checkout, payments, subscriptions, and the financial infrastructure behind them. We partner with Product, Engineering, Risk, Finance, and Go\-to\-Market to make paying for OpenAI products seamless, reliable, and efficient worldwide.
-   
-
-  
-
-**About The Role**
- As a Data Scientist on FinEng, you’ll own the analytics and experimentation that improve our
- **checkout and payments** 
- ,
- **subscriptions** 
- , and
- **pricing \&amp; monetization** 
- systems. You’ll define the metrics that matter, build the source\-of\-truth data assets, and design experiments that increase conversion, reduce churn and payment failures, and expand global payment method coverage. Your work will directly influence revenue, customer experience, and how we scale internationally.
-   
-
-  
-
- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
-   
-
-  
-
-**In this role, you will**
-* Own checkout \&amp; payments analytics and experimentation across methods and locales (e.g., bank transfers, emerging rails), improving conversion while monitoring risk and latency.
-* Build and run the experimentation program for in\-house checkout—define success metrics and guardrails, execute staged rollouts, and use offline incrementality when online tests aren’t feasible.
-* Create operational visibility and source\-of\-truth data with FinEng Data Engineering—land team\-level metrics, SLAs, and self\-serve dashboards that drive proactive action.
-* Lead subscription, retention, and monetization analytics—ship launch\-readiness for new subscription features, reduce involuntary churn (e.g., targeted retrials/nudges), and develop elasticity/FX frameworks toward pricing optimality.
-
-
-**You might thrive in this role if you have**
-* 5\+ years in a quantitative role (data science, product analytics, or experimentation) in high\-growth or fintech environments
-* Fluency in SQL and Python, with a track record designing and interpreting A/B tests and quasi\-experiments
-* Experience building product metrics from scratch and operationalizing them for decision\-making
-* Excellent communication skills with PMs, engineers, risk/finance partners, and executives
-* Strategic instincts beyond significance tests—clear thinking about tradeoffs (conversion vs. risk vs. cost vs. user experience)
-
-
-**You could be an especially great fit if you have**
-* Payments, checkout, or subscription analytics experience (PSPs, bank rails, disputes/refunds, risk, e\-commerce)
-* Background in offline incrementality methods, uplift modeling, CUPED/causal inference, or counterfactual evaluation
-* Experience with internationalization/local payments, FX, and pricing \&amp; packaging strategy
-* Comfort building operational analytics (alerting, SLIs/SLOs) and partnering closely with data engineering
-
-
-**About OpenAI**
- OpenAI is an AI research and deployment company dedicated to ensuring that general\-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
-   
-
-  
-
- We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
-   
-
-  
-
- For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
-   
-
-  
-
- Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US\-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non\-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
-   
-
-  
-
- To notify OpenAI that you believe this job posting is non\-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.
-   
-
-  
-
- We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
-   
-
-  
-
- OpenAI Global Applicant Privacy Policy
-   
-
-  
-
- At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
-   
-
-  
-
- Compensation Range: $230K \- $385K</description>
-        <pubDate>2026-07-26</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist, Product - Mudflap</title>
-        <link>https://www.linkedin.com/jobs/view/4427656639</link>
-        <description>Mudflap serves the $800B trucking industry, the backbone of the U.S. economy. Our market\-leading payment products help truckers save thousands of dollars on fuel (their \#1 business expense), while providing our fuel stop partners with access to new, hard\-to\-reach customers. We’re a fast\-growing marketplace business looking for a new customer\-obsessed teammate to join us on this exciting journey.
-   
-
-  
-
- At Mudflap, we’re building a data\-driven decision engine that powers every aspect of our business—from product development and customer experience to growth and operational excellence. We’re looking for a versatile Senior Data Scientist, Product to join our high\-impact team.
-   
-
-  
-
- As a
- **Senior Data Scientist, Product** 
- , you’ll partner closely with Product, Engineering, Operations, and Leadership to drive strategic product decisions through advanced analytics, experimentation, and machine learning. You’ll design and analyze A/B tests, develop predictive models, build data products, and uncover actionable insights that influence product strategy and business outcomes. From identifying growth opportunities to measuring feature success and optimizing user experiences, your work will directly impact the trajectory of our platform.
-   
-
-  
-
-**Work Location:** 
- This role is based in Palo Alto, CA and involves a hybrid work approach, balancing in\-office collaboration with the ability to work remotely.
-   
-
-  
-
- To support our team, we offer:
-   
-
-  
-
-* Commuter benefits to ease your travel
-* Lunches and snacks to keep you fueled
-* A collaborative, high\-growth environment where you’ll work closely with talented teammates across the company
-
-
-**What You’ll Do**
-* Drive strategic data science initiatives that directly impact business outcomes, working closely with executive leadership to identify high\-value opportunities in your domain.
-* Lead end\-to\-end machine learning projects from problem formulation through production deployment, including model development, validation, A/B testing, and performance monitoring. solve high\-impact business problems such as fraudulent risk assessment, underwriting, customer segmentation, etc.
-* Drive data\-driven decision making across cross\-functional partnerships — Collaborate closely with Product, Engineering, Ops, Risk teams, etc. to translate complex business requirements into analytical solutions and communicate insights to executive stakeholders
-* Mentor junior data scientists and analysts and establish best practices — Provide technical leadership, code reviews, and strategic guidance while developing scalable data science methodologies and standards across the organization
-* Lead experimentation strategy and drive product innovation — Own end\-to\-end A/B testing frameworks, mentor teams on experimental design, and translate test results into actionable product improvements that directly impact key business metrics
-
-
-**What We’re Looking For**
-* 5\+ years of experience in data science, analytics, or related fields.
-* Proficiency in SQL and Python for data manipulation, modeling, and automation.
-* Experience building production\-ready models and pipelines.
-* Strong statistical knowledge and experience designing experiments (A/B testing, cohort analysis, causal inference).
-* Excellent communication skills—ability to present complex insights clearly to technical and non\-technical stakeholders.
-* Experience in at least one of the domains: risk, growth/marketing, or product analytics preferred.
-* Comfortable working in a fast\-paced startup environment where collaboration and flexibility are essential.
-
-
-**Perks and Benefits (What we offer):**
-* Competitive salary and equity in a high\-growth startup
-* Multiple health benefit options
-* Responsible Time Off
-* 401(k) matching
-* Opportunities and support for major career growth
-* Annual Company offsite event (Mudfest!)
-
-
- The salary range for this role is $185,000 \- 225,000\. This information reflects a base salary range for this position based on current market data, which may be subject to change as new market data becomes available. The candidate's skills, experience, and other relevant factors will determine the exact compensation.
-   
-
-  
-
-**Company Overview (Who we are):**
- Mudflap is on a mission to transform the trucking and logistics industry by leveling the playing field for owner operators and small fleets. Backed by top\-tier venture investors, including QED, Matrix Partners, Commerce Ventures, NFX, and 500 Startups and included in the Forbes Fintech 50 list, Mudflap offers fleet fuel management solutions. Our core team hails from Disney, Uber, Procore, DoorDash, Google, Meta, Capital One, Affirm and Brex.
-   
-
-  
-
- Here are the core values that we believe in and look for in new teammates:
-   
-
-  
-
-* Be Customer Obsessed: We deeply understand customer needs and put our customers at the center of everything we do
-* Make it Count: Act like an owner by focusing on the impact of your work
-* Find a Way: Be a creative problem solver who pushes past roadblocks to win for our customers and our teammates
-* Sweat the Details: We keep our standards high and achieve them by paying attention to every detail
-* Be Curious: Use a growth mindset to question assumptions, take calculated risks and stretch the boundaries of what’s possible
-
-
- Compensation Range: $185K \- $225K</description>
-        <pubDate>2026-07-25</pubDate>
     </item>
     
     <item>
@@ -638,96 +546,6 @@
     </item>
     
     <item>
-        <title>Senior Data Scientist, Pricing - Mudflap</title>
-        <link>https://www.linkedin.com/jobs/view/4427656640</link>
-        <description>Mudflap serves the $800B trucking industry, the backbone of the U.S. economy. Our market\-leading payment products help truckers save thousands of dollars on fuel (their \#1 business expense), while providing our fuel stop partners with access to new, hard\-to\-reach customers. We’re a fast\-growing marketplace business looking for a new customer\-obsessed teammate to join us on this exciting journey.
-   
-
-  
-
- At Mudflap, we’re building a data\-driven decision engine that powers every aspect of our business—from product development and growth to risk management and operational excellence. We’re looking for a versatile Senior Data Scientist, Pricing to join our high\-impact team.
-   
-
-  
-
- As a
- **Senior Data Scientist, Pricing** 
- , you’ll partner closely with Product, Finance, Revenue Operations, and Engineering to drive strategic pricing decisions that accelerate growth and maximize long\-term value. You’ll develop pricing and elasticity models, estimate customer willingness\-to\-pay, design and analyze pricing experiments, and generate insights that inform revenue, margin, and retention strategies. Your work will directly influence how we price our products, optimize customer value, and compete in the market.
-   
-
-  
-
-**Work Location:** 
- This role is based in Palo Alto, CA and involves a hybrid work approach, balancing in\-office collaboration with the ability to work remotely.
-   
-
-  
-
- To support our team, we offer:
-   
-
-  
-
-* Commuter benefits to ease your travel
-* Lunches and snacks to keep you fueled
-* A collaborative, high\-growth environment where you’ll work closely with talented teammates across the company
-
-
-**What You’ll Do**
-* Drive strategic data science initiatives that directly impact business outcomes, working closely with executive leadership to identify high\-value opportunities in your domain.
-* Lead end\-to\-end machine learning projects from problem formulation through production deployment, including model development, validation, A/B testing, and performance monitoring. solve high\-impact business problems such as fraudulent risk assessment, underwriting, customer segmentation, etc.
-* Drive data\-driven decision making across cross\-functional partnerships — Collaborate closely with Product, Engineering, Ops, Risk teams, etc. to translate complex business requirements into analytical solutions and communicate insights to executive stakeholders
-* Mentor junior data scientists and analysts and establish best practices — Provide technical leadership, code reviews, and strategic guidance while developing scalable data science methodologies and standards across the organization
-* Lead experimentation strategy and drive product innovation — Own end\-to\-end A/B testing frameworks, mentor teams on experimental design, and translate test results into actionable product improvements that directly impact key business metrics
-
-
-**What We’re Looking For**
-* 5\+ years of experience in data science, analytics, or related fields.
-* Proficiency in SQL and Python for data manipulation, modeling, and automation.
-* Experience building production\-ready models and pipelines.
-* Strong statistical knowledge and experience designing experiments (A/B testing, cohort analysis, causal inference).
-* Excellent communication skills—ability to present complex insights clearly to technical and non\-technical stakeholders.
-* Experience in at least one of the domains: risk, growth/marketing, or product analytics preferred.
-* Comfortable working in a fast\-paced startup environment where collaboration and flexibility are essential.
-
-
-**Perks and Benefits (What we offer):**
-* Competitive salary and equity in a high\-growth startup
-* Multiple health benefit options
-* Responsible Time Off
-* 401(k) matching
-* Opportunities and support for major career growth
-* Annual Company offsite event (Mudfest!)
-
-
- The salary range for this role is $185,000 \- 225,000\. This information reflects a base salary range for this position based on current market data, which may be subject to change as new market data becomes available. The candidate's skills, experience, and other relevant factors will determine the exact compensation.
-   
-
-  
-
-**Company Overview (Who we are):**
- Mudflap is on a mission to transform the trucking and logistics industry by leveling the playing field for owner operators and small fleets. Backed by top\-tier venture investors, including QED, Matrix Partners, Commerce Ventures, NFX, and 500 Startups and included in the Forbes Fintech 50 list, Mudflap offers fleet fuel management solutions. Our core team hails from Disney, Uber, Procore, DoorDash, Google, Meta, Capital One, Affirm and Brex.
-   
-
-  
-
- Here are the core values that we believe in and look for in new teammates:
-   
-
-  
-
-* Be Customer Obsessed: We deeply understand customer needs and put our customers at the center of everything we do
-* Make it Count: Act like an owner by focusing on the impact of your work
-* Find a Way: Be a creative problem solver who pushes past roadblocks to win for our customers and our teammates
-* Sweat the Details: We keep our standards high and achieve them by paying attention to every detail
-* Be Curious: Use a growth mindset to question assumptions, take calculated risks and stretch the boundaries of what’s possible
-
-
- Compensation Range: $185K \- $225K</description>
-        <pubDate>2026-07-24</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Data Scientist, Marketing Analytics (Mobile) - Gametime</title>
         <link>https://www.linkedin.com/jobs/view/4441556834</link>
         <description>**About Us:**
@@ -947,218 +765,6 @@
     </item>
     
     <item>
-        <title>Data Scientist, North Insights - Cohere</title>
-        <link>https://www.linkedin.com/jobs/view/4443829572</link>
-        <description>**Who are we?**
- Cohere is the leading security\-first enterprise AI company. We build cutting\-edge foundation AI models and end\-to\-end products that are designed to solve real\-world business problems.
-   
-
-  
-
- We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
-   
-
-  
-
- We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
-   
-
-  
-
- We are a global technology company co\-headquartered in Toronto and San Francisco, with key offices in London, New York City, Montreal, Seoul, Germany and Paris. Join us!
-   
-
-  
-
-**Why this role?**
- We're building the foundational infrastructure that will define how the world thinks about and deploys AI, and we want the sharpest, most curious people to help us do it. As a Data Scientist on our Analytics and Data Insights team, you'll work on problems that don't have textbook answers yet; building the analytics that shape product and company strategy, designing the experiments that prove or kill our biggest bets, and helping enterprise customers understand what foundational AI actually means for their bottom line. You'll own analytical work end\-to\-end: from framing the right questions and building the models to shipping insights, tools, and results that product leaders, sales teams, and enterprise customers rely on.
-   
-
-  
-
-**As a Data Scientist, You Will**
-* Drive the mission forward.
-* Build bleeding\-edge agentic analytics: Agentic analytics is far from a solved problem, and we want to be the company that solves it. We need the sharpest minds with the curiosity, drive, and focus required to build the tools necessary to bring order and clarity to real world data.
-* Define AI impact measurement: own the end\-to\-end analytics story around adoption, growth, and impact that North leadership uses to prioritize features by measured value rather than customer feedback alone.
-* Ship customer\-facing analytics: insights that our enterprise customers recognize as evidence of value created.
-* Build small language models to categorize, classify, and enrich message data to give customers visibility into how their teams are using our products in their enterprise.
-* Design and run experiments: A/B tests, causal inference studies, and opportunity sizing that directly map to product and go\-to\-market decisions.
-* Build predictive models that matter: develop and deploy models for forecasting, segmentation, propensity scoring, and opportunity sizing across Cohere's core business lines.
-* Act like an owner: no waiting around. You'll define analytical priorities within your scope, push initiatives from question to production, and own what you build.
-
-
-**You May Be a Good Fit, If You Have**
-* Strong command of SQL, Python, and Git, alongside expertise in statistical inference, experimental design, and predictive modeling
-* A proven ability to turn ambiguous business questions into rigorous analytical problems, with clear and compelling recommendations to match
-* Experience building and deploying production models, not just notebook analysis. You know what it takes to get a classifier down the stack from prototype to production volume.
-* Familiarity with modern data stack tools such as BigQuery, dbt, Looker, or Airflow (nice to have, not essential)
-* Genuine excitement about AI: you follow the research, have opinions, and enjoy being in the weedsComfort operating in ambiguity, managing multiple workstreams across different stakeholders, and distilling insights into a concise, actionable narrative
-* A collaborative style grounded in empathy as much as in data; you work alongside product, research, sales, and finance, not in a silo
-
-
- If some of the above doesn't line up perfectly with your experience, we still encourage you to apply!
-   
-
-  
-
-**Full\-Time Employees At Cohere Enjoy These Perks**
-* A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
-* Full health and dental benefits, including a separate budget for mental health.
-* RRSP matching, 401K, Pension Scheme.
-* 100% Parental Leave top\-up for up to 6 months, for either parent.
-* Annual enrichment benefits:
-
-
- Arts \&amp; culture, fitness/wellness, quality time, and a workspace improvement credit.
-   
-
-  
-
- Education \&amp; learning stipend for conferences, courses, and coaching.
-   
-
-  
-
-* 6 weeks of paid vacation (30 working days!)
-* Budget for traveling to other offices if you are remote, plus an annual company offsite.
-
-
-**How And Where We Work**
-* Cohere is remote\-friendly. We have offices in Toronto, San Francisco, New York City, London, Paris, Montreal, and more coming soon.
-* For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
-* For those not near an office: a co\-working benefit so you can work alongside others in your city.
-* Everyone receives a $500 home office stipend to set up your workspace properly.
-
-
- If any of the above doesn’t line up exactly with your experience, we still encourage you to apply.
-   
-
-  
-
- We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs.
-   
-
-  
-
- We may use AI\-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
-   
-
-  
-
-*Beware of Scams: Cohere will never ask for payment or third\-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our* 
-*official careers* 
-*page.*
- Compensation Range: $150K \- $225K</description>
-        <pubDate>2026-07-23</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, North Insights - Cohere</title>
-        <link>https://www.linkedin.com/jobs/view/4443825598</link>
-        <description>**Who are we?**
- Cohere is the leading security\-first enterprise AI company. We build cutting\-edge foundation AI models and end\-to\-end products that are designed to solve real\-world business problems.
-   
-
-  
-
- We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
-   
-
-  
-
- We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
-   
-
-  
-
- We are a global technology company co\-headquartered in Toronto and San Francisco, with key offices in London, New York City, Montreal, Seoul, Germany and Paris. Join us!
-   
-
-  
-
-**Why this role?**
- We're building the foundational infrastructure that will define how the world thinks about and deploys AI, and we want the sharpest, most curious people to help us do it. As a Data Scientist on our Analytics and Data Insights team, you'll work on problems that don't have textbook answers yet; building the analytics that shape product and company strategy, designing the experiments that prove or kill our biggest bets, and helping enterprise customers understand what foundational AI actually means for their bottom line. You'll own analytical work end\-to\-end: from framing the right questions and building the models to shipping insights, tools, and results that product leaders, sales teams, and enterprise customers rely on.
-   
-
-  
-
-**As a Data Scientist, You Will**
-* Drive the mission forward.
-* Build bleeding\-edge agentic analytics: Agentic analytics is far from a solved problem, and we want to be the company that solves it. We need the sharpest minds with the curiosity, drive, and focus required to build the tools necessary to bring order and clarity to real world data.
-* Define AI impact measurement: own the end\-to\-end analytics story around adoption, growth, and impact that North leadership uses to prioritize features by measured value rather than customer feedback alone.
-* Ship customer\-facing analytics: insights that our enterprise customers recognize as evidence of value created.
-* Build small language models to categorize, classify, and enrich message data to give customers visibility into how their teams are using our products in their enterprise.
-* Design and run experiments: A/B tests, causal inference studies, and opportunity sizing that directly map to product and go\-to\-market decisions.
-* Build predictive models that matter: develop and deploy models for forecasting, segmentation, propensity scoring, and opportunity sizing across Cohere's core business lines.
-* Act like an owner: no waiting around. You'll define analytical priorities within your scope, push initiatives from question to production, and own what you build.
-
-
-**You May Be a Good Fit, If You Have**
-* Strong command of SQL, Python, and Git, alongside expertise in statistical inference, experimental design, and predictive modeling
-* A proven ability to turn ambiguous business questions into rigorous analytical problems, with clear and compelling recommendations to match
-* Experience building and deploying production models, not just notebook analysis. You know what it takes to get a classifier down the stack from prototype to production volume.
-* Familiarity with modern data stack tools such as BigQuery, dbt, Looker, or Airflow (nice to have, not essential)
-* Genuine excitement about AI: you follow the research, have opinions, and enjoy being in the weedsComfort operating in ambiguity, managing multiple workstreams across different stakeholders, and distilling insights into a concise, actionable narrative
-* A collaborative style grounded in empathy as much as in data; you work alongside product, research, sales, and finance, not in a silo
-
-
- If some of the above doesn't line up perfectly with your experience, we still encourage you to apply!
-   
-
-  
-
-**Full\-Time Employees At Cohere Enjoy These Perks**
-* A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
-* Full health and dental benefits, including a separate budget for mental health.
-* RRSP matching, 401K, Pension Scheme.
-* 100% Parental Leave top\-up for up to 6 months, for either parent.
-* Annual enrichment benefits:
-
-
- Arts \&amp; culture, fitness/wellness, quality time, and a workspace improvement credit.
-   
-
-  
-
- Education \&amp; learning stipend for conferences, courses, and coaching.
-   
-
-  
-
-* 6 weeks of paid vacation (30 working days!)
-* Budget for traveling to other offices if you are remote, plus an annual company offsite.
-
-
-**How And Where We Work**
-* Cohere is remote\-friendly. We have offices in Toronto, San Francisco, New York City, London, Paris, Montreal, and more coming soon.
-* For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
-* For those not near an office: a co\-working benefit so you can work alongside others in your city.
-* Everyone receives a $500 home office stipend to set up your workspace properly.
-
-
- If any of the above doesn’t line up exactly with your experience, we still encourage you to apply.
-   
-
-  
-
- We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs.
-   
-
-  
-
- We may use AI\-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
-   
-
-  
-
-*Beware of Scams: Cohere will never ask for payment or third\-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our* 
-*official careers* 
-*page.*
- Compensation Range: $150K \- $225K</description>
-        <pubDate>2026-07-23</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Data Scientist, Growth Data Science - Moloco</title>
         <link>https://www.linkedin.com/jobs/view/4425935335</link>
         <description>**About Moloco:**
@@ -1301,302 +907,248 @@
     </item>
     
     <item>
-        <title>Staff Data Scientist, Pricing - Square</title>
-        <link>https://www.linkedin.com/jobs/view/4441069940</link>
-        <description>Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
-   
+        <title>Senior Data Scientist - Motion Recruitment</title>
+        <link>https://www.linkedin.com/jobs/view/4446339195</link>
+        <description>One of the country's largest financial technology companies is searching for a
+ **Senior Data Scientist** 
+ to join their CRM and lifecycle marketing team at their Bay Area headquarters in
+ **Mountain View, CA** 
+ . In this role, you will partner directly with marketing stakeholders to define and measure key business metrics, uncover performance opportunities, and drive meaningful impact on customer engagement, retention, and business results. If you thrive at the intersection of data, marketing strategy, and storytelling, this is your opportunity to make a measurable difference on a high\-visibility team.
+ 
+
+
 
   
 
- So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, offer buy now, pay later functionality, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
-   
+
+
+
+
+ This exciting opportunity to support a best\-in\-class CRM and lifecycle marketing program begins as an
+ **11\-month W2 contract** 
+ based
+ **onsite** 
+ 3 days per week in
+ **Mountain View, CA.** 
+ The position offers competitive benefits and the strong potential for extension or conversion beyond the initial contract duration.
+ 
+
+
 
   
 
- Today, we are a partner to sellers of all sizes – large, enterprise\-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
- 
-
-
-**The Role** 
-
- The Data Science team at Block turns insights from our unique datasets into actions that improve the customer experience every day. In this role, we're looking for a Data Scientist to own the modeling and experimentation at the core of how Square prices globally. You'll build the elasticity and willingness\-to\-pay models, design and run the pricing experiments, and stand up the analytical infrastructure that makes pricing measurable and controllable — shaping pricing strategy and deal\-desk automation through the models and experiments you build.
- 
-
-
-**You Will** 
-* Model price elasticity and willingness\-to\-pay across segments, geographies, and payment methods, and quantify the trade\-off between margin, conversion, and merchant retention
-* Design, run, and read out pricing experiments (A/B, difference\-in\-differences, and bandit\-based dynamic tests) and translate results into recommendations that shape strategy
-* Decompose merchant economics across interchange, scheme, and risk\-cost layers to identify where pricing can flex and where it can't
-* Build the pricing intelligence that powers Square's agentic deal tooling (DealBot) — rate recommendations, ROI and pre\-approval logic, guardrail configurations, and mispricing detection — so quotes are fast, accurate, and within guardrails at scale
-* Evaluate and monitor the AI systems you ship — pre\-deployment testing for accuracy, boundary and edge cases, and bias in rate recommendations, and in\-production monitoring for accuracy, drift, and mispricing — so agentic pricing tools stay reliable as the business changes
-* Own end\-to\-end execution across the stack — analysis, pipeline, ETL, experimentation, and visualization
-* Approach problems from first principles, using a variety of statistical and modeling techniques to understand customer behavior and price response
-* Build and maintain the pricing analytics the team relies on — price realization, margin leakage, discount\-waterfall, and win/loss analyses — as self\-serve dashboards and curated datasets
-* Measure the impact of AI\-driven pricing automation with causal methods (interrupted time series, difference\-in\-differences) on deal velocity, quote acceptance, and margin
-* Write code to process, cleanse, and combine data sources into curated ETL datasets easily used by the broader team
-* Partner closely with cross\-functional stakeholders across Finance, Risk, Product, and go\-to\-market teams, translating complex technical and AI concepts clearly for non\-technical audiences
-
-
-**You Have** 
-* A bachelor degree in statistics, data science, economics, or similar STEM field with 7\+ years of experience in a relevant role OR a graduate degree in statistics, data science, economics, or similar STEM field with 5\+ years of experience in a relevant role
-* Fluency in causal inference and experimentation, with hands\-on experience modeling price elasticity or willingness\-to\-pay
-* Prior exposure to a pricing\-adjacent domain a strong plus — risk\-based pricing (payments, lending, insurance), pricing science, or deal pricing analytics
-* Advanced proficiency with SQL and data visualization tools (e.g. Tableau, Looker, etc)
-* Experience with scripting and data analysis programming languages, such as Python or R, including using them to evaluate AI system behavior
-* Gone deep with cohort and funnel analyses, with a solid understanding of statistical concepts such as selection bias, probability distributions, and conditional probabilities
-* Comfort leveraging AI tools to accelerate modeling and analysis, and a working understanding of generative AI architectures — LLMs, RAG systems, and agentic AI; experience building, testing, or evaluating LLM\-powered systems in production a strong plus
-
-
-**Technologies We Use and Teach** 
-* SQL, Snowflake, etc.
-* Python (Pandas, Numpy)
 
 
 
- We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
-   
+
+**Please Note: Motion Recruitment cannot offer sponsorship or the transfers of any visas for this W2 contract.** 
+
+
+
 
   
 
- We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.
- **Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our** 
- I\+D page.
- 
-
-
-
- While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.
- 
-
-
-
-  Block takes a market\-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job\-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.  
- 
-
-
-
- Zone A:: $239,600 USD \- $359,400 USD
- 
-
-
-
- Zone B: : $239,600 USD \- $359,400 USD
- 
-
-
-
- Zone C:: $239,600 USD \- $359,400 USD
- 
-
-
-
- Zone D:: $239,600 USD \- $359,400 USD
- 
-
-
-
-**Application Guidelines** 
 
 
 
 
- Candidates may submit up to 9 active applications within a 60\-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.
- 
+**Responsibilities** 
 
 
 
-**Use of AI in Our Hiring Process** 
+* Partner with marketing stakeholders to define, track, and communicate key business and campaign performance metrics
+* Conduct business analysis using
+ **statistical methods** 
+ ,
+ **predictive modeling** 
+ , explanatory analysis, and data mining techniques
+* Develop actionable insights and best practice recommendations to improve current business operations
+* Produce ad hoc data analyses and reports to support ongoing and emerging business needs
+* Work directly with internal clients to identify and scope analytical requirements
+* Design and maintain user\-friendly, automated dashboards for marketing stakeholders using tools like
+ **Qlik Sense**
+* Measure, analyze, and optimize CRM campaigns across channels including email, push notifications, SMS, and in\-app messaging
+* Support
+ **A/B** 
+ and
+ **multivariate testing efforts** 
+ to evaluate messaging, timing, segmentation, and overall campaign effectiveness
+* Apply funnel analysis, cohort analysis, and customer journey analytics to identify engagement and retention opportunities
+* Translate complex data findings into clear narratives and recommendations for non\-technical audiences
+* Assist in building or improving systems used to capture and process business operation data
+* Identify repetitive reporting workflows and support automation using AI\-enabled tools or workflow platforms
+* Ensure AI\-generated outputs are reviewed for accuracy and alignment with business requirements
+* Occasionally provide guidance and support to less experienced analysts on the team
+
+
+
+  
 
 
 
 
- We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws. 
- 
+
+**Skills \&amp; Experience** 
 
 
 
- Contact us here with hiring practice or data usage questions.
- 
+* **Bachelor's degree** 
+ in Business Analytics, Marketing Analytics, Statistics, Computer Science, Economics, or a related quantitative field; equivalent professional experience in data analysis or marketing reporting will also be considered
+* Strong
+ **SQL** 
+ skills with the ability to write complex queries to extract, join, and transform data from relational databases
+* Experience building dashboards and reports using data visualization platforms such as
+ **Qlik Sense**
+* Familiarity with
+ **ETL** 
+ processes and data pipeline tools such as
+ **Superglue** 
+ ,
+ **Alteryx** 
+ ,
+ **Informatica** 
+ ,
+ **dbt** 
+ , or
+ **Airflow**
+* Solid understanding of statistical methods including
+ **A/B testing, regression analysis** 
+ , and
+ **forecasting**
+* Working knowledge of
+ **CRM strategy** 
+ , customer lifecycle stages, retention tactics, and lifecycle campaign optimization
+* Familiarity with CRM platforms such as
+ **Braze** 
+ and experience integrating customer data for reporting and analytics purposes
+* Experience with audience segmentation, customer targeting, personalization strategies, and dynamic content
+* Ability to connect
+ **CRM program performance** 
+ to broader business outcomes including revenue, retention, and customer lifetime value
+* Strong grasp of
+ **marketing KPIs** 
+ such as open rate, CTR, CTOR, conversion rate, churn, LTV, and engagement metrics
+* Experience defining and maintaining standardized KPI frameworks and reporting structures
+* Understanding of AI agent workflows and prompt engineering principles as applied to data analysis and reporting automation
+* Strong communication skills with proven ability to present data\-driven insights to non\-technical stakeholders
+* Collaborative working style with experience partnering across marketing, finance, and data engineering teams
+* High attention to detail and a proactive, curiosity\-driven approach to identifying trends and opportunities
 
 
 
-*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.* 
-*Check out our other benefits at Block.* 
-</description>
-        <pubDate>2026-07-22</pubDate>
+  
+
+
+
+
+
+**Preferred Qualifications** 
+
+
+
+* **Master's** 
+ degree in Data Analytics, Business Intelligence, or Marketing Analytics
+* Proficiency in
+ **Python** 
+ or
+ **R** 
+ for advanced analysis and workflow automation
+
+
+
+  
+
+
+
+
+
+**You will receive the following benefits:** 
+
+
+
+* Medical Insurance \- Four medical plans to choose from for you and your family
+* Dental \&amp; Orthodontia Benefits
+* Vision Benefits
+* Health Savings Account (HSA)
+* Health and Dependent Care Flexible Spending Accounts
+* Voluntary Life Insurance, Long\-Term \&amp; Short\-Term Disability Insurance
+* Hospital Indemnity Insurance
+* Paid Sick Time Leave
+* Legal and Identity Protection Plans
+* Pre\-tax Commuter Benefit
+* 529 College Saver Plan
+
+
+
+  
+
+
+
+
+
+ Motion Recruitment Partners is an Equal Opportunity Employer, including disability/vets. All applicants must be currently authorized to work on a full\-time basis in the country for which they are applying, and no sponsorship is currently available. Employment is subject to the successful completion of a pre\-employment screening. Accommodation will be provided in all parts of the hiring process as required under Motion Recruitment Employment Accommodation policy. Applicants need to make their needs known in advance.</description>
+        <pubDate>2026-07-29 01:25:50.804209+00:00</pubDate>
     </item>
     
     <item>
-        <title>Applied Scientist, Experimentation - Coframe</title>
-        <link>https://www.linkedin.com/jobs/view/4440167836</link>
-        <description>At Coframe, we’re building living interfaces that continuously improve themselves.
+        <title>Data Scientist III - Kforce Inc</title>
+        <link>https://www.linkedin.com/jobs/view/4446509196</link>
+        <description>**Responsibilities**
+ A client with Kforce is seeking a Data Scientist III to join their team in Mountain View, CA. Summary: In this role, you will support the client's CRM and lifecycle marketing programs. We are seeking a Data Scientist for FY27\. This individual will partner with marketing stakeholders to define and measure key business metrics and identify and execute opportunities to improve performance and positively impact business results. Duties:
    
 
   
 
- As an Applied Scientist focused on experimentation, you’ll build the intelligence that determines what to test, how to measure impact, and which experiences to ship. You’ll develop an opinionated yet flexible experimentation and analytics platform that powers decision\-making across every Coframe product line.
+* Performs business analysis using various techniques, e.g., statistical analysis, explanatory and predictive modeling, and data mining
+* Determines best practices and develops actionable insights and recommendations for current business operations
+* Works directly with internal or external clients to identify analytical requirements
+* Produces ad hoc data analyses and reports
+* Assist in implementing or developing systems to capture business operation information
+* May occasionally guide less experienced business data analysts
+
+
+**Requirements**
+* Bachelor's degree in Business Analytics, Marketing Analytics, Statistics, Computer Science, Economics, or a related quantitative field; Master's degree in Data Analytics, Business Intelligence, or Marketing Analytics is a plus
+* Equivalent work experience in data analysis or marketing reporting may be considered in place of formal education
+* Segmentation \&amp; Personalization: Experience with audience segmentation, customer targeting, personalization strategies, and dynamic content to improve campaign performance
+* CRM Performance Metrics: Knowledge of KPIs such as open rate, click\-through rate (CTR), click\-to\-open rate (CTOR), conversion rate, unsubscribe rate, churn, retention, customer lifetime value (LTV), and engagement metrics
+* ETL Knowledge: Familiarity with data pipelines and tools (e.g., Superglue, Alteryx, Informatica, dbt, Airflow)
+* Statistical Analysis: Understanding of statistical methods, A/B testing, regression analysis, and forecasting
+* Customer Journey Analytics: Understanding of customer behavior, funnel analysis, cohort analysis, and journey performance to identify opportunities for improving engagement and retention
+* CRM Strategy \&amp; Lifecycle Marketing: Understanding of customer lifecycle stages, retention strategies, customer journeys, and lifecycle campaign optimization
+* Data Visualization Tools: Expertise in tools like Qlik Sense for building dashboards and reports
+* SQL Proficiency: Writing complex queries to extract, join, and transform data from relational databases
+* Scripting Languages: Python or R for advanced data analysis and automation (nice\-to\-have)
+* Campaign Measurement \&amp; Optimization: Ability to measure, analyze, and optimize CRM campaigns across email, push notifications, SMS, in\-app messaging, and other owned channels
+
+
+ The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
    
 
   
 
- Your work will help Coframe extract reliable signals from noisy behavioral data, measure long\-term business impact, and continuously optimize customer outcomes with less human intervention.
+ We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability \&amp; ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
    
 
   
 
-**You’re a great fit if you have:**
-* A strong background in statistics, causal inference, machine learning, experimentation, or a related quantitative field
-* Experience designing, building, or significantly evolving large\-scale online experimentation platforms
-* Deep knowledge of experimentation design, statistical methodology, and common measurement pitfalls
-* Experience with Bayesian methods, reinforcement learning, contextual multi\-armed bandits, or online decision systems
-* Experience modeling delayed outcomes, long\-term value, proxy metrics, and incremental lift
-* Strong software engineering fundamentals and experience building reliable production systems
-* The ability to translate product and business problems into rigorous statistical and machine learning approaches
-* Strong product judgment and the ability to connect technical models with customer needs and mental models
-* Experience building personalization, ranking, recommendation, optimization, or allocation systems
-* The ability to communicate complex technical concepts clearly to technical and non\-technical stakeholders
-* A pragmatic approach to applied research and a focus on solving real customer problems rather than optimizing in isolation
-* A track record of staying current with developments in experimentation, causal inference, and decision science
-
-
-**What you’ll do:**
-* Build experimentation frameworks that power every product line across Coframe
-* Develop statistical models for measuring incremental lift, confidence, and long\-term business impact
-* Create decision engines that automatically start, stop, ramp, and optimize experiments
-* Design systems that balance exploration and exploitation throughout the experiment lifecycle
-* Build personalization and optimization algorithms that maximize conversion, engagement, revenue, and other customer outcomes
-* Develop simulation and evaluation frameworks for experimentation and online decision systems
-* Build analytics pipelines that transform large\-scale behavioral data into actionable insights
-* Develop causal inference and measurement frameworks for noisy, delayed, and incomplete feedback
-* Model long\-term value, proxy metrics, and delayed rewards
-* Identify opportunities for automated performance gains across customer programs
-* Analyze existing systems and translate findings into measurable product improvements
-* Build a unified optimization system that operates across multiple Coframe product lines
-* Work closely with engineering, product, and customer\-facing teams to ensure statistical methods reflect real\-world requirements
-
-
-**Benefits:**
-* Flexible (Unlimited) Paid Time Off
-* Medical, Dental, and Vision benefits for you and your family
-* Life Insurance and Disability Benefits
-* 401k Plan with Coframe match
-* Meals covered in\-office
-* Gym membership
-
-
-**About us:**
-* At Coframe, we are building a future where user and agent interfaces can adapt, evolve, and personalize themselves.
-* We are a primarily in\-person company based in San Francisco.
-* We are well\-capitalized with backing from Khosla Ventures, Nat Friedman, the founder of Android, and others.
-* We are generating revenue, growing rapidly, and trusted by companies you definitely know.
-* Our team is small and talent\-dense, consisting of competitive programmers, former founders, including our founder who previously co\-founded a unicorn, and AI researchers from top institutions who have created some of the most popular open\-source code generation projects.
-
-
- “You guys are insane.” OpenAI team
+ Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
    
 
   
 
- “Coframe makes you feel like you have a team of 100 people.” Replit team
+ This job is not eligible for bonuses, incentives or commissions.
    
 
   
 
- Compensation Range: $180K \- $500K</description>
-        <pubDate>2026-07-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, GTM Intelligence - OpenAI</title>
-        <link>https://www.linkedin.com/jobs/view/4445412132</link>
-        <description>**About The Team**
- The GTM Intelligence Solutions team builds the data and decision systems that help customer\-facing teams take the right action at the right time. We combine product telemetry, commercial data, customer context, and field activity to identify account health and opportunity, recommend actions and use cases, deliver intelligence through field\-facing products and agent workflows, and measure what happens next.
+ Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
    
 
   
 
- We’re looking for a Data Scientist to help build the next generation of GTM intelligence at OpenAI. You will own a flexible portfolio of high\-impact decision data products and work closely with Technical Success and other GTM teams to ensure the work drives better decisions.
-   
-
-  
-
-**About The Role**
- As a Data Scientist on GTM Intelligence Solutions, you will define and build the intelligence systems that help customer\-facing teams prioritize accounts, identify risks and opportunities, choose interventions, and understand what worked.
-   
-
-  
-
- You will set the roadmap and methodology, build canonical features, ship reliable production workflows, monitor quality and adoption, and improve the systems using field feedback and business outcomes.
-   
-
-  
-
- This role combines hands\-on technical depth with strong product and business judgment. You should be as comfortable writing production Python and advanced SQL, defining durable data contracts, and operating decision products as you are evaluating a ranking approach or designing an experiment. You will personally ship reliable first versions and partner with Analytics Engineering and Data Engineering when work requires shared infrastructure or additional scale.
-   
-
-  
-
-**In This Role, You Will**
-* Set the roadmap and methodology for GTM intelligence and decision products, using deep stakeholder discovery to probe beyond stated requests, uncover the underlying decisions, workflows, constraints, and measures of success, and translate them into measurable systems.
-* Own the full lifecycle of intelligence products, including feature definition, methodology, evaluation, SQL and Python pipelines, scheduled refresh, serving, versioning, monitoring, and history.
-* Build canonical feature datasets across product telemetry, commercial systems, CRM data, customer context, and field activity.
-* Choose appropriately among heuristics, weighted scores, statistical models, ranking approaches, and machine\-learning methods based on the decision, data maturity, and operational constraints.
-* Partner closely with Technical Success and other GTM stakeholders as design partners: digging into their workflows, testing assumptions, and shaping the right solution to improve account prioritization, identify risks and opportunities, select interventions, and measure outcomes.
-* Define the exposure, action, feedback, and outcome data needed to evaluate and continuously improve GTM intelligence products.
-* Create monitoring for data quality, freshness, system behavior, threshold performance, adoption, and drift.
-* Help shape trustworthy consumption layers and machine\-readable interfaces for Field Insights, reporting, alerts, and agent workflows without owning the application experience end to end.
-* Personally ship and operate reliable first versions, partnering with Analytics Engineering and Data Engineering when work requires shared infrastructure, complex ingestion, or greater scale and reliability.
-
-
- You Might Thrive in This Role If You
-   
-
-  
-
-* Have shipped and operated model\-backed or rules\-based decision products, not only analyses and offline prototypes.
-* Are exceptional in SQL and strong in production Python, including testing, modularity, monitoring, and maintainability.
-* Enjoy rolling up your sleeves to move from source data through a production decision product without waiting for a separate team to complete every step.
-* Can independently define the problem, ask incisive follow\-up questions, challenge assumptions constructively, propose the methodology, establish evaluation standards, and bring stakeholders toward decisions.
-* Can move between feature engineering, applied modeling, data\-product design, stakeholder discovery, and production troubleshooting.
-* Know when to use a pragmatic approach now while designing the data and feedback foundation for more sophisticated modeling later.
-* Prefer measuring success through reliable adoption and better decisions, not the number or sophistication of models produced.
-
-
-**Qualifications**
-* Significant experience in applied Data Science, analytics engineering, machine learning, or a related quantitative role, including direct ownership of production decision systems.
-* Advanced SQL and strong production Python experience.
-* Demonstrated success taking a score, signal, recommendation, ranking model, or decision rule from prototype into monitored production use.
-* Experience with feature engineering, pragmatic model selection, evaluation design, calibration or threshold setting, and ongoing system monitoring.
-* Experience building or owning reliable data transformations, canonical datasets, scheduled workflows, and application\-facing outputs.
-* Strong stakeholder discovery and communication skills, including the ability to uncover the need behind a stated request and align technical and GTM stakeholders around requirements, methodology, ownership, and tradeoffs.
-
-
-**Preferred Qualifications**
-* Experience with Databricks, Spark, dbt, Airflow or comparable orchestration, and modern cloud warehouses or lakehouses.
-* Experience with B2B SaaS, usage\-based products, CRM or Salesforce data, customer lifecycle systems, recommendations, or next\-best\-action products.
-* Familiarity with model and feature versioning, scheduled scoring, monitoring, reproducibility, and safe rollout.
-* Experience defining exposure, action, feedback, and outcome data for decision products, experimentation, or impact measurement.
-* Familiarity with agentic systems and data interfaces designed for both human and machine consumption.
-
-
-**About OpenAI**
- OpenAI is an AI research and deployment company dedicated to ensuring that general\-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
-   
-
-  
-
- We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
-   
-
-  
-
- For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
-   
-
-  
-
- Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US\-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non\-public information. In addition, job duties require access to secure and protected information technolog</description>
-        <pubDate>2026-07-28 13:28:13.958997+00:00</pubDate>
+ By clicking “Apply Today” you agree to receive calls, AI\-generated calls, text messages or emails from Kforce and its affiliates, and service providers. Note that if you choose to communicate with Kforce via text messaging the frequency may vary, and message and data rates may apply. Carriers are not liable for delayed or undelivered messages. You will always have the right to cease communicating via text by using key words such as STOP.</description>
+        <pubDate>2026-07-29 01:25:50.804286+00:00</pubDate>
     </item>
     
 </channel>
