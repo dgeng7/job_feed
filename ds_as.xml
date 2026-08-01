@@ -522,68 +522,6 @@
     </item>
     
     <item>
-        <title>Staff Product Data Scientist, Paid Media - Waymo</title>
-        <link>https://www.linkedin.com/jobs/view/4436894493</link>
-        <description>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self\-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride\-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider\-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15\+ U.S. states.
-   
-
-  
-
- Waymo’s Product Data Science team works cross\-functionally with Engineering, Product and Operations to help the company make the most informed decisions using data. Our team collaborates on high\-impact projects across the company — from driving quality and operational efficiency to market analysis and rider satisfaction scores — we help to safely and efficiently scale the Waymo Driver. We are data\-driven, curious, open\-minded, and adapt quickly to new information.
-   
-
-  
-
- In this hybrid role, you will report to the Product Data Science Lead, Growth and Experience.
-   
-
-  
-
-**You Will**
-* Connect marketing performance to real business outcomes by building ROI methodologies and efficiency guardrails that leadership can act on
-* Own optimization across the full acquisition picture — brand media, performance channels, promotions, and referrals — not just the parts with clean attribution
-* Design and run Waymo's incrementality measurement program, including geo\-based holdout tests, switchback experiments, and media mix modeling across every acquisition channel
-* Build Waymo's LTV and CAC framework and use it to guide how marketing spend gets allocated
-* Be the data science partner marketing and product leans on for measurement and experimentation
-* Lead deep\-dive analyses across geos, audiences, creatives, and channels to find the non\-obvious growth levers nobody's looked for yet
-
-
-**You Have**
-* At least 8 years of industry experience, with a strong focus on growth marketing, including time spent owning measurement strategy, not just executing it
-* A track record of working directly with marketing leadership as a trusted partner
-* Proficiency in SQL and Python or R for data manipulation, statistical modeling, and experiment analysis
-* Hands\-on experience designing and analyzing incrementality experiments — geo holdout tests, switchback designs, or intent\-to\-treat analyses — in a consumer tech, marketplace, or rideshare context
-* Strong causal inference fundamentals — you know how to design studies that produce actionable, credible results
-
-
-**We Prefer**
-* Time at a high\-growth consumer tech, rideshare, or mobility company
-* Experience with media mix modeling (MMM) or multi\-touch attribution (MTA) in addition to geo\-based incrementality testing
-* Experience building LTV and CAC frameworks and using them to guide real spend decisions
-* Experience with mobile measurement partners (MMP)
-* Familiarity with paid media platforms and channel dynamics (SEM, paid social, programmatic)
-
-
- The expected base salary range for this full\-time position across US locations is listed below. Actual starting pay will be based on job\-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process.
-   
-
-  
-
- Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements.
-   
-
-  
-
- Salary Range
-   
-
-  
-
- $230,000—$284,000 USD</description>
-        <pubDate>2026-07-29</pubDate>
-    </item>
-    
-    <item>
         <title>Data Scientist, Marketing - Harvey</title>
         <link>https://www.linkedin.com/jobs/view/4359264895</link>
         <description>**Why Harvey**
@@ -1028,6 +966,99 @@
     </item>
     
     <item>
+        <title>Data Scientist, GTM Intelligence - OpenAI</title>
+        <link>https://www.linkedin.com/jobs/view/4445412132</link>
+        <description>**About The Team**
+ The GTM Intelligence Solutions team builds the data and decision systems that help customer\-facing teams take the right action at the right time. We combine product telemetry, commercial data, customer context, and field activity to identify account health and opportunity, recommend actions and use cases, deliver intelligence through field\-facing products and agent workflows, and measure what happens next.
+   
+
+  
+
+ We’re looking for a Data Scientist to help build the next generation of GTM intelligence at OpenAI. You will own a flexible portfolio of high\-impact decision data products and work closely with Technical Success and other GTM teams to ensure the work drives better decisions.
+   
+
+  
+
+**About The Role**
+ As a Data Scientist on GTM Intelligence Solutions, you will define and build the intelligence systems that help customer\-facing teams prioritize accounts, identify risks and opportunities, choose interventions, and understand what worked.
+   
+
+  
+
+ You will set the roadmap and methodology, build canonical features, ship reliable production workflows, monitor quality and adoption, and improve the systems using field feedback and business outcomes.
+   
+
+  
+
+ This role combines hands\-on technical depth with strong product and business judgment. You should be as comfortable writing production Python and advanced SQL, defining durable data contracts, and operating decision products as you are evaluating a ranking approach or designing an experiment. You will personally ship reliable first versions and partner with Analytics Engineering and Data Engineering when work requires shared infrastructure or additional scale.
+   
+
+  
+
+**In This Role, You Will**
+* Set the roadmap and methodology for GTM intelligence and decision products, using deep stakeholder discovery to probe beyond stated requests, uncover the underlying decisions, workflows, constraints, and measures of success, and translate them into measurable systems.
+* Own the full lifecycle of intelligence products, including feature definition, methodology, evaluation, SQL and Python pipelines, scheduled refresh, serving, versioning, monitoring, and history.
+* Build canonical feature datasets across product telemetry, commercial systems, CRM data, customer context, and field activity.
+* Choose appropriately among heuristics, weighted scores, statistical models, ranking approaches, and machine\-learning methods based on the decision, data maturity, and operational constraints.
+* Partner closely with Technical Success and other GTM stakeholders as design partners: digging into their workflows, testing assumptions, and shaping the right solution to improve account prioritization, identify risks and opportunities, select interventions, and measure outcomes.
+* Define the exposure, action, feedback, and outcome data needed to evaluate and continuously improve GTM intelligence products.
+* Create monitoring for data quality, freshness, system behavior, threshold performance, adoption, and drift.
+* Help shape trustworthy consumption layers and machine\-readable interfaces for Field Insights, reporting, alerts, and agent workflows without owning the application experience end to end.
+* Personally ship and operate reliable first versions, partnering with Analytics Engineering and Data Engineering when work requires shared infrastructure, complex ingestion, or greater scale and reliability.
+
+
+ You Might Thrive in This Role If You
+   
+
+  
+
+* Have shipped and operated model\-backed or rules\-based decision products, not only analyses and offline prototypes.
+* Are exceptional in SQL and strong in production Python, including testing, modularity, monitoring, and maintainability.
+* Enjoy rolling up your sleeves to move from source data through a production decision product without waiting for a separate team to complete every step.
+* Can independently define the problem, ask incisive follow\-up questions, challenge assumptions constructively, propose the methodology, establish evaluation standards, and bring stakeholders toward decisions.
+* Can move between feature engineering, applied modeling, data\-product design, stakeholder discovery, and production troubleshooting.
+* Know when to use a pragmatic approach now while designing the data and feedback foundation for more sophisticated modeling later.
+* Prefer measuring success through reliable adoption and better decisions, not the number or sophistication of models produced.
+
+
+**Qualifications**
+* Significant experience in applied Data Science, analytics engineering, machine learning, or a related quantitative role, including direct ownership of production decision systems.
+* Advanced SQL and strong production Python experience.
+* Demonstrated success taking a score, signal, recommendation, ranking model, or decision rule from prototype into monitored production use.
+* Experience with feature engineering, pragmatic model selection, evaluation design, calibration or threshold setting, and ongoing system monitoring.
+* Experience building or owning reliable data transformations, canonical datasets, scheduled workflows, and application\-facing outputs.
+* Strong stakeholder discovery and communication skills, including the ability to uncover the need behind a stated request and align technical and GTM stakeholders around requirements, methodology, ownership, and tradeoffs.
+
+
+**Preferred Qualifications**
+* Experience with Databricks, Spark, dbt, Airflow or comparable orchestration, and modern cloud warehouses or lakehouses.
+* Experience with B2B SaaS, usage\-based products, CRM or Salesforce data, customer lifecycle systems, recommendations, or next\-best\-action products.
+* Familiarity with model and feature versioning, scheduled scoring, monitoring, reproducibility, and safe rollout.
+* Experience defining exposure, action, feedback, and outcome data for decision products, experimentation, or impact measurement.
+* Familiarity with agentic systems and data interfaces designed for both human and machine consumption.
+
+
+**About OpenAI**
+ OpenAI is an AI research and deployment company dedicated to ensuring that general\-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+   
+
+  
+
+ We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+   
+
+  
+
+ For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
+   
+
+  
+
+ Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US\-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non\-public information. In addition, job duties require access to secure and protected information technolog</description>
+        <pubDate>2026-07-27</pubDate>
+    </item>
+    
+    <item>
         <title>Staff Data Scientist, GTM - Airwallex</title>
         <link>https://www.linkedin.com/jobs/view/4385493283</link>
         <description>**About Airwallex**
@@ -1304,199 +1335,6 @@
     </item>
     
     <item>
-        <title>Data Scientist, GTM - OpenAI</title>
-        <link>https://www.linkedin.com/jobs/view/4444398981</link>
-        <description>**About The Team**
- OpenAI’s GTM Data Science team helps shape how our products are adopted, monetized, and scaled across organizations. We work at the intersection of Product, Go\-to\-Market, Finance, Research, and Data, turning product usage, customer evidence, and market signals into decisions that grow durable enterprise value.
-   
-
-  
-
- We’re looking for a senior Data Scientist to own the analytical strategy for enterprise knowledge\-worker adoption. As ChatGPT Work and Codex become capable of research, analysis, document creation, spreadsheets, presentations, internal knowledge synthesis, and other agentic workflows, you will help determine how these products become embedded in everyday work—not merely tried once.
-   
-
-  
-
-**About The Role**
- You will define how we measure activation, retained usage, workflow depth, and value across ChatGPT Work, Codex, and connected enterprise systems. You will explain why adoption succeeds or stalls and identify the product, enablement, and commercial interventions most likely to create durable usage.
-   
-
-  
-
- This is a hands\-on, zero\-to\-one role. You will work through imperfect telemetry, overlapping product surfaces, evolving definitions, and ambiguous business questions. You will partner closely with GTM, Product, Finance, Research, Customer Deployment, Analytics Engineering, and Data Science. Your work is successful when it changes a product, GTM, or investment decision.
-   
-
-  
-
-**In This Role, You Will**
-* Define a trusted measurement framework for knowledge\-worker adoption, including identity, eligible populations, activation, retained usage, penetration, workflow depth, feature adoption, and monetization.
-* Map the knowledge\-worker journey from initial exposure through first successful task, repeated workflows, multi\-surface usage, and durable adoption.
-* Identify which personas, functions, use cases, product capabilities, and account conditions are associated with deep and retained usage.
-* Design and evaluate experiments and quasi\-experiments across onboarding, enablement, workflow templates, connectors, pilots, customer deployment support, and product launches.
-* Combine behavioral data with customer and field evidence, then translate the findings into crisp recommendations for Product, GTM, Finance, and executive audiences.
-* Operationalize successful work through durable datasets, scorecards, recurring business narratives, and decision cadences while partnering with Analytics Engineering and product teams to improve instrumentation and data quality.
-
-
-**You Might Thrive in This Role If You**
-* Enjoy creating clarity from problems that do not yet have stable definitions, clean datasets, or a settled playbook.
-* Move comfortably between SQL, Python, metric design, experimentation, customer evidence, strategy, and executive communication.
-* Think in terms of user journeys and behavioral mechanisms—not only dashboards and aggregate metrics.
-* Can distinguish product usage from durable customer value and simulated value from realized business outcomes.
-* Proactively align stakeholders, document decisions, and surface data\-quality risks before they affect important decisions.
-* Are comfortable challenging an attractive narrative when the evidence does not support it.
-
-
-**Qualifications**
-* Significant experience in data science, product analytics, growth analytics, economics, statistics, or a related quantitative field.
-* Strong hands\-on ability in SQL and Python, including experience working with large and imperfect behavioral datasets.
-* Experience defining activation, retention, engagement, funnel, or product\-adoption metrics, with strong knowledge of experimentation, causal inference, cohort analysis, and segmentation.
-* Ability to translate ambiguous business questions into structured analyses, independently define the analytical direction, and bring senior stakeholders along through clear tradeoff framing.
-* Strong written and verbal communication skills, including a demonstrated ability to influence senior technical and non\-technical stakeholders.
-
-
-**Preferred Qualifications**
-* Experience with enterprise SaaS, collaboration products, AI products, developer tools, productivity software, or multi\-product platforms.
-* Experience connecting product usage to revenue, expansion, customer health, enablement, or other GTM interventions.
-* Experience with identity resolution, cross\-surface journeys, telemetry design, evolving product taxonomies, or qualitative customer evidence.
-* Experience helping establish a new data science area, operating model, technical roadmap, or recurring executive decision cadence.
-
-
-**About OpenAI**
- OpenAI is an AI research and deployment company dedicated to ensuring that general\-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
-   
-
-  
-
- We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
-   
-
-  
-
- For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
-   
-
-  
-
- Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US\-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non\-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
-   
-
-  
-
- To notify OpenAI that you believe this job posting is non\-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.
-   
-
-  
-
- We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
-   
-
-  
-
- OpenAI Global Applicant Privacy Policy
-   
-
-  
-
- At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
-   
-
-  
-
- Compensation Range: $290K \- $340K</description>
-        <pubDate>2026-07-24</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist, Pricing - Mudflap</title>
-        <link>https://www.linkedin.com/jobs/view/4427656640</link>
-        <description>Mudflap serves the $800B trucking industry, the backbone of the U.S. economy. Our market\-leading payment products help truckers save thousands of dollars on fuel (their \#1 business expense), while providing our fuel stop partners with access to new, hard\-to\-reach customers. We’re a fast\-growing marketplace business looking for a new customer\-obsessed teammate to join us on this exciting journey.
-   
-
-  
-
- At Mudflap, we’re building a data\-driven decision engine that powers every aspect of our business—from product development and growth to risk management and operational excellence. We’re looking for a versatile Senior Data Scientist, Pricing to join our high\-impact team.
-   
-
-  
-
- As a
- **Senior Data Scientist, Pricing** 
- , you’ll partner closely with Product, Finance, Revenue Operations, and Engineering to drive strategic pricing decisions that accelerate growth and maximize long\-term value. You’ll develop pricing and elasticity models, estimate customer willingness\-to\-pay, design and analyze pricing experiments, and generate insights that inform revenue, margin, and retention strategies. Your work will directly influence how we price our products, optimize customer value, and compete in the market.
-   
-
-  
-
-**Work Location:** 
- This role is based in Palo Alto, CA and involves a hybrid work approach, balancing in\-office collaboration with the ability to work remotely.
-   
-
-  
-
- To support our team, we offer:
-   
-
-  
-
-* Commuter benefits to ease your travel
-* Lunches and snacks to keep you fueled
-* A collaborative, high\-growth environment where you’ll work closely with talented teammates across the company
-
-
-**What You’ll Do**
-* Drive strategic data science initiatives that directly impact business outcomes, working closely with executive leadership to identify high\-value opportunities in your domain.
-* Lead end\-to\-end machine learning projects from problem formulation through production deployment, including model development, validation, A/B testing, and performance monitoring. solve high\-impact business problems such as fraudulent risk assessment, underwriting, customer segmentation, etc.
-* Drive data\-driven decision making across cross\-functional partnerships — Collaborate closely with Product, Engineering, Ops, Risk teams, etc. to translate complex business requirements into analytical solutions and communicate insights to executive stakeholders
-* Mentor junior data scientists and analysts and establish best practices — Provide technical leadership, code reviews, and strategic guidance while developing scalable data science methodologies and standards across the organization
-* Lead experimentation strategy and drive product innovation — Own end\-to\-end A/B testing frameworks, mentor teams on experimental design, and translate test results into actionable product improvements that directly impact key business metrics
-
-
-**What We’re Looking For**
-* 5\+ years of experience in data science, analytics, or related fields.
-* Proficiency in SQL and Python for data manipulation, modeling, and automation.
-* Experience building production\-ready models and pipelines.
-* Strong statistical knowledge and experience designing experiments (A/B testing, cohort analysis, causal inference).
-* Excellent communication skills—ability to present complex insights clearly to technical and non\-technical stakeholders.
-* Experience in at least one of the domains: risk, growth/marketing, or product analytics preferred.
-* Comfortable working in a fast\-paced startup environment where collaboration and flexibility are essential.
-
-
-**Perks and Benefits (What we offer):**
-* Competitive salary and equity in a high\-growth startup
-* Multiple health benefit options
-* Responsible Time Off
-* 401(k) matching
-* Opportunities and support for major career growth
-* Annual Company offsite event (Mudfest!)
-
-
- The salary range for this role is $185,000 \- 225,000\. This information reflects a base salary range for this position based on current market data, which may be subject to change as new market data becomes available. The candidate's skills, experience, and other relevant factors will determine the exact compensation.
-   
-
-  
-
-**Company Overview (Who we are):**
- Mudflap is on a mission to transform the trucking and logistics industry by leveling the playing field for owner operators and small fleets. Backed by top\-tier venture investors, including QED, Matrix Partners, Commerce Ventures, NFX, and 500 Startups and included in the Forbes Fintech 50 list, Mudflap offers fleet fuel management solutions. Our core team hails from Disney, Uber, Procore, DoorDash, Google, Meta, Capital One, Affirm and Brex.
-   
-
-  
-
- Here are the core values that we believe in and look for in new teammates:
-   
-
-  
-
-* Be Customer Obsessed: We deeply understand customer needs and put our customers at the center of everything we do
-* Make it Count: Act like an owner by focusing on the impact of your work
-* Find a Way: Be a creative problem solver who pushes past roadblocks to win for our customers and our teammates
-* Sweat the Details: We keep our standards high and achieve them by paying attention to every detail
-* Be Curious: Use a growth mindset to question assumptions, take calculated risks and stretch the boundaries of what’s possible
-
-
- Compensation Range: $185K \- $225K</description>
-        <pubDate>2026-07-24</pubDate>
-    </item>
-    
-    <item>
         <title>Data Scientist II, Monetization &amp; Pricing - Thumbtack</title>
         <link>https://www.linkedin.com/jobs/view/4430762069</link>
         <description>**Thumbtack helps millions of people confidently care for their homes.**
@@ -1568,7 +1406,87 @@
   
 
  We put as much craftsmanship into candidate safety as we do into the hiring experience itself. While scammers may try to impersonate our team, we’ll never ask you for money, banking info, or SSNs during hiring. Check out our blueprint on how to spot the fakes.</description>
-        <pubDate>2026-07-31 13:29:06.649954+00:00</pubDate>
+        <pubDate>2026-08-01 01:47:04.111514+00:00</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist, Growth Analytics - Tubi</title>
+        <link>https://www.linkedin.com/jobs/view/4438687854</link>
+        <description>**About the Role:**
+ We are looking for a problem solver who thrives at the intersection of data science, growth strategy, and AI\-powered automation. You’ll focus on diving deep into data, creating scalable data solutions, building agentic AI workflows, supporting growth marketing measurement, and enabling growth experimentation to power smarter decision\-making for growth marketing. This is a highly technical and data\-intensive role ideal for someone who is passionate about applying advanced analytics and AI to drive business impact in a fast\-paced environment.
+   
+
+  
+
+ This is a hybrid role based out of our San Francisco or Los Angeles office. You must be willing to travel to the office two days/week. Please note that we do not provide relocation assistance for this role.
+   
+
+  
+
+**What You'll Do:**
+* Lead the design and evolution of measurement frameworks that quantify marketing effectiveness across the full customer lifecycle, including acquisition, activation, retention, and brand impact.
+* Create business intelligence suites that provide a holistic view of marketing performance across growth marketing, brand marketing, Search/Answer Engine Optimization (SEO/AEO), Customer Relationship Management (CRM), social, content, partnerships, and business development, spanning both performance and brand health metrics.
+* Build scalable analytics products that provide executive visibility into marketing performance across paid, owned, and earned channels.
+* Design and implement agentic AI solutions that automate recurring analyses, generate actionable insights, orchestrate multi\-step analytical workflows, and accelerate decision\-making for growth marketing, brand marketing, SEO/AEO, CRM, social, and broader marketing operations teams.
+* Leverage large language models (LLMs), AI agents, and modern AI frameworks to improve productivity, automate reporting, enhance experimentation workflows, and surface intelligent recommendations.
+* Evaluate and implement advanced statistical techniques \- including Bayesian modeling, causal inference, uplift modeling, and media mix modeling \- to improve marketing measurement and optimization.
+* Drive the organization's experimentation strategy by designing rigorous A/B tests, incrementality studies, geo experiments, and causal inference methodologies to measure both short\-term performance and long\-term business impact.
+* Partner closely with Data Engineering to design robust data models, improve data quality, and define scalable pipelines that support analytics at scale.
+* Build and maintain dashboards and self\-service analytics solutions in Preset, Databricks, or Tableau that empower growth marketing, brand marketing, SEO/AEO, CRM, social, and cross\-functional partners with timely, actionable insights.
+
+
+**Your Background:**
+* 4\+ years of experience in Analytics, Data Science, Decision Science, or Growth Analytics, with demonstrated impact in a high\-growth B2C technology company. (streaming, gaming, fintech, or consumer app businesses preferred).
+* Deep expertise in SQL, including complex query optimization, dimensional modeling, and large\-scale analytical data warehouses such as Databricks, Snowflake, BigQuery, or Redshift.
+* Strong programming experience in Python for statistical modeling, automation, experimentation, AI applications, and production\-quality analytics workflows.
+* Experience building AI\-powered analytical tools, agentic workflows, or LLM\-based applications that automate repetitive analysis, accelerate decision\-making, or improve business operations.
+* Proven experience building predictive models and applying machine learning techniques to solve business problems in marketing, growth, or customer lifecycle optimization.
+* Deep understanding of experimentation methodologies, including A/B testing, causal inference, Bayesian statistics, incrementality testing, and observational analysis.
+* Experience developing executive\-facing dashboards and scalable self\-service analytics solutions using Tableau, Preset, or similar BI platforms.
+* Demonstrated ability to influence cross\-functional strategy and communicate complex analytical concepts to executive and non\-technical audiences.
+* Strong curiosity, autonomy, and passion for building scalable analytics capabilities and establishing best practices that raise the bar across the organization.
+* Familiarity with modern AI frameworks and tooling (e.g., LangChain, LangGraph, OpenAI APIs, MCP, vector databases, or similar agent orchestration frameworks) is highly desirable.
+* Strong understanding of digital marketing measurement, attribution methodologies, media performance, and customer acquisition economics is a plus.
+
+
+ Pursuant to state and local pay disclosure requirements, the pay range for this role, with final offer amount dependent on education, skills, experience, and location is listed annually below. This role is also eligible for an annual discretionary bonus, long\-term incentive plan, and various benefits including medical/dental/vision, insurance, a 401(k) plan, paid time off and other benefits in accordance with applicable plan documents.
+   
+
+  
+
+ High cost labor markets such as but not limited to Los Angeles, New York City, and San Francisco
+   
+
+  
+
+ $130,100—$165,000 USD
+   
+
+  
+
+ Tubi is a division of Fox Corporation, and the FOX Employee Benefits summarized here, covers the majority of all US employee benefits. The following distinctions below outline the differences between the Tubi and FOX benefits:
+   
+
+  
+
+* For US\-based non\-exempt Tubi employees, the FOX Employee Benefits summary accurately captures the Vacation and Sick Time.
+* For all salaried/exempt employees, in lieu of the FOX Vacation policy, Tubi offers a Flexible Time off Policy to manage all personal matters.
+* For all full\-time, regular employees, in lieu of FOX Paid Parental Leave, Tubi offers a generous Parental Leave Program, which allows parents twelve (12\) weeks of paid bonding leave within the first year of birth, adoption, surrogacy, or foster placement of a child in addition to applicable government leave program(s) and FOX’s short\-term disability policy. This time is 100% paid through a combination of any applicable state, city, and federal leaves and wage\-replacement programs in addition to contributions made by Tubi.
+* For all full\-time, regular employees, Tubi offers a monthly wellness reimbursement.
+
+
+ About Tubi:
+   
+
+  
+
+ Boldly built for every fandom, Tubi is a free streaming service that entertains over 100 million monthly active users. Tubi offers the world's largest collection of Hollywood movies and TV shows, thousands of creator\-led stories and hundreds of Tubi Originals made for the most passionate fans. Headquartered in San Francisco and founded in 2014, Tubi is part of Tubi Media Group, a division of Fox Corporation.
+   
+
+  
+
+*We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law.*</description>
+        <pubDate>2026-08-01 01:47:04.111617+00:00</pubDate>
     </item>
     
 </channel>
