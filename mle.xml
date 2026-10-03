@@ -6,6 +6,150 @@
     <description>jobs</description>
     
     <item>
+        <title>Principal Machine Learning Engineer (Prisma AIRS) - Palo Alto Networks</title>
+        <link>https://www.indeed.com/viewjob?jk=40b8736270e4f29e</link>
+        <description>Santa Clara, California, United States of America Product Engineering Ref ID: JR-023331
+
+**Our Mission**
+
+At Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place.
+
+**Who We Are**
+
+In order to be the cybersecurity partner of choice, we must trailblaze the path and shape the future of our industry. This is something our employees work at each day and is defined by our values: Disruption, Collaboration, Execution, Integrity, and Inclusion. We weave AI into the fabric of everything we do and use it to augment the impact every individual can have. If you are passionate about solving real-world problems and ideating beside the best and the brightest, we invite you to join us!
+
+We believe collaboration thrives in person. That’s why most of our teams work from the office full time, with flexibility when it’s needed. This model supports real-time problem-solving, stronger relationships, and the kind of precision that drives great outcomes.
+
+**Job Summary**
+
+**Levels we are considering:** Sr. Staff and Principal Engineers
+
+**Location:** Santa Clara, CA (Hybrid: 3 days/week on-site at Corporate HQ)
+
+**Team:** AIRS (Artificial Intelligence Runtime Security)
+
+**About the Team**
+
+Palo Alto Networks is pioneering the world’s most comprehensive AI security platform through **Prisma AIRS**—protecting complex ecosystems of AI models, applications, and agents from development through runtime.
+
+We are building a brand-new initiative within the AIRS team focused on advancing state-of-the-art AI/ML infrastructure and high-performance, distributed backend systems. We are recruiting senior technical leaders to drive this architecture from the ground up.
+
+  
+  
+
+**The Role**
+
+As a senior technical leader on the AIRS team, you will operate at the intersection of machine learning, cloud security, and AI safety. You will design, build, and deploy high-performance infrastructure and autonomous ML solutions that actively classify threats, tune models, and prevent adversarial attacks at enterprise scale.
+
+  
+  
+
+**Key Responsibilities**
+
+* Develop scalable anomaly detection pipelines to monitor cloud environments and AI agent actions, ensuring high efficacy with low false-positive and false-negative rates.
+* Lead SLM (Small Language Model) tuning initiatives, optimizing and fine-tuning models for low-latency, highly accurate edge-cloud security tasks.
+* Drive advanced data classification strategies, applying machine learning, NLP, and deep learning methods to massive structured and unstructured datasets to extract complex threat patterns.
+* Be a technical leader who partners closely with product, security, and cloud engineering teams to integrate these ML solutions seamlessly into production systems.
+
+**Qualifications**
+
+* Education &amp; Experience: MS or PhD in Computer Science, Artificial Intelligence, Machine Learning, Statistics, or a related field (or equivalent practical experience) with 8+ years of software engineering industry experience, including a minimum of 3 years dedicated to machine learning, NLP, or AI systems.
+* Programming &amp; Frameworks: Deep programming expertise in Python and strong hands-on experience with deep learning frameworks such as PyTorch or TensorFlow.
+* Large/Small Language Models: Proven experience working directly with LLMs/SLMs, advanced prompt engineering, and model fine-tuning techniques.
+* Core ML Systems: Strong, demonstrated background in building and scaling auto-classification and anomaly detection models on massive, real-world datasets.
+
+  
+**Additional Experience:**
+
+* Adversarial &amp; Model Safety: Demonstrated knowledge of cybersecurity concepts and AI safety vulnerabilities (e.g., prompt injection defense, AI red-teaming, model security).
+* Models &amp; Frameworks: Familiarity with DistilBERT and other open-source classification models.
+* Graph Architectures: Familiarity with large, graph-based datasets and processing techniques.
+* Cloud Infrastructure: Experience with distributed cloud systems (GCP or AWS) and deploying scalable ML inference pipelines at scale.
+
+**Compensation Disclosure**
+
+The compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/com-missioned roles) is expected to be the annual range listed below. The offered compensation may also include restricted stock units and a bonus.
+
+$163,200.00 - $264,000.00/yr
+
+**Our Commitment**
+
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.
+
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.
+
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+
+All your information will be kept confidential according to EEO guidelines.
+
+Is role eligible for Immigration Sponsorship?: Yes</description>
+        <pubDate>2026-10-02</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Machine Learning Engineer - New Verticals Agentic Foundations - DoorDash</title>
+        <link>https://www.indeed.com/viewjob?jk=ab1bdd77f7c3f2c8</link>
+        <description>**About the Team**
+------------------
+
+Agentic Foundations, part of New Verticals ML, builds the core AI/ML intelligence that powers high-quality, scalable agents at DoorDash, and proves it through flagship agent experiences such as the Ask grocery assistant. We operate as a closed loop: new models, evals, and representations make our agents better, and real-world agent usage surfaces the gaps that drive our next foundations work.
+
+**About the Role**
+------------------
+
+We're looking for a Senior Machine Learning Engineer to join Agentic Foundations with a primary focus on Vertical Agent Development. You will own the continuous improvement of our flagship agents, starting with the Ask Assistant, using an eval-driven loop to make them faster, more cost-efficient, and more reliable for millions of customers. You will also help us bring this approach to new agentic experiences for Merchants and Dashers, turning promising ideas into production-ready agents.
+
+This is a chance to work at the intersection of LLMs, agents, post-training, and evals on problems that ship. You will partner closely with engineers working on agentic memory, agent-compatible product representations, and post-training of small language models (SLMs), so that what we learn from production agents feeds directly back into our foundations, and what we build there makes our agents better.
+
+You will report into the engineering lead on our New Verticals AI/ML team. We expect this role to be hybrid with some time in-office and some time remote.
+
+**You're excited about this opportunity because you will…**
+-----------------------------------------------------------
+
+* **Raise the quality of our Consumer agents:** build and refine our eval harness-optimization loop to pinpoint failure modes, then iterate on prompts, tools, skills, and context, and measure the impact on real customer tasks.
+* **Find the best balance of quality, latency, and cost:** run rigorous experiments, including fine-tuning open-weights models and deploying small language models (SLMs) where they can replace or augment larger LLMs.
+* **Launch new agents:** take agentic opportunities for Merchants and Dashers from early exploration to production.
+* **Turn foundations into product impact:** work with teammates on agentic memory, agent-compatible product representations, and post-training SLMs for steerable generative recommendation, and bring those capabilities into production agents.
+* **Shape the roadmap:** partner with engineering, product, and business leaders to define an ML-driven strategy for our fast-growing grocery and retail delivery business.
+
+**We're excited about you because you have…**
+---------------------------------------------
+
+* 3+ years of industry ML experience, including hands-on work building and shipping LLM-based agents (tool use, context management, prompting, guardrails) and improving them with evals and data
+* Experience with post-training or fine-tuning of open-weights models (e.g., SFT, preference optimization, or RL), ideally including small language models, and sound judgment on quality, latency, and cost trade-offs
+* Strong foundation in NLP and machine learning, with proficiency in Python and frameworks such as PyTorch or TensorFlow
+* M.S. or PhD in Computer Science, Statistics, Math, or another quantitative field, or equivalent practical experience, plus a collaborative, growth-minded approach and a drive for measurable impact
+
+**About DoorDash**
+------------------
+
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.  
+  
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+
+**Our Commitment to Diversity and Inclusion**
+---------------------------------------------
+
+We're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on "protected categories," we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+
+**If you need any accommodations, please inform your recruiting contact upon initial connection.**
+
+  
+
+Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
+
+We used Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provided Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023. We resumed using Covey Scout for Inbound again on June 29, 2024, and ceased using Covey Scout for Inbound on April 30, 2026.
+
+The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here:**https://getcovey.com/nyc-local-law-144****.**  
+*Beware of recruitment scams: DoorDash, Deliveroo, and Wolt will never ask you to pay money or share sensitive financial information during hiring — learn more about our legitimate recruiting process at* *Recruitment Scam Awareness - DoorDash* *.*</description>
+        <pubDate>2026-10-02</pubDate>
+    </item>
+    
+    <item>
         <title>Machine Learning Engineer, Level 3 - Snap Inc.</title>
         <link>https://www.indeed.com/viewjob?jk=3f97fe2403e72db6</link>
         <description>Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
@@ -926,68 +1070,6 @@ GEICO reasonably accommodates qualified individuals with disabilities to enable 
     </item>
     
     <item>
-        <title>Machine Learning Engineer, Search Quality - Glean Technologies</title>
-        <link>https://www.indeed.com/viewjob?jk=adbb96eb171815d3</link>
-        <description>**About Glean:**
-
-Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles.
-
-At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level.
-
-Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its global impact. With customers across 50+ industries and 1,000+ employees in more than 25 countries, we’re helping the world’s largest organizations make every employee AI-fluent, and turning the superintelligent enterprise from concept into reality.
-
-If you’re excited to shape how the world works, you’ll help build systems used daily across Microsoft Teams, Zoom, ServiceNow, Zendesk, GitHub, and many more - deeply embedded where people get things done. You’ll ship agentic capabilities on an open, extensible stack, with the craft and care required for enterprise trust, as we bring Work AI to every employee, in every company.
-
-**About the Role:**
-
-Glean is looking for engineers to help build the world’s best search and assistant product for work. Our engineers work on a range of systems across the stack, including query understanding, document understanding, domain-adapted language models, natural language question-answering, evaluation, and experimentation. We interact regularly with customers, deeply understand their pain points, and use whatever tool is necessary, simple or complex, to solve their problems.
-
-**You will:**
-
-* Invent new signals to improve the personalization of our search engine
-* Train a model to capture interactions between signals in our ranking system
-* Design smarter ways to domain-adapt language models to each customer’s corpus
-* Discover new ways of combining LLMs with search engines to answer complex questions
-* Write robust code that’s easy to read, maintain, and test
-* Mentor more junior engineers, or learn from battle-tested ones
-
-**About you:**
-
-* 2+ years of experience
-* BA/BS in computer science, math, sciences, or a related degree
-* Experience working with search, recommendation, natural language processing, or other large systems involving machine learning
-* Strong analytical skills and ability to work with data
-* Proven ability to design, build, and ship production-ready models
-* Proficiency in your ML framework of choice
-* Strong coding skills (Python, Go, Java, C++, ...)
-* Thrive in a customer-focused, tight-knit and cross-functional environment - being a team player and willing to take on whatever is most impactful for the company is a must
-* A proactive and positive attitude to lead, learn, troubleshoot and take ownership of both small tasks and large features
-
-**Location:**
-
-* This role is hybrid (4 days a week in our San Francisco office)
-
-**Compensation &amp; Benefits:**
-
-The standard base salary range for this position is $140,000 - $265,000 annually. Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.
-
-We offer a comprehensive benefits package including competitive compensation, Medical, Vision, and Dental coverage, generous time-off policy, and the opportunity to contribute to your 401k plan to support your long-term goals. When you join, you'll receive a home office improvement stipend, as well as an annual education and wellness stipends to support your growth and wellbeing. We foster a vibrant company culture through regular events, and provide healthy lunches daily to keep you fueled and focused.
-
-We’re committed to building and sustaining a diverse, inclusive workplace. We strive to attract and retain people with a wide range of backgrounds, experiences, and perspectives, and we do not discriminate on the basis of gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.
-
-#LI-HYBRID
-
-**AI-First Mindset at Glean:**
-
-At Glean, AI fluency is core to how we work and we're committed to ensuring every new hire feels confident integrating AI into their everyday work. **As part of the interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about, design, and use AI to drive impact in your role.** Feel free to reference any tools, platforms, or workflows you use today — prior Glean experience isn't required.
-
-**Global Data Privacy Notice for Job Candidates and Applicants:**
-
-Depending on your location, the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), or other privacy laws may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available in our **Privacy Policy**. By submitting your application, you are agreeing to our use and processing of your data as required. US applicants and their applications are subject to arbitration of disputes as outlined in our **Applicant Arbitration Agreement**.</description>
-        <pubDate>2026-09-25</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Data Scientist - Embedded Insights - Plaid</title>
         <link>https://www.indeed.com/viewjob?jk=71f45426bbfb264d</link>
         <description>**Required skills**
@@ -1098,6 +1180,111 @@ Note: Apple benefit, compensation and employee stock programs are subject to eli
     </item>
     
     <item>
+        <title>Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start - ByteDance</title>
+        <link>https://www.linkedin.com/jobs/view/4475045878</link>
+        <description>**Responsibilities**
+Our team is building the next generation of AI-native risk intelligence systems to address emerging challenges driven by large-scale AIGC content production.
+  
+  
+As Content Creation Becomes Automated And Adversaries Adopt Systematic Experimentation (e.g., Large-scale Template Variation And Rapid Iteration), Traditional Rule-based And Single-model Approaches Are No Longer Sufficient. We Are Transitioning From Monolithic LLM Applications To a Structured Multi-agent Architecture That Emphasizes:
+  
+  
+
+* Tool-augmented reasoning (ReAct-style systems)
+* Modular skill composition
+* Execution traceability and observability
+* Feedback-driven system evolution
+* Cross-domain risk reasoning
+
+We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.
+  
+  
+Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.
+  
+  
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to our Company and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+  
+  
+**Responsibilities:**
+
+* Develop and implement innovative machine learning algorithms to manage business risks in TikTok's products and platforms.
+* Prototype and explore novel solutions, conduct experiments to validate hypotheses, and provide insights to Product and Tech teams.
+* Collaborate with multidisciplinary teams to enhance current automation processes.
+* Build efficient data querying infrastructure for real-time and offline analysis. Identify opportunities to strengthen risk defense solutions.
+* Define risk control metrics and promote data-driven practices. Align teams and stakeholders on numeric goals for risk control.
+* Document technical processes and effectively communicate results through writing, visualizations, and presentations.
+
+**Qualifications**
+Minimum Qualifications:
+  
+  
+
+* Individuals who are completing or have recently completed a Bachelor's degree in Computer Science, Computer Engineering or a related discipline.
+* Proficiency in modern machine learning theories and applications, including ensemble trees, deep neural networks, transfer/multi-task learning, reinforcement learning, graph theory, and unsupervised learning.
+* Experience with Python, SQL/Hive, and Hadoop
+* Strong understanding of data structures and algorithms, with excellent problem-solving ability
+* Detail oriented, effective time management, and strong analytical skills
+
+**Preferred Qualifications:**
+
+* Individuals who are completing or have recently completed a Master's degree in Software Development, Computer Science, Computer Engineering or a related discipline.
+* Demonstrated software engineering experience from previous internship, work experience, coding competitions, or publications
+* Internship experience or research experience, especially in e-commerce, risk control domian
+* Curiosity towards new technologies and entrepreneurship
+* High levels of creativity and quick problem-solving capabilities
+
+Job Information
+  
+  
+**【For Pay Transparency】Compensation Description (Annually)**
+The base salary range for this position in the selected city is $128000 - $316800 annually.
+  
+  
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+  
+  
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+  
+  
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+  
+  
+**For Los Angeles County (unincorporated) Candidates:**
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+  
+  
+
+* Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+* Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+* Exercising sound judgment.
+
+**About Us**
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+  
+  
+Why Join ByteDance
+  
+  
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.
+  
+  
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+  
+  
+Diversity &amp; Inclusion
+  
+  
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+  
+  
+Reasonable Accommodation
+  
+  
+ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request</description>
+        <pubDate>2026-10-03</pubDate>
+    </item>
+    
+    <item>
         <title>Founding Machine Learning Engineer - Stealth Startup</title>
         <link>https://www.linkedin.com/jobs/view/4473129758</link>
         <description>Machine Learning Engineer — Stealth Startup, San Francisco
@@ -1163,6 +1350,91 @@ What we offer
 - High ownership and direct impact at an early-stage company
 
 - An onsite team in San Francisco</description>
+        <pubDate>2026-10-02</pubDate>
+    </item>
+    
+    <item>
+        <title>Principal Machine Learning Engineer (Prisma AIRS) - Palo Alto Networks</title>
+        <link>https://www.linkedin.com/jobs/view/4473186479</link>
+        <description>**Our Mission**
+At Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place.
+  
+  
+**Who We Are**
+In order to be the cybersecurity partner of choice, we must trailblaze the path and shape the future of our industry. This is something our employees work at each day and is defined by our values: Disruption, Collaboration, Execution, Integrity, and Inclusion. We weave AI into the fabric of everything we do and use it to augment the impact every individual can have. If you are passionate about solving real-world problems and ideating beside the best and the brightest, we invite you to join us!
+  
+  
+We believe collaboration thrives in person. That’s why most of our teams work from the office full time, with flexibility when it’s needed. This model supports real-time problem-solving, stronger relationships, and the kind of precision that drives great outcomes.
+  
+  
+**Job Summary**
+**Levels we are considering:**
+Sr. Staff and Principal Engineers
+  
+  
+**Location:**
+Santa Clara, CA (Hybrid: 3 days/week on-site at Corporate HQ)
+  
+  
+**Team:**
+AIRS (Artificial Intelligence Runtime Security)
+  
+  
+**About The Team**
+Palo Alto Networks is pioneering the world’s most comprehensive AI security platform through
+**Prisma AIRS**
+—protecting complex ecosystems of AI models, applications, and agents from development through runtime.
+  
+  
+We are building a brand-new initiative within the AIRS team focused on advancing state-of-the-art AI/ML infrastructure and high-performance, distributed backend systems. We are recruiting senior technical leaders to drive this architecture from the ground up.
+  
+  
+**The Role**
+As a senior technical leader on the AIRS team, you will operate at the intersection of machine learning, cloud security, and AI safety. You will design, build, and deploy high-performance infrastructure and autonomous ML solutions that actively classify threats, tune models, and prevent adversarial attacks at enterprise scale.
+  
+  
+**Key Responsibilities**
+
+* Develop scalable anomaly detection pipelines to monitor cloud environments and AI agent actions, ensuring high efficacy with low false-positive and false-negative rates.
+* Lead SLM (Small Language Model) tuning initiatives, optimizing and fine-tuning models for low-latency, highly accurate edge-cloud security tasks.
+* Drive advanced data classification strategies, applying machine learning, NLP, and deep learning methods to massive structured and unstructured datasets to extract complex threat patterns.
+* Be a technical leader who partners closely with product, security, and cloud engineering teams to integrate these ML solutions seamlessly into production systems.
+
+**Qualifications**
+
+* Education &amp; Experience: MS or PhD in Computer Science, Artificial Intelligence, Machine Learning, Statistics, or a related field (or equivalent practical experience) with 8+ years of software engineering industry experience, including a minimum of 3 years dedicated to machine learning, NLP, or AI systems.
+* Programming &amp; Frameworks: Deep programming expertise in Python and strong hands-on experience with deep learning frameworks such as PyTorch or TensorFlow.
+* Large/Small Language Models: Proven experience working directly with LLMs/SLMs, advanced prompt engineering, and model fine-tuning techniques.
+* Core ML Systems: Strong, demonstrated background in building and scaling auto-classification and anomaly detection models on massive, real-world datasets.
+
+**Additional Experience**
+
+* Adversarial &amp; Model Safety: Demonstrated knowledge of cybersecurity concepts and AI safety vulnerabilities (e.g., prompt injection defense, AI red-teaming, model security).
+* Models &amp; Frameworks: Familiarity with DistilBERT and other open-source classification models.
+* Graph Architectures: Familiarity with large, graph-based datasets and processing techniques.
+* Cloud Infrastructure: Experience with distributed cloud systems (GCP or AWS) and deploying scalable ML inference pipelines at scale.
+
+**Compensation Disclosure**
+The compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/com-missioned roles) is expected to be the annual range listed below. The offered compensation may also include restricted stock units and a bonus. A description of our employee benefits may be found here.
+  
+  
+$163,200.00 - $264,000.00/yr
+  
+  
+**Our Commitment**
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.
+  
+  
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.
+  
+  
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+  
+  
+All your information will be kept confidential according to EEO guidelines.
+  
+  
+Is role eligible for Immigration Sponsorship?: Yes</description>
         <pubDate>2026-10-02</pubDate>
     </item>
     
@@ -1276,6 +1548,88 @@ Individual compensation is determined by skills, qualifications, experience, and
     </item>
     
     <item>
+        <title>Sr. Machine Learning Engineer - 6sense</title>
+        <link>https://www.linkedin.com/jobs/view/4456784011</link>
+        <description>**Our Mission:**
+6sense's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential.
+  
+  
+**Our People:**
+People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Every 6sensor plays a part in deﬁning the future of our industry-leading technology. 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure success by the value we create for our customers. We want 6sense to be the best chapter of your career.
+  
+  
+**About 6sense**
+6sense is Intelligence for Agentic GTM. We turn every signal — yours and ours — into intelligence that every team, tool, and AI agent can act on and trust. Every day, the 6sense Signalverse™ captures one trillion signals to power AI that pinpoints who’s ready to buy, how to engage them, and when to act. 6sense was named a Leader in The Forrester Wave™: Revenue Marketing Platforms for B2B, Q1 2026.
+  
+  
+The Opportunity
+  
+  
+We’re hiring a Senior Machine Learning Engineer to join our AI team, reporting directly to the Head of AI.
+  
+  
+Signals tell you what happened. Our job is to explain why — and that is the problem you will work on. You will build the intelligence that turns a trillion daily signals into cited, explainable answers about why an account matters, why now, and who is deciding. Your models power products customers use every day, including RevvyAI, our conversational GTM intelligence product, and reach their stack through our APIs and MCP server.
+  
+  
+This is a build-and-ship role, not a research role. You will own problems end to end, work directly with Product and Go-to-Market, and see your work reach customers. You’ll join a team distributed across the US and India, at a company where AI is the product rather than a feature.
+  
+  
+What You’ll Do
+  
+  
+
+* Own machine learning problems end to end — from data exploration and modeling through deployment, monitoring, and iteration in production.
+* Build NLP, LLM, and agentic systems at enterprise scale, including retrieval-based architectures and multi-agent workflows.
+* Develop ranking, recommendation, prediction, and optimization models that are explainable rather than black-box.
+* Partner with Product and Go-to-Market to turn ambiguous business problems into shipped capabilities.
+* Improve the performance, scalability, and reliability of production ML systems, and help shape AI platform architecture.
+* Explain your work clearly to technical and non-technical audiences, and engage with customers when needed.
+* Mentor engineers and raise the bar for engineering excellence.
+
+What We’re Looking For
+  
+  
+**Required**
+
+* 8+ years of industry experience building and deploying machine learning systems in production, with clear end-to-end ownership.
+* Strong foundation in machine learning and applied statistics, with hands-on depth in NLP, transformers, embeddings, and retrieval-based systems.
+* Practical experience with modern GenAI tooling such as LangGraph, LangChain, or Amazon Bedrock.
+* Strong Python skills and experience building distributed ML pipelines on cloud infrastructure (AWS, Databricks, or equivalent).
+* Solid grasp of feature engineering, model evaluation, and MLOps practices.
+* A product mindset — you want to build AI products customers use, and you measure yourself on customer impact.
+* Excellent communication: you can explain complex technical work clearly, tell the story of what you’ve built and why, and hold your own with product and business partners.
+* Comfort with ambiguity and the judgment to drive execution independently.
+
+Nice to Have
+  
+  
+
+* Experience with RAG architectures, vector databases, and prompt engineering.
+* Hands-on work with PyTorch or TensorFlow.
+* Background in B2B SaaS, enterprise AI products, or forward-deployed engineering — especially where you worked directly with complex customer data and delivered quickly.
+
+Base Salary Range: $200,349.50 - $260,912.60. The base salary range represents the anticipated low and high end of the base salary range for this position. Actual salaries may vary and may be above or below the range based on various factors, including but not limited to work location and experience. The base salary is one component of 6sense’s total compensation package for this position. Other compensation may include a bonus program or commission plan, and stock options if approved by 6sense’s board. In addition, 6sense provides a variety of benefits, including generous health insurance coverage, life, and disability insurance, a 401K employer matching program, paid holidays, self-care days, and paid time off (PTO).
+  
+  
+Notice of Collection and Use of Personal Information for California Residents: California Recruitment Privacy Notice and Policy
+  
+  
+**Our Benefits:**
+Full-time employees can take advantage of health coverage, paid parental leave, generous paid time-off and holidays, quarterly self-care days off, and stock options. We’ll make sure you have the equipment and support you need to work and connect with your teams, at home or in one of our oﬃces.
+  
+  
+We have a growth mindset culture that is represented in all that we do, from onboarding through to numerous learning and development initiatives including access to our LinkedIn Learning platform. Employee well-being is also top of mind for us. We host quarterly wellness education sessions to encourage self care and personal growth. From wellness days to ERG-hosted events, we celebrate and energize all 6sense employees and their backgrounds.
+  
+  
+**Equal Opportunity Employer:**
+6sense is an Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to jobs@6sense.com.
+  
+  
+*We are aware of recruiting impersonation attempts that are not affiliated with 6sense in any way. All email communications from 6sense will originate from the @6sense.com domain. We will not initially contact you via text message and will never request payments. If you are uncertain whether you have been contacted by an official 6sense employee, reach out to jobs@6sense.com*</description>
+        <pubDate>2026-10-02</pubDate>
+    </item>
+    
+    <item>
         <title>Staff Machine Learning Engineer - Uber</title>
         <link>https://www.linkedin.com/jobs/view/4447264740</link>
         <description>**About The Role**
@@ -1383,111 +1737,6 @@ Offices remain key to collaboration and Uber's culture. Unless approved for full
   
   
 Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</description>
-        <pubDate>2026-10-02</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start - ByteDance</title>
-        <link>https://www.linkedin.com/jobs/view/4474540936</link>
-        <description>**Responsibilities**
-Our team is building the next generation of AI-native risk intelligence systems to address emerging challenges driven by large-scale AIGC content production.
-  
-  
-As Content Creation Becomes Automated And Adversaries Adopt Systematic Experimentation (e.g., Large-scale Template Variation And Rapid Iteration), Traditional Rule-based And Single-model Approaches Are No Longer Sufficient. We Are Transitioning From Monolithic LLM Applications To a Structured Multi-agent Architecture That Emphasizes:
-  
-  
-
-* Tool-augmented reasoning (ReAct-style systems)
-* Modular skill composition
-* Execution traceability and observability
-* Feedback-driven system evolution
-* Cross-domain risk reasoning
-
-We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.
-  
-  
-Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.
-  
-  
-Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to our Company and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
-  
-  
-**Responsibilities:**
-
-* Develop and implement innovative machine learning algorithms to manage business risks in TikTok's products and platforms.
-* Prototype and explore novel solutions, conduct experiments to validate hypotheses, and provide insights to Product and Tech teams.
-* Collaborate with multidisciplinary teams to enhance current automation processes.
-* Build efficient data querying infrastructure for real-time and offline analysis. Identify opportunities to strengthen risk defense solutions.
-* Define risk control metrics and promote data-driven practices. Align teams and stakeholders on numeric goals for risk control.
-* Document technical processes and effectively communicate results through writing, visualizations, and presentations.
-
-**Qualifications**
-Minimum Qualifications:
-  
-  
-
-* Individuals who are completing or have recently completed a Bachelor's degree in Computer Science, Computer Engineering or a related discipline.
-* Proficiency in modern machine learning theories and applications, including ensemble trees, deep neural networks, transfer/multi-task learning, reinforcement learning, graph theory, and unsupervised learning.
-* Experience with Python, SQL/Hive, and Hadoop
-* Strong understanding of data structures and algorithms, with excellent problem-solving ability
-* Detail oriented, effective time management, and strong analytical skills
-
-**Preferred Qualifications:**
-
-* Individuals who are completing or have recently completed a Master's degree in Software Development, Computer Science, Computer Engineering or a related discipline.
-* Demonstrated software engineering experience from previous internship, work experience, coding competitions, or publications
-* Internship experience or research experience, especially in e-commerce, risk control domian
-* Curiosity towards new technologies and entrepreneurship
-* High levels of creativity and quick problem-solving capabilities
-
-Job Information
-  
-  
-**【For Pay Transparency】Compensation Description (Annually)**
-The base salary range for this position in the selected city is $128000 - $316800 annually.
-  
-  
-Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
-  
-  
-Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
-  
-  
-The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
-  
-  
-**For Los Angeles County (unincorporated) Candidates:**
-Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
-  
-  
-
-* Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
-* Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
-* Exercising sound judgment.
-
-**About Us**
-Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
-  
-  
-Why Join ByteDance
-  
-  
-Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.
-  
-  
-As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.
-  
-  
-Diversity &amp; Inclusion
-  
-  
-ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
-  
-  
-Reasonable Accommodation
-  
-  
-ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request</description>
         <pubDate>2026-10-02</pubDate>
     </item>
     
@@ -2579,6 +2828,102 @@ By submitting this application,
     </item>
     
     <item>
+        <title>Senior Machine Learning Engineer - New Verticals Agentic Foundations - DoorDash</title>
+        <link>https://www.linkedin.com/jobs/view/4473168830</link>
+        <description>**About The Team**
+Agentic Foundations, part of New Verticals ML, builds the core AI/ML intelligence that powers high-quality, scalable agents at DoorDash, and proves it through flagship agent experiences such as the Ask grocery assistant. We operate as a closed loop: new models, evals, and representations make our agents better, and real-world agent usage surfaces the gaps that drive our next foundations work.
+  
+  
+**About The Role**
+We’re looking for a Senior Machine Learning Engineer to join Agentic Foundations with a primary focus on Vertical Agent Development. You will own the continuous improvement of our flagship agents, starting with the Ask Assistant, using an eval-driven loop to make them faster, more cost-efficient, and more reliable for millions of customers. You will also help us bring this approach to new agentic experiences for Merchants and Dashers, turning promising ideas into production-ready agents.
+  
+  
+This is a chance to work at the intersection of LLMs, agents, post-training, and evals on problems that ship. You will partner closely with engineers working on agentic memory, agent-compatible product representations, and post-training of small language models (SLMs), so that what we learn from production agents feeds directly back into our foundations, and what we build there makes our agents better.
+  
+  
+You will report into the engineering lead on our New Verticals AI/ML team. We expect this role to be hybrid with some time in-office and some time remote.
+  
+  
+You’re excited about this opportunity because you will…
+  
+  
+
+* Raise the quality of our Consumer agents: build and refine our eval harness-optimization loop to pinpoint failure modes, then iterate on prompts, tools, skills, and context, and measure the impact on real customer tasks.
+* Find the best balance of quality, latency, and cost: run rigorous experiments, including fine-tuning open-weights models and deploying small language models (SLMs) where they can replace or augment larger LLMs.
+* Launch new agents: take agentic opportunities for Merchants and Dashers from early exploration to production.
+* Turn foundations into product impact: work with teammates on agentic memory, agent-compatible product representations, and post-training SLMs for steerable generative recommendation, and bring those capabilities into production agents.
+* Shape the roadmap: partner with engineering, product, and business leaders to define an ML-driven strategy for our fast-growing grocery and retail delivery business.
+
+We’re excited about you because you have…
+  
+  
+
+* 3+ years of industry ML experience, including hands-on work building and shipping LLM-based agents (tool use, context management, prompting, guardrails) and improving them with evals and data
+* Experience with post-training or fine-tuning of open-weights models (e.g., SFT, preference optimization, or RL), ideally including small language models, and sound judgment on quality, latency, and cost trade-offs
+* Strong foundation in NLP and machine learning, with proficiency in Python and frameworks such as PyTorch or TensorFlow
+* M.S. or PhD in Computer Science, Statistics, Math, or another quantitative field, or equivalent practical experience, plus a collaborative, growth-minded approach and a drive for measurable impact
+
+**Compensation**
+The successful candidate's starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.
+  
+  
+In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
+  
+  
+DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.
+  
+  
+To learn more about our benefits, visit our careers page here.
+  
+  
+**See Below For Paid Time Off Details**
+
+* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+* For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).
+
+**The national base pay ranges for this position within the United States, including Illinois and Colorado.**
+I4
+  
+  
+$137,100—$201,600 USD
+  
+  
+I5
+  
+  
+$167,800—$246,800 USD
+  
+  
+I6
+  
+  
+$203,500—$299,300 USD
+  
+  
+**About DoorDash**
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.
+  
+  
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+  
+  
+Our Commitment to Diversity and Inclusion
+  
+  
+We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+  
+  
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+  
+  
+**If you need any accommodations, please inform your recruiting contact upon initial</description>
+        <pubDate>2026-10-02</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Machine Learning Engineer, Moloco NEXT - Moloco</title>
         <link>https://www.linkedin.com/jobs/view/4446833363</link>
         <description>**About Moloco:**
@@ -2677,6 +3022,102 @@ Our interview process is designed to get to know the real you. Unless a round sp
   
 **Candidate Privacy Notice:**
 Your privacy matters to us. By applying, you acknowledge that you’ve reviewed our Candidate Privacy Notice.</description>
+        <pubDate>2026-10-02</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Machine Learning Engineer - New Verticals Agentic Foundations - DoorDash</title>
+        <link>https://www.linkedin.com/jobs/view/4473170838</link>
+        <description>**About The Team**
+Agentic Foundations, part of New Verticals ML, builds the core AI/ML intelligence that powers high-quality, scalable agents at DoorDash, and proves it through flagship agent experiences such as the Ask grocery assistant. We operate as a closed loop: new models, evals, and representations make our agents better, and real-world agent usage surfaces the gaps that drive our next foundations work.
+  
+  
+**About The Role**
+We’re looking for a Senior Machine Learning Engineer to join Agentic Foundations with a primary focus on Vertical Agent Development. You will own the continuous improvement of our flagship agents, starting with the Ask Assistant, using an eval-driven loop to make them faster, more cost-efficient, and more reliable for millions of customers. You will also help us bring this approach to new agentic experiences for Merchants and Dashers, turning promising ideas into production-ready agents.
+  
+  
+This is a chance to work at the intersection of LLMs, agents, post-training, and evals on problems that ship. You will partner closely with engineers working on agentic memory, agent-compatible product representations, and post-training of small language models (SLMs), so that what we learn from production agents feeds directly back into our foundations, and what we build there makes our agents better.
+  
+  
+You will report into the engineering lead on our New Verticals AI/ML team. We expect this role to be hybrid with some time in-office and some time remote.
+  
+  
+You’re excited about this opportunity because you will…
+  
+  
+
+* Raise the quality of our Consumer agents: build and refine our eval harness-optimization loop to pinpoint failure modes, then iterate on prompts, tools, skills, and context, and measure the impact on real customer tasks.
+* Find the best balance of quality, latency, and cost: run rigorous experiments, including fine-tuning open-weights models and deploying small language models (SLMs) where they can replace or augment larger LLMs.
+* Launch new agents: take agentic opportunities for Merchants and Dashers from early exploration to production.
+* Turn foundations into product impact: work with teammates on agentic memory, agent-compatible product representations, and post-training SLMs for steerable generative recommendation, and bring those capabilities into production agents.
+* Shape the roadmap: partner with engineering, product, and business leaders to define an ML-driven strategy for our fast-growing grocery and retail delivery business.
+
+We’re excited about you because you have…
+  
+  
+
+* 3+ years of industry ML experience, including hands-on work building and shipping LLM-based agents (tool use, context management, prompting, guardrails) and improving them with evals and data
+* Experience with post-training or fine-tuning of open-weights models (e.g., SFT, preference optimization, or RL), ideally including small language models, and sound judgment on quality, latency, and cost trade-offs
+* Strong foundation in NLP and machine learning, with proficiency in Python and frameworks such as PyTorch or TensorFlow
+* M.S. or PhD in Computer Science, Statistics, Math, or another quantitative field, or equivalent practical experience, plus a collaborative, growth-minded approach and a drive for measurable impact
+
+**Compensation**
+The successful candidate's starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.
+  
+  
+In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
+  
+  
+DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.
+  
+  
+To learn more about our benefits, visit our careers page here.
+  
+  
+**See Below For Paid Time Off Details**
+
+* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+* For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).
+
+**The national base pay ranges for this position within the United States, including Illinois and Colorado.**
+I4
+  
+  
+$137,100—$201,600 USD
+  
+  
+I5
+  
+  
+$167,800—$246,800 USD
+  
+  
+I6
+  
+  
+$203,500—$299,300 USD
+  
+  
+**About DoorDash**
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.
+  
+  
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+  
+  
+Our Commitment to Diversity and Inclusion
+  
+  
+We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+  
+  
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+  
+  
+**If you need any accommodations, please inform your recruiting contact upon initial</description>
         <pubDate>2026-10-02</pubDate>
     </item>
     
@@ -3474,6 +3915,74 @@ The expected base pay range for this position in the San Francisco area is $148,
     </item>
     
     <item>
+        <title>Principal Machine Learning Engineer, Alt Defense - Roblox</title>
+        <link>https://www.linkedin.com/jobs/view/4464129821</link>
+        <description>Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
+  
+  
+At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
+  
+  
+A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
+  
+  
+**WHY SAFETY?**
+At Roblox, we strive to connect a billion people with optimism and civility, and the Safety organization’s mission is to become the leader in civil immersive online communities. We systematically detect, remove, and prevent problematic accounts, content and behavior, and we make Roblox accounts secure and free from compromise. We cover a broad area of the tech spectrum, including machine learning, classifiers for 3D models, experimentation, automation, detection workflows, and AI-powered text filters. Aligned and partnering with product teams, we use this toolbelt to discover new opportunities, influence and shape the product roadmap and prioritization, build safety products, and measure the impact on our community of users and developers. In doing so, we keep Roblox safe, civil, and inclusive, and we foster positive relationships between people around the world.
+  
+  
+**WHY ALT DEFENSE?**
+Safety and Civility is Roblox’s #1 priority. The Alt Defense pod is at the front lines of this mission, tasked with solving one of the most difficult adversarial problems on the platform: Alternate Account Detection and Prevention. When bad actors are removed from Roblox, they often attempt to return immediately with new identities. Our goal is to stop them in their tracks. As the Technical Lead for this pod, you will architect and build an industry-leading detection system that operates at a massive scale—processing billions of accounts and identifying recidivism within minutes. You will also be supporting additional use cases for alt detection across the company. You will report to the Senior Engineering Manager of the Account Identity Team.
+  
+  
+**You Will**
+
+* Lead the technical vision for alternate account detection platform, moving from reactive measures to proactive, near real-time prevention.
+* Architect high-scale ML systems using Graph Neural Networks (GNNs) and advanced clustering techniques to map relationships across billions of entities.
+* Solve complex ground truth and training data challenges for adversarial usecases
+* Build for latency and scale, ensuring that detection happens within minutes of a bad actor’s attempt to rejoin the platform.
+* Develop innovative adversarial approaches to stay ahead of sophisticated actors who use evolving techniques to mask their identity.
+* Drive the ML roadmap, identifying opportunities to leverage big data and behavioral signals to improve precision and recall in a high-stakes environment.
+* Mentor and up-level a pod of high-performing ML and software engineers, fostering a culture of technical excellence and rapid iteration.
+
+**You Have**
+
+* MS or PhD degree in Computer Science, Machine Learning, or a related field.
+* 10+ years of industry experience in Applied ML, with a significant focus on anti-abuse, fraud, integrity, or identity.
+* Expertise in Graph Learning: Deep experience with Large-scale GNNs (GraphSAGE, PGB, etc.) and unsupervised/semi-supervised clustering at the scale of billions of nodes.
+* Proven track record of leading complex technical projects from conception to production-level deployment.
+* Experience with high-throughput systems: You understand the nuances of deploying ML models in low-latency environments where "time-to-detect" is a critical KPI.
+* Adversarial mindset: You can think like a bad actor to anticipate how they will circumvent detection and build robust defenses against it.
+
+**You Are**
+
+* Resourceful: You're adaptable in any situation and can always find a path forward in the face of evolving threats.
+* Analytical: Excited to investigate large, ambiguous datasets to find the "signal in the noise" of billions of accounts.
+* User Oriented: You understand that safety measures must be balanced with a seamless experience for our legitimate community members.
+* Team Oriented: You are a sought-after mentor who lifts up your peers and builds a collaborative, high-performance environment.
+* Mission Oriented: You are laser-focused on keeping Roblox safe and are willing to take bold, strategic risks to achieve a billion-user scale safely.
+
+For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits as described on
+**this page**
+.
+  
+  
+Annual Salary Range
+  
+  
+$328,610—$399,420 USD
+  
+  
+Roles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).
+  
+  
+Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
+  
+  
+For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H-1B sponsorship at this time.</description>
+        <pubDate>2026-10-01</pubDate>
+    </item>
+    
+    <item>
         <title>Sr. Applied Scientist, Prime Video - Personalization and Discovery Science - Prime Video &amp; Amazon MGM Studios</title>
         <link>https://www.linkedin.com/jobs/view/4455911993</link>
         <description>**Description**
@@ -3615,7 +4124,10 @@ Suno is the fastest growing consumer entertainment company and the leader in AI 
 We’re looking for early members of our machine learning recommendations team. You’ll work closely with the founding team and have ownership of a wide variety of technical decisions on how we build and deploy our state of the art recommendation models.
   
   
-Machine Learning Recommendations Engineer Song Description
+Check out the Suno version of the job here!
+  
+  
+https://suno.com/s/ujpqmS3Rf9Qg911A
   
   
 **What You’ll Do**
@@ -3653,6 +4165,78 @@ Applicants must be eligible to work in the US.
 * In-Office Lunch (5 days per week)
 
 Suno is proud to be an Equal Opportunity Employer. We consider qualified applicants without regard to race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, genetic information, veteran status, or any other legally protected basis under provincial, federal, state, and local laws, regulations, or ordinances. We will also consider qualified applicants with criminal histories in a manner consistent with the requirements of state and local laws, including the Massachusetts Fair Chance in Employment Act, NYC Fair Chance Act, LA City Fair Chance Ordinance, and San Francisco Fair Chance Ordinance.</description>
+        <pubDate>2026-10-01</pubDate>
+    </item>
+    
+    <item>
+        <title>Principal Applied Scientist, Ads Optimization, Full Funnel Agentic Intelligence and Models - Amazon Science</title>
+        <link>https://www.linkedin.com/jobs/view/4472915543</link>
+        <description>**Description**
+As a Principal Applied Scientist for the Full-Funnel Agentic Campaign optimization team, you will invent the models that jointly allocate budget across sponsored ad products to maximize advertiser outcomes and long-term customer value.
+  
+  
+This is a rare charter to build foundational optimization science where little exists today, spanning campaign recommendation, cross-product budget allocation, incrementality measurement, and long-term-sales modeling. You will set technical direction for a growing team, partner with engineering and product to take models from research to production at Amazon scale, and directly move advertiser ROAS and new-to-brand growth.
+  
+  
+
+* Own the science vision for full-funnel campaign optimization end to end
+* Invent models for joint budget allocation, incrementality, and long-term value
+* Take innovations from prototype to production serving live advertiser campaigns
+* Raise the technical bar across scientists and engineers
+
+Key job responsibilities
+  
+  
+
+* Define the long-term scientific vision for full-funnel campaign optimization, translating ambiguous advertiser needs and competing objectives into a concrete science roadmap.
+* Invent, prototype, and productionize machine learning and optimization solutions for joint budget allocation across sponsored ad products, spanning the shopper journey from awareness to purchase.
+* Develop rigorous approaches to incrementality measurement and long-term-sales modeling that ground optimization in true advertiser value.
+* Design and lead large-scale experiments and analyses to validate hypotheses and guide product direction.
+* Partner closely with engineering and product to define technical contracts, data schemas, and serving systems that carry models into production.
+* Raise the technical bar across science and engineering through mentorship, design reviews, and hands-on collaboration.
+* Grow scientific talent and publish impactful research internally and at top-tier venues.
+
+A day in the life
+  
+  
+You move between deep technical work and org-wide influence. A morning might be spent deriving a budget-allocation formulation with two scientists, then reviewing an incrementality experiment design over an advertiser segment. Afternoons bring roadmap alignment with product and engineering partners, a design review that raises the bar on a teammate's model, and a working session on taking a prototype to production. Your customers are Amazon advertisers and their shoppers; your stakeholders span applied science, engineering, and product leadership across the Ads full-funnel organization.
+  
+  
+**About The Team**
+We build the optimization science behind full-funnel agentic advertising on Amazon: how campaigns are recommended, and how budget is allocated across sponsored ad products to grow advertiser outcomes and long-term customer value. Our mission is to make full-funnel advertising work automatically and measurably for every advertiser, from foundational research through production systems serving live campaigns. We are a science-driven, high-ownership team that values rigorous experimentation, invention where no proven approach exists yet, and close partnership with engineering and product.
+  
+  
+**Basic Qualifications**
+
+* PhD in Electrical Engineering, Computer Science, Mathematics, or a related technical field
+* 5+ years of hands-on experience in predictive modeling and analysis
+* Experience distilling informal customer requirements into problem definitions while dealing with ambiguity and competing objectives
+* Experience programming in Java, C++, Python, or related language
+* Experience leading experienced scientists, as well as a record of developing junior members from academia or industry into a career track in a business environment
+
+**Preferred Qualifications**
+
+* 10+ years of relevant experience in industry or academia
+* Knowledge of problem solving, algorithm design, and complexity analysis
+* Experience creating novel algorithms and advancing the state of the art
+* Peer-reviewed scientific contributions in premier journals and conferences
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+  
+  
+USA, CA, Palo Alto - 228,700.00 - 309,400.00 USD annually
+  
+  
+USA, WA, SEATTLE - 198,900.00 - 269,000.00 USD annually</description>
         <pubDate>2026-10-01</pubDate>
     </item>
     
@@ -4504,74 +5088,6 @@ USA, WA, Seattle - 167,100.00 - 226,100.00 USD annually
   
   
 Job ID: A10488615</description>
-        <pubDate>2026-10-01</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Machine Learning Engineer, Alt Defense - Roblox</title>
-        <link>https://www.linkedin.com/jobs/view/4464129821</link>
-        <description>Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
-  
-  
-At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
-  
-  
-A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
-  
-  
-**WHY SAFETY?**
-At Roblox, we strive to connect a billion people with optimism and civility, and the Safety organization’s mission is to become the leader in civil immersive online communities. We systematically detect, remove, and prevent problematic accounts, content and behavior, and we make Roblox accounts secure and free from compromise. We cover a broad area of the tech spectrum, including machine learning, classifiers for 3D models, experimentation, automation, detection workflows, and AI-powered text filters. Aligned and partnering with product teams, we use this toolbelt to discover new opportunities, influence and shape the product roadmap and prioritization, build safety products, and measure the impact on our community of users and developers. In doing so, we keep Roblox safe, civil, and inclusive, and we foster positive relationships between people around the world.
-  
-  
-**WHY ALT DEFENSE?**
-Safety and Civility is Roblox’s #1 priority. The Alt Defense pod is at the front lines of this mission, tasked with solving one of the most difficult adversarial problems on the platform: Alternate Account Detection and Prevention. When bad actors are removed from Roblox, they often attempt to return immediately with new identities. Our goal is to stop them in their tracks. As the Technical Lead for this pod, you will architect and build an industry-leading detection system that operates at a massive scale—processing billions of accounts and identifying recidivism within minutes. You will also be supporting additional use cases for alt detection across the company. You will report to the Senior Engineering Manager of the Account Identity Team.
-  
-  
-**You Will**
-
-* Lead the technical vision for alternate account detection platform, moving from reactive measures to proactive, near real-time prevention.
-* Architect high-scale ML systems using Graph Neural Networks (GNNs) and advanced clustering techniques to map relationships across billions of entities.
-* Solve complex ground truth and training data challenges for adversarial usecases
-* Build for latency and scale, ensuring that detection happens within minutes of a bad actor’s attempt to rejoin the platform.
-* Develop innovative adversarial approaches to stay ahead of sophisticated actors who use evolving techniques to mask their identity.
-* Drive the ML roadmap, identifying opportunities to leverage big data and behavioral signals to improve precision and recall in a high-stakes environment.
-* Mentor and up-level a pod of high-performing ML and software engineers, fostering a culture of technical excellence and rapid iteration.
-
-**You Have**
-
-* MS or PhD degree in Computer Science, Machine Learning, or a related field.
-* 10+ years of industry experience in Applied ML, with a significant focus on anti-abuse, fraud, integrity, or identity.
-* Expertise in Graph Learning: Deep experience with Large-scale GNNs (GraphSAGE, PGB, etc.) and unsupervised/semi-supervised clustering at the scale of billions of nodes.
-* Proven track record of leading complex technical projects from conception to production-level deployment.
-* Experience with high-throughput systems: You understand the nuances of deploying ML models in low-latency environments where "time-to-detect" is a critical KPI.
-* Adversarial mindset: You can think like a bad actor to anticipate how they will circumvent detection and build robust defenses against it.
-
-**You Are**
-
-* Resourceful: You're adaptable in any situation and can always find a path forward in the face of evolving threats.
-* Analytical: Excited to investigate large, ambiguous datasets to find the "signal in the noise" of billions of accounts.
-* User Oriented: You understand that safety measures must be balanced with a seamless experience for our legitimate community members.
-* Team Oriented: You are a sought-after mentor who lifts up your peers and builds a collaborative, high-performance environment.
-* Mission Oriented: You are laser-focused on keeping Roblox safe and are willing to take bold, strategic risks to achieve a billion-user scale safely.
-
-For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits as described on
-**this page**
-.
-  
-  
-Annual Salary Range
-  
-  
-$328,610—$399,420 USD
-  
-  
-Roles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).
-  
-  
-Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
-  
-  
-For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H-1B sponsorship at this time.</description>
         <pubDate>2026-10-01</pubDate>
     </item>
     
@@ -6095,71 +6611,6 @@ The base salary range for this position is listed below. Your Amazon package wil
     </item>
     
     <item>
-        <title>PhD University Grad Data Scientist 2027 (USA) - Pinterest</title>
-        <link>https://www.linkedin.com/jobs/view/4474356756</link>
-        <description>**About Pinterest**
-Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
-  
-  
-Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
-  
-  
-At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
-  
-  
-Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
-  
-  
-With more than 640 million users around the world and 300 billion ideas saved, Pinterest Machine Learning engineers help build personalized experiences to help Pinners create a life they love. At Pinterest, you’ll experience hands-on access to an incredible vault of data and contribute large-scale recommendation systems in ways you won’t find anywhere else.
-  
-  
-**By applying to this role, you will be considered for multiple roles open across our various data science teams.**
-We’re looking for a Data Scientist to help evolve and shape the future of our product -- inspiring Pinners and connecting them with actionable content, understanding advertisers and measuring the value Pinterest provides to them, and enabling our employees to evaluate potential product changes faster than ever before. You’ll apply quantitative analysis, statistical techniques, modeling and data mining while working cross-functionally with engineering and product partners.
-  
-  
-The results of your work will influence the team roadmap, identify actionable product opportunities, refine our experimentation platform, and drive key initiatives, turning your insights and analyses into real-world products.
-  
-  
-**What You’ll Do**
-
-* Contribute to our product roadmap and mission - to bring everyone the inspiration to create a life they love - using data and exploratory analysis to understand user behavior and trends, and identify opportunities for product innovation.
-* Design and implement core metrics that guide the team efforts and help design and evaluate A/B experiments that drive these metrics.
-* Explore alternative experimentation techniques to help internal teams evaluate their ideas faster.
-* Work cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest.
-
-**What We’re Looking For**
-
-* PhD degree in statistics, mathematics, economics, applied sciences, computer science or related field.
-* Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL and a scripting language (Python or R)
-* experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields
-* Excellent communication skills and the ability to explain learnings to both technical and non-technical partners
-* Strong critical thinking when working with AI-generated suggestions, with a clear approach to validating correctness, performance, security, and maintainability.
-* Ability to connect data analysis to real business problems, in order to impact business performance.
-
-**In-Office Requirement Statement**
-
-* We let the type of work you do guide the collaboration style. That means we’re not always working in an office, but we continue to gather for key moments of collaboration and connection
-* This role may require you to be located near an office for in-person collaboration, and therefore may need to be located a commutable distance from one of our Pinterest offices.
-
-At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
-  
-  
-*Information regarding the culture at Pinterest and benefits available for this position can be found here.*
-US based applicants only
-  
-  
-$147,000—$194,000 USD
-  
-  
-**Our Commitment To Inclusion**
-Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
-  
-  
-*By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.*</description>
-        <pubDate>2026-10-01</pubDate>
-    </item>
-    
-    <item>
         <title>Principal Applied Scientist- Agentic RL , Kiro - Amazon Web Services (AWS)</title>
         <link>https://www.linkedin.com/jobs/view/4456307240</link>
         <description>**Description**
@@ -7140,95 +7591,9 @@ Notice to Washington Applicants - Washington State Fair Chance Act</description>
     </item>
     
     <item>
-        <title>Principal Machine Learning Engineer, Geometric Vision - Wayve</title>
-        <link>https://www.linkedin.com/jobs/view/4452848686</link>
-        <description>**About Us**
-Founded in 2017, Wayve is the leading developer of Embodied AI technology. Our advanced AI software and foundation models enable vehicles to perceive, understand, and navigate any complex environment, enhancing the usability and safety of automated driving systems.
-  
-  
-Our vision is to create autonomy that propels the world forward. Our intelligent, mapless, and hardware-agnostic AI products are designed for automakers, accelerating the transition from assisted to automated driving.
-  
-  
-In our fast-paced environment big problems ignite us—we embrace uncertainty, leaning into complex challenges to unlock groundbreaking solutions. We aim high and stay humble in our pursuit of excellence, constantly learning and evolving as we pave the way for a smarter, safer future.
-  
-  
-At Wayve, your contributions matter. We value diversity, embrace new perspectives, and foster an inclusive work environment; we back each other to deliver impact.
-  
-  
-Make Wayve the experience that defines your career!
-  
-  
-**The role**
-As a Principal Engineer on the Model Foundations team you will build the geometric vision and 3D foundation models that underpin our autonomous driving systems.You will work at the intersection of large-scale deep learning, geometric computer vision, and real-world robotics, developing models that learn 3D structure and dynamics from fleet-scale sensor data.
-  
-  
-You will be a hands-on technical leader. You will set direction for geometric vision, prototype and train new model architectures, build the data and supervision needed to scale them, and take successful ideas through to deployment on real vehicles.
-  
-  
-**Key Responsibilities**
-
-* Design and train 3D foundation models and world models using large-scale driving data.
-* Develop model architectures for 3D perception, geometric reasoning, reconstruction, and world modeling across space and time.
-* Build scalable data generation and auto-labeling pipelines that produce high-quality geometric supervision from large volumes of sensor data.
-* Develop and scale offline SLAM and 3D reconstruction systems and pipelines, using large-scale sensor data to recover accurate trajectories, scene geometry, calibration signals, and geometric supervision for model training and evaluation.
-* Develop and apply techniques in multi-view geometry, neural rendering, NeRFs, Gaussian Splatting, implicit 3D representations, and feedforward 3D modeling.
-* Explore geometry-aware tokenization and representation learning, including efficient ways to encode and fuse information across cameras, viewpoints, time, and sensing modalities.
-* Develop foundation vision models that make effective use of camera, radar, LiDAR, and other sensor data for learning rich representations of the physical world.
-* Explore video and generative modeling approaches for learning scene structure, dynamics, and future evolution from driving data.
-* Train and evaluate models at scale on distributed compute, rapidly iterating on architectures, objectives, data, and training recipes.
-* Develop automated evaluation and ground-truth systems for measuring geometric consistency, reconstruction quality, 3D understanding, and downstream driving performance.
-* Optimize and deploy models into production autonomous-driving systems, working across model architecture, inference, and onboard constraints.
-* Set technical direction for geometric vision at Wayve and work closely with researchers and engineers across foundation models, perception, simulation, data, sensing, and deployment.
-
-**About you**
-In order to set you up for success as a Principal Machine Learning Engineer, Geometric Vision at Wayve, we’re looking for the following skills and experience.
-  
-  
-**Essential**
-
-* Deep expertise in 3D computer vision, geometric vision, or 3D machine learning, with experience in areas such as multi-view geometry, neural rendering, reconstruction, implicit representations, or world modeling.
-* Strong experience designing, training, and evaluating modern deep-learning models at scale, using PyTorch or a comparable framework.
-* Strong mathematical and technical foundations in geometry, linear algebra, probability, optimization, and 3D transformations, combined with excellent software engineering skills in Python and C++
-* A track record of taking difficult research problems from idea to working system, including building large-scale data, training, evaluation, or deployment pipelines.
-* Principal-level technical leadership: the ability to identify high-leverage problems, set research and engineering direction, make strong architectural decisions, and raise the technical bar across teams.
-
-**Desirable**
-
-* 3D and geometric vision: multi-view geometry, dense 3D reconstruction, neural fields, NeRFs, Gaussian Splatting, or feedforward 3D models.
-* Foundation and world models: large-scale vision pre-training, self-supervised learning, video models, generative models, or learned scene dynamics.
-* Geometric data engines: offline SLAM, structure-from-motion, reconstruction, calibration, auto-labeling, and large-scale ground-truth generation.
-* Multimodal perception: learned representations and fusion across camera, radar, LiDAR, and other sensing modalities.
-* Production ML systems: distributed training, large-scale experimentation, and deploying neural networks on real-time, resource-constrained hardware.
-
-This is a full-time role based in our office in Sunnyvale. At Wayve we want the best of all worlds so we operate a hybrid working policy that combines time together in our offices and workshops to fuel innovation, culture, relationships and learning, and time spent working from home. The reasonably estimated salary for this role ranges from $ 407,330 to $ 460,020 plus a competitive equity package. Actual compensation is based on the candidate's skills, qualifications, and experience.
-  
-  
-Wayve is committed to creating an inclusive interview experience. If you require any accommodations or adjustments to participate fully in our interview process, please let us know.
-  
-  
-We understand that everyone has a unique set of skills and experiences and that not everyone will meet all of the requirements listed above. If you’re passionate about self-driving cars and think you have what it takes to make a positive impact on the world, we encourage you to apply.
-  
-  
-At Wayve we're committed to creating a diverse, fair and respectful culture that is inclusive of everyone based on their unique skills and perspectives, and regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, veteran status, pregnancy or related condition (including breastfeeding) or any other basis as protected by applicable law.
-  
-  
-For more information visit Careers at Wayve.
-  
-  
-To learn more about what drives us, visit Values at Wayve
-  
-  
-For US candidates only, please visit E-Verify Notice and Participation and Right to Work
-  
-  
-DISCLAIMER: We will not ask about marriage or pregnancy, care responsibilities or disabilities in any of our job adverts or interviews. However, we do look to capture information about care responsibilities, and disabilities among other diversity information as part of an optional DEI Monitoring form to help us identify areas of improvement in our hiring process and ensure that the process is inclusive and non-discriminatory.</description>
-        <pubDate>2026-09-30</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Staff Machine Learning Engineer - Zscaler</title>
         <link>https://www.linkedin.com/jobs/view/4473599002</link>
-        <description>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.
+        <description>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.
   
   
 We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.
@@ -11169,6 +11534,125 @@ https://wanderboat.ai</description>
     </item>
     
     <item>
+        <title>Director, Data Product &amp; Analytics Engineering – Pathway AI - BioSpace</title>
+        <link>https://www.linkedin.com/jobs/view/4473280978</link>
+        <description>Who We Are
+  
+  
+BioMarin is a leading rare disease biotechnology company focused on genetically defined conditions.
+  
+  
+Guided by our purpose to develop medicines that make a profound impact on people’s lives, our global teams have delivered a portfolio of therapies since our founding in 1997. Our revolutionary treatments for conditions like achondroplasia (the most common form of dwarfism), PKU (phenylketonuria), CLN2, a form of Batten disease, and a number of forms of MPS (mucopolysaccharidosis) offer new possibilities for patients and families who previously had few, if any, available options. More recently, with the close of the Amicus acquisition, our portfolio has expanded to include therapies for Fabry disease and Pompe disease, expanding our ability to reach more people living with rare genetic conditions.
+  
+  
+Our success comes from our unwavering commitment to excellence, our deep understanding of patient needs, our scientific expertise, and our world-class manufacturing capabilities. At the heart of BioMarin is a dedicated team of the brightest minds in the industry working together to deliver innovative therapies to patients and families around the world.
+  
+  
+**About Digital, Technology &amp; AI And Patient FIND**
+This role sits within BioMarin’s Digital, Technology &amp; AI organization and supports the enterprise Patient FIND capability, a strategic, technology enabled effort to identify, reach, convert, and optimize patients across the full patient journey, from early signal detection through diagnosis, treatment initiation, retention, and line progression across BioMarin’s rare disease portfolio.
+  
+  
+The Patient FIND capability connects Commercial, Medical Affairs, R&amp;D, DTA, and external partners so that patient level intelligence can move from raw signal to governed data asset to clinical and commercial action.
+  
+  
+BioMarin’s Patient FIND work is focused on the systematic use of structured data, including claims, EMR, lab, Rx, specialty pharmacy, CRM, digital engagement, and other relevant sources, combined with analytics and AI/ML to identify undiagnosed or undertreated patients at population scale. Priority approaches include claims and EMR mining, AI/ML patient identification, specialty pharmacy data, population segmentation, signal-based targeting, and digital intent signals.
+  
+  
+Role Summary
+  
+  
+The Director, Data Product &amp; Analytics Engineering – Patient FIND Capability will be accountable for developing, owning, and delivering the reusable data product and analytics engineering foundation that enables BioMarin’s enterprise Patient FIND strategy to scale across brands, disease areas, geographies, and use cases.
+  
+  
+This role serves as a senior technical operator and strategic execution leader at the intersection of data strategy, analytics engineering, data science enablement, governance, and business activation. The person in this role will translate Patient FIND strategy into governed, reusable, technically sound data products, analytical workflows, feature logic, quality controls, lineage, and measurement infrastructure that can support AI/ML models, CRM and field activation, BI, omnichannel workflows, and executive decision-making. This is a hands-on leadership role with direct accountability for moving Patient FIND from fragmented, use-case-specific builds toward a scalable enterprise capability. The role will define technical patterns, establish reusable data product standards, drive alignment across engineering, analytics, governance, commercial, medical, and external partner teams, and ensure early Patient FIND use cases create durable assets that can be reused and extended.
+  
+  
+The ideal candidate brings direct experience with healthcare or life sciences data, strong SQL and Python capability, familiarity with claims, EHR/EMR, CRM, specialty pharmacy, digital engagement, or real-world data, and the ability to translate complex analytical work into technical requirements that enable business-ready decisions.
+  
+  
+The role does not own enterprise Patient FIND strategy, commercial activation strategy, or formal governance decision rights; however, it will be accountable for translating those strategies and decisions into an executable data and analytics foundation, surfacing tradeoffs, recommending scalable paths forward, and ensuring the technical work is delivered with quality, reuse, governance, and measurable business impact.
+  
+  
+Key Responsibilities
+  
+  
+Patient FIND Data Translation and Technical Requirements
+  
+  
+Develop, own, and be accountable for the technical requirements framework for Patient FIND, translating business, scientific, and strategic priorities into executable data products, analytical logic, data flows, and measurable outcomes.
+  
+  
+Own and maintain an integrated view of Patient FIND use cases, source data, shared data layers, technical dependencies, implementation risks, and delivery priorities.
+  
+  
+Identify gaps in signals, data quality, processes, and technical approaches, and recommend scalable solutions that improve reuse, governance, and business impact.
+  
+  
+Lead technical translation and alignment across business, scientific, engineering, analytics, AI/ML, governance, and activation teams to convert ambiguity into executable plans.
+  
+  
+Analytics Engineering and Reusable Data Products
+  
+  
+Develop, own, and deliver governed Patient FIND data products and analytical datasets across claims, EHR/EMR, lab, Rx, CRM, specialty pharmacy, digital engagement, and other approved data sources.
+  
+  
+Establish the reusable data product foundation and standards for feature logic, cohort definitions, metadata, lineage, quality controls, and analytical documentation.
+  
+  
+Ensure Patient FIND use cases build upon reusable assets and enterprise design patterns rather than creating one-off solutions.
+  
+  
+Define and execute a sequenced technical roadmap that prioritizes foundational capabilities, accelerates implementation, and supports long-term scale.
+  
+  
+Data Science and Advanced Analytics Enablement
+  
+  
+Define and deliver the analytical data foundation required for patient identification, segmentation, HCP prioritization, predictive modeling, treatment progression, adherence, retention, and other Patient FIND use cases.
+  
+  
+Guide AI/ML teams on feature engineering, model input design, validation, monitoring, and scalable model-enablement practices.
+  
+  
+Provide technical leadership on tradeoffs involving model performance, governance, data quality, explainability, and downstream activation.
+  
+  
+Signal Readiness, Governance Enablement and Data Quality
+  
+  
+Own the signal readiness framework for Patient FIND data assets and platform flows, ensuring required signals can be captured, linked, governed, and activated.
+  
+  
+Define and implement quality, governance, metadata, lineage, access, and consumption standards embedded within Patient FIND data products and workflows.
+  
+  
+Lead resolution of cross-functional data, platform, privacy, compliance, governance, and access issues, proactively surfacing risks and recommendations.
+  
+  
+Deployment, Consumption and Measurement
+  
+  
+Define and own the deployment and measurement framework for Patient FIND outputs across CRM, field, marketing, BI, medical, omnichannel, and leadership workflows.
+  
+  
+Own the measurement data layer that connects patient identification, engagement, outcomes, and model refinement into a closed-loop learning capability.
+  
+  
+Ensure outputs are consumable, measurable, scalable, and actionable while providing leadership visibility into capability maturity, constraints, and investment opportunities.
+  
+  
+Cross-Functional Technical Leadership
+  
+  
+Serve as the senior technical operating lead for the Patient FIND data product and analytics engineering capability.
+  
+  
+Drive alignment on technical priorities, shared definitions, quality expectations, governance requirements, and implementation approac</description>
+        <pubDate>2026-09-29</pubDate>
+    </item>
+    
+    <item>
         <title>Machine Learning Engineer Graduate (Ads Targeting)- 2027 Start - TikTok</title>
         <link>https://www.linkedin.com/jobs/view/4447907294</link>
         <description>**Responsibilities**
@@ -12326,125 +12810,6 @@ We ask that you only reach out to us if you are a candidate whose disability pre
   
 **Equal Employment Opportunity**
 Airbnb values diversity &amp; belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, gender, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, gender expression, sexual orientation, or any other legally pr</description>
-        <pubDate>2026-09-29</pubDate>
-    </item>
-    
-    <item>
-        <title>Director, Data Product &amp; Analytics Engineering – Pathway AI - BioSpace</title>
-        <link>https://www.linkedin.com/jobs/view/4473280978</link>
-        <description>Who We Are
-  
-  
-BioMarin is a leading rare disease biotechnology company focused on genetically defined conditions.
-  
-  
-Guided by our purpose to develop medicines that make a profound impact on people’s lives, our global teams have delivered a portfolio of therapies since our founding in 1997. Our revolutionary treatments for conditions like achondroplasia (the most common form of dwarfism), PKU (phenylketonuria), CLN2, a form of Batten disease, and a number of forms of MPS (mucopolysaccharidosis) offer new possibilities for patients and families who previously had few, if any, available options. More recently, with the close of the Amicus acquisition, our portfolio has expanded to include therapies for Fabry disease and Pompe disease, expanding our ability to reach more people living with rare genetic conditions.
-  
-  
-Our success comes from our unwavering commitment to excellence, our deep understanding of patient needs, our scientific expertise, and our world-class manufacturing capabilities. At the heart of BioMarin is a dedicated team of the brightest minds in the industry working together to deliver innovative therapies to patients and families around the world.
-  
-  
-**About Digital, Technology &amp; AI And Patient FIND**
-This role sits within BioMarin’s Digital, Technology &amp; AI organization and supports the enterprise Patient FIND capability, a strategic, technology enabled effort to identify, reach, convert, and optimize patients across the full patient journey, from early signal detection through diagnosis, treatment initiation, retention, and line progression across BioMarin’s rare disease portfolio.
-  
-  
-The Patient FIND capability connects Commercial, Medical Affairs, R&amp;D, DTA, and external partners so that patient level intelligence can move from raw signal to governed data asset to clinical and commercial action.
-  
-  
-BioMarin’s Patient FIND work is focused on the systematic use of structured data, including claims, EMR, lab, Rx, specialty pharmacy, CRM, digital engagement, and other relevant sources, combined with analytics and AI/ML to identify undiagnosed or undertreated patients at population scale. Priority approaches include claims and EMR mining, AI/ML patient identification, specialty pharmacy data, population segmentation, signal-based targeting, and digital intent signals.
-  
-  
-Role Summary
-  
-  
-The Director, Data Product &amp; Analytics Engineering – Patient FIND Capability will be accountable for developing, owning, and delivering the reusable data product and analytics engineering foundation that enables BioMarin’s enterprise Patient FIND strategy to scale across brands, disease areas, geographies, and use cases.
-  
-  
-This role serves as a senior technical operator and strategic execution leader at the intersection of data strategy, analytics engineering, data science enablement, governance, and business activation. The person in this role will translate Patient FIND strategy into governed, reusable, technically sound data products, analytical workflows, feature logic, quality controls, lineage, and measurement infrastructure that can support AI/ML models, CRM and field activation, BI, omnichannel workflows, and executive decision-making. This is a hands-on leadership role with direct accountability for moving Patient FIND from fragmented, use-case-specific builds toward a scalable enterprise capability. The role will define technical patterns, establish reusable data product standards, drive alignment across engineering, analytics, governance, commercial, medical, and external partner teams, and ensure early Patient FIND use cases create durable assets that can be reused and extended.
-  
-  
-The ideal candidate brings direct experience with healthcare or life sciences data, strong SQL and Python capability, familiarity with claims, EHR/EMR, CRM, specialty pharmacy, digital engagement, or real-world data, and the ability to translate complex analytical work into technical requirements that enable business-ready decisions.
-  
-  
-The role does not own enterprise Patient FIND strategy, commercial activation strategy, or formal governance decision rights; however, it will be accountable for translating those strategies and decisions into an executable data and analytics foundation, surfacing tradeoffs, recommending scalable paths forward, and ensuring the technical work is delivered with quality, reuse, governance, and measurable business impact.
-  
-  
-Key Responsibilities
-  
-  
-Patient FIND Data Translation and Technical Requirements
-  
-  
-Develop, own, and be accountable for the technical requirements framework for Patient FIND, translating business, scientific, and strategic priorities into executable data products, analytical logic, data flows, and measurable outcomes.
-  
-  
-Own and maintain an integrated view of Patient FIND use cases, source data, shared data layers, technical dependencies, implementation risks, and delivery priorities.
-  
-  
-Identify gaps in signals, data quality, processes, and technical approaches, and recommend scalable solutions that improve reuse, governance, and business impact.
-  
-  
-Lead technical translation and alignment across business, scientific, engineering, analytics, AI/ML, governance, and activation teams to convert ambiguity into executable plans.
-  
-  
-Analytics Engineering and Reusable Data Products
-  
-  
-Develop, own, and deliver governed Patient FIND data products and analytical datasets across claims, EHR/EMR, lab, Rx, CRM, specialty pharmacy, digital engagement, and other approved data sources.
-  
-  
-Establish the reusable data product foundation and standards for feature logic, cohort definitions, metadata, lineage, quality controls, and analytical documentation.
-  
-  
-Ensure Patient FIND use cases build upon reusable assets and enterprise design patterns rather than creating one-off solutions.
-  
-  
-Define and execute a sequenced technical roadmap that prioritizes foundational capabilities, accelerates implementation, and supports long-term scale.
-  
-  
-Data Science and Advanced Analytics Enablement
-  
-  
-Define and deliver the analytical data foundation required for patient identification, segmentation, HCP prioritization, predictive modeling, treatment progression, adherence, retention, and other Patient FIND use cases.
-  
-  
-Guide AI/ML teams on feature engineering, model input design, validation, monitoring, and scalable model-enablement practices.
-  
-  
-Provide technical leadership on tradeoffs involving model performance, governance, data quality, explainability, and downstream activation.
-  
-  
-Signal Readiness, Governance Enablement and Data Quality
-  
-  
-Own the signal readiness framework for Patient FIND data assets and platform flows, ensuring required signals can be captured, linked, governed, and activated.
-  
-  
-Define and implement quality, governance, metadata, lineage, access, and consumption standards embedded within Patient FIND data products and workflows.
-  
-  
-Lead resolution of cross-functional data, platform, privacy, compliance, governance, and access issues, proactively surfacing risks and recommendations.
-  
-  
-Deployment, Consumption and Measurement
-  
-  
-Define and own the deployment and measurement framework for Patient FIND outputs across CRM, field, marketing, BI, medical, omnichannel, and leadership workflows.
-  
-  
-Own the measurement data layer that connects patient identification, engagement, outcomes, and model refinement into a closed-loop learning capability.
-  
-  
-Ensure outputs are consumable, measurable, scalable, and actionable while providing leadership visibility into capability maturity, constraints, and investment opportunities.
-  
-  
-Cross-Functional Technical Leadership
-  
-  
-Serve as the senior technical operating lead for the Patient FIND data product and analytics engineering capability.
-  
-  
-Drive alignment on technical priorities, shared definitions, quality expectations, governance requirements, and implementation approac</description>
         <pubDate>2026-09-29</pubDate>
     </item>
     
@@ -14879,228 +15244,6 @@ USA, WA, Seattle - 167,100.00 - 226,100.00 USD annually
   
 Job ID: A10530528</description>
         <pubDate>2026-09-26</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Machine Learning Engineer - Unity</title>
-        <link>https://www.linkedin.com/jobs/view/4470388963</link>
-        <description>**The opportunity**
-Unity is building next-generation intelligence systems for gaming: systems that help AI-native teams understand the market and get the most out of the frontier models.
-  
-  
-We are hiring a Staff Machine Learning Engineer to lead this effort. You will own the end-to-end architecture, build pipelines, systems, and models, and scale a cross-disciplinary team of engine developers, game developers, and machine learning engineers. The work spans market forecasting, outcome prediction, multimodal content understanding, evaluation, and agentic systems.
-  
-  
-**What You'll Be Doing**
-**Technical leadership**
-
-* Set the technical vision and architecture for our ML platform, from data ingestion, semantic layer and feature stores through model registry, evaluation and serving.
-* Make the calls that keep every model output reproducible and auditable: versioned data snapshots, model and prompt versions, and cost tracked per decision.
-* Define, lead, and spearhead engineering practices for the agentic era, including agentic development workflows and evaluation methodologies.
-* Mentor engineers from different backgrounds.
-* Partner with different functional teams and disciplines to translate expert human judgment into training signals. Shape the roadmap with the product team.
-
-**Modeling**
-
-* Build predictors of commercial outcomes such as user acquisition cost, lifetime value and return on ad spend from large, noisy, multi-source signals.
-* Build forecasting models over market signals that detect emerging demand and estimate when a window opens, peaks and closes.
-* Deliver every prediction as a calibrated range with stated confidence, and own the ranking and portfolio logic that turns predictions into recommendations within a budget.
-
-**Experimentation and agentic systems**
-
-* Design online experimentation with guardrails, safe exploration and clear human decision points.
-* Build evaluation harnesses for LLM-based agents, including automated playtesting and multimodal assessment of generated content.
-* Orchestrate frontier-model agents in production with strict data boundaries and cost control.
-
-**Calibration and measurement**
-
-* Own the feedback loop that scores predictions against realized outcomes and corrects bias, coverage and signal weighting over time.
-* Make the system report its own error in plain language so that creators and internal stakeholders can trust it.
-
-**What We're Looking For**
-
-* Experience in machine learning with a track record of owning production ML systems end to end, from data to serving to measured business outcome.
-* Deep experience in performance marketing or ad-tech modeling: predicting acquisition cost, lifetime value, return on ad spend, retention or comparable outcomes.
-* Strong grounding in probabilistic prediction and calibration: quantile or interval prediction, coverage, bias correction and backtesting of forecasts.
-* Experience building LLM-based agent systems in production: orchestration, evaluation harnesses, prompt and model versioning, and cost control.
-* Strong Python and modern ML tooling, plus solid data systems fundamentals across a relational store, a columnar analytics store and an event stream.
-* Proven ability to drive technical direction across teams, mentor senior engineers, and influence decisions without formal authority.
-* Comfort building in a zero-to-one environment.
-
-**You might also have**
-
-* Experience in mobile game user acquisition, LiveOps or monetization, on the studio or publisher side.
-* Experience with Unity or another game engine, or with automated and bot-driven playtesting.
-* Time-series and demand forecasting experience over noisy, multi-source market signals.
-* Experience with the Claude Agent SDK, Codex or similar frameworks for multi-agent software production.
-* Hands-on experience with BigQuery, ClickHouse, Kafka, Postgres, pgvector or their equivalents.
-* Publications or open-source contributions in forecasting, causal inference, calibration or agentic systems.
-
-Base Salary Range: We determine the base salary range for this role based on your primary work location:
-  
-  
-Zone A: $218,400 - $283,900
-  
-  
-Zone B: $194,100 - $252,300
-  
-  
-Zone C: $172,200 - $223,900
-  
-  
-*This range reflects the anticipated base salary for this position. Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions). The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set.*
-**Benefits**
-At Unity, we want our team members to thrive. We offer a wide range of benefits designed to support well-being and work-life balance.
-  
-  
-Please note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status.
-  
-  
-While specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance | Commute subsidy | Employee stock ownership | Competitive retirement/pension plans | Generous vacation and personal days | Support for new parents through leave and family-care programs | Office food snacks | Mental Health and Wellbeing programs and support | Employee Resource Groups | Global Employee Assistance Program | Training and development programs | Volunteering and donation matching program
-  
-  
-**Life at Unity**
-Unity [NYSE: U] is the world’s leading game engine, powering play for more than 3 billion consumers each month. The top mobile games in the world, the most played PC indie titles, the most innovative console games, and virtually all of the top XR and Web Games are developed, deployed, and grown in Unity. Unity also enables teams across industries like automotive, manufacturing, and healthcare to design, simulate, and collaborate in 3D — closing the gap between ideas and reality. For more information, please visit www.unity.com.
-  
-  
-*Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators.*
-*If you have a disability that means there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out*
-*this form*
-*to let us know.*
-*This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
-  
-  
-This posting is intended to fill an existing vacancy, and we are committed to providing applicants with updates throughout the hiring process in accordance with applicable law.*
-*Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
-  
-  
-Your privacy is important to us. Please take a moment to review our*
-*Prospect*
-*and*
-*Applicant*
-*Privacy Policies. Should you have any concerns about your privacy, please contact us at DPO@unity.com.*</description>
-        <pubDate>2026-09-25</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Product Data Scientist, Experimentation - Waymo</title>
-        <link>https://www.linkedin.com/jobs/view/4444656477</link>
-        <description>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.
-  
-  
-Waymo’s Product Data Science team works cross-functionally with Engineering, Product and Operations to help the company make the most informed decisions using data. Our team collaborates on high-impact projects across the company — from driving quality and operational efficiency to market analysis and rider satisfaction scores — we help to safely and efficiently scale the Waymo Driver. We are data-driven, curious, open-minded, and adapt quickly to new information.
-  
-  
-In this hybrid role, you will report to a Staff Product Data Scientist.
-  
-  
-**You Will**
-
-* Define the science roadmap for Waymo’s marketplace experimentation platform
-* Develop advanced testing methodologies to solve for physical-world dynamics like network effects and spatial-temporal correlations
-* Establish rigorous best practices for experiment design and evaluation across the broader product organization
-* Partner with engineering to translate algorithmic logic into automated, production-grade pipelines
-* Act as the primary domain expert on causal inference, providing technical leadership and translating complex results into clear product strategy
-
-**You Have**
-
-* An advanced degree in a quantitative field (e.g., Statistics, Economics, Operations Research, Computer Science)
-* 8+ years of industry experience with a deep focus on causal inference, experimental design, and applied statistics
-* Proficiency in SQL and Python, with a track record of partnering with engineering to build automated experimentation tools
-* Strong product sense and the ability to explain technical concepts to non-technical stakeholders
-
-**We Prefer**
-
-* Experience with two-sided marketplaces and physical-world operations (e.g., ride-hailing, delivery)
-* Familiarity with core marketplace systems (e.g., pricing, matching)
-* Experience integrating algorithmic methods into large-scale internal platforms
-
-The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process.
-  
-  
-Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements.
-  
-  
-Salary Range
-  
-  
-$230,000—$284,000 USD</description>
-        <pubDate>2026-09-25</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer, Search Quality - Glean</title>
-        <link>https://www.linkedin.com/jobs/view/4470717961</link>
-        <description>**About Glean**
-Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles.
-  
-  
-At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level.
-  
-  
-Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its global impact. With customers across 50+ industries and 1,000+ employees in more than 25 countries, we’re helping the world’s largest organizations make every employee AI-fluent, and turning the superintelligent enterprise from concept into reality.
-  
-  
-If you’re excited to shape how the world works, you’ll help build systems used daily across Microsoft Teams, Zoom, ServiceNow, Zendesk, GitHub, and many more - deeply embedded where people get things done. You’ll ship agentic capabilities on an open, extensible stack, with the craft and care required for enterprise trust, as we bring Work AI to every employee, in every company.
-  
-  
-**About The Role**
-Glean is looking for engineers to help build the world’s best search and assistant product for work. Our engineers work on a range of systems across the stack, including query understanding, document understanding, domain-adapted language models, natural language question-answering, evaluation, and experimentation. We interact regularly with customers, deeply understand their pain points, and use whatever tool is necessary, simple or complex, to solve their problems.
-  
-  
-**You Will**
-
-* Invent new signals to improve the personalization of our search engine
-* Train a model to capture interactions between signals in our ranking system
-* Design smarter ways to domain-adapt language models to each customer’s corpus
-* Discover new ways of combining LLMs with search engines to answer complex questions
-* Write robust code that’s easy to read, maintain, and test
-* Mentor more junior engineers, or learn from battle-tested ones
-
-**About You**
-
-* 2+ years of experience
-* BA/BS in computer science, math, sciences, or a related degree
-* Experience working with search, recommendation, natural language processing, or other large systems involving machine learning
-* Strong analytical skills and ability to work with data
-* Proven ability to design, build, and ship production-ready models
-* Proficiency in your ML framework of choice
-* Strong coding skills (Python, Go, Java, C++, ...)
-* Thrive in a customer-focused, tight-knit and cross-functional environment - being a team player and willing to take on whatever is most impactful for the company is a must
-* A proactive and positive attitude to lead, learn, troubleshoot and take ownership of both small tasks and large features
-
-**Location:**
-
-* This role is hybrid (4 days a week in our San Francisco office)
-
-**Compensation &amp; Benefits**
-The standard base salary range for this position is $140,000 - $265,000 annually. Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.
-  
-  
-We offer a comprehensive benefits package including competitive compensation, Medical, Vision, and Dental coverage, generous time-off policy, and the opportunity to contribute to your 401k plan to support your long-term goals. When you join, you'll receive a home office improvement stipend, as well as an annual education and wellness stipends to support your growth and wellbeing. We foster a vibrant company culture through regular events, and provide healthy lunches daily to keep you fueled and focused.
-  
-  
-We’re committed to building and sustaining a diverse, inclusive workplace. We strive to attract and retain people with a wide range of backgrounds, experiences, and perspectives, and we do not discriminate on the basis of gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.
-  
-  
-**AI-First Mindset At Glean**
-At Glean, AI fluency is core to how we work and we're committed to ensuring every new hire feels confident integrating AI into their everyday work.
-**As part of the interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about, design, and use AI to drive impact in your role.**
-Feel free to reference any tools, platforms, or workflows you use today — prior Glean experience isn't required.
-  
-  
-**Global Data Privacy Notice For Job Candidates And Applicants**
-Depending on your location, the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), or other privacy laws may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available in our
-**Privacy Policy**
-. By submitting your application, you are agreeing to our use and processing of your data as required. US applicants and their applications are subject to arbitration of disputes as outlined in our
-**Applicant Arbitration Agreement**
-.
-  
-  
-By clicking “Submit Application,” I confirm that I have read the Global Data Privacy Notice and the
-**Applicant Arbitration Agreement**
-, and I agree to the terms.</description>
-        <pubDate>2026-09-25</pubDate>
     </item>
     
 </channel>
