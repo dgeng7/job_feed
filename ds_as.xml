@@ -61,127 +61,45 @@ The expected base pay range for this position in the San Francisco area is $128,
     </item>
     
     <item>
-        <title>Senior Data Scientist - Flex Pay - Upgrade</title>
-        <link>https://www.indeed.com/viewjob?jk=f66a235e494bbb79</link>
-        <description>**About the Role:**
+        <title>Founding Machine Learning Engineer - Jurny</title>
+        <link>https://www.linkedin.com/jobs/view/4475123523</link>
+        <description>**Company Description**
 
-We are seeking a highly analytical and results-driven Data Scientist to join our buy now pay later (BNPL) sector called Flex Pay. You will play a key role in building predictive risk models, optimizing offers and pricing, and extracting insights that drive product development, risk mitigation, and customer strategy. This role requires a strong foundation in statistics, machine learning, and programming.
+Jurny is building AI models that simulate how real customers behave.
 
-*This position is based in our San Francisco office in a hybrid capacity, specifically on Wednesdays and Thursdays.*
+We create synthetic users that navigate digital experiences like real people, helping product teams predict experiment outcomes, understand customer behavior, and identify friction before changes go live.
 
-**What You'll Do**:
+We’re tackling a hard problem at the intersection of machine learning, agents, experimentation, and human behavior.
 
-  
+**Role Description**
 
-* Build and maintain credit and fraud policy simulators used to ensure properly functioning systems and identify risk decisioning enhancements.
-* Build and deploy statistical models and machine learning algorithms to solve business problems in areas like credit risk, fraud detection, pricing, customer segmentation, and marketing attribution.
-* Validate models to identify factors that may affect model performance.
-* Analyze large, structured and unstructured datasets using SQL, Python or similar tools.
-* Stay up to date with the latest trends and technologies in data science and fintech, actively research new tools and techniques available for model development.
-* Collaborate with cross-functional teams including risk, marketing, product, and engineering to define data-driven strategies.
+We’re looking for a Founding Machine Learning Engineer to build the core intelligence behind Jurny.
 
-  
+You’ll own problems end-to-end, from experimentation to production:
 
-**What We Look For**:
+* Train and fine-tune models on real customer behavior
+* Model user intent, preferences, and decision-making
+* Build rigorous evaluation systems for simulation accuracy
+* Design scalable training and data pipelines
+* Ship models into production and continuously improve them
 
-  
+You’ll work directly with the founders and have significant influence over our ML architecture, research direction, and engineering culture.
 
-* Advanced Degree (MS/PhD) in Data Science, Statistics, Mathematics, Computer Science, Finance, or a related quantitative discipline.
-* 3-5+ years of hands-on experience in a data science or analytics role, preferably in financial services.
-* Experience and/or strong interest in machine learning techniques (Random Forest, Gradient Boosted Trees, etc.) strongly preferred.
-* Strong proficiency in Python (Pandas, Numpy, Scikit-learn) and SQL.
-* Ability to write documentation and present analysis to people with different levels of expertise (e.g., technical staff, business leads, etc.).
-* Proactive, driven, and ability to work in a fast paced environment.
-
-  
-
-**Nice to Have**:
-
-  
-
-* Experience with data visualization tools (e.g., Tableau, Power BI).
-* Experience with AI tools such as Claude
-* Experience with data technologies like PySpark.
-* Understanding of financial services concepts such as credit scoring, portfolio risk, or customer lifetime value.
-
-  
-
-**What We Offer You**:
-
-  
-
-* Competitive salary and stock option plan
-* Paid coverage of medical, dental and vision insurance
-* Competitive 401(k) and RRSP program
-* Flexible PTO
-* Opportunities for professional growth and development
-* Paid parental leave
-* Health &amp; wellness initiatives
-
-  
-
-*The compensation range of this position in San Francisco, CA is USD $100,000-$150,000 annually plus equity and benefits. Within this range, an individual's base pay will be dependent on a variety of factors, including without limitation, job-related knowledge, skills, education, and experience.*</description>
-        <pubDate>2026-09-29</pubDate>
-    </item>
-    
-    <item>
-        <title>GTM Staff Data Scientist - Snowflake</title>
-        <link>https://www.indeed.com/viewjob?jk=4e347bb6b947772f</link>
-        <description>**Required skills**
-
-* Data Analytics and AI
-* Data Analytics and AI
-
-At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.
-
-Our Data Analytics and AI org (DAA) is actively seeking a Staff Data Scientist, GTM to provide technical leadership for Snowflake’s next generation of AI &amp; Machine Learning powered GTM decision systems.
-
-You will contribute to high-impact work across sales and marketing: propensity models across the GTM funnel, measuring the causal effect of GTM investments and interventions, and recommending actions for accounts, leads, opportunities, and customers.
-
-This role goes beyond developing models. You will define how decision systems are designed, evaluated, productionized, and integrated into the workflows of sellers, marketers, and business leaders. You will establish reusable technical standards, guide investment across use cases, and ensure that sophisticated methods translate into measurable business impact.
-
-**What You’ll Do**
-
-* Set the technical direction for a portfolio of AI &amp; Machine Learning GTM decision systems spanning Sales and Marketing.
-* Develop pipeline forecasting methods that model stage progression, conversion, deal timing
-* Build account, lead, opportunity, and customer models that identify propensity, risk, potential, and likely next outcomes.
-* Develop recommendation and next-best-action systems that determine where GTM teams should focus, which action to take, and when to take it.
-* Apply causal inference, experimentation, and uplift modeling to measure the incremental impact of campaigns, sales activities, and customer interventions.
-* Define common standards for point-in-time training, backtesting, calibration, ranking quality, treatment-effect evaluation, uncertainty, and realized business impact.
-* Partner with GTM leaders and RevOps to identify high-value decisions, define interventions, and embed outputs into recurring workflows.
-* Separate genuine customer and market movement from CRM changes, selection effects, territory shifts, instrumentation gaps, and model artifacts.
-* Mentor scientists and raise technical standards across GTM Data Science and its partner teams.
+**Full-time. In-person in San Francisco or remote.**
 
 **What We’re Looking For**
 
-* Advanced degree in Statistics, Mathematics, Operations Research, Economics, Engineering, Computer Science, or a related quantitative field, or equivalent practical experience.
-* 5+ years of experience building production-grade statistical or machine learning systems with meaningful business impact.
-* A record of setting technical direction across ambiguous, cross-functional, or multi-team problem spaces.
-* Deep expertise in several relevant areas, such as causal inference, experimentation, forecasting, propensity modeling, uplift modeling, ranking, or recommendation systems.
-* Strong judgment about when to use predictive ML, causal methods, generative AI, or a simpler analytical approach.
-* Experience translating business decisions into measurable objectives, interventions, evaluation designs, and production systems.
-* Strong Python and SQL skills and experience working with large-scale data platforms.
-* Experience operating models with monitoring, validation, versioning, reproducibility, and safe lifecycle management.
-* Ability to work with imperfect CRM, marketing, product, and customer data while making assumptions and limitations explicit.
-* Demonstrated ownership of high-stakes outputs used by business or executive stakeholders.
-* Excellent communication, technical leadership, and cross-functional influence skills.
+* Strong ML, statistics, and CS fundamentals
+* Experience training or evaluating modern ML models
+* Strong Python and PyTorch experience
+* Experience building production ML systems
+* Comfortable working with ambiguity and moving quickly
+* High ownership and strong product instincts
 
-**Especially Valuable Experience**
+Experience with LLM post-training, RL, agentic systems, behavioral modeling, or simulation is a plus.
 
-* B2B SaaS, enterprise sales, consumption-based businesses, or account-based GTM motions.
-* Pipeline forecasting, account prioritization, lead or opportunity scoring, expansion, renewal, or churn modeling.
-* Incrementality testing, causal measurement, uplift modeling, or marketing effectiveness.
-* Recommendation systems, next-best-action models, ranking, or decision optimization.
-* LLMs, agents, retrieval systems, or AI-assisted Sales and Marketing workflows.
-* CRM, marketing automation, product telemetry, customer success, and unstructured interaction data.
-* Deploying model outputs into business workflows and measuring adoption and realized impact.
-
-Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
-
-How do you want to make your impact?
-
-For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com</description>
-        <pubDate>2026-08-17</pubDate>
+More than credentials, we care about what you’ve built, what you owned, and how you think.</description>
+        <pubDate>2026-10-07</pubDate>
     </item>
     
     <item>
@@ -498,83 +416,6 @@ Walmart and its subsidiaries are committed to maintaining a drug-free workplace 
     </item>
     
     <item>
-        <title>Senior Data Scientist - Ripple</title>
-        <link>https://www.linkedin.com/jobs/view/4466133668</link>
-        <description>At Ripple, we’re building a world where value moves like information does today. It’s big, it’s bold, and we’re already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
-
-If you’re ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.
-
-At Ripple, we’re building a world where value moves like information does today. It’s big, it’s bold, and we’re already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.
-
-If you’re ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.
-
-The work:
-
-We're looking for a Senior Data Scientist to drive analytics across Ripple's product and business portfolio. You'll build the scientific frameworks teams use to evaluate product and business performance, and use AI tooling to accelerate the speed and reach of your analysis.
-
-In this role, you'll partner with product and business leads to frame the right questions, bring rigor to how they're answered, and make sure decisions rest on a consistent, thorough foundation. You'll take on ambiguous, high-impact problems, build analyses and tooling others can reuse, and raise the analytical bar of the teams you work with.
-
-What you’ll do:
-
-* Serve as the data science lead for one or more product or business areas — Payments, Stablecoin, or Custody — applying strong methodology and tackling the hardest analytical problems in your domain.
-* Partner with product and business leads to shape roadmap decisions: which initiatives to prioritize, what success looks like, and how we'll measure it.
-* Build the scientific frameworks your teams rely on: product and network health metrics, causal inference approaches, and forecasting that holds up across institutional and developer surfaces.
-* Apply AI to accelerate analytics — using LLMs and agentic workflows to scale insight generation, automate routine analysis, and make data more self-serve for non-DS partners.
-* Drive evidence-based evaluation of growth across customers, corridors, and on-chain activity, surfacing the causal drivers behind adoption and volume.
-* Define and communicate the metrics your teams and leadership run on, translating complex results into clear narratives for senior stakeholders.
-* Raise the bar for the DS function through mentorship and by modeling strong analytical practice for the data scientists around you.
-
-What you'll bring:
-
-* 7+ years in data science or quantitative analysis, with a track record of measurable impact on product and business decisions.
-* Experience as the data science partner to cross-functional teams, shaping roadmaps and helping leaders make better-informed calls.
-* Track record designing analytics and measurement frameworks that other teams adopt and build on.
-* Hands-on experience applying AI to accelerate analytics workflows — agentic analysis, AI-assisted insight generation, natural-language data interfaces.
-* Strong expertise in experimentation, causal inference, forecasting, and statistical modeling.
-* Expertise in Python or R, fluency in SQL, and experience with large-scale data tech (Databricks).
-* Experience with FinTech, payments, crypto, or blockchain data is a strong plus.
-* Advanced degree (MS, PhD) in a quantitative field preferred.
-* Excellent communication skills — able to translate technical depth into clear narratives for senior stakeholders.
-
-For positions that will be based in CA, the annual salary range for this position is below. Actual salaries may vary based on numerous factors including, among other things, an individual applicant’s experience and qualifications for the position. This range does not include equity or additional compensation, such as bonuses or commissions.
-
-CA Annual Base Salary Range: $172,000 USD - $215,000 USD
-
-**WHO WE ARE:**
-
-Do Your Best Work
-
-* The opportunity to build in a fast-paced start-up environment with experienced industry leaders
-* A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
-* Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
-* In-office collaboration for moments that matter is important to our culture, and we give managers and teams the flexibility to decide which 10+ days a month they come in.
-* Bi-weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
-* We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
-
-Take Control of Your Finances
-
-* Competitive salary, bonuses, and equity
-* Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
-* Employee giving match
-* Mobile phone stipend
-
-Take Care of Yourself
-
-* R&amp;R days so you can rest and recharge
-* Generous wellness reimbursement and weekly onsite &amp; virtual programming
-* Generous vacation policy - work with your manager to take time off when you need it
-* Industry-leading parental leave policies. Family planning benefits.
-* Catered lunches, fully-stocked kitchens with premium snacks/beverages, and plenty of fun events
-
-*Benefits listed above are for full-time employees.*
-
-*Ripple is an Equal Opportunity Employer. We’re committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.*
- 
-*Please find our UK/EU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.*</description>
-        <pubDate>2026-10-06</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Data Scientist, Product - GEICO</title>
         <link>https://www.linkedin.com/jobs/view/4466146579</link>
         <description>**Why Join GEICO?**
@@ -762,6 +603,75 @@ A request for an accommodation will be responded </description>
     </item>
     
     <item>
+        <title>Data Scientist, Mail - Superhuman</title>
+        <link>https://www.linkedin.com/jobs/view/4474401337</link>
+        <description>*For this role on the Mail team, Superhuman offers a remote-flexible work model, whereas other Data Science roles may be aligned with a specific hub based on business needs. This gives team members plenty of focus time and the flexibility to do their best work wherever they're based, while staying closely connected to a collaborative, tight-knit team culture. A hybrid setup is available for those based in San Francisco, New York City, or Seattle.*
+**About Superhuman**
+Grammarly is now part of Superhuman, the AI productivity platform on a mission to unlock the superhuman potential in everyone. The Superhuman suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company's products include Grammarly's writing assistance, Docs’ collaborative workspace, Mail's inbox management, and Go, the proactive AI assistant that understands context and automatically delivers help. Founded in 2009, Superhuman empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at superhuman.com and about our values here.
+  
+  
+The Opportunity
+  
+  
+Want to use data science to shape how one of the most beloved productivity products in the world grows, retains, and delights its users? This Data Scientist position is embedded in the Superhuman Mail business unit, working alongside Data Engineering, Finance, RevOps, and UX Market Research. Together, you act as one numbers-and-insights team, with a direct line to the leaders setting strategy and a shared mandate to move the metrics that matter.
+  
+  
+**Superhuman Mail is the fastest, most AI-native email experience ever built.**
+It helps knowledge workers and teams fly through their inbox twice as fast, stay on top of what matters most, and collaborate without friction — saving users four hours every single week. Where email has barely changed in decades, Superhuman Mail is reimagining it from the ground up: AI that drafts replies in your voice, auto-labels and triages incoming messages, surfaces follow-ups before you drop the ball, and can even send emails on your behalf. It serves everyone, from individual professionals to Fortune 500 sales teams, and boasts a deeply loyal user base and a product people genuinely love. The data environment is rich, the growth questions are hard, and the opportunity to drive real impact — on acquisition, activation, retention, and expansion — is enormous.
+  
+  
+**Your work on Mail is part of a broader platform story.**
+The Superhuman Platform suite includes Grammarly's writing assistance, Mail, Docs, Databases, and Go, our proactive AI assistant. As a compound startup, we're building an integrated suite rather than separate tools — so insights you surface in Mail ripple across the full product portfolio, and cross-product growth loops connect the dots between how users discover, adopt, and expand across the suite. Our products serve both consumers and enterprises, creating an unusually rich data environment. Our user base spans students and knowledge workers, individual users and Fortune 500 companies, universities and global enterprises, across a growing range of languages and markets. That breadth creates no shortage of important questions to own.
+  
+  
+This is an opportunity for those drawn to complex, high-stakes growth problems — in a product people are passionate about — who want their work to measurably change outcomes.
+  
+  
+What you’ll do
+  
+  
+
+* Be the embedded data science partner for the Mail core product team — shaping feature strategy, prioritization, and roadmap decisions with evidence, not just fielding ad hoc requests.
+* Define and own the metrics that matter for Mail: activation milestones, engagement depth, retention curves, and the leading indicators that tell us whether a new feature is actually changing how people work in their inbox.
+* Design and run experiments across the Mail product lifecycle — from onboarding and first-week activation to long-term habit formation — and build the measurement frameworks that separate signal from noise.
+* Shape the measurement strategy for Mail's AI features — Auto Drafts, Auto Labels, Auto Archive, Calendar, MCP, and the agentic capabilities on the roadmap — by defining quality frameworks and behavioral metrics that show whether AI is making users genuinely faster and more effective.
+* Figure out what makes Mail sticky: which features drive the deepest engagement, what the activation sequence looks like for users who become power users, and where in the funnel we're leaving value on the table.
+* Partner with product-led and sales-led growth to identify and quantify the levers that turn individual users into team expansions — and surface the product signals that predict conversion and churn.
+* Use data to craft remarkable product moments — turning behavioral insight into smarter onboarding flows, better feature discovery, and engagement nudges that feel natural rather than forced. This includes understanding how features such as Calendar scheduling and MCP-driven workflows change the way users interact with Mail on a day-to-day basis.
+* Communicate findings clearly to PMs, designers, engineers, and executives — from experiment readouts to strategic deep-dives — and help raise the bar on how the Mail team makes decisions with data.
+
+You'll do this alongside product managers, engineers, designers, and ML engineers, and in close partnership with our Experimentation team (running on Statsig), whose platform lets us ship, test, and learn quickly. We think from first principles and stay with the hardest product problems through the messy middle. Mail is a product people are genuinely passionate about — the questions are hard, the feedback loop is fast, and the opportunity to shape how millions of people experience their inbox is real.
+  
+  
+**Qualifications**
+
+* You have 5+ years of data science experience and a track record of driving measurable impact for business and customers.
+* You have deep expertise in experimentation and causal inference. You’re fluent in A/B testing as well as quasi-experimental and observational methods, and you know when to use each.
+* You’re fluent in Python and SQL, with strong data exploration and manipulation skills.
+* You have strong applied statistics skills and machine learning skills, and you use them to drive product and growth decisions.
+* You can translate ambiguous business questions into sound experimental designs, measurement plans, and metrics.
+* You influence cross-functional partners and turn technical insight into action through clear communication, empathetic building, and openness to ideas from anywhere.
+* You’re a self-starting, creative problem-solver who distills problems to their core and thrives with ambiguity.
+* You have a bachelor’s degree in a quantitative field (statistics, mathematics, economics, computer science, data science, or a similar field); an advanced degree or equivalent practical experience is preferred.
+
+Nice to have
+  
+  
+
+* You have experience working at a fast-growing startup, on AI-native consumer products, and/or in B2B/SaaS.
+* You’ve been a strategic thought partner to product, growth, or business leaders, driving data-driven decisions.
+* You’ve evaluated the quality of AI, LLM, or agentic products hands-on.
+* You’re comfortable using AI-assisted development tools like Claude Code or Codex to move faster, and you have the judgment to validate and supervise their output.
+* You’re familiar with experimentation platforms such as Statsig and modern data stacks such as Databricks.
+* You have experience with product-led growth and/or lifecycle and marketing analytics.
+* You’ve helped data science teams establish the methods, standards, and processes they use to collaborate.
+
+**Compensation And Benefits**
+Superhuman offers all team members competitive pay along with a benefits package encompassing the following a</description>
+        <pubDate>2026-10-06</pubDate>
+    </item>
+    
+    <item>
         <title>Applied Scientist- Pricing, Dynamic Pricing &amp; Offer Selection - CHEManager International</title>
         <link>https://www.linkedin.com/jobs/view/4474993320</link>
         <description>At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
@@ -909,6 +819,54 @@ As a Business Insights Manager, you will join a very welcoming team cultivating 
     </item>
     
     <item>
+        <title>Staff Analytics, Product Growth - EarnIn Bfwf</title>
+        <link>https://www.linkedin.com/jobs/view/4476385190</link>
+        <description>**About EarnIn**
+As one of the first pioneers of earned wage access, our passion at EarnIn is building products that deliver real-time financial flexibility for those with the unique needs of living paycheck to paycheck. Our community members access their earnings as they earn them, with options to spend, save, and grow their money without mandatory fees, interest rates, or credit checks.
+  
+  
+We’re fortunate to have an incredibly experienced leadership team, combined with world-class funding partners like A16Z, Matrix Partners, DST, Ribbit Capital, and a very healthy core business with a tremendous runway. We’re growing fast and are excited to continue bringing world-class talent onboard to help shape the next chapter of our growth journey.
+  
+  
+**Position Summary**
+We are seeking a Staff Analyst to partner closely with the CMO and product leadership to drive user growth and engagement. This leader will shape and drive the analytics strategy, mentor and develop the team, and collaborate cross-functionally with Marketing, Product, and Engineering to translate business needs into actionable insights.
+  
+  
+The primary goal of this position is to architect and build agentic workflows that transform how analytics operates: design AI-driven pipelines that work autonomously, surface insights proactively, and scale decision-making across the organization. You bring both the strategic vision to see where automation unlocks the most value, and the hands-on depth to get into the data and build it yourself.
+  
+  
+The Mountain View base salary range for this full-time position is $215,000 to $263,000, plus equity and benefits. Our salary ranges are determined by role, level, and location. This is a hybrid position in Mountain View, requiring in-office work 2 days a week.
+  
+  
+**What You'll Do**
+
+* Collaborate with Product, Engineering, Marketing, and cross‑functional partners to inform, influence, and execute strategy across product and growth surfaces.
+* Build AI‑driven analytics agents that automate workflows such as experimentation readouts, funnel diagnostics, anomaly detection, and business reviews, and partner with Engineering to productionize these systems at scale.
+* Develop and maintain experimentation, causal measurement, and product analytics frameworks that support acquisition, activation, engagement, retention, monetization, and LTV.
+* Design and implement measurement and modeling approaches across paid, owned, and product surfaces, using uplift modeling, causal inference, and experimentation rigor (MMM optional).
+* Develop a deep understanding of complex product and marketing systems to identify opportunities, risks, and levers for growth.
+* Communicate insights clearly to technical and non‑technical audiences, influencing product and marketing roadmaps through data, modeling, and AI‑driven insights.
+
+**What We're Looking For**
+
+* 7+ years in analytics, data science with deep hands‑on execution.
+* Strong technical skills in SQL, Python, experimentation, and statistical modeling.
+* Experience building AI‑driven analytics workflows (LLMs, agents, automation, or similar).
+* Solid background in product and growth analytics across activation, engagement, retention, and monetization.
+* Experience with causal inference, uplift modeling, and experimentation frameworks.
+* Ability to operate as a high‑leverage IC who partners closely with executives and cross‑functional leaders.
+* Excellent communication and storytelling skills for technical and non‑technical audiences.
+* Experience in fintech, consumer tech, or data‑driven product organizations is a plus.
+* Familiarity with modern data stacks (Databricks, Snowflake, dbt, Amplitude, Looker) is a plus
+
+At EarnIn, we believe that the best way to build a financial system that works for everyday people is by hiring a team that represents our diverse community. Our team is diverse not only in background and experience but also in perspective. We celebrate our diversity and strive to create a culture of belonging. EarnIn does not unlawfully discriminate based on race, color, religion, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity, gender expression, national origin, ancestry, citizenship, age, physical or mental disability, legally protected medical condition, family care status, military or veteran status, marital status, registered domestic partner status, sexual orientation, genetic information, or any other basis protected by local, state, or federal laws. EarnIn is an E-Verify participant.
+  
+  
+EarnIn does not accept unsolicited resumes from individual recruiters or third-party recruiting agencies in response to job postings. No fee will be paid to third parties who submit unsolicited candidates directly to our hiring managers or HR team.</description>
+        <pubDate>2026-10-06</pubDate>
+    </item>
+    
+    <item>
         <title>Forward Deployed Data Scientist - Fin</title>
         <link>https://www.linkedin.com/jobs/view/4467094636</link>
         <description>Fin, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.
@@ -985,6 +943,122 @@ We have a radically open and accepting culture at Fin. We avoid spending time on
   
   
 Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, tr</description>
+        <pubDate>2026-10-06</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Data Scientist - Wayve</title>
+        <link>https://www.linkedin.com/jobs/view/4474099180</link>
+        <description>Before the detail, here's the challenge you'd help us solve.
+  
+  
+We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the team, plugs into that.
+  
+  
+Here’s what this particular role covers.
+  
+  
+**🛠️ About Our Engineering Teams**
+As a Data Scientist supporting AI Engineers, you will partner with one or more engineering teams to develop actionable insights that guide improvements to the Wayve AI Driver. Through experimental and observational analyses of real and simulated driving, you will help teams advance the functionality, safety and performance of the Wayve AI Driver.
+  
+  
+**🧠 Your day-to-day**
+You will work closely with engineering and cross-functional partners to turn data into clear, practical direction. Your findings will help teams understand performance, validate product requirements and prioritise the opportunities that matter most.
+  
+  
+You will be comfortable working asynchronously across time zones, communicating findings clearly and compellingly, and influencing team direction through evidence.
+  
+  
+**🧩 What You’ll Be Working On**
+
+* Formulating and iterating on the performance metrics that organise our engineering efforts and guide progress towards commercial success.
+* Designing experiments and targeted off-road measurements to help ensure we deliver customer product requirements while maintaining safety and performance.
+* Investigating factors in model training and inference that create bottlenecks in functionality and performance.
+* Identifying, testing and validating hypotheses that can unlock improvements to the Wayve AI Driver.
+* Summarising, visualising and communicating findings in an accessible way that supports prioritisation and strategy.
+
+**🙌 You Should Apply If**
+
+* You have 3+ years of experience in a Data Science role.
+* You are fluent in querying and building large datasets, including writing production-level SQL for data-transformation pipelines.
+* You have experience designing robust real-world experiments, such as A/B tests, and critically evaluating test statistics.
+* You have strong statistical foundations, including selecting appropriate distributions and testing the assumptions behind frequentist statistics.
+* You are proficient in a statistical scripting language and data science or machine-learning packages, such as Python with pandas, sklearn, statsmodels or scipy, or R with dplyr, caret or stats.
+* You are skilled at summarising, visualising and communicating findings in an accessible and compelling way.
+* You have influenced team direction through your findings and bring a bias towards actionable insight that can drive prioritisation and strategy.
+* You are comfortable working asynchronously across time zones with cross-functional partners.
+* You are deeply curious about building something new and excited by the opportunity to help define AV2.0 and how we build it.
+
+**It Would Be Great If You Also Have**
+
+* Practical machine-learning experience, for example with PyTorch, and a passion for taking research ideas to production.
+* A track record of promoting statistical rigour and experimental best practices.
+* Experience with causal inference, econometric techniques or Bayesian methodologies for hypothesis testing.
+* Experience working with large datasets and distributed computing technologies, such as Spark, Hadoop or other map-reduce tools.
+* Experience working in a fast-moving technology company or startup.
+
+🌱 Not ticking every box? That’s totally okay! If you’re passionate about autonomy and keen to learn, we encourage you to apply even if you don’t meet every requirement.
+  
+  
+**More About Wayve**
+🚀 Wayve is building the leading AI platform for autonomous driving. We are pioneering an end-to-end AI approach that enables vehicles to learn directly from real-world experience, developing the ability to adapt, generalise and improve at scale. Instead of relying on hand-coded rules or pre-mapped environments, our AI Driver learns to drive by understanding the world around it. The result is technology that navigates complex urban environments with intelligence, precision and natural flow, unlocking meaningful advances in both safety and efficiency. We believe autonomy represents a once-in-a-generation transformation in how people and goods move, comparable to the shift from horses to cars, and from human-driven vehicles to intelligent machines.
+  
+  
+Our ambition is to make autonomy universal. Wayve’s mapless and hardware-agnostic AI platform integrates with global OEM partners, enabling continuous software evolution and unlocking advanced levels of automation from L2+ through to L4 as our core AI model scales. In a race increasingly defined by intelligence and real-world learning, Wayve is taking a distinct approach, building a generalisable driving intelligence that can power any vehicle, anywhere. By combining embodied AI with scalable deployment, we are creating technology that can be shaped to each OEM brand and driver experience, accelerating the transition to a safer, more intelligent future of mobility.
+  
+  
+**How we work 💻- Locations &amp; Flexible Working:**
+Our main hubs are in London, Sunnyvale, Yokohama, Herzliya, Vancouver and Leonberg. We operate a hybrid working model that combines in-person collaboration in our dedicated office spaces with focused time working remotely. This gives our teams the connection and energy of working together, alongside the flexibility to do their best work in a way that fits their lives.
+  
+  
+**🔍 The Interview Process**
+Our process is clear and respectful of your time:
+  
+  
+
+* Initial call / recruiter screen (30 mins)
+* Competency interviews (Hiring Manager interview and SQL or Python programming interview) 45/60 min
+* Deep-dive technical interviews (Quant Domain interview and Causal Inference Case Study) 60 min each
+* Final leadership interview (30 mins)
+
+We’ll always explain the format and work around your availability.
+  
+  
+**What’s In It For You**
+💰 Salaries benchmarked against the market annually
+  
+  
+📈 Meaningful equity, sharing in the ownership and long-term success of Wayve
+  
+  
+✈️ Relocation support and visa sponsorship where applicable
+  
+  
+✅ Hybrid working, core hours and the chance to work hands-on in vehicle workshops and labs
+  
+  
+📚 Learning and development budgets with support for training, conferences and growth
+  
+  
+🩺 Comprehensive benefits including health insurance, dental, enhanced maternity and paternity leave, retirement or pension where applicable, access to therapists, wellbeing partnerships, team socials and more.
+  
+  
+A quick, honest note before you apply.
+  
+  
+Wayve is not a mature, fully-structured place with the playbook already written. Much of how we work is still being written, and if you join, you’ll help write it. That suits people who want real ownership more than people who need a settled structure from day one.
+  
+  
+If that sounds like the kind of problem you want to spend your time on, we’d really like to hear from you.
+  
+  
+At Wayve we're committed to creating a diverse, fair and respectful culture that is inclusive of everyone based on their unique skills and perspectives, and regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, veteran status, pregnancy or related condition (including breastfeeding) or any other basis as protected by applicable law.
+  
+  
+For more information visit Careers at Wayve. To learn more about what drives us, visit Values at Wayve
+  
+  
+DISCLAIMER: We will not ask about marriage or pregnancy, care responsibilities or disabilities in any of our job adverts or interviews. However, we do look to capture information about care responsibilities, and disabilities among other diversity information as part of an optional</description>
         <pubDate>2026-10-06</pubDate>
     </item>
     
@@ -1829,6 +1903,109 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
     </item>
     
     <item>
+        <title>Data Scientist, Payment Analytics - USDS - TikTok USDS Joint Venture</title>
+        <link>https://www.linkedin.com/jobs/view/4476359119</link>
+        <description>**Responsibilities**
+Team Intro:
+  
+The Payment team of U.S. Data Security department of TikTok provides payment solutions - including payment acquisitions, disbursements, transaction monitoring, payment method management, foreign exchange conversion, accounting, reconciliations, and so on - to ensure that users have a smooth and secure payment experience on TikTok platform.
+  
+  
+Responsibilities:
+  
+This role is responsible for developing and executing on analytics and reporting initiatives which deliver data-driven insights to internal and external stakeholders, including strategy, operations, business, engineering, and R&amp;D teams in both US and globally. You are playing a key role in empowering TikTok platform to achieve overall payment success by way of payment security. You will contribute to the development of industry-leading capabilities to protect TikTok and our users from emerging payment threats and ensure secure payment growth. You must be able to work both independently and as part of a team to deliver on a dynamic set of needs in a fast-paced environment. Specific responsibilities include:
+  
+  
+- Work with large datasets to solve problems that could be ambiguous and nuanced using a variety of analytical and statistical approaches.
+  
+- Conduct quantitative analysis using statistical regression, machine learning, as well as hypothesis testing and present analysis and recommendations in a user friendly manner to propel business growth and customer satisfaction.
+  
+- Develop a scientific approach to measure KPI fluctuation, impact of business initiatives, and customer experience and design indexes for continuous monitoring.
+  
+- Design and implement foundational tests including backtesting for measuring the effectiveness of credit risk strategy and segmenting user profile.
+  
+- Create documentation articulating the sampling process, underlying assumptions, design of test, success metrics, and conclusion.
+  
+- Have familiarity with best practices and pragmatic approaches for addressing common issues including data quality, seasonality, insufficient training dataset, etc.
+  
+- Perform predictive analysis and support business partners with revenue and loss forecasts, budgeting, risk and incident management to proactively address foreseeable challenges.
+  
+- Conduct deep dive analysis and diagnosis to identify patterns, concentrations, correlations, root causes to provide transparency into business and product performance.
+  
+- Partner with Product, Strategy, Operations and cross-functional teams to inform, influence, support, and execute strategy and decisions.
+  
+- Demonstrate understanding of common challenges facing TikTok business, key products, and the competitiveness of the marketplace.
+  
+  
+  
+**Qualifications**
+Minimum Qualifications:
+  
+-3+ years of progressive success in roles of increasing responsibility.
+  
+-3+ years working in data science, risk, machine learning, and A/B testing.
+  
+-3+ years of coding experience in Python, Hive, SQL and familiarity with machine learning functions, options, forecasting models.
+  
+-5+ years of experience with Tableau or other data visualization tools (e.g. Tableau).
+  
+  
+Preferred Qualifications:
+  
+- Knowledge of the payments industry is highly desirable.
+  
+- Risk analytics/operations, data science experience or similar quantitative business responsibility for financial services, eCommerce, or operational performance highly desirable.
+  
+- Strongly skilled at manipulating and integrating data from a variety of sources.
+  
+- Proficiency with test design, feature creation, model development, and documentation.
+  
+  
+**About USDS**
+TikTok USDS Joint Venture LLC is dedicated to the safety and security of millions of Americans who create, discover, and connect with what they love on the apps we operate. The Joint Venture has been established in compliance with the Executive Order signed by President Trump on September 25, 2025. Our foundation is a comprehensive data privacy and cybersecurity program we operate under defined safeguards to protect national security and secure U.S. user data, apps and the algorithm. We safeguard the U.S. content ecosystem, holding decision-making authority for trust and safety policies and moderation. USDS Joint Venture helps ensure Americans can continue to express their creativity, discover new hobbies and interests, and build thriving communities and businesses on a global scale.​
+  
+​
+  
+On-site presence across teams allows the company to operate with greater speed, alignment, and agility — especially in areas like real-time decision-making, team development, and integrated execution. As such, the company is shifting from a hybrid work model to a fully in-person schedule up to 5 days a week.​
+  
+  
+  
+**Why Join Us**
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​
+  
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+  
+​
+  
+Diversity &amp; Inclusion​
+  
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+  
+  
+  
+**USDS Reasonable Accommodation**
+USDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-RA​
+  
+  
+  
+**Job Information**
+【For Pay Transparency】Compensation Description (Annually)
+  
+The base salary range for this position in the selected city is $144000 - $329334 annually.​
+  
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
+  
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​
+  
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
+  
+For Los Angeles County (unincorporated) Candidates:​
+  
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes </description>
+        <pubDate>2026-10-06</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Machine Learning Engineer - Growth - Atlassian</title>
         <link>https://www.linkedin.com/jobs/view/4467445175</link>
         <description>**Overview**
@@ -1923,6 +2100,115 @@ To learn more about our culture and hiring process, visit
 **go.atlassian.com/crh**
 **.**
 In line with local law, identity verification (which may include use of biometric data) is a condition of employment with Atlassian for employment fraud purposes.</description>
+        <pubDate>2026-10-06</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Data Scientist - Wayve</title>
+        <link>https://www.linkedin.com/jobs/view/4474095354</link>
+        <description>Before the detail, here's the challenge you'd help us solve.
+  
+  
+We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the team, plugs into that.
+  
+  
+Here’s what this particular role covers.
+  
+  
+**🛠️ About Our Engineering Teams**
+Wayve ships a new driving model baseline every week. The Model Integration &amp; Release team runs simulation and on-road testing to decide whether model candidates are ready to promote. As our release process matures, we have an opportunity to learn more from the data we already collect: strengthening how we measure performance, turning on-road findings into better simulation tests, and aligning what we measure with what operators experience in the vehicle.
+  
+  
+As a Senior Data Scientist on the Model Integration &amp; Release team, you will own this analytical layer. You will turn evaluation outputs into findings that improve both our models and how we measure them, working across simulation, on-road experiment data, and internal evaluation tooling. You will partner with Validation, Data Science, and Product to improve how we evaluate and make release decisions more confident.
+  
+  
+**🧠 Your day-to-day**
+You will lead analysis of model and autonomous-vehicle performance data, translating complex signals from simulations, offline evaluation, and on-road testing into clear recommendations for engineering teams. You will investigate performance issues, apply statistical rigour to evaluation data, and identify where our metrics, test coverage, or scoring logic could be improved.
+  
+  
+You will work autonomously in a fast-moving weekly release cadence, prioritising analysis work, partnering across teams, and turning investigations into durable improvements.
+  
+  
+**🧩 What You’ll Be Working On**
+
+* Shape how we learn from evaluation data by defining what deeper analysis means in practice and building the habits, tooling, and workflows that support it.
+* Improve how we measure driving performance by identifying blind spots, inconsistencies, and gaps in simulation and offline metrics.
+* Investigate on-road release-test findings, determine whether offline tests should have caught them, and improve evaluation coverage and measurement.
+* Perform experiment analysis and apply statistical methods to provide confident, data-driven promotion recommendations for new driving models.
+* Expand what “good” means beyond intervention rates, using the behavioural and operational signals we already collect.
+* Partner with Data Science and Validation on how evaluation methods and ground truth are defined, implemented, and maintained.
+* Support partner-facing quality investigations by quantifying and tracking issues raised through OEM QA workflows.
+* Document findings and recommendations in a way the team can act on within a weekly release cadence, and follow through so the same class of issue does not recur.
+
+**🙌 You Should Apply If**
+
+* You have strong analytical and investigative skills and can move from a vague “something looks off” to a clear, evidence-backed conclusion.
+* You have hands-on experience working with ML evaluation data, driving-performance metrics, or complex test results at scale.
+* You have experience applying statistical methods for A/B testing and experimentation, including confidence intervals, distributions, and sampling.
+* You are proficient in Python or SQL and comfortable querying and analysing large datasets.
+* You can operate with autonomy in a fast-moving environment: setting priorities within a broader goal and knowing when to solve an issue directly versus when to escalate or partner.
+* You communicate clearly in writing and can turn messy investigations into concise, actionable recommendations for technical and non-technical audiences.
+* You are genuinely curious about why a model behaves as it does and whether we are measuring the right things.
+
+Experience in autonomous driving, robotics, safety-critical ML systems, simulation-based testing, on-road experiment analysis, OEM or partner validation workflows, or improving evaluation infrastructure and measurement methodology would be beneficial.
+  
+  
+🌱 Not ticking every box? That’s totally okay! If you’re passionate about autonomy and keen to learn, we encourage you to apply even if you don’t meet every requirement.
+  
+  
+**More About Wayve**
+🚀 Wayve is building the leading AI platform for autonomous driving. We are pioneering an end to end AI approach that enables vehicles to learn directly from real world experience, developing the ability to adapt, generalise and improve at scale. Instead of relying on hand coded rules or pre mapped environments, our AI Driver learns to drive by understanding the world around it. The result is technology that navigates complex urban environments with intelligence, precision and natural flow, unlocking meaningful advances in both safety and efficiency. We believe autonomy represents a once in a generation transformation in how people and goods move, comparable to the shift from horses to cars, and from human driven vehicles to intelligent machines.
+  
+  
+Our ambition is to make autonomy universal. Wayve’s mapless and hardware agnostic AI platform integrates with global OEM partners, enabling continuous software evolution and unlocking advanced levels of automation from L2 plus through to L4 as our core AI model scales. In a race increasingly defined by intelligence and real world learning, Wayve is taking a distinct approach, building a generalisable driving intelligence that can power any vehicle, anywhere. By combining embodied AI with scalable deployment, we are creating technology that can be shaped to each OEM brand and driver experience, accelerating the transition to a safer, more intelligent future of mobility.
+  
+  
+**How we work 💻- Locations &amp; Flexible Working:**
+Our main hubs are in London, Sunnyvale, Yokohama, Herzliya, Vancouver and Leonberg. We operate a hybrid working model that combines in-person collaboration in our dedicated office spaces with focused time working remotely. This gives our teams the connection and energy of working together, alongside the flexibility to do their best work in a way that fits their lives.
+  
+  
+**The Interview Process:**
+Our process is clear and respectful of your time:
+  
+  
+
+* Initial call / recruiter screen (30 mins)
+* Competency interviews (Hiring Manager interview and SQL or Python programming interview) 45/60 min
+* Deep-dive technical interviews (Quant Domain interview and Metrics Design) 60/60 min
+* Final leadership interview (30 mins)
+
+We’ll always explain the format and work around your availability.
+  
+  
+**What’s In It For You**
+💰 Salaries benchmarked against the market annually
+  
+  
+📈 Meaningful equity, sharing in the ownership and long term success of Wayve
+  
+  
+✈️ Relocation support and visa sponsorship where applicable
+  
+  
+✅ Hybrid working, core hours and the chance to work hands on in vehicle workshops and labs
+  
+  
+📚 Learning and development budgets with support for training, conferences and growth
+  
+  
+🩺 Comprehensive benefits including health insurance, dental, enhanced maternity and paternity leave, retirement or pension where applicable, access to therapists, wellbeing partnerships, team socials and more
+  
+  
+A quick, honest note before you apply.
+  
+  
+Wayve is not a mature, fully-structured place with the playbook already written. Much of how we work is still being written, and if you join, you’ll help write it. That suits people who want real ownership more than people who need a settled structure from day one.
+  
+  
+If that sounds like the kind of problem you want to spend your time on, we’d really like to hear from you.
+  
+  
+At Wayve we're committed to creating a diverse, fair and respectful culture that is inclusive of everyone based on their unique skills and perspectives, and regardless of sex, race, religio</description>
         <pubDate>2026-10-06</pubDate>
     </item>
     
@@ -2166,68 +2452,6 @@ In line with local law, identity verification (which may include use of biometri
     </item>
     
     <item>
-        <title>Founding Data Scientist - Nectar</title>
-        <link>https://www.linkedin.com/jobs/view/4475878040</link>
-        <description>**About Us**
-We're living through a fundamental shift in how people discover, evaluate, and purchase products. The next generation doesn't respond to traditional marketing -- they build relationships with brands through authentic social interactions, seek recommendations from communities they trust, and expect personalized experiences that feel human, not corporate.
-  
-  
-At Nectar Social, we're building the AI-native social operating system that enables this new era of commerce. We believe every social interaction should deepen the relationship between brands and their communities while creating genuine value for both sides.
-  
-  
-Founded by ex-Meta product and engineering leaders, we've raised over $30M in total capital from investors including GV and True Ventures. We work with brands like Oura Health, Caraway, e.l.f. Cosmetics, Kosas, OLIPOP, and many more. We're building the future of social commerce -- where community, conversation, and commerce converge.
-  
-  
-****Role Overview****
-As our
-**First Dedicated Data Science Hire**
-, you will have massive scope, high ownership, and direct influence on the future of social commerce. You will work directly with our engineering and product teams to translate vast, unstructured datasets, including full-spectrum Reddit networks, Meta creator ecosystems, and campaign data, into core product features and proprietary industry standards.
-  
-  
-****Key Responsibilities****
-
-* Product-Driven Data Science: Own core analytics features, including building our next-generation Earned Media Value (EMV) metric, multi-touch attribution modeling, and deep commerce platform integrations.
-* Data foundations: Partner with Engineering to improve how our data is structured and retrieved, improving the efficiency and value of our reporting.
-* Exploratory Analytics &amp; R&amp;D: Develop trend-forecasting algorithms and out-of-the-box analytical models on proprietary dataset architectures.
-* Metric Creation: If you have ever wanted to own the metric rather than report on it, this role was designed for you. Define and standardize proprietary Nectar metrics that shape how consumer brands go to market.
-* Cross-Functional Collaboration: Partner closely with Product and Software Engineering to translate models into production code without relying on engineering teams to rewrite logic.
-* Data Desk Support: Contribute technical leadership to our high-visibility Data Desk initiative, powering public reports cited by the likes of the Wall Street Journal, Bloomberg, and Forbes and contributing to data-driven customer acquisition.
-
-**Minimum Qualifications**
-
-* Experience: 4–7 years of data science experience
-* Education: Bachelor’s in Data Science, Computer Science, Statistics, Mathematics, or a related quantitative field.
-* Technical Skills: Advanced Python proficiency and expert SQL capabilities. Proven software engineering fundamentals with a track record of writing clean, production-ready code.
-* Domain Adaptability: High comfort with ambiguity, fast-paced execution, and a rapid learning curve in new domain spaces.
-* Written Communication: Exceptional writing skills, with a demonstrated ability to turn complex data and analysis into clear, compelling narratives for non-technical and public-facing audiences.
-* Technical Rigor: Strong foundation in Python and SQL, with the capability to write clean, maintainable code independently.
-* Technical Writing: Demonstrated ability to turn data analysis into clear, compelling writing for non-technical readers, such as reports, blog posts, or research summaries.
-
-****Preferred Qualifications****
-
-* Prior experience in social media ecosystems, influencer platforms, or creator economy tools (e.g., CreatorIQ, Meta).
-* Background working with massive, unstructured text, media, or social network data.
-* Experience in technical writing for external artifacts (blog posts, reports)
-
-****What we offer****
-
-* Competitive compensation and early equity
-* Health, vision, and dental benefits + 401(k) match
-* ClassPass membership for fitness and wellness classes
-* $50/month mobile stipend for all employees, and $50/month internet stipend for remote employees
-
-****For our Palo Alto Office****
-
-* Hybrid schedule: 4 days in office, plus 3 remote flex days per quarter (after your first 3 months)
-* Free lunch in the heart of University Ave. in Palo Alto
-* $1,000/month housing stipend for living near the office
-* Fully paid for commuter benefits (train stipend or Palo Alto parking reimbursement)
-
-Compensation Range: $200K - $250K</description>
-        <pubDate>2026-10-05</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Data Scientist - Coupang</title>
         <link>https://www.linkedin.com/jobs/view/4460999537</link>
         <description>We exist to wow our customers. We know we’re doing the right thing when we hear our customers say, “How did we ever live without Coupang?” Born out of an obsession to make shopping, eating, and living easier than ever, we’re collectively disrupting the multi-billion-dollar e-commerce industry from the ground up. We are one of the fastest-growing e-commerce companies that established an unparalleled reputation for being a dominant and reliable force in South Korean commerce.
@@ -2401,56 +2625,6 @@ Primary Location...
   
   
 Walmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
-        <pubDate>2026-10-05</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Data Scientist - Heartflow</title>
-        <link>https://www.linkedin.com/jobs/view/4442913777</link>
-        <description>Heartflow is a medical technology company advancing the diagnosis and management of coronary artery disease, the #1 cause of death worldwide, using cutting-edge technology. The flagship product—an AI-driven, non-invasive cardiac test supported by the ACC/AHA Chest Pain Guidelines called the Heartflow FFRCT Analysis—provides a color-coded, 3D model of a patient’s coronary arteries indicating the impact blockages have on blood flow to the heart. Heartflow is the first AI-driven non-invasive integrated heart care solution across the CCTA pathway that helps clinicians identify stenoses in the coronary arteries (RoadMap™Analysis), assess coronary blood flow (FFRCT Analysis), and characterize and quantify coronary atherosclerosis (Plaque Analysis). Our pipeline of products is growing and so is our team; join us in helping to revolutionize precision heartcare.
-  
-  
-Heartflow is a publicly traded company (HTFL) that has received international recognition for exceptional strides in healthcare innovation, is supported by medical societies around the world, cleared for use in the US, UK, Europe, Japan and Canada, and has been used for more than 750,000 patients worldwide.
-  
-  
-We are seeking a high-impact Staff Data Scientist to play a leading role on our data needs to bridge the gap between advanced research and production-grade ML systems. You will be a key technical leader and partner to our Research Scientists, driving the evolution of our AI algorithms through rigorous data science methodologies, strategic data curation, and cross-functional leadership.
-  
-  
-Job Responsibilities:
-  
-  
-
-* Vision &amp; Cross-Functional Leadership: Engage with cross-functional teams (Product, Research, Engineering, and Process Engineering) and help guide the overarching vision for data analysis, curation, and annotation to improve our AI models. Drive the definition of algorithm and data requirements necessary to deliver on end-point objectives.
-* Data Campaigns and Annotation Strategy: Introduce best practices and efficient processes to enable multiple, large-scale annotation campaigns for continuous AI product improvements. Spearhead the strategic design of data campaigns needed to advance AI algorithms.
-* Advanced Data Curation &amp; Management: Develop comprehensive data curation strategies for improvements to AI models. Partner with MLOps to architect data management systems for algorithm training and performance validation, and establish data dashboards and monitoring reports.
-* Performance Evaluation and Statistical Analysis: Establish frameworks and develop tools to rigorously evaluate the strengths and weaknesses of model iterations across patient populations. Design and oversee data analyses using statistical techniques to illuminate the performance of our AI algorithms.
-
-Required Qualifications:
-  
-  
-
-* Education: Masters or PhD Degree in Engineering, Computer Science, Statistics, Data Science or related degree.
-* Work Experience: 7+ years (or 5+ with PhD) of proven track record in Data Science, Machine Learning, Computer Vision, or Image Analysis in industry. Have a wealth of experience from working on complex, real-world AI problems in medical imaging or computer vision requiring careful consideration of data needs.
-* Software: Proficient in Python, including statistical and machine learning packages (e.g. scipy, sklearn, statsmodels, seaborn) with a commitment to writing clean, reproducible and scalable code. Familiarity with image and 3D processing tools like VTK and ITK, and visualization tools like 3DSlicer and MITK, a plus.
-* Statistics: Understanding of standard statistical techniques and ability to apply appropriate statistical methods to a range of data structures; experience with medical imaging data a plus.
-* Data Management: Experience working with data lakes, SQL/No SQL Databases, AWS Cloud Storage, Tableau dashboards.
-* AI &amp; Medical Imaging: Expertise in deep learning and machine learning models in production. Strong experience working with medical imaging data (CT and vascular imaging) is highly preferred.
-* (Preferred) Proficiency in Agentic AI Tools: Experience integrating generative AI and agentic tools into daily workflows to act as a force multiplier—accelerating coding, prototyping, and complex data analysis—while demonstrating the critical judgment required to rigorously evaluate AI outputs for accuracy.
-* Communication: Excellent written and verbal communication. Detail orientated but able to describe complex topics in a manner that is digestible to a broad audience. Ability to distill complex analyses into interpretable and actionable findings.
-* Commitment: Committed to the success of the team and successful completion of project - 75% confidence / 100% committed.
-* Influence without Authority: Able to build trust and obtain cross-functional alignment across departments.
-
-**A reasonable estimate of the base salary compensation range is*
-*$220,000 to*
-
-*$280,000, bonus, and equity.**
-Heartflow is an Equal Opportunity Employer. We are committed to a work environment that supports, inspires, and respects all individuals and do not discriminate against any employee or applicant because of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law. This policy applies to every aspect of employment at Heartflow, including recruitment, hiring, training, relocation, promotion, and termination.
-  
-  
-Positions posted for Heartflow are not intended for or open to third party recruiters / agencies. Submission of any unsolicited resumes for these positions will be considered to be free referrals.
-  
-  
-Heartflow has become aware of a fraud where unknown entities are posing as Heartflow recruiters in an attempt to obtain personal information from individuals as part of our application or job offer process. Before providing any personal information to outside parties, please verify the following: A) all legitimate Heartflow recruiter email addresses end with “@heartflow.com” and B) the position described is found on our careers site at www.heartflow.com/about/careers/.</description>
         <pubDate>2026-10-05</pubDate>
     </item>
     
@@ -3900,6 +4074,112 @@ Dolby is proud to be an equal opportunity employer. Our success depends on the c
     </item>
     
     <item>
+        <title>Data Scientist II - Scribd, Inc.</title>
+        <link>https://www.linkedin.com/jobs/view/4438362248</link>
+        <description>Scribd, Inc. is on a mission to advance human understanding. Our four products — Scribd®, Slideshare®, Everand™, and Fable — help billions of people across the globe move beyond access and into insight, application, and expertise.
+  
+  
+**Culture at Scribd, Inc.**
+We support a culture where our employees can be real and be bold; where we debate and commit as we embrace plot twists; and where every employee is empowered to take action as we prioritize the customer.
+  
+  
+We believe the best work happens when individual flexibility is balanced with meaningful community connection. Scribd Flex empowers employees to choose the workstyle and location that support their best performance, while committing to intentional in-person moments that strengthen collaboration and culture. Occasional in-person attendance is required for all Scribd, Inc. employees, regardless of location.
+  
+  
+So what are we looking for in new team members? At Scribd, Inc., we hire for “GRIT.” Traditionally defined as the intersection of passion and perseverance toward long-term goals, GRIT reflects the mindset we expect from every employee. For us, it also serves as a practical framework for how we work: setting and achieving Goals, delivering Results within your role, contributing Innovative ideas and solutions, and strengthening the broader Team through collaboration and attitude.
+  
+  
+This posting reflects an approved, open position within the organization.
+  
+  
+**About The Team**
+The Applied Research team is a group of data scientists and content specialists who are experts in leveraging machine learning, natural language processing and generative AI models to develop solutions which deliver value to our users and business.
+  
+  
+We act as a key driver for innovation, whether it’s in product surface experimentation, metadata generation or model development. Along with Product and Engineering partners, we design solutions and collaborate in cross-functional squads to maximize business impact.
+  
+  
+Our areas of impact include content enrichment, representation learning, recommendations, search, translation and many others, applied to diverse media across text, image, and audio. We operate at a scale of hundreds of millions of documents, millions of users and billions of user interactions.
+  
+  
+**Role Overview**
+We are seeking a Data Scientist II with experience developing and deploying machine learning models. You will help design and implement high impact AI and ML systems. We work in cross-functional teams collaborating with Machine Learning Engineers, Data Engineers and Product. We are seeking a curious and collaborative individual with an eye for simplicity, end-end visibility and impact and that is excited about building models using massive amounts of data, using language models and deploying models.
+  
+  
+**Responsibilities**
+
+* Focus on a variety of content classification use cases, leveraging everything from traditional NLP to sophisticated LLMs and generative models
+* Investigate methods of solving our most challenging problems at Scribd, Inc. at scale
+* Collaborate with other Data Scientists, Machine Learning Engineers and ML Data Engineers on cross-functional projects
+* Leverage any algorithm at your disposal: from classical Scikit-learn and NumPy models to custom Neural Networks in PyTorch to third party LLM APIs
+* Process massive amounts of data with Python, SQL and Spark
+* Align with stakeholders through written and verbal communications methods on the approaches and results of projects, while writing detailed, accurate and concise project documentation
+
+**Requirements**
+
+* 4+ years of post qualification experience in NLP, developing machine learning models, working with systems at scale and deploying to production environments.
+* Proficiency in Python.
+* Hands-on experience building ML pipelines and working with distributed data processing frameworks like Apache Spark, Databricks, or similar.
+* Intermediate level in at least three of these fields: classification algorithms, natural language processing, search, information retrieval, named entity recognition, deep learning, generative models.
+* Intermediate level or greater experience with SQL or PySpark.
+* Bachelors or Masters in relevant quantitative discipline including but not limited to Statistics, Computer Science, Data Science, Artificial Intelligence or another field with a strong quantitative focus.
+
+At Scribd, Inc. your base pay is one part of your total compensation package and is determined within a range. Our pay ranges are based on the local cost of labor benchmarks for each specific role, level, and geographic location. San Francisco is our highest geographic market in the United States. In the state of California, the reasonably expected salary range is between $118,000 [minimum salary in our lowest geographic market within California] to $184,000 [maximum salary in our highest geographic market within California].
+  
+  
+In the United States, outside of California, the reasonably expected salary range is between $97,000 [minimum salary in our lowest US geographic market outside of California] to $175,000 [maximum salary in our highest US geographic market outside of California].
+  
+  
+In Canada, the reasonably expected salary range is between $123,000 CAD[minimum salary in our lowest geographic market] to $150,000 CAD[maximum salary in our highest geographic market].
+  
+  
+We carefully consider a wide range of factors when determining compensation, including but not limited to experience; job-related skill sets; relevant education or training; and other business and organizational needs. The salary range listed is for the level at which this job has been scoped. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for a competitive equity ownership, and a comprehensive and generous benefits package.
+  
+  
+**Working at Scribd, Inc.**
+**Are you currently based in a location where Scribd, Inc. can employ you?**
+Employees must have their
+**primary residence in or near**
+one of the following cities. This includes surrounding metro areas or locations within a typical commuting distance:
+  
+  
+**United States**
+Atlanta | Austin | Boston | Dallas | Denver | Chicago | Houston | Jacksonville | Los Angeles | Miami | New York City | Phoenix | Portland | Sacramento | Salt Lake City | San Diego | San Francisco | Seattle | Washington D.C.
+  
+  
+**Canada**
+Ottawa | Toronto | Vancouver
+  
+  
+**Mexico**
+Mexico City
+  
+  
+**Benefits At Scribd, Inc.**
+
+* Scribd Flex (flexible work model)
+* Comprehensive health, dental, and vision coverage
+* Mental health support and disability coverage
+* Generous paid time off, including vacation, sick time, holidays, winter break, volunteer time, and sabbaticals
+* Paid parental leave and family support benefits
+* Retirement matching and employee equity
+* Learning and development programs and professional growth opportunities
+* Wellness and home office stipends
+* Complimentary access to the Scribd, Inc. suite of products
+* Enterprise access to leading AI tools
+
+**Get to Know Scribd, Inc.**
+**About Scribd, Inc.**
+**Life at Scribd, Inc.**
+*We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing accommodations@scribd.com about the need for adjustments at any point in the interview process.*
+*If you apply for a job with Scribd, Inc. or otherwise engage with us in connection with employment (including as an employee, contractor, or other personnel), the personal information we process in that context is subject to our Employee and Applicant Privacy Policy, which is available*
+*here*
+*.*
+*Scribd, Inc. is committed to equal employment opportunity regardless of race, color, religion, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characte</description>
+        <pubDate>2026-10-04</pubDate>
+    </item>
+    
+    <item>
         <title>Data Scientist, Analytics (Technical Leadership) - Meta</title>
         <link>https://www.linkedin.com/jobs/view/4254372628</link>
         <description>We are seeking experienced Data Scientists to join our team and drive impact across various product areas. As a Data Scientist, you will collaborate with cross-functional partners to identify and solve complex problems using data and analysis. Your role will involve shaping product development, quantifying new opportunities, and ensuring products bring value to users and the company. You will guide teams using data-driven insights, develop hypotheses, and employ rigorous analytical approaches to test them. You will tell data-driven stories, present clear insights, and build credibility with stakeholders. By joining our team, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.
@@ -4050,112 +4330,6 @@ Diversity &amp; Inclusion
   
   
 TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities </description>
-        <pubDate>2026-10-04</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist II - Scribd, Inc.</title>
-        <link>https://www.linkedin.com/jobs/view/4438362248</link>
-        <description>Scribd, Inc. is on a mission to advance human understanding. Our four products — Scribd®, Slideshare®, Everand™, and Fable — help billions of people across the globe move beyond access and into insight, application, and expertise.
-  
-  
-**Culture at Scribd, Inc.**
-We support a culture where our employees can be real and be bold; where we debate and commit as we embrace plot twists; and where every employee is empowered to take action as we prioritize the customer.
-  
-  
-We believe the best work happens when individual flexibility is balanced with meaningful community connection. Scribd Flex empowers employees to choose the workstyle and location that support their best performance, while committing to intentional in-person moments that strengthen collaboration and culture. Occasional in-person attendance is required for all Scribd, Inc. employees, regardless of location.
-  
-  
-So what are we looking for in new team members? At Scribd, Inc., we hire for “GRIT.” Traditionally defined as the intersection of passion and perseverance toward long-term goals, GRIT reflects the mindset we expect from every employee. For us, it also serves as a practical framework for how we work: setting and achieving Goals, delivering Results within your role, contributing Innovative ideas and solutions, and strengthening the broader Team through collaboration and attitude.
-  
-  
-This posting reflects an approved, open position within the organization.
-  
-  
-**About The Team**
-The Applied Research team is a group of data scientists and content specialists who are experts in leveraging machine learning, natural language processing and generative AI models to develop solutions which deliver value to our users and business.
-  
-  
-We act as a key driver for innovation, whether it’s in product surface experimentation, metadata generation or model development. Along with Product and Engineering partners, we design solutions and collaborate in cross-functional squads to maximize business impact.
-  
-  
-Our areas of impact include content enrichment, representation learning, recommendations, search, translation and many others, applied to diverse media across text, image, and audio. We operate at a scale of hundreds of millions of documents, millions of users and billions of user interactions.
-  
-  
-**Role Overview**
-We are seeking a Data Scientist II with experience developing and deploying machine learning models. You will help design and implement high impact AI and ML systems. We work in cross-functional teams collaborating with Machine Learning Engineers, Data Engineers and Product. We are seeking a curious and collaborative individual with an eye for simplicity, end-end visibility and impact and that is excited about building models using massive amounts of data, using language models and deploying models.
-  
-  
-**Responsibilities**
-
-* Focus on a variety of content classification use cases, leveraging everything from traditional NLP to sophisticated LLMs and generative models
-* Investigate methods of solving our most challenging problems at Scribd, Inc. at scale
-* Collaborate with other Data Scientists, Machine Learning Engineers and ML Data Engineers on cross-functional projects
-* Leverage any algorithm at your disposal: from classical Scikit-learn and NumPy models to custom Neural Networks in PyTorch to third party LLM APIs
-* Process massive amounts of data with Python, SQL and Spark
-* Align with stakeholders through written and verbal communications methods on the approaches and results of projects, while writing detailed, accurate and concise project documentation
-
-**Requirements**
-
-* 4+ years of post qualification experience in NLP, developing machine learning models, working with systems at scale and deploying to production environments.
-* Proficiency in Python.
-* Hands-on experience building ML pipelines and working with distributed data processing frameworks like Apache Spark, Databricks, or similar.
-* Intermediate level in at least three of these fields: classification algorithms, natural language processing, search, information retrieval, named entity recognition, deep learning, generative models.
-* Intermediate level or greater experience with SQL or PySpark.
-* Bachelors or Masters in relevant quantitative discipline including but not limited to Statistics, Computer Science, Data Science, Artificial Intelligence or another field with a strong quantitative focus.
-
-At Scribd, Inc. your base pay is one part of your total compensation package and is determined within a range. Our pay ranges are based on the local cost of labor benchmarks for each specific role, level, and geographic location. San Francisco is our highest geographic market in the United States. In the state of California, the reasonably expected salary range is between $118,000 [minimum salary in our lowest geographic market within California] to $184,000 [maximum salary in our highest geographic market within California].
-  
-  
-In the United States, outside of California, the reasonably expected salary range is between $97,000 [minimum salary in our lowest US geographic market outside of California] to $175,000 [maximum salary in our highest US geographic market outside of California].
-  
-  
-In Canada, the reasonably expected salary range is between $123,000 CAD[minimum salary in our lowest geographic market] to $150,000 CAD[maximum salary in our highest geographic market].
-  
-  
-We carefully consider a wide range of factors when determining compensation, including but not limited to experience; job-related skill sets; relevant education or training; and other business and organizational needs. The salary range listed is for the level at which this job has been scoped. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for a competitive equity ownership, and a comprehensive and generous benefits package.
-  
-  
-**Working at Scribd, Inc.**
-**Are you currently based in a location where Scribd, Inc. can employ you?**
-Employees must have their
-**primary residence in or near**
-one of the following cities. This includes surrounding metro areas or locations within a typical commuting distance:
-  
-  
-**United States**
-Atlanta | Austin | Boston | Dallas | Denver | Chicago | Houston | Jacksonville | Los Angeles | Miami | New York City | Phoenix | Portland | Sacramento | Salt Lake City | San Diego | San Francisco | Seattle | Washington D.C.
-  
-  
-**Canada**
-Ottawa | Toronto | Vancouver
-  
-  
-**Mexico**
-Mexico City
-  
-  
-**Benefits At Scribd, Inc.**
-
-* Scribd Flex (flexible work model)
-* Comprehensive health, dental, and vision coverage
-* Mental health support and disability coverage
-* Generous paid time off, including vacation, sick time, holidays, winter break, volunteer time, and sabbaticals
-* Paid parental leave and family support benefits
-* Retirement matching and employee equity
-* Learning and development programs and professional growth opportunities
-* Wellness and home office stipends
-* Complimentary access to the Scribd, Inc. suite of products
-* Enterprise access to leading AI tools
-
-**Get to Know Scribd, Inc.**
-**About Scribd, Inc.**
-**Life at Scribd, Inc.**
-*We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing accommodations@scribd.com about the need for adjustments at any point in the interview process.*
-*If you apply for a job with Scribd, Inc. or otherwise engage with us in connection with employment (including as an employee, contractor, or other personnel), the personal information we process in that context is subject to our Employee and Applicant Privacy Policy, which is available*
-*here*
-*.*
-*Scribd, Inc. is committed to equal employment opportunity regardless of race, color, religion, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characte</description>
         <pubDate>2026-10-04</pubDate>
     </item>
     
@@ -7681,17 +7855,6 @@ We are an equal opportunity employer. We do not discriminate on the basis of rac
     </item>
     
     <item>
-        <title>Sr Data Scientist, Amazon - Vertical Ads - Amazon Science</title>
-        <link>https://www.linkedin.com/jobs/view/4473134276</link>
-        <description>**Notice of Right to Opt-Out Sharing**
-Amazon Jobs uses cookies and similar tools such as pixels (collectively, “cookies”) for advertising purposes. The cookies collect and share information about you with third-parties to serve you with relevant advertisements and job recommendations based on your interactions with Amazon Jobs and third-party sites. California residents may exercise their right to opt-out of the sharing of information for advertising purposes by clicking toggling the buttons below. You can also manage your cookie preferences through the Cookie Preference Center.
-  
-  
-For more information about how we use cookies and information of how we collect cookies, please visit our Candidate Cookie Notice and Candidate Privacy Notice and the California supplement notice.</description>
-        <pubDate>2026-10-02</pubDate>
-    </item>
-    
-    <item>
         <title>Data Scientist III, Research - Google</title>
         <link>https://www.linkedin.com/jobs/view/4473392677</link>
         <description>In most instances, this position requires in-person interviews as part of the hiring process.
@@ -8553,96 +8716,6 @@ The expected wage range for a new hire into this position is $109,600 to $150,70
 * Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors.
 * This position qualifies for a discretionary performance-based bonus which is based on personal and company factors.
 * This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits.</description>
-        <pubDate>2026-10-01</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff, Data Scientist - Walmart</title>
-        <link>https://www.linkedin.com/jobs/view/4463073387</link>
-        <description>Position Summary...As a Staff Data Scientist at Walmart, you will leverage advanced analytical techniques and machine learning to transform complex data into actionable business insights. This role requires expertise in data strategy, model development, validation, and deployment to support critical decision-making across multiple business domains. You will collaborate with cross-functional teams to identify data sources, ensure data quality, and communicate findings through effective visualization. Your contributions will drive innovation and operational excellence, enabling Walmart to optimize performance and deliver measurable value in a dynamic, data-driven environment.
-  
-  
-What you'll do...About the team:
-  
-  
-The team specializes in leveraging advanced data science techniques, including predictive analytics, machine learning, and data visualization, to deliver actionable business insights. Members collaborate across functions to identify data sources, ensure data quality, and develop robust analytical models. They apply statistical methods and programming skills to solve complex problems, support data strategy, and communicate findings effectively to stakeholders. The team fosters continuous learning and innovation, driving improvements through rigorous model validation and deployment. Their work supports informed decision-making and contributes to achieving strategic business objectives within a dynamic environment.
-  
-  
-What you'll do:
-  
-  
-
-* Identify and source relevant data from multiple business domains, ensuring data quality and suitability for analysis.
-* Develop and implement data strategies aligned with business objectives to unlock value from data assets.
-* Build, validate, and tune predictive models using advanced statistical and machine learning techniques.
-* Create clear and impactful data visualizations to communicate insights effectively to stakeholders.
-* Translate complex business problems into data-driven solutions and actionable recommendations.
-* Collaborate with cross-functional teams to deploy scalable models and monitor their performance.
-* Mentor junior team members on analytical methods, coding best practices, and data storytelling.
-
-What you'll bring:
-  
-  
-
-* Proven expertise in predictive analytics, machine learning algorithms, and data science methodologies.
-* Proficiency in Python programming and advanced data visualization tools such as Matplotlib, Plotly, or Tableau.
-* Strong knowledge of data strategy, including data quality standards, governance, and scalable data storage solutions.
-* Experience conducting exploratory data analysis and applying statistical methods to interpret complex datasets.
-* Ability to assess, validate, and tune models using best practices and relevant evaluation metrics.
-* Understanding of business context to translate requirements into actionable data-driven solutions.
-* Skilled in coding, testing, and deploying models and data applications in production environments.
-
-At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
-  
-  
-Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
-  
-  
-**For Information About Benefits And Eligibility, See One.Walmart.**
-Sunnyvale, California US-11789: The annual salary range for this position is $143,000.00 - $286,000.00
-  
-  
-Bellevue, Washington US-11663: The annual salary range for this position is $132,000.00 - $264,000.00
-  
-  
-Bentonville, Arkansas US-30008: The annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
-  
-  
-
-* Stock
-
-ㅤ
-  
-  
-ㅤ
-  
-  
-ㅤ
-  
-  
-ㅤ
-  
-  
-‎
-  
-  
-**Minimum Qualifications...**
-**Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.**
-Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics related field. Option 3: 6 years' experience in an analytics or related field
-  
-  
-**Preferred Qualifications...**
-**Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.**
-Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.
-  
-  
-Primary Location...
-  
-  
-809 11th Ave, Sunnyvale, CA 94089-4731, United States of America
-  
-  
-Walmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
         <pubDate>2026-10-01</pubDate>
     </item>
     
@@ -11640,7 +11713,7 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
     </item>
     
     <item>
-        <title>Data Scientist, B2B Generalist - OpenAI</title>
+        <title>Data Scientist, B2B Strategy &amp; Intelligence - OpenAI</title>
         <link>https://www.linkedin.com/jobs/view/4472109646</link>
         <description>**About The Role**
 We are hiring a Data Scientist to help build OpenAI's B2B ecosystem and go-to-market data science capability. You will turn ambiguous commercial questions into evidence, recommendations, and operating decisions that help OpenAI understand where to focus as our B2B business expands.
@@ -11704,7 +11777,7 @@ OpenAI Global Applicant Privacy Policy
 At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
   
   
-Compensation Range: $347K - $445K</description>
+Compensation Range: $347K - $510K</description>
         <pubDate>2026-09-30</pubDate>
     </item>
     
@@ -12447,111 +12520,6 @@ Compensation Range: $230K - $385K</description>
     </item>
     
     <item>
-        <title>Principal Machine Learning Engineer, Signals and Measurement - Snap Inc.</title>
-        <link>https://www.linkedin.com/jobs/view/4473554904</link>
-        <description>Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
-  
-  
-The Company operates Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc., a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji, Saturn, and other digital services.
-  
-  
-Snap Engineering teams build fun and technically sophisticated products that reach hundreds of millions of Snapchatters around the world, every day. We’re deeply committed to the well-being of everyone in our global community, which is why our values are at the root of everything we do. We move fast, with precision, and always execute with privacy at the forefront.
-  
-  
-We’re looking for a Principal Machine Learning Engineer to join our Signals &amp; Measurement team at Snap!
-  
-  
-What you’ll do:
-  
-  
-
-* Design and develop machine learning systems across the third-party signal lifecycle, from acquisition and curation to matching, attribution, and causal measurement
-* Design, implement, and scale critical machine learning models to support Snap's monetization strategies
-* Collaborate with cross-functional teams to set and align on machine learning strategies to meet company objectives
-* Stay up-to-date with the latest technology in machine learning and apply this knowledge to tackle complex problems in innovative ways
-* Collaborate with leadership to up-level the ML tech stack and improve the performance of the organization
-* Work across teams to understand product requirements, evaluate trade-offs, and deliver the solutions needed to build innovative products or services
-* Advocate for and apply best practices when it comes to availability, scalability, operational excellence, and cost management
-* Provide technical direction that influences the entire ML community
-
-Knowledge, Skills &amp; Abilities:
-  
-  
-
-* Strong understanding of machine learning and deep learning approaches and algorithms, and their applications to advertising measurement, recommendation, and/or search domain
-* Experience setting the direction for a team whose primary output is online ranking / recommendation models
-* Ability to design, train, and optimize advanced machine learning models
-* Excellent programming and software design skills
-* Ability to proactively learn new concepts and technology and apply them at work
-* Skilled at solving ambiguous problems and leading and executing complex technical initiatives
-* Strong collaboration and mentorship skills
-
-Minimum Qualifications:
-  
-  
-
-* Bachelor's in a technical field such as computer science, mathematics, statistics or equivalent years of experience
-* 11+ years of industry machine learning experience
-* Experience developing and shipping performant and scalable machine learning models for recommendation or ranking use cases
-* Experience with TensorFlow, PyTorch, or related deep learning frameworks
-
-Preferred Qualifications:
-  
-  
-
-* Experience with signals and measurement stack, identity resolution, anomaly detection or causal measurement
-* Familiar with attribution and advanced measurement methodologies
-* Experience in online advertising, including ad targeting, ranking, auction, and/or marketplace optimization.
-* Advanced degree in a related field such as machine learning, computer vision, or mathematics
-* Experience partnering with cross-functional executives and management across a globally distributed organization and exercising sound judgment
-* Track record of delivery in rapidly changing, highly collaborative, multi-site, multi-stakeholder environments
-* Experience working with a diverse group of engineers
-* Experience contributing to AI publications
-
-"Default Together" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office 4+ days per week.
-  
-  
-At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets.
-  
-  
-We are an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with applicable law (by example, the requirements of the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, where applicable).
-  
-  
-Our Benefits: Snap Inc. is its own community, so we’ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap’s long-term success!
-  
-  
-**Compensation**
-In the United States, work locations are assigned a pay zone which determines the salary range for the position. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. The starting pay may be negotiable within the salary range for the position. These pay zones may be modified in the future.
-  
-  
-Zone A (CA, WA, NYC):
-  
-  
-The base salary range for this position is $276,000-$414,000 annually.
-  
-  
-Zone B:
-  
-  
-The base salary range for this position is $262,000-$393,000 annually.
-  
-  
-Zone C:
-  
-  
-The base salary range for this position is $235,000-$352,000 annually.
-  
-  
-This position is eligible for equity in the form of RSUs.
-  
-  
-If you believe this job description is missing required pay transparency information, please submit a report through this form:
-**Job Description Pay Range Disclosure**
-**.**</description>
-        <pubDate>2026-09-30</pubDate>
-    </item>
-    
-    <item>
         <title>Sr. Manager, Machine Learning Engineering, Ads Measurement Products - Pinterest</title>
         <link>https://www.linkedin.com/jobs/view/4473711784</link>
         <description>**About Pinterest**
@@ -12863,343 +12831,6 @@ Bellevue, Washington US-11663: The annual salary range for this position is $132
 **Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.**
 Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Informat</description>
         <pubDate>2026-09-30</pubDate>
-    </item>
-    
-    <item>
-        <title>Vice President, Analytics Models &amp; Innovation - Marsh</title>
-        <link>https://www.linkedin.com/jobs/view/4473962953</link>
-        <description>Marsh Risk Analytics Solutions is seeking a Vice President to lead digital deployment and integration of our actuarial models and content. Your primary responsibility will be to engage with our digital product development teams and providing expert guidance on actuarial methodologies, model integrations, and product development. You will also be involved in product design, testing, and presenting methodologies to senior internal stakeholders.
-  
-  
-This opportunity is well suited to an experienced actuary, statistician, mathematician, or quantitative professional with experience of digital product development.
-**Actuarial credentials are very highly valued but are not required.**
-**We will count on you to:**
-
-* Manage model deployment and integration with digital products from planning through delivery. Establish scope, responsibilities, milestones, and deadlines; coordinate analysts and development teams; and proactively resolve methodological gaps, technical questions, and delivery risks.
-* Guide product development and integration. Work directly with the digital product development team throughout the product lifecycle to help them understand analytics content, design world-class digital analytics products, and meet development deadlines.
-* Be the primary point of contact and subject matter expert for digital analytics content. Educate stakeholders on appropriate methodologies, calculations, and model outputs. Create a strong governance framework around deploying and monitoring analytics content, building test frameworks, challenging use cases, and suggesting alternative approaches.
-* Present clear, justified methodology and design decisions. Explain results, uncertainty, and implications for product strategists, analytics leaders, and executive audiences. Develop presentations that connect technical analysis to the decisions our stakeholders need to make.
-* Contribute to stakeholder relationships and growth. Partner with colleagues to understand client needs, shape appropriate analytical approaches, and explain our capabilities to existing and prospective clients.
-
-**What you need to have:**
-
-* Six or more years of relevant technical experience in actuarial analysis, statistics, mathematical modeling, data science, risk analytics, or a related quantitative field.
-* A strong foundation in probability, statistics, and quantitative modeling, with the judgment to evaluate assumptions, assess results, and recognize model limitations.
-* Significant digital product development experience, or experience deploying models to production environments
-* Strong project management skills, including the ability to coordinate contributors, manage competing priorities, and deliver high-quality work against deadlines.
-* Clear written and verbal communication skills, with the ability to explain technical concepts and their business implications to nontechnical audiences.
-* A collaborative approach to problem-solving, accountability for work quality, and an interest in coaching and developing colleagues.
-
-**What makes you stand out:**
-
-* Actuarial exam progress toward ACAS or FCAS, or an earned ACAS or FCAS designation. Other actuarial credentials, including ASA or FSA, are also valued.
-* Insurance experience, particularly in property and casualty, loss modeling, insurance program evaluation, or risk financing.
-* Software development experience, particularly developing analytics tools and products
-* Experience with stochastic modeling, Monte Carlo simulation, predictive modeling, or retained-loss analysis.
-
-**Why join our team?**
-We help you be your best through professional development opportunities, interesting work and supportive leaders. We foster a vibrant and inclusive culture where you can work with talented colleagues to create new solutions and have impact for colleagues, clients and communities. Our scale enables us to provide a range of career opportunities, as well as benefits and rewards to enhance your well-being.
-  
-  
-We welcome applicants from actuarial, statistics, mathematics, and other quantitative backgrounds. If you meet the core requirements, we encourage you to apply even if you do not meet every preferred qualification.
-  
-  
-Marsh (NYSE: MRSH) is a global leader in risk, reinsurance and capital, people and investments, and management consulting, advising clients in 130 countries. With annual revenue of over $27 billion and more than 95,000 colleagues, Marsh helps build the confidence to thrive through the power of perspective. For more information, visit marsh.com, or follow us on LinkedIn and X.
-  
-  
-Marsh is committed to embracing a diverse, inclusive and flexible work environment. We aim to attract and retain the best people and embrace diversity of age background, disability, ethnic origin, family duties, gender orientation or expression, marital status, nationality, parental status, personal or social status, political affiliation, race, religion and beliefs, sex/gender, sexual orientation or expression, skin color, veteran status (including protected veterans), or any other characteristic protected by applicable law. If you have a need that requires accommodation, please let us know by contacting reasonableaccommodations@marsh.com.
-  
-  
-Marsh is committed to hybrid work, which includes the flexibility of working remotely and the collaboration, connections and professional development benefits of working together in the office. All Marsh colleagues are expected to be in their local office or working onsite with clients at least three days per week. Office-based teams will identify at least one “anchor day” per week on which their full team will be together in person.
-  
-  
-The applicable base salary range for this role is $121,900 to $259,700.
-  
-  
-The base pay offered will be determined on factors such as experience, skills, training, location, certifications, education, and any applicable minimum wage requirements. Decisions will be determined on a case-by-case basis. In addition to the base salary, this position may be eligible for performance-based incentives.
-  
-  
-We are excited to offer a competitive total rewards package which includes health and welfare benefits, tuition assistance, 401K savings and other retirement programs as well as employee assistance programs.
-  
-  
-**R\_365781**</description>
-        <pubDate>2026-09-30</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Staff Data Scientist, Flagship - LinkedIn</title>
-        <link>https://www.linkedin.com/jobs/view/4473522736</link>
-        <description>LinkedIn is the world's largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. We're also committed to providing transformational opportunities for our own employees by investing in their growth. We aspire to create a culture that's built on trust, care, inclusion, and fun – where everyone can succeed.
-
-Join us to transform the way the world works.
-
-**Job Description**
-
-**Location:**
-  
-  
-  
-At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. This role may be remote or hybrid. At LinkedIn, hybrid roles are performed both from home and from a LinkedIn office on select days, as determined by the business needs of the team. Remote roles are performed from the designated home work location upon time of hire, and any changes to this home work location requires a review of remote status and approval.
-  
-  
-  
-  
-This role will be based in Sunnyvale CA, Bellevue WA, New York NY, or Remote.
-  
-  
-  
-  
-**Team Overview:**
-
-The Flagship Growth Data Science team focuses on accelerating LinkedIn Growth with strategic and actionable insights and measurement in close collaboration with the rest of the Growth R&amp;D team. System Insights DS team focuses on deepening understanding of and identifying opportunities in the intricate AI systems across Flagship. We work across different Growth and Flagship Experience areas including SEO/AEO, login/signup, new members, notifications, email, networking, Feed, Search, etc. and collaborate with cross-functional partners in Product, Engineering, AI, Marketing, Business Development, Design and UER teams.
-
-**Responsibilities:**
-  
-  
-  
-Serve as Technical Lead for Flagship Growth and AI System Insights Data Science team of 15-20 of Data Scientists. Beyond product ops &amp; strategy and experimentations, this individual will also be leading initiatives across AI model diagnostics &amp; enhancements, LLM-as-a-judge evaluation, and productivity improvements through AI-powered tooling.
-
-* Act as a thought partner to senior leaders to prioritize/scope projects, provide recommendations, and evangelize data-driven business decisions in support of strategic goals.
-* Provide technical guidance and mentorship to junior team members on solution design as well as lead code/design reviews.
-* Drive org-wide impact by shaping product and business strategy through data-centric presentations.
-* Work with a team of high-performing data science professionals, and cross-functional teams to identify business opportunities, optimize product performance or go to market strategy.
-* Analyze large-scale structured and unstructured data; develop deep-dive analyses and machine learning models to drive member value and customer success.
-* Design and develop core business metrics, create insightful automated dashboards and data visualization to track them and extract useful business and product insights.
-* Develop and analyze experiments to test new product ideas or go to market strategies. Convert the results into actionable recommendations. Independently craft compelling stories; make logical recommendations; drive informed actions.
-* Engage with technology partners to build, prototype and validate scalable tools/applications end to end (backend, frontend, data) for converting data to insights.
-
-**Qualifications**
-
-**Basic Qualifications:**
-
-* 7+ years of relevant work experience as a Data Scientist, Applied Scientist, or Data Engineer.
-* Bachelor or higher degree in a quantitative discipline: statistics, operations research, computer science, informatics, engineering, applied mathematics, economics, etc.
-* Experience influencing strategy through data-centric presentations .
-* Experience in SQL, Python, and/or additional programming languages such as R and Scala.
-* Experience in applied statistics and statistical modeling in at least one statistical software package.
-* Experience running platform experiments and techniques like A/B testing
-
-**Preferred Qualifications:**
-
-* At least (3) years of technical, thought, and/or team leadership experience in Data Science, Applied Science, Business Analytics, or Data Engineering.
-* Master’s or PhD degree in Statistics, Data Science, Engineering, Economics, Mathematics, or a related discipline.
-* Experience with manipulating massive-scale structured and unstructured data.
-* Experience mentoring and providing technical or thought leadership for other data scientists
-* Excellent communication skills, with the ability to synthesize, simplify and explain complex problems to different types of audience, including executives and compile compelling narratives.
-
-**Suggested Skills:**
-
-* Technical Leadership
-* Experimentation &amp; Causal Inference
-* Data Science
-* Coding with AI
-
-**You will Benefit from our Culture:**
-
-We strongly believe in the well-being of our employees and their families. That is why we offer generous health and wellness programs and time away for employees of all levels. LinkedIn is committed to fair and equitable compensation practices.
-  
-  
-  
-  
-Compensation:
-  
-  
-  
-  
-The pay range for this role is $174,000 - $286,000. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. This may be different in other locations due to differences in the cost of labor.
-  
-  
-  
-  
-The total compensation package for this position may also include annual performance bonus, stock, benefits and/or other applicable incentive compensation plans. For more information, visit https://careers.linkedin.com/benefits.
-
-**Additional Information**
-
-**Equal Opportunity Statement**
-
-We seek candidates with a wide range of perspectives and backgrounds and we are proud to be an equal opportunity employer. LinkedIn considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
-
-LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an inclusive and accessible workplace where everyone has the opportunity to be successful.
-
-If you need a Reasonable Accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us and describe the specific Accommodation requested for a disability-related limitation.
-  
-  
-Fill out an Accommodation request here: https://app.smartsheet.com/b/form/b660a0327d044969abfd7a4e73d15c36
-
-Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process. Examples of reasonable accommodations include but are not limited to:
-
-* Documents in alternate formats or read aloud to you
-* Having interviews in an accessible location
-* Being accompanied by a service dog
-* Having a sign language interpreter present for the interview
-
-A request for an accommodation will be responded to within three business days. However, non-disability related requests, such as following up on an application, will not receive a response.
-
-LinkedIn will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not </description>
-        <pubDate>2026-09-29</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Data Scientist - Warner Bros. Discovery</title>
-        <link>https://www.linkedin.com/jobs/view/4455588265</link>
-        <description>***Welcome to Warner Bros. Discovery… the stuff dreams are made of.***
-
-**Who We Are…**
-
-When we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the
-*storytellers*
-bringing our characters to life, the
-*creators*
-bringing them to your living rooms and the
-*dreamers*
-creating what’s next…
-
-From brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.
-
-*Every great story has a new beginning, and yours starts here.*
-
-*Welcome to Warner Bros. Discovery… the stuff dreams are made of.*
-
-Who We Are…
-
-When we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the
-*storytellers*
-
-bringing our characters to life, the
-*creators*
-
-bringing them to your living rooms and the
-*dreamers*
-
-creating what’s next…
-
-From brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.
-
-**Principal Research Scientist (Recommender Systems)**
-
-**The Job**
-
-The Principal Research Scientist (Recommender systems) will lead large and complex technical projects by developing innovative machine learning algorithms and directing the work of talented Machine Learning (ML) and Artificial Intelligence (AI) researchers and engineers towards building scalable ML solutions for HBO Max. This role will be focused on advancing personalization and recommender systems and search to drive user experience and growth.
-
-The person in the role will partner closely with product, engineering, content, marketing, and research stakeholders across WBD to identify ML opportunities, accelerate AI innovation, and to ensure delivery of impactful solutions for the business.
-
- 
-  
-
-**The Daily**
-
-* Develop innovative data science solutions that utilize machine learning and deep learning algorithms, statistical and quantitative modeling approaches to support product, engineering and marketing initiatives.
-* Be a hands-on leader to mentor the team in the latest machine learning approaches, and to introduce new technologies and processes.
-* Partner with ML engineering leadership to design and develop scalable machine learning systems to accelerate the learning cycle.
-* Identify data science opportunities that deliver business value.
-* Formulate key areas of the ML/AI roadmap, and educate both internal and external stakeholders at all levels to drive implementation and measurement.
-* Provide thought leadership to enable ML/AI applications.
-* Develop and evangelize best practices for scoping, building, validating, deploying, and monitoring ML/AI products.
-* Prepare and present ML modeling results and analytical insights that help drive the business to senior leadership.
-
-**The Essentials**
-
-* Masters in Computer Science, Mathematics, Physics, Engineering, Statistics, Operations Research, or other equivalent quantitative fields (PhD preferred)
-* 8 + years of work experience in Machine Learning, AI and Data Science with a proven track record to drive innovation and business impacts
-* Strong experience in Recommender systems, personalization systems, collaborative filtering and information retrieval systems.
-* Strong machine learning, deep learning, and statistical modeling expertise, such as causal inference modeling, ensembles, neural networks, NLP, reinforcement learning and bandits
-* Familiarity and experience with modern large language model based techniques for recommender systems and personalization.
-* Advanced knowledge of SQL and experience with big data platform (AWS, Snowflake, Spark, Google Cloud etc.)
-* Proficiency in machine learning and deep learning languages and platforms (Python, TensorFlow, Keras, PyTorch etc.)
-* Experience in deploying machine learning algorithms and advanced modeling solutions
-* Proven ability to deliver results in a fast-paced, high-energy environment
-* Strong communication skills and the ability to explain complex analysis and algorithms to non-technical audience
-* Works effectively cross functional teams to build trusted partnership
-* Working experience in digital media and entertainment industry preferred
-
-**How We Get Things Done…**
-
-This last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-www.wbd.com/guiding-principles/
-
-along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.
-
-**Championing Inclusion at WBD**
-
-Warner Bros. Discovery embraces the opportunity to build a workforce that reflects a wide array of perspectives, backgrounds and experiences. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.
-
-If you’re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our
-accessibility page
-for instructions to submit your request.
-
-In compliance with local law, we are disclosing the compensation, or a range thereof, for roles in locations where legally required. Actual salaries will vary based on several factors, including but not limited to external market data, internal equity, location, skill set, experience, and/or performance. Base pay is just one component of Warner Bros. Discovery’s total compensation package for employees. Pay Range: $227,850.00 - $423,150.00 salary per year. Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards. In addition, Warner Bros. Discovery provides a variety of benefits to employees, including health insurance coverage, an employee wellness program, life and disability insurance, a retirement savings plan, paid holidays and sick time and vacation.If you’re a qualified candidate with an arrest or conviction record, please know that your application will be considered in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</description>
-        <pubDate>2026-09-29</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist - Flex Pay - Upgrade, Inc.</title>
-        <link>https://www.linkedin.com/jobs/view/4471953632</link>
-        <description>**About the Role:**
-
-We are seeking a highly analytical and results-driven Data Scientist to join our buy now pay later (BNPL) sector called Flex Pay. You will play a key role in building predictive risk models, optimizing offers and pricing, and extracting insights that drive product development, risk mitigation, and customer strategy. This role requires a strong foundation in statistics, machine learning, and programming. 
-
-*This position is based in our San Francisco office in a hybrid capacity, specifically on Wednesdays and Thursdays.*
-
-**What You’ll Do**
-: 
-
-* Build and maintain credit and fraud policy simulators used to ensure properly functioning systems and identify risk decisioning enhancements.
-* Build and deploy statistical models and machine learning algorithms to solve business problems in areas like credit risk, fraud detection, pricing, customer segmentation, and marketing attribution.
-* Validate models to identify factors that may affect model performance.
-* Analyze large, structured and unstructured datasets using SQL, Python or similar tools.
-* Stay up to date with the latest trends and technologies in data science and fintech, actively research new tools and techniques available for model development.
-* Collaborate with cross-functional teams including risk, marketing, product, and engineering to define data-driven strategies.
-
-**What We Look For**
-:
-
-* Advanced Degree (MS/PhD) in Data Science, Statistics, Mathematics, Computer Science, Finance, or a related quantitative discipline.
-* 3-5+ years of hands-on experience in a data science or analytics role, preferably in financial services.
-* Experience and/or strong interest in machine learning techniques (Random Forest, Gradient Boosted Trees, etc.) strongly preferred.
-* Strong proficiency in Python (Pandas, Numpy, Scikit-learn) and SQL.
-* Ability to write documentation and present analysis to people with different levels of expertise (e.g., technical staff, business leads, etc.).
-* Proactive, driven, and ability to work in a fast paced environment.
-
-**Nice to Have**
-:
-
-* Experience with data visualization tools (e.g., Tableau, Power BI).
-* Experience with AI tools such as Claude
-* Experience with data technologies like PySpark.
-* Understanding of financial services concepts such as credit scoring, portfolio risk, or customer lifetime value.
-
- 
-
-**What We Offer You**
-: 
-
-* Competitive salary and stock option plan
-* Paid coverage of medical, dental and vision insurance
-* Competitive 401(k) and RRSP program
-* Flexible PTO
-* Opportunities for professional growth and development
-* Paid parental leave
-* Health &amp; wellness initiatives
-
-*The compensation range of this position in San Francisco, CA is USD $100,000-$150,000 annually plus equity and benefits. Within this range, an individual's base pay will be dependent on a variety of factors, including without limitation, job-related knowledge, skills, education, and experience.*</description>
-        <pubDate>2026-09-29</pubDate>
     </item>
     
 </channel>
