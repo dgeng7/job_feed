@@ -6,108 +6,102 @@
     <description>jobs</description>
     
     <item>
-        <title>(USA) Staff, Machine Learning Engineer - Walmart</title>
-        <link>https://www.indeed.com/viewjob?jk=750ddb34a1e77b95</link>
-        <description>**Position Summary...**
------------------------
+        <title>Lead Machine Learning Engineer - Salesforce</title>
+        <link>https://www.indeed.com/viewjob?jk=b326fa353265dcce</link>
+        <description>*To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.*
 
-**What you'll do...**
----------------------
+Job Category
 
-Position Summary...
+Software Engineering
 
-As a Staff Machine Learning Engineer, you will architect and lead the development of scalable, production-grade ML systems that address complex business challenges. This role requires designing robust ML architectures, driving innovation in advanced modeling techniques, and overseeing the full ML lifecycle from data sourcing to deployment and monitoring. You will provide technical leadership, mentor engineering and data science teams, and collaborate cross-functionally to ensure alignment with platform strategies. Your expertise will advance Walmart’s ML capabilities, delivering impactful solutions that enhance operational efficiency, customer and associate experiences  
-  
-**About the team**  
-  
-At FinTech, our team develops and scales AI and ML driven solutions for Finance enabling faster, smarter, more consistent and precise month end close process. We apply machine learning, statistical techniques, forecasting, computer vision and optimization techniques to solve complex financial challenges including anomalous sales posting, cash loss management, financial reconciliation and proactive insights through agentic tools. Our solutions span predictive AI, agentic AI, and perception AI through computer vision. The team combines deep technical expertise with strong business partnership to build robust, scalable systems that improve financial accuracy, operational efficiency, and decision-making across the organization.
+Job Details
 
-What you'll do...
+**About Salesforce**
 
-* Architect and guide scalable, production-grade machine learning systems integrated into customer/associate facing products.
-* Lead end-to-end ML lifecycle execution, including data sourcing, feature engineering, model training, deployment, and monitoring.
-* Partner with cross-functional teams to align ML solutions with broader platform strategies, ensuring effective integration, scalability, and long-term sustainability.
-* Design and build scalable, reliable infrastructure for deploying and serving computer vision models, leveraging containerization, GPU orchestration, and inference optimization frameworks such as NVIDIA TensorRT.
-* Drive end-to-end performance benchmarking, capacity planning, and cost optimization of ML workloads. Partner with MLOps and infrastructure teams to establish best practices for GPU utilization, model serving, monitoring, and production reliability.
-* Champion advanced MLOps practices such as CI/CD pipelines, model versioning, drift detection, and performance telemetry.
-* Mentor engineers, influence architectural decisions, and promote engineering excellence across teams.
-Evaluate emerging infrastructure patterns, model paradigms and platform capabilities into a forward-looking roadmap.  
+Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
 
-What you'll bring:
+Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.
 
-* Extensive experience architecting scalable, production-grade machine learning systems and platforms.
-* Hands-on experience designing, developing, and deploying computer vision solutions, including object detection, multi-object tracking, action recognition, and video analytics, using deep learning architectures and frameworks such as PyTorch, OpenCV, and YOLO.
-* Proven experience building and optimizing end-to-end computer vision pipelines, including video preprocessing, model training, fine-tuning, GPU-accelerated inference, and deployment, with a focus on accuracy, latency, throughput, and scalability.
-* Deep knowledge of neural networks, deep learning, natural language processing, reinforcement learning, and time series analysis.
-* Hands-on experience building systems that support advanced agentic architectures, such as memory, trace, eval, orchestration and routing layers for complex model systems.
-* Proven ability to lead technical strategy, mentor engineers, and influence cross-functional collaboration.
-* Excellent critical thinking and technical writing capabilities to communicate complex concepts clearly.
+Lead member of technical staff - Machine Learning Engineering
 
-At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.  
-  
-You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.
-  
-  
-For information about PTO, see https://one.walmart.com/notices.
-  
-  
-Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
-  
-  
-Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
-  
-  
-For information about benefits and eligibility, see One.Walmart.  
-  
-  
-  
-Sunnyvale, California US-11789: The annual salary range for this position is $169,000.00 - $338,000.00  
-  
-  
-  
-Bentonville, Arkansas US-09050: The annual salary range for this position is $130,000.00 - $260,000.00  
-  
-  
-  
-Additional compensation includes annual or quarterly performance bonuses.
-  
-  
-Additional compensation for certain positions may also include :
-  
-  
+Job Category: Software Engineering
 
-* Stock
+Job Details
 
-ㅤ
+About Salesforce
 
-ㅤ
+We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
 
-ㅤ
+We are a foundation machine learning platform team within the Trust Intelligence Platform organization with a main focus to build and accelerate scalable and resilient machine learning pipelines across the security engineering organization.
 
-ㅤ
+We are seeking a highly motivated, hands-on lead machine learning engineer with strong business understanding to define and execute the technical ML strategy. This role involves full lifecycle development and optimization of ML pipelines, with a strong focus on MLOps, infrastructure-as-code, CI/CD, and thorough monitoring. The lead will manage multiple ML pipelines, work closely with cross-functional teams, mentor others, and requires deep expertise in various ML technologies to deliver measurable business impact within a security and compliance framework. A critical component of this role is the proven ability to productize Generative AI solutions and agentic workflows to actively enhance the security posture and resilience for the organization and all Salesforce customers.
 
-‎
+Your impact:
 
-**Minimum Qualifications...**
------------------------------
+Define and drive the technical ML strategy, emphasizing robust and performant model architectures and MLOps practices.
 
-*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*
+Lead the end-to-end development of ML pipelines, focusing on automated retraining workflows and model optimization for cost and performance.
 
-Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering, machine learning engineering, AI systems or related area.  
-Option 2: 6 years’ experience in software engineering, machine learning engineering, AI systems or related area.
+Own a portfolio of multiple machine learning pipelines within security and compliance.
 
-**Preferred Qualifications...**
--------------------------------
+Implement infrastructure-as-code, CI/CD pipelines, and MLOps automation with a focus on model monitoring and drift detection.
 
-*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.*
+Design and implement comprehensive monitoring solutions for model performance, data quality, and system health.
 
-Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering, machine learning engineering, AI systems or related area., Prior work experience in accessibility best practices., Prior work experience in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly.
+Collaborate with Data Science, Data Engineering, Research, and Product Management teams to deliver scalable ML solutions with measurable impact.
 
-**Primary Location...**
------------------------
+Provide technical leadership in ML engineering best practices and mentor junior machine learning engineers.
 
-809 11th Ave, Sunnyvale, CA 94089-4731, United States of AmericaWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
-        <pubDate>2026-10-13</pubDate>
+Required skills:
+
+Masters or PhD in a quantitative field
+
+Extensive experience (6+ years) in the end-to-end lifecycle of multi-model machine learning systems, from design and development to large-scale deployment.
+
+Deep understanding and practical application of containerization (Docker) and workflow orchestration (Kubernetes, Apache Airflow) for automated ML pipelines.
+
+Mastery of Python programming, including proficiency in leading ML frameworks (TensorFlow, PyTorch) and adherence to software engineering best practices.
+
+Demonstrated success in implementing comprehensive MLOps methodologies, encompassing CI/CD pipelines, testing protocols, and model performance monitoring.
+
+Solid foundation in feature engineering techniques and the implementation of feature stores.
+
+Significant experience in developing and deploying generative AI solutions into production environments.
+
+Expertise in infrastructure-as-code principles, monitoring tools, and big data technologies (Spark, Snowflake).
+
+Experience in formulating ML governance policies and ensuring adherence to data security regulations.
+
+Successfully led machine learning initiatives, consistently delivering significant and quantifiable business outcomes.
+
+Exceptional collaboration abilities, with a strong capacity to work effectively across Data Science, Platform Engineering, Research and Product teams.
+
+Preferred skills:
+
+Expertise in advanced Natural Language Processing (NLP) methodologies.
+
+Demonstrated experience conducting research or working collaboratively with Machine Learning (ML) research teams.
+
+Previous experience in a mentoring role for junior engineers.
+
+Track record of publications and/or patents in quantitative disciplines.
+
+Unleash Your Potential
+
+When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and *be your best* , and our AI agents accelerate your impact so you can *do your best* . Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
+
+Accommodations
+
+If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form .
+
+Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.
+
+Posting Statement
+
+Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.
+
+In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, and benefits. Salesforce offers a variety of benefits to help you live well including: time off programs, medical, dental, vision, mental health support, paid parental leave, life and disability insurance, 401(k), and an employee stock purchasing program. More details about company benefits can be found at the</description>
+        <pubDate>2026-10-14</pubDate>
     </item>
     
     <item>
@@ -251,57 +245,107 @@ Uber is proud to be an Equal Opportunity employer. All qualified applicants will
     </item>
     
     <item>
-        <title>Machine Learning Engineer - Nox Metals</title>
-        <link>https://www.indeed.com/viewjob?jk=e127859782ca88b8</link>
-        <description>**Machine Learning Engineer | Nox Metals | Los Angeles, CA**
+        <title>(USA) Staff, Machine Learning Engineer - Walmart</title>
+        <link>https://www.indeed.com/viewjob?jk=750ddb34a1e77b95</link>
+        <description>**Position Summary...**
+-----------------------
 
-**About Nox Metals.** American factories deserve a supply chain that moves as fast as they do. Nox Metals is building it, along with the tools that run it. We’re a technology company with operations in Metro Detroit and Los Angeles, supplying aluminum plate, bar, and rounds to aerospace and defense manufacturers. We use software and automation to supply metal to American factories faster than the industry thought possible.
+**What you'll do...**
+---------------------
 
-**The role.** We’re hiring a Machine Learning Engineer to build production systems that make quoting, material selection, planning, and factory decisions faster and more accurate. You will work with messy operational data, test ideas against real outcomes, and put the useful ones into production.
+Position Summary...
 
-This is applied ML. A model matters only when it improves a decision, survives real operating conditions, and earns the trust of the people using it.
+As a Staff Machine Learning Engineer, you will architect and lead the development of scalable, production-grade ML systems that address complex business challenges. This role requires designing robust ML architectures, driving innovation in advanced modeling techniques, and overseeing the full ML lifecycle from data sourcing to deployment and monitoring. You will provide technical leadership, mentor engineering and data science teams, and collaborate cross-functionally to ensure alignment with platform strategies. Your expertise will advance Walmart’s ML capabilities, delivering impactful solutions that enhance operational efficiency, customer and associate experiences  
+  
+**About the team**  
+  
+At FinTech, our team develops and scales AI and ML driven solutions for Finance enabling faster, smarter, more consistent and precise month end close process. We apply machine learning, statistical techniques, forecasting, computer vision and optimization techniques to solve complex financial challenges including anomalous sales posting, cash loss management, financial reconciliation and proactive insights through agentic tools. Our solutions span predictive AI, agentic AI, and perception AI through computer vision. The team combines deep technical expertise with strong business partnership to build robust, scalable systems that improve financial accuracy, operational efficiency, and decision-making across the organization.
 
-**You will:**
+What you'll do...
 
-* Identify high-value opportunities for machine learning and optimization
-* Build datasets, features, models, evaluation systems, and production pipelines
-* Establish strong baselines before adding complexity
-* Deploy models into customer and internal workflows with software engineers
-* Monitor model quality, drift, latency, and business impact
-* Design safeguards and clear fallbacks for uncertain predictions
-* Work with operators and domain experts to understand constraints and failure modes
-* Improve data quality and make model behavior explainable
-* Document experiments and communicate tradeoffs clearly
+* Architect and guide scalable, production-grade machine learning systems integrated into customer/associate facing products.
+* Lead end-to-end ML lifecycle execution, including data sourcing, feature engineering, model training, deployment, and monitoring.
+* Partner with cross-functional teams to align ML solutions with broader platform strategies, ensuring effective integration, scalability, and long-term sustainability.
+* Design and build scalable, reliable infrastructure for deploying and serving computer vision models, leveraging containerization, GPU orchestration, and inference optimization frameworks such as NVIDIA TensorRT.
+* Drive end-to-end performance benchmarking, capacity planning, and cost optimization of ML workloads. Partner with MLOps and infrastructure teams to establish best practices for GPU utilization, model serving, monitoring, and production reliability.
+* Champion advanced MLOps practices such as CI/CD pipelines, model versioning, drift detection, and performance telemetry.
+* Mentor engineers, influence architectural decisions, and promote engineering excellence across teams.
+Evaluate emerging infrastructure patterns, model paradigms and platform capabilities into a forward-looking roadmap.  
 
-**You are:**
+What you'll bring:
 
-* Strong in applied machine learning, statistics, and software engineering
-* Comfortable working in Python and SQL
-* Rigorous about evaluation and skeptical of impressive-looking demos without evidence
-* Able to turn an operational problem into a measurable learning problem
-* Comfortable deploying and maintaining models, not just training them
-* Curious about factories, materials, and supply chains
-* Clear, practical, and willing to change course when the data disagrees
+* Extensive experience architecting scalable, production-grade machine learning systems and platforms.
+* Hands-on experience designing, developing, and deploying computer vision solutions, including object detection, multi-object tracking, action recognition, and video analytics, using deep learning architectures and frameworks such as PyTorch, OpenCV, and YOLO.
+* Proven experience building and optimizing end-to-end computer vision pipelines, including video preprocessing, model training, fine-tuning, GPU-accelerated inference, and deployment, with a focus on accuracy, latency, throughput, and scalability.
+* Deep knowledge of neural networks, deep learning, natural language processing, reinforcement learning, and time series analysis.
+* Hands-on experience building systems that support advanced agentic architectures, such as memory, trace, eval, orchestration and routing layers for complex model systems.
+* Proven ability to lead technical strategy, mentor engineers, and influence cross-functional collaboration.
+* Excellent critical thinking and technical writing capabilities to communicate complex concepts clearly.
 
-**Nice to have:**
+At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.  
+  
+You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.
+  
+  
+For information about PTO, see https://one.walmart.com/notices.
+  
+  
+Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+  
+  
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+  
+  
+For information about benefits and eligibility, see One.Walmart.  
+  
+  
+  
+Sunnyvale, California US-11789: The annual salary range for this position is $169,000.00 - $338,000.00  
+  
+  
+  
+Bentonville, Arkansas US-09050: The annual salary range for this position is $130,000.00 - $260,000.00  
+  
+  
+  
+Additional compensation includes annual or quarterly performance bonuses.
+  
+  
+Additional compensation for certain positions may also include :
+  
+  
 
-* Experience with operations research, geometric optimization, forecasting, or pricing
-* Experience with industrial, logistics, or marketplace data
-* Experience building human-in-the-loop decision systems
-* Experience applying modern AI models responsibly in production
+* Stock
 
-**Benefits:**
+ㅤ
 
-* Equity in Nox Metals
-* Company-paid medical, dental, and vision insurance
+ㅤ
 
-This role is full time, in person in Los Angeles.
+ㅤ
 
-**Nox Metals is an equal opportunity employer. We hire based on skill, attitude, and fit for the work, and we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, height, weight, marital status, or any other protected status under federal, state, or local law.**
+ㅤ
 
-**We will consider for employment qualified applicants with arrest or conviction records in a manner consistent with the Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance, and the California Fair Chance Act.**
+‎
 
-Compensation Range: $151.5K - $167.5K</description>
+**Minimum Qualifications...**
+-----------------------------
+
+*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*
+
+Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering, machine learning engineering, AI systems or related area.  
+Option 2: 6 years’ experience in software engineering, machine learning engineering, AI systems or related area.
+
+**Preferred Qualifications...**
+-------------------------------
+
+*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.*
+
+Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering, machine learning engineering, AI systems or related area., Prior work experience in accessibility best practices., Prior work experience in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly.
+
+**Primary Location...**
+-----------------------
+
+809 11th Ave, Sunnyvale, CA 94089-4731, United States of AmericaWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
         <pubDate>2026-10-13</pubDate>
     </item>
     
@@ -389,6 +433,61 @@ The base pay offered may vary depending on multiple individualized factorsance-r
 More details about our benefits are available to candidates during the hiring process.
 
 This role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.</description>
+        <pubDate>2026-10-13</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer - Nox Metals</title>
+        <link>https://www.indeed.com/viewjob?jk=e127859782ca88b8</link>
+        <description>**Machine Learning Engineer | Nox Metals | Los Angeles, CA**
+
+**About Nox Metals.** American factories deserve a supply chain that moves as fast as they do. Nox Metals is building it, along with the tools that run it. We’re a technology company with operations in Metro Detroit and Los Angeles, supplying aluminum plate, bar, and rounds to aerospace and defense manufacturers. We use software and automation to supply metal to American factories faster than the industry thought possible.
+
+**The role.** We’re hiring a Machine Learning Engineer to build production systems that make quoting, material selection, planning, and factory decisions faster and more accurate. You will work with messy operational data, test ideas against real outcomes, and put the useful ones into production.
+
+This is applied ML. A model matters only when it improves a decision, survives real operating conditions, and earns the trust of the people using it.
+
+**You will:**
+
+* Identify high-value opportunities for machine learning and optimization
+* Build datasets, features, models, evaluation systems, and production pipelines
+* Establish strong baselines before adding complexity
+* Deploy models into customer and internal workflows with software engineers
+* Monitor model quality, drift, latency, and business impact
+* Design safeguards and clear fallbacks for uncertain predictions
+* Work with operators and domain experts to understand constraints and failure modes
+* Improve data quality and make model behavior explainable
+* Document experiments and communicate tradeoffs clearly
+
+**You are:**
+
+* Strong in applied machine learning, statistics, and software engineering
+* Comfortable working in Python and SQL
+* Rigorous about evaluation and skeptical of impressive-looking demos without evidence
+* Able to turn an operational problem into a measurable learning problem
+* Comfortable deploying and maintaining models, not just training them
+* Curious about factories, materials, and supply chains
+* Clear, practical, and willing to change course when the data disagrees
+
+**Nice to have:**
+
+* Experience with operations research, geometric optimization, forecasting, or pricing
+* Experience with industrial, logistics, or marketplace data
+* Experience building human-in-the-loop decision systems
+* Experience applying modern AI models responsibly in production
+
+**Benefits:**
+
+* Equity in Nox Metals
+* Company-paid medical, dental, and vision insurance
+
+This role is full time, in person in Los Angeles.
+
+**Nox Metals is an equal opportunity employer. We hire based on skill, attitude, and fit for the work, and we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, height, weight, marital status, or any other protected status under federal, state, or local law.**
+
+**We will consider for employment qualified applicants with arrest or conviction records in a manner consistent with the Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance, and the California Fair Chance Act.**
+
+Compensation Range: $151.5K - $167.5K</description>
         <pubDate>2026-10-13</pubDate>
     </item>
     
@@ -763,7 +862,61 @@ TikTok is committed to providing reasonable accommodations in our recruitment pr
     <item>
         <title>Principal Machine Learning Engineer, Ads Modeling - Unity</title>
         <link>https://www.linkedin.com/jobs/view/4470303993</link>
-        <description>None</description>
+        <description>**The Opportunity**
+Unity Vector represents the next generation of our AI-powered advertising ecosystem, a forward-looking evolution of our machine learning infrastructure and models.
+  
+  
+We are seeking a Principal Machine Learning Engineer to join our Vector Ads Modeling team. In this role, you will work with a high-performing high-impact team to advance ads recommendation algorithms to deliver personalized ads experience.
+  
+  
+**What You’ll Be Doing**
+
+* Identity opportunities and design modeling roadmap that addresses customer needs.
+* Drive foundational research for new models and paradigms.
+* Leverage rich user data and large-scale compute to validate models rapidly.
+* Collaborate closely with engineering and product teams to productionalize research.
+
+**What We’re Looking For**
+
+* Expertise: Hands-on experience applying state-of-the-art machine learning and deep learning models to complex real-world problems, specifically in the domains of user behavior modeling. Proficiency in Python, Pytorch and deep learning frameworks.
+* Data &amp; Analytics: Solid understanding of metric design, large-scale data analysis, and distributed computing frameworks.
+* Strategic Impact: Proven ability to drive projects end-to-end, solving critical cross-team problems and delivering measurable business results.
+
+**Additional Information**
+Gross Annual Salary: $197,400 - $325,400 USD
+  
+  
+*This range reflects the anticipated base salary for this position. Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions). The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set.*
+**Benefits**
+At Unity, we want our team members to thrive. We offer a wide range of benefits designed to support well-being and work-life balance.
+  
+  
+Please note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status.
+  
+  
+While specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance | Commute subsidy | Employee stock ownership | Competitive retirement/pension plans | Generous vacation and personal days | Support for new parents through leave and family-care programs | Office food snacks | Mental Health and Wellbeing programs and support | Employee Resource Groups | Global Employee Assistance Program | Training and development programs | Volunteering and donation matching program
+  
+  
+**Life at Unity**
+Unity [NYSE: U] is the world’s leading game engine, powering play for more than 3 billion consumers each month. The top mobile games in the world, the most played PC indie titles, the most innovative console games, and virtually all of the top XR and Web Games are developed, deployed, and grown in Unity. Unity also enables teams across industries like automotive, manufacturing, and healthcare to design, simulate, and collaborate in 3D — closing the gap between ideas and reality. For more information, please visit www.unity.com.
+  
+  
+*Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators.*
+*If you have a disability that means there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out*
+*this form*
+*to let us know.*
+*This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+  
+  
+This posting is intended to fill an existing vacancy, and we are committed to providing applicants with updates throughout the hiring process in accordance with applicable law.*
+*Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+  
+  
+Your privacy is important to us. Please take a moment to review our*
+*Prospect*
+*and*
+*Applicant*
+*Privacy Policies. Should you have any concerns about your privacy, please contact us at DPO@unity.com.*</description>
         <pubDate>2026-10-13</pubDate>
     </item>
     
@@ -825,64 +978,155 @@ Uber is proud to be an Equal Opportunity employer. All qualified applicants will
     </item>
     
     <item>
+        <title>Senior Staff Machine Learning Engineer - Scowtt</title>
+        <link>https://www.linkedin.com/jobs/view/4355916875</link>
+        <description>**About Scowtt**
+Scowtt is an early-stage startup transforming the way businesses convert leads into customers through AI/ML marketing optimization and fully autonomous sales experiences. By integrating CRM, web signals, and product interaction data into a real-time conversion model, we help businesses turn interest into action—immediately. We’re growing fast, and onboarding new customers quickly and cleanly is core to our success.
+  
+  
+**About The Role**
+We are looking for a
+**Senior Staff Machine Learning Engineer**
+to lead and evolve the ML systems that power our
+**Marketing AI and AI Sales Agents**
+.
+  
+  
+This is a
+**hands-on technical leadership role**
+owning ML end-to-end - from model architecture and experimentation to production, scale, and long-term system health. You will build
+**core IP**
+: models that directly influence conversion rates, ROAS, and customer value across major ad networks.
+  
+  
+**What You’ll Do**
+
+* End-to-end ownership of ML systems, from research and modeling to deployment and scale
+* Design and evolve next-generation conversion and value prediction models using behavioral, CRM, and engagement data
+* Fine-tune and specialize LLMs (e.g., SFT, LoRA, PEFT) to power AI Sales Agents focused on reasoning, persona alignment, and long-term conversion outcomes
+* Drive high-speed feedback loops between ML systems and ad platforms
+* Design systems for continuous training, monitoring, and rapid experimentation
+* Solve systemic ML problems around data quality, drift, reliability, and velocity
+* Mentor senior ML engineers and raise the organization’s ML bar
+* Follow and enforce security best practices, including secure coding, proper handling of sensitive data, authentication/authorization controls, and compliance with company security policies.
+
+**Qualifications**
+**Must Have**
+
+* Bachelor’s degree in Computer Science, ML, Data Science, or equivalent
+* 10+ years of experience in software product development
+* 6-10 years of experience in applied machine learning and production ML systems
+* 6-10 years of experience in deploying and operating ML models at scale
+* 6-10 years of experience and strong hands-on skills with Python and modern ML frameworks (PyTorch, TensorFlow)
+
+**Should Have**
+
+* Experience designing models for prediction, ranking, recommendation, or personalization
+* Strong understanding of LLM fine-tuning techniques and production usage
+* Ability to operate across research, experimentation, and high-scale production systems
+* Proven ability to influence technical direction through architecture and execution
+
+**Nice to Have**
+
+* Experience with transformer-based sequence models or multimodal architectures
+* Familiarity with ad-tech, mar-tech, sales-tech, or CRM ecosystems
+* Experience building ML platforms, experimentation systems, or MLOps tooling
+* Experience leading multi-quarter ML initiatives
+
+**What Success Looks Like**
+
+* ML systems materially improve customer ROI and conversion outcomes
+* Teams move faster because of your systems and decisions
+* Technical architecture scales cleanly with product ambition
+* You create durable ML leverage across the company
+
+**Pay Range And Compensation Package**
+Based on the level hired at and location, the base salary for this role ranges between $220,000 to $280,000. Selected candidate/s will be eligible for standard benefits and attractive startup equity.
+  
+  
+**Equal Opportunity &amp; E-Verify Employer**
+Scowtt is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status. We are committed to providing a workplace free of discrimination and harassment.
+  
+  
+This employer participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. For more information, please visit www.e-verify.gov.</description>
+        <pubDate>2026-10-12</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Applied Scientist, Ads Personalization - Unity</title>
         <link>https://www.linkedin.com/jobs/view/4469055384</link>
-        <description>None</description>
+        <description>**The opportunity**
+At Unity, we’re committed to building a culture that fosters collaboration and innovation. Within our fast-paced environment, we’re tackling complex challenges that drive meaningful impact for creators and users across our ecosystem.
+  
+  
+Our Gamer AI team plays a central role in this effort by developing state-of-the-art conversion rate (CVR) prediction and market price models that power our ad ranking and recommendation systems. By leveraging large-scale data and contextual signals, we continuously enhance prediction relevance and accuracy. This drives outcomes such as higher user engagement, stronger conversion performance, and better return on ad spend, helping advertisers achieve their goals while delivering a more engaging experience for users.
+  
+  
+We are seeking a highly skilled Senior Applied Scientist to build and maintain advanced systems for understanding user behavior across applications. You will be responsible for improving ad ranking, conversion predictions, and recommendation systems, enabling richer behavioral models, smarter bidding strategies, and more effective ad performance.
+  
+  
+**What You’ll Be Doing**
+
+* Design, implement, and maintain user understanding models.
+* Ensure model quality and reliability by continuously monitoring performance, calibrating predictions, and addressing data drift or delayed feedback.
+* Actively participate and work with other leads to set the long-term direction for the team, plan and oversee engineering designs and project execution.
+* Effectively communicate complex technical concepts to non-engineering stakeholders.
+
+**What We’re Looking For**
+
+* Advanced degree (MS or Ph.D.) in Computer Science, Machine Learning, Statistics, related field, or equivalent practical experience.
+* 5+ years of hands-on experience building and operating large-scale Ads delivery and optimization systems.
+* 3+ years of experience in content understanding, behavior modeling, user profiling, and cohort analysis.
+* Significant experience in one or more general-purpose programming languages like Python, Go, Scala, C++ or similar.
+* Knowledge of metric design, experimentation methodologies, and large-scale data analysis.
+
+**You might also have**
+
+* Experience designing and productionizing optimization algorithms in an ad serving platform and/or other marketplaces.
+* Experience with state-of-the-art control systems, reinforcement learning algorithms.
+
+**Additional Information**
+Gross pay annually: $148,700 - $244,600
+  
+  
+*This range reflects the anticipated base salary for this position. Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions). The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set.*
+**Benefits**
+At Unity, we want our team members to thrive. We offer a wide range of benefits designed to support well-being and work-life balance.
+  
+  
+Please note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status.
+  
+  
+While specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance | Commute subsidy | Employee stock ownership | Competitive retirement/pension plans | Generous vacation and personal days | Support for new parents through leave and family-care programs | Office food snacks | Mental Health and Wellbeing programs and support | Employee Resource Groups | Global Employee Assistance Program | Training and development programs | Volunteering and donation matching program
+  
+  
+**Life at Unity**
+Unity [NYSE: U] is the world’s leading game engine, powering play for more than 3 billion consumers each month. The top mobile games in the world, the most played PC indie titles, the most innovative console games, and virtually all of the top XR and Web Games are developed, deployed, and grown in Unity. Unity also enables teams across industries like automotive, manufacturing, and healthcare to design, simulate, and collaborate in 3D — closing the gap between ideas and reality. For more information, please visit www.unity.com.
+  
+  
+*Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators.*
+*If you have a disability that means there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out*
+*this form*
+*to let us know.*
+*This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+  
+  
+This posting is intended to fill an existing vacancy, and we are committed to providing applicants with updates throughout the hiring process in accordance with applicable law.*
+*Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+  
+  
+Your privacy is important to us. Please take a moment to review our*
+*Prospect*
+*and*
+*Applicant*
+*Privacy Policies. Should you have any concerns about your privacy, please contact us at DPO@unity.com.*</description>
         <pubDate>2026-10-10</pubDate>
     </item>
     
     <item>
         <title>Principal Data Scientist - Cloud Gaming and AI - NVIDIA</title>
         <link>https://www.linkedin.com/jobs/view/4431440928</link>
-        <description>Join the NVIDIA GeForce NOW cloud team that allows users to play high-quality PC games on various devices, without the need for a dedicated gaming PC or console. NVIDIA's GeForce NOW service is built on top of our GPU technology, including our proprietary GPU architectures and software optimizations allowing efficient and high-quality experience even at high resolutions and fps and at industry leading low latencies.
-  
-  
-Our team is building the Diagnostic, Prescriptive and AI-augmented Analytics solutions that encompass processing, visualization, anomaly detection, root cause and predictive modeling for the benefit of millions of our end users. Our active projects include real-time forecasting of demand, constraint-optimized capacity allocation, dynamic prescriptions per session, Customer Onboarding and Voice of Customer Analytics, targeted Customer Outreach campaigns based on Customer Retention modeling, effective personalized diagnostic recommendations, LLM Chatbot. You will wield the power of Data and AI to help globally deliver a best-in-class cloud computing/streaming performance and experience. Our technology stack relies on industry standard components and tools (Python, R, Pandas, JupyterLab, Spark, SQL, Databricks, MLFlow, Delta Lake, Grafana, Kibana, Kubeflow, Elyra, Kubernetes, Gitlab, CI/CD, MLOps, Kafka, SQS, Kubernetes)
-  
-  
-**What You'll Be Doing**
-
-* Provide Technical Leadership to the team of Data Scientists and Engineers working on global deployment at scale of GPU Compute services.
-* Work with Leadership and Stakeholders to understand top level requirements, build a tech roadmap, design solutions and guide the team to deliver results.
-* Acquire and apply domain knowledge of the product and platform to lead the design, implementation, and deployment of AI/ML based solutions for generating actionable insights and real-time prescriptive analytic pipelines to drive optimal outcomes for production services.
-* Build and Deploy real time and scalable solutions for real time User Diagnostics, LLM Chatbot, dynamic Suspicious Activity Detection, User feedback based clustering and alerting and LLM based Actionable Insight Generation solutions for Engineering And Management.
-* Improve productivity of the org by wrangling petabytes of data using statistical/AI/ML/LLM models to provide actionable and real time insights.
-* Leverage pioneering Forecasting models and Constraint Optimization solvers to improve capacity management and deliver server efficiency and end-user latency.
-* Leverage innovative ML/AI predictive models with explainability for User Retention/Churn and designing outreach campaigns.
-* Build innovative multi-agent self-learning Harnesses for improving engineering productivity for analytics and deployments.
-
-**What We Need To See**
-
-* Master’s/PhD or equivalent experience in Data Science, Statistics, Mathematics, Physics, Operations Research or related quantitative field
-* 15+ years of software experience for large-scale and reliable production deployments and 8+ years of proven experience in Statistics/AI/ML
-* Hands-on expertise in programming languages like Python, SQL, Java and modeling frameworks like Scikit-learn, Pytorch, TensorFlow for large projects.
-* Experience with common tools for data storage and processing (e.g. Spark, Pandas, Delta Lake) including drilling into problems of running large scale software in a big network.
-* Excellent verbal and written communication skills to convey rich data insights to non-Technical and Technical Stakeholders.
-* An outstanding track record of successful past projects, as a lead, related to the research and application of data science at scale.
-* Experience of User Retention Modeling, LLMs, Time Series Forecasting or Operations Research is a plus.
-
-With competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most forward-thinking and versatile people in the world working with us, and our engineering teams are growing fast in some of the most impactful fields of our generation: AI, Data Engineering, Data Science. If you're a creative engineer who enjoys autonomy and shares our passion for technology, we want to hear from you.
-  
-  
-Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 248,000 USD - 379,500 USD.
-  
-  
-You will also be eligible for equity and benefits.
-  
-  
-Applications for this job will be accepted at least until June 26, 2026.
-  
-  
-This posting is for an existing vacancy.
-  
-  
-NVIDIA uses AI tools in its recruiting processes.
-  
-  
-NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
-  
-  
-#deeplearning, , JR2019886</description>
+        <description>None</description>
         <pubDate>2026-10-09</pubDate>
     </item>
     
