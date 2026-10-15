@@ -37,7 +37,7 @@ import pandas as pd
 
 jobs_indeed = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='("GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
+    search_term='("data scientist" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
@@ -46,7 +46,7 @@ jobs_indeed = scrape_jobs(
 
 jobs_linkedin = scrape_jobs(
     site_name=["linkedin"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='("GTM" OR "LTV" OR "unit economics" OR "lifetime value") ("data scientist" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
+    search_term='("data scientist" OR "applied scientist") -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     linkedin_fetch_description=True,
@@ -56,7 +56,7 @@ jobs_linkedin = scrape_jobs(
 
 jobs_indeed_mle = scrape_jobs(
     site_name=["indeed"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='("customer" OR "statistics") "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
+    search_term='("search" OR "recommendation" OR "ads" OR "statistics") "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     country_indeed="USA",
@@ -65,7 +65,7 @@ jobs_indeed_mle = scrape_jobs(
 
 jobs_linkedin_mle = scrape_jobs(
     site_name=["linkedin"],  # "glassdoor", "bayt", "naukri", "bdjobs"
-    search_term='("customer" OR "statistics") "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
+    search_term='("search" OR "recommendation" OR "ads" OR "statistics") "machine learning engineer" -manager -distinguished -director -intern -head -consultant -founding -chief -vp -infra -robotics',
     results_wanted=300,
     location="San Francisco Bay Area, CA",
     linkedin_fetch_description=True,
@@ -112,7 +112,7 @@ for _, job in jobs.iterrows():
     # then escape it so special characters won't break the surrounding XML.
     title = escape(str(job.get("title", "")))
     title_lc = str(job.get("title", "")).lower()
-    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist")):
+    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "data scientist")):
         continue
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
@@ -143,7 +143,7 @@ for _, job in jobs_mle.iterrows():
     # then escape it so special characters won't break the surrounding XML.
     title = escape(str(job.get("title", "")))
     title_lc = str(job.get("title", "")).lower()
-    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "analytics", "data scientist")):
+    if not any(k in title_lc for k in ("applied scientist", "machine learning engineer", "data scientist")):
         continue
     link = escape(str(job.get("job_url", "")))
     company = escape(str(job.get("company", "")))
