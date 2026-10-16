@@ -6,6 +6,73 @@
     <description>jobs</description>
     
     <item>
+        <title>Senior Staff Machine Learning Engineer - ValueBase Consulting</title>
+        <link>https://www.indeed.com/viewjob?jk=79f474b54e369b64</link>
+        <description>**Senior Staff Machine Learning Engineer**
+
+**San Jose, CA, USA**
+
+**12 Months**
+
+**$70/HR on W2 OR $80/HR on C2C**
+
+**Any visa is fine**
+
+**Need candidates who are in California. W2 candidates are encouraged to apply.**
+
+Client is an AI-enhanced security processor company redefining the control and management of every digital system. The company builds silicon-rooted security and management chips — including the TCU (Trusted Control/Compute Unit) — for AI data center infrastructure, combining platform security, BMC/firmware, and on-chip AI for real-time threat detection and dynamic power/thermal management.
+
+**Job Description**
+
+**About the role**
+
+We’re looking for an ML engineer who works across the full stack from model to silicon — comfortable optimizing training and inference performance on GPU/AI-accelerator infrastructure, building or tuning models, and adapting model and inference-engine design to the constraints of the underlying chip and its NPU. You’ll move fluidly between algorithm work, systems-level software, and infrastructure work, closing the loop end-to-end rather than owning just one layer of the stack. This is a rare chance to work the full cycle of AI silicon, from model down to chip — something most ML engineers at large companies never get access to.
+
+**What you’ll do**
+
+* Optimize training and inference performance across GPU and AI-accelerator infrastructure, including MLOps pipelines
+
+* Design, train, and evaluate ML models (deep learning, LLM, CV, or recommendation systems) and take them into production
+
+* Harden and extend NPU cores (e.g. building on an open RVV/tensor core like CoralNPU) into production silicon
+
+* Build or optimize inference engines and serving runtimes against real hardware constraints — latency, memory, and power
+
+* Work below the application layer where needed — BMC firmware, embedded Linux, or RTOS (e.g. Zephyr) — so AI features run reliably on real systems
+
+* Build automated test/verification harnesses that close the loop for AI-assisted RTL/DV, hardware bring-up, or manufacturing test
+
+* Apply ML to security — AI-driven log/intrusion analysis, AI-assisted penetration testing, or firmware/hardware security work
+
+* Collaborate closely with RTL/hardware, firmware, and QA teams to ship AI features end-to-end, from training through deployment and monitoring
+
+**Requirements:**
+
+* 8-10+ years of hands-on AI/ML experience; Master’s required, PhD preferred
+
+* Hands-on experience with AI/ML infrastructure and performance — GPU clusters, distributed training, inference-serving optimization, MLOps pipelines
+
+* Model / algorithm development experience — designing, training, and evaluating ML models
+
+* Experience taking models into production — feature engineering, data pipelines, deployment
+
+* AI chip / hardware-aware ML experience — optimizing inference engines for a specific chip, or adapting model architecture/quantization to chip constraints
+
+* Deep, hands-on expertise in at least 2 of the following 5 specialty areas — we don’t expect all five:
+
+– **NPU / AI-accelerator —** hardening or extending an NPU core into production silicon, mapping models onto MAC/tensor-engine constraints, or NPU-aware RTL/DV work
+
+– **Systems / Sys-level software —** BMC firmware, embedded Linux, RTOS (e.g. Zephyr), or other low-level system software
+
+– **Inference engine / runtime —** built or materially optimized an inference engine or serving runtime against real hardware constraints
+
+– **Test / verification harness —** built an automated harness that closes a loop, e.g. an agent-driven RTL/DV test runner or a hardware bring-up / MFG test harness
+
+– **Cyber security —** AI-driven log/intrusion analysis, AI-assisted penetration testing, or firmware/hardware security</description>
+        <pubDate>2026-10-16</pubDate>
+    </item>
+    
+    <item>
         <title>Machine Learning Engineer - Engramme</title>
         <link>https://www.indeed.com/viewjob?jk=97ff25d3e80afc7d</link>
         <description>Build and deploy ML models for memory retrieval and contextual understanding. Create scalable ML infrastructure that powers intelligent memory systems.
@@ -73,69 +140,6 @@ $180,000 - $440,000 USD
 Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.
 
 *SpaceXSI is an equal opportunity employer. For details on data processing, view our* *Recruitment Privacy Notice**.*</description>
-        <pubDate>2026-10-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Machine Learning Engineer, New Verticals Agentic Foundations - DoorDash</title>
-        <link>https://www.indeed.com/viewjob?jk=d2d78a83e9433b01</link>
-        <description>**About the Team**
-------------------
-
-Agentic Foundations, part of New Verticals ML, builds the core AI/ML intelligence that powers high-quality, scalable agents at DoorDash, and proves it through flagship agent experiences such as the Ask grocery assistant. We operate as a closed loop: new models, evals, and representations make our agents better, and real-world agent usage surfaces the gaps that drive our next foundations work.
-
-**About the Role**
-------------------
-
-We're looking for a Senior Machine Learning Engineer to join Agentic Foundations with a primary focus on Vertical Agent Development. You will own the continuous improvement of our flagship agents, starting with the Ask Assistant, using an eval-driven loop to make them faster, more cost-efficient, and more reliable for millions of customers. You will also help us bring this approach to new agentic experiences for Merchants and Dashers, turning promising ideas into production-ready agents.
-
-This is a chance to work at the intersection of LLMs, agents, post-training, and evals on problems that ship. You will partner closely with engineers working on agentic memory, agent-compatible product representations, and post-training of small language models (SLMs), so that what we learn from production agents feeds directly back into our foundations, and what we build there makes our agents better.
-
-You will report into the engineering lead on our New Verticals AI/ML team. We expect this role to be hybrid with some time in-office and some time remote.
-
-**You're excited about this opportunity because you will…**
------------------------------------------------------------
-
-* **Raise the quality of our Consumer agents:** build and refine our eval harness-optimization loop to pinpoint failure modes, then iterate on prompts, tools, skills, and context, and measure the impact on real customer tasks.
-* **Find the best balance of quality, latency, and cost:** run rigorous experiments, including fine-tuning open-weights models and deploying small language models (SLMs) where they can replace or augment larger LLMs.
-* **Launch new agents:** take agentic opportunities for Merchants and Dashers from early exploration to production.
-* **Turn foundations into product impact:** work with teammates on agentic memory, agent-compatible product representations, and post-training SLMs for steerable generative recommendation, and bring those capabilities into production agents.
-* **Shape the roadmap:** partner with engineering, product, and business leaders to define an ML-driven strategy for our fast-growing grocery and retail delivery business.
-
-**We're excited about you because you have…**
----------------------------------------------
-
-* 3+ years of industry ML experience, including hands-on work building and shipping LLM-based agents (tool use, context management, prompting, guardrails) and improving them with evals and data
-* Experience with post-training or fine-tuning of open-weights models (e.g., SFT, preference optimization, or RL), ideally including small language models, and sound judgment on quality, latency, and cost trade-offs
-* Strong foundation in NLP and machine learning, with proficiency in Python and frameworks such as PyTorch or TensorFlow
-* M.S. or PhD in Computer Science, Statistics, Math, or another quantitative field, or equivalent practical experience, plus a collaborative, growth-minded approach and a drive for measurable impact
-
-**About DoorDash**
-------------------
-
-At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.  
-  
-DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
-
-**Our Commitment to Diversity and Inclusion**
----------------------------------------------
-
-We're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
-
-Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on "protected categories," we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
-
-Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
-
-**If you need any accommodations, please inform your recruiting contact upon initial connection.**
-
-  
-
-Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
-
-We used Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provided Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023. We resumed using Covey Scout for Inbound again on June 29, 2024, and ceased using Covey Scout for Inbound on April 30, 2026.
-
-The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here:**https://getcovey.com/nyc-local-law-144****.**  
-*Beware of recruitment scams: DoorDash, Deliveroo, and Wolt will never ask you to pay money or share sensitive financial information during hiring — learn more about our legitimate recruiting process at* *Recruitment Scam Awareness - DoorDash* *.*</description>
         <pubDate>2026-10-13</pubDate>
     </item>
     
@@ -367,6 +371,69 @@ This role is at-will and OpenAI reserves the right to modify base pay and other 
     </item>
     
     <item>
+        <title>Senior Machine Learning Engineer, New Verticals Agentic Foundations - DoorDash</title>
+        <link>https://www.indeed.com/viewjob?jk=d2d78a83e9433b01</link>
+        <description>**About the Team**
+------------------
+
+Agentic Foundations, part of New Verticals ML, builds the core AI/ML intelligence that powers high-quality, scalable agents at DoorDash, and proves it through flagship agent experiences such as the Ask grocery assistant. We operate as a closed loop: new models, evals, and representations make our agents better, and real-world agent usage surfaces the gaps that drive our next foundations work.
+
+**About the Role**
+------------------
+
+We're looking for a Senior Machine Learning Engineer to join Agentic Foundations with a primary focus on Vertical Agent Development. You will own the continuous improvement of our flagship agents, starting with the Ask Assistant, using an eval-driven loop to make them faster, more cost-efficient, and more reliable for millions of customers. You will also help us bring this approach to new agentic experiences for Merchants and Dashers, turning promising ideas into production-ready agents.
+
+This is a chance to work at the intersection of LLMs, agents, post-training, and evals on problems that ship. You will partner closely with engineers working on agentic memory, agent-compatible product representations, and post-training of small language models (SLMs), so that what we learn from production agents feeds directly back into our foundations, and what we build there makes our agents better.
+
+You will report into the engineering lead on our New Verticals AI/ML team. We expect this role to be hybrid with some time in-office and some time remote.
+
+**You're excited about this opportunity because you will…**
+-----------------------------------------------------------
+
+* **Raise the quality of our Consumer agents:** build and refine our eval harness-optimization loop to pinpoint failure modes, then iterate on prompts, tools, skills, and context, and measure the impact on real customer tasks.
+* **Find the best balance of quality, latency, and cost:** run rigorous experiments, including fine-tuning open-weights models and deploying small language models (SLMs) where they can replace or augment larger LLMs.
+* **Launch new agents:** take agentic opportunities for Merchants and Dashers from early exploration to production.
+* **Turn foundations into product impact:** work with teammates on agentic memory, agent-compatible product representations, and post-training SLMs for steerable generative recommendation, and bring those capabilities into production agents.
+* **Shape the roadmap:** partner with engineering, product, and business leaders to define an ML-driven strategy for our fast-growing grocery and retail delivery business.
+
+**We're excited about you because you have…**
+---------------------------------------------
+
+* 3+ years of industry ML experience, including hands-on work building and shipping LLM-based agents (tool use, context management, prompting, guardrails) and improving them with evals and data
+* Experience with post-training or fine-tuning of open-weights models (e.g., SFT, preference optimization, or RL), ideally including small language models, and sound judgment on quality, latency, and cost trade-offs
+* Strong foundation in NLP and machine learning, with proficiency in Python and frameworks such as PyTorch or TensorFlow
+* M.S. or PhD in Computer Science, Statistics, Math, or another quantitative field, or equivalent practical experience, plus a collaborative, growth-minded approach and a drive for measurable impact
+
+**About DoorDash**
+------------------
+
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.  
+  
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+
+**Our Commitment to Diversity and Inclusion**
+---------------------------------------------
+
+We're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on "protected categories," we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+
+**If you need any accommodations, please inform your recruiting contact upon initial connection.**
+
+  
+
+Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
+
+We used Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provided Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023. We resumed using Covey Scout for Inbound again on June 29, 2024, and ceased using Covey Scout for Inbound on April 30, 2026.
+
+The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here:**https://getcovey.com/nyc-local-law-144****.**  
+*Beware of recruitment scams: DoorDash, Deliveroo, and Wolt will never ask you to pay money or share sensitive financial information during hiring — learn more about our legitimate recruiting process at* *Recruitment Scam Awareness - DoorDash* *.*</description>
+        <pubDate>2026-10-13</pubDate>
+    </item>
+    
+    <item>
         <title>Machine Learning Engineer - Nox Metals</title>
         <link>https://www.indeed.com/viewjob?jk=e127859782ca88b8</link>
         <description>**Machine Learning Engineer | Nox Metals | Los Angeles, CA**
@@ -422,7 +489,7 @@ Compensation Range: $151.5K - $167.5K</description>
     </item>
     
     <item>
-        <title>Machine Learning Engineer, Evaluation, Agentic Search Capabilities - Apple</title>
+        <title>Senior Machine Learning Engineer, Evaluation, Agentic Search Capabilities - Apple</title>
         <link>https://www.indeed.com/viewjob?jk=cdf14bb3a29aee7e</link>
         <description>The Agentic Search team is redefining how hundreds of millions of people access information across Apple devices, with privacy built in from the ground up. As part of the Agentic Search Evaluation team, you will help advance Apple Intelligence through personalized search that powers experiences across Siri, Spotlight, Mail, Messages, and more. Your team researches and builds deep search systems for Personal Question Answering, enabling Siri to answer questions about a user's emails, messages, events, files, and more, while keeping personal data private.  
   
@@ -528,6 +595,152 @@ The Company reserves the right to modify or change these benefits programs at an
   
 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws in</description>
         <pubDate>2026-10-10</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff Machine Learning Engineer, App Ads Modeling - Reddit, Inc.</title>
+        <link>https://www.linkedin.com/jobs/view/4471840598</link>
+        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
+  
+  
+**Reddit has a flexible first workforce!**
+We're looking for a Staff-level Machine Learning Engineer to join Reddit's Ads Ranking Org. This role is part of a broader effort to enhance Reddit's ML-powered ad ranking systems through improved model architectures, contextual embeddings, and conversion-optimized modeling.
+  
+  
+The ideal candidate will bring strong end-to-end modeling expertise, a deep understanding of modern deep learning techniques, and a passion for building systems that drive measurable impact in ads marketplaces. While ads experience is a plus, strong modelers from recommendation systems, search relevance, or other performance-driven domains are encouraged to apply. This position will sit on the App Ads Modeling team and report directly into the Ranking Org.
+  
+  
+**Responsibilities:**
+
+* Design and train advanced ML models (e.g., DNNs, transformers) to power Reddit Ads Ranking
+* Develop and optimize features including embeddings, contextual signals, and cross-session behavior
+* Work closely with product, infra, and data teams to drive end-to-end model deployment and performance analysis
+* Mentor other MLEs and contribute to modeling best practices across the org
+* Shape the long-term modeling vision across one or more domains (conversion, app ads, shopping, brand, etc.)
+
+**Required Qualifications:**
+
+* 7+ years of industry experience, including several years in applied ML roles
+* Strong experience with Deep Learning architectures and ML frameworks (TensorFlow, PyTorch)
+* Strong background in recommendation systems, ads ranking, or similar domains
+* Experience working with large-scale datasets and complex feature pipelines
+* Strong problem-solving and experimentation skills
+* State of the Art models for Ads or Recsys experience (ex: Transformers, Recsys)
+* Knowledge about Recsys or Ads funnel
+* Track record of delivering high-impact models in production settings
+* Comfort collaborating with infra and data teams on feature serving and training pipelines
+
+**Preferred Qualifications:**
+
+* Experience with conversion modeling, app ads, or performance/brand ads
+* Experience in ads marketplaces at peer companies
+* Publications, patents, or industry contributions in applied ML or ranking systems
+
+**Benefits:**
+
+* 100% remote opportunity (we have 4 office locations for hybrid/onsite work preference in NY, SF, LA and Chicago)
+* Comprehensive Healthcare Benefits and Income Replacement Programs
+* 401k with Employer Match
+* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
+* Family Planning Support
+* Gender-Affirming Care
+* Mental Health &amp; Coaching Benefits
+* Flexible Vacation &amp; Paid Volunteer Time Off
+* Generous Paid Parental Leave
+
+**Pay Transparency:**
+This job posting may span more than one career level.
+  
+  
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+  
+  
+To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+  
+  
+The base salary range for this position is:
+  
+  
+$230,000—$322,000 USD
+  
+  
+In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
+  
+  
+During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
+  
+  
+*Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.*</description>
+        <pubDate>2026-10-16</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Staff Machine Learning Engineer, Feed Relevance - Reddit, Inc.</title>
+        <link>https://www.linkedin.com/jobs/view/4452680676</link>
+        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
+  
+  
+As a
+**Senior Staff Machine Learning Engineer, Feed Relevance**
+, you'll drive the development of GenAI-powered recommendations, leveraging Reddit's unique community landscape, rich conversational data, and dynamic engagement patterns. Your deep modeling expertise will directly shape the core architectures behind feed ranking, enabling breakthrough personalization for tens of millions of users.
+  
+  
+**Responsibilities:**
+
+* Deliver on technical initiatives that have significant company-wide impact
+* Set technical direction for the broader Relevance and Feeds teams at Reddit, able to identify opportunities and influence strategy across multiple orgs
+* Work with management on goal setting, planning, and de-risking critical projects
+* Mentor and grow Senior and Staff engineers
+* Create a strong healthy engineering culture
+
+**Qualifications:**
+
+* 10+ years of industry experience building systems for relevance driven products
+* Subject matter expert in relevance, recommendation, and ML systems; able to solve complex problems in these domains that few others can
+* Deep understanding of how to build sustainable software systems at a large scale engineering organization
+* Experience in influencing organizations on technical direction/best practices
+* Experience working with cross-functional teams such as design, product, business &amp; data teams to deliver great experiences.
+* Strong focus on user experience, usability, scalability, reliability and quality. You are an undying advocate for the user, and you have a deep intuition for how people &amp; machines interact with software at scale.
+* High empathy, excellent communication skills, and the ability to find compromise working across the entire engineering org.
+
+**Benefits:**
+
+* Comprehensive Healthcare Benefits and Income Replacement Programs
+* 401k with Employer Match
+* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
+* Family Planning Support
+* Gender-Affirming Care
+* Mental Health &amp; Coaching Benefits
+* Flexible Vacation &amp; Paid Volunteer Time Off
+* Generous Paid Parental Leave
+
+,
+  
+  
+**Pay Transparency:**
+This job posting may span more than one career level.
+  
+  
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+  
+  
+To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+  
+  
+The base salary range for this position is:
+  
+  
+$266,000—$372,400 USD
+  
+  
+In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
+  
+  
+During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
+  
+  
+*Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.*</description>
+        <pubDate>2026-10-16</pubDate>
     </item>
     
     <item>
@@ -690,152 +903,98 @@ USDS is committed to providing reasonable accommodations in our recruitment proc
     </item>
     
     <item>
-        <title>Principal Data Scientist, Ads - Reddit, Inc.</title>
-        <link>https://www.linkedin.com/jobs/view/4442727823</link>
-        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
-  
-  
-Reddit's Ads Data Science team is seeking a highly motivated Principal Data Scientist to drive the strategic application of advanced quantitative methods across our advertising platform to advance the intelligence powering the advertiser experience on Reddit.
-  
-  
-In this pivotal leadership role, you will be responsible for defining and implementing the next generation of foundational data science solutions, leveraging expertise in statistics, econometrics, machine learning and/or other quantitative methods to optimize Reddit's Ads marketplace. You will partner closely with Analytics Engineering to ensure our underlying data systems are continuously upleveled to support advanced analysis and modeling at scale. You will be a strategic partner, collaborating closely with Product, Engineering, and Business leaders to establish the long-term vision for measurement, prediction, and optimization.
-  
-  
-As a thought leader, you will champion scientific rigor, causal inference, and economic modeling, while providing deep mentorship to the broader team. If you are passionate about applying foundational quantitative science to solve complex, high-impact business problems, join us in shaping the future of Reddit ads.
-  
-  
-**What you'll do**
-
-* **Define the future of Ads Data Science:**
-  Own the design and long-term evolution of our core Ads Data Science solutions and infrastructure, building for the next several years of continued scale, revenue growth, and relevance.
-* **Strategic leadership &amp; scientific roadmap:**
-  Identify fundamental gaps and opportunities in our current systems (including platform, auction, targeting, and full-funnel relevance models). Lead the strategic design and scientific roadmap for new solutions to significantly improve Advertiser ROI, User experience, and Reddit revenue.
-* **Drive end-to-end impact:**
-  Take end-to-end ownership of complex problem domains such as full funnel acceleration, advertiser lifetime value (LTV), and developing advanced predictive and causal frameworks that power Reddit's strategic investments.
-* **Establish scientific standards:**
-  Define and codify best practices for large-scale statistical modeling, economic analysis, causal inference, offline model evaluation, and A/B experimentation to ensure scientific rigor and trust across the Ads data science and engineering teams.
-* **Technical deep dive &amp; authority:**
-  Be the undisputed domain authority for data scientists, engineers, and product managers on complex problems involving large-scale behavioral data, foundational models for strategic insights, and the economics of marketplace dynamics.
-* **Translate ambiguity into outcomes:**
-  Influence the design and definition of core business and performance metrics, robust measurement methodologies, and collaborate deeply with cross-org XFNs to align on strategic goals and translate insights into tangible action.
-* **Influence and uplevel the organization:**
-  Lead technically minded peers and mentor senior data scientists, influencing technical and statistical direction across the entire product and engineering organization, and championing innovation in ad systems through advanced quantitative techniques.
-
-**Requirements**
-
-* Demonstrated expertise in at least one of the following: ads marketplace understanding, auctioning/bidding, ads creative &amp; format evaluation, measurement &amp; experimentation at scale
-* Master's or Ph.D. in Economics, Statistics, Computer Science, Operations Research, or a related quantitative discipline
-* For M.S. holders: 12+ years of industry experience in applied science, data science, or machine learning engineering roles
-* For Ph.D. holders: 8+ years of relevant experience applied science, data science, or machine learning engineering roles
-* Advanced proficiency in statistical programming (Python or R) and SQL
-* Experience with statistical analysis, economic modeling, foundational machine learning and/or optimization techniques
-* Strong understanding of experimental design, causal inference, or A/B testing methodologies
-* Exceptional problem-solving and communication skills, with a track record of influencing product and engineering partners
-* Experience working in fast-paced, ambiguous environments with cross-functional teams
-* Proven experience in influencing large (500+ engineers/data scientists) organizations on technical direction, statistical rigor, and machine learning best practice
-
-**Benefits:**
-
-* Comprehensive Healthcare Benefits and Income Replacement Programs
-* 401k with Employer Match
-* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
-* Family Planning Support
-* Gender-Affirming Care
-* Mental Health &amp; Coaching Benefits
-* Flexible Vacation &amp; Paid Volunteer Time Off
-* Generous Paid Parental Leave
-
-**Pay Transparency:**
-This job posting may span more than one career level.
-  
-  
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-  
-  
-To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
-  
-  
-The base salary range for this position is:
-  
-  
-$268,000—$365,100 USD
-  
-  
-In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
-  
-  
-During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
-  
-  
-*Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.*</description>
-        <pubDate>2026-10-14</pubDate>
-    </item>
-    
-    <item>
         <title>Machine Learning Engineer Graduate (E-Commerce) - 2027 Start (PhD) - TikTok USDS Joint Venture</title>
         <link>https://www.linkedin.com/jobs/view/4451651651</link>
-        <description>None</description>
+        <description>**Responsibilities**
+About the team
+  
+  
+Global E-commerce is a content-driven business powered by short-form video and live-streaming, dedicated to becoming the premier destination for users to discover affordable, high-quality products. Our team strives to deliver a tailored and efficient shopping experience while upholding a robust governance and risk control framework to ensure platform integrity, merchant compliance, and a secure ecosystem.
+  
+  
+We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.
+  
+  
+Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.
+  
+  
+**Responsibilities:**
+
+* Architect and develop sophisticated LLM-based systems to process high-dimensional unstructured data (e.g., text, logs, conversations) from diverse sources.
+* Define and implement complex semantic understanding frameworks, including fine-grained intent classification and entity extraction, to achieve deep contextual awareness.
+* Apply state-of-the-art techniques to enhance model performance, including Instruction Tuning, RLHF/DPO, and Contextual Prompt Engineering.
+* Optimize model serving for production environments using quantization, distillation, and efficient attention mechanisms (e.g., FlashAttention, vLLM).
+
+**Qualifications**
+Minimum Qualification(s):
+  
+  
+
+* Individuals who are completing or have recently completed a PhD's degree in Computer Science, Engineering, Math, Statistics, or a related discipline.
+* Experience in one or more of the following fields: Machine Learning, Natural Language Processing (NLP), or Computer Vision.
+* Proficiency in software development with at least one of the following programming languages: C++, Python, Go, or Java.
+
+**Preferred Qualifications:**
+
+* Experience in fine-tuning, distillation, or reinforcement learning for large language models in conversational AI applications.
+* Proficiency in multilingual NLP, machine translation, and cross-lingual dialogue modeling.
+* Experience in developing and optimizing e-commerce video and product multimodal large models, combining LLMs with video/product representations to support tasks like multimodal classification, video QA, and cross-modal retrieval.
+* A strong understanding of e-commerce policies, dispute resolution workflows, and merchant-buyer interactions to inform AI service design.
+
+Job Information
+  
+  
+**Job Information**
+The base salary range for this position in the selected city is $136800 - $259200 annually.
+  
+  
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+  
+  
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+  
+  
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+  
+  
+**For Los Angeles County (unincorporated) Candidates:**
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+  
+  
+
+* Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+* Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+* Exercising sound judgment.
+
+****About USDS****
+TikTok USDS Joint Venture LLC is dedicated to the safety and security of millions of Americans who create, discover, and connect with what they love on the apps we operate. The Joint Venture has been established in compliance with the Executive Order signed by President Trump on September 25, 2025. Our foundation is a comprehensive data privacy and cybersecurity program we operate under defined safeguards to protect national security and secure U.S. user data, apps and the algorithm. We safeguard the U.S. content ecosystem, holding decision-making authority for trust and safety policies and moderation. USDS Joint Venture helps ensure Americans can continue to express their creativity, discover new hobbies and interests, and build thriving communities and businesses on a global scale.
+  
+  
+On-site presence across teams allows the company to operate with greater speed, alignment, and agility — especially in areas like real-time decision-making, team development, and integrated execution. As such, the company is shifting from a hybrid work model to a fully in-person schedule up to 5 days a week.
+  
+  
+**Why Join Us**
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.
+  
+  
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+  
+  
+Diversity &amp; Inclusion
+  
+  
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+  
+  
+**USDS Reasonable Accommodation**
+USDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-RA</description>
         <pubDate>2026-10-14</pubDate>
     </item>
     
     <item>
         <title>Principal Machine Learning Engineer, Ads Modeling - Unity</title>
         <link>https://www.linkedin.com/jobs/view/4470303993</link>
-        <description>**The Opportunity**
-Unity Vector represents the next generation of our AI-powered advertising ecosystem, a forward-looking evolution of our machine learning infrastructure and models.
-  
-  
-We are seeking a Principal Machine Learning Engineer to join our Vector Ads Modeling team. In this role, you will work with a high-performing high-impact team to advance ads recommendation algorithms to deliver personalized ads experience.
-  
-  
-**What You’ll Be Doing**
-
-* Identity opportunities and design modeling roadmap that addresses customer needs.
-* Drive foundational research for new models and paradigms.
-* Leverage rich user data and large-scale compute to validate models rapidly.
-* Collaborate closely with engineering and product teams to productionalize research.
-
-**What We’re Looking For**
-
-* Expertise: Hands-on experience applying state-of-the-art machine learning and deep learning models to complex real-world problems, specifically in the domains of user behavior modeling. Proficiency in Python, Pytorch and deep learning frameworks.
-* Data &amp; Analytics: Solid understanding of metric design, large-scale data analysis, and distributed computing frameworks.
-* Strategic Impact: Proven ability to drive projects end-to-end, solving critical cross-team problems and delivering measurable business results.
-
-**Additional Information**
-Gross Annual Salary: $197,400 - $325,400 USD
-  
-  
-*This range reflects the anticipated base salary for this position. Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions). The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set.*
-**Benefits**
-At Unity, we want our team members to thrive. We offer a wide range of benefits designed to support well-being and work-life balance.
-  
-  
-Please note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status.
-  
-  
-While specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance | Commute subsidy | Employee stock ownership | Competitive retirement/pension plans | Generous vacation and personal days | Support for new parents through leave and family-care programs | Office food snacks | Mental Health and Wellbeing programs and support | Employee Resource Groups | Global Employee Assistance Program | Training and development programs | Volunteering and donation matching program
-  
-  
-**Life at Unity**
-Unity [NYSE: U] is the world’s leading game engine, powering play for more than 3 billion consumers each month. The top mobile games in the world, the most played PC indie titles, the most innovative console games, and virtually all of the top XR and Web Games are developed, deployed, and grown in Unity. Unity also enables teams across industries like automotive, manufacturing, and healthcare to design, simulate, and collaborate in 3D — closing the gap between ideas and reality. For more information, please visit www.unity.com.
-  
-  
-*Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators.*
-*If you have a disability that means there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out*
-*this form*
-*to let us know.*
-*This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
-  
-  
-This posting is intended to fill an existing vacancy, and we are committed to providing applicants with updates throughout the hiring process in accordance with applicable law.*
-*Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
-  
-  
-Your privacy is important to us. Please take a moment to review our*
-*Prospect*
-*and*
-*Applicant*
-*Privacy Policies. Should you have any concerns about your privacy, please contact us at DPO@unity.com.*</description>
+        <description>None</description>
         <pubDate>2026-10-13</pubDate>
     </item>
     
@@ -1042,21 +1201,234 @@ Job ID: A10576143</description>
     <item>
         <title>Senior Research Data Scientist, YouTube Ads - Google</title>
         <link>https://www.linkedin.com/jobs/view/4477966365</link>
-        <description>None</description>
+        <description>In most instances, this position requires in-person interviews as part of the hiring process.
+**Minimum qualifications:**
+
+* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.
+* 5 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 3 years of work experience with a PhD degree.
+
+**Preferred qualifications:**
+
+* 8 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 6 years of work experience with a PhD degree.
+
+**About The Job**
+As a part of the YouTube optimization team, you will focus on delivering the best performances to the advertisers advertising on YouTube. In this role, you will work with advertisers who each have a business goal to achieve, such as getting the most conversions within their budget, the most clicks under a cost-per-click limit, building awareness of their brand, or many other more advanced settings. You will be a part of the team responsible for the backend systems that power all these optimizations.
+  
+  
+In this role, you will manage advertisers’ spend and translate their business goals into real-time decision making on which ads to show, and to achieve this goal, you will develop large-scale optimization systems by utilizing a variety of different tools such as mathematical and statistical modeling, auction theory, risk management, and machine learning (deep networks, Bayesian, etc.).
+  
+  
+Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+  
+  
+US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits
+  
+  
+**Responsibilities**
+Learn more about benefits at Google .
+  
+  
+
+* Partner with stakeholders across cross-projects and team settings to identify and clarify business or product questions to answer, providing feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.
+* Leverage custom data infrastructure or existing data models as appropriate, using specialized knowledge to design and evaluate models that mathematically express and solve defined problems with limited precedent.
+* Gather information, business goals, priorities, and organizational context around the questions to answer, as well as the existing and upcoming data infrastructure.
+* Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python), independently formatting, re-structuring or validating data to ensure quality, and review the dataset to ensure it is ready for analysis.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .</description>
         <pubDate>2026-10-13</pubDate>
     </item>
     
     <item>
         <title>Senior Staff Machine Learning Engineer - DoorDash</title>
         <link>https://www.linkedin.com/jobs/view/4420161595</link>
-        <description>None</description>
+        <description>**About The Team**
+The Ads &amp; Promos Delivery team powers the last-mile delivery of ads and promotions, two marketing products offered to merchants, connecting merchant intent with consumer demand across search and discovery experiences. As a Senior Staff Engineer, you will lead the technical direction for AI-first experiences, including ranking and relevance systems that sit at the core of our ads marketplace and shape how ads are selected, ordered, and personalized in real time across all verticals.
+  
+  
+You will design and build next-generation AI-first ranking systems using state-of-the-art techniques such as sequence modeling, deep learning, and large language models (LLMs). Your work will span query understanding, user and merchant representation learning, contextual relevance, and multi-objective optimization, balancing advertiser value, consumer experience, and marketplace health at scale.
+  
+  
+You will set the long-term technical vision, drive cross-team alignment, and translate cutting-edge research into production systems that operate under strict latency, scale, and reliability constraints.
+  
+  
+As DoorDash expands into 40+ global markets and new verticals such as Grocery and Retail, this role offers a rare opportunity to define how modern AI, including sequential models and LLM-powered decisioning, reshapes ads relevance in a closed-loop marketplace.
+  
+  
+**About The Role**
+
+* Apply state-of-the-art machine learning and LLM techniques to problems across personalization, query understanding, user and content understanding.
+* Rigorously evaluate ML and LLM models using a combination of offline analysis and online experimentation, designing metrics and experiments that clearly measure quality, impact, and tradeoffs.
+* Own the full model lifecycle from research to production, including data analysis, model development, evaluation, offline and online A/B testing, and continuous iteration.
+* Partner closely with product managers, data scientists, and designers to ensure AI-driven systems deliver meaningful, user-facing improvements.
+* Stay at the forefront of ML and AI innovation by assessing emerging research and translating promising approaches into scalable, production-ready systems.
+
+This is a high-impact role for someone who enjoys combining economic intuition, large-scale ML modeling, and applied engineering to solve complex real-world optimization problems.
+  
+  
+You’re excited about this opportunity because you will…
+  
+  
+
+* Own impactful ML systems: Build and improve models that directly have a large impact on top and bottom line financials.
+* Collaborate cross-functionally: Partner with engineering, analytics, product, and operations to iterate quickly, moving models from prototype to production
+* Shape the future: We're one of the fastest growing Ads platforms in the world and we're looking to take that even further!
+
+We’re excited about you because you have…
+  
+  
+
+* 5+ years of experience building, deploying, and scaling ML and AI models for large-scale, user-facing or data-intensive products.
+* Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software
+* BS, MS, or PhD in Computer Science, Engineering, or a related field, or equivalent practical experience.
+* Deep expertise in one or more of the following areas: deep learning, large language models, information retrieval, ranking and relevance, recommendation systems, natural language processing, or content understanding.
+* Strong programming skills in Python, Java, or C++, with hands-on experience using ML frameworks such as PyTorch, TensorFlow, or XGBoost.
+* Extensive experience across the full ML lifecycle, including data analysis, feature engineering, iterative model development, rigorous offline and online evaluation, and ongoing monitoring and improvement.
+* Strong collaborator and communicator who thrives in fast-paced, cross-functional environments.
+* Product-minded and impact-driven, with a passion for applying cutting-edge ML and AI techniques to real-world problems.
+
+Bonus Points For
+  
+  
+
+* Experience designing and deploying LLM-based systems, including prompt engineering and retrieval-augmented generation (RAG) architectures, Generative RecSys.
+* Experience solving large-scale, user-centric and content-centric personalization problems, including user modeling, retrieval, ranking, and relevance.
+* Demonstrated contributions to the ML community through open-source projects, publications, or applied research in areas such as ML, NLP, information retrieval, or related fields.
+
+**Compensation**
+The successful candidate’s starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.
+  
+  
+In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
+  
+  
+DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.
+  
+  
+To learn more about our benefits, visit our careers page here.
+  
+  
+**See Below For Paid Time Off Details**
+
+* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+* For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).
+
+The national base pay range for this position within the United States, including Illinois and Colorado.
+  
+  
+$242,800—$357,000 USD
+  
+  
+**About DoorDash**
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.
+  
+  
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+  
+  
+Our Commitment to Diversity and Inclusion
+  
+  
+We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+  
+  
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, an</description>
         <pubDate>2026-10-12</pubDate>
     </item>
     
     <item>
         <title>Senior Staff Machine Learning Engineer - DoorDash</title>
         <link>https://www.linkedin.com/jobs/view/4420160581</link>
-        <description>None</description>
+        <description>**About The Team**
+The Ads &amp; Promos Delivery team powers the last-mile delivery of ads and promotions, two marketing products offered to merchants, connecting merchant intent with consumer demand across search and discovery experiences. As a Senior Staff Engineer, you will lead the technical direction for AI-first experiences, including ranking and relevance systems that sit at the core of our ads marketplace and shape how ads are selected, ordered, and personalized in real time across all verticals.
+  
+  
+You will design and build next-generation AI-first ranking systems using state-of-the-art techniques such as sequence modeling, deep learning, and large language models (LLMs). Your work will span query understanding, user and merchant representation learning, contextual relevance, and multi-objective optimization, balancing advertiser value, consumer experience, and marketplace health at scale.
+  
+  
+You will set the long-term technical vision, drive cross-team alignment, and translate cutting-edge research into production systems that operate under strict latency, scale, and reliability constraints.
+  
+  
+As DoorDash expands into 40+ global markets and new verticals such as Grocery and Retail, this role offers a rare opportunity to define how modern AI, including sequential models and LLM-powered decisioning, reshapes ads relevance in a closed-loop marketplace.
+  
+  
+**About The Role**
+
+* Apply state-of-the-art machine learning and LLM techniques to problems across personalization, query understanding, user and content understanding.
+* Rigorously evaluate ML and LLM models using a combination of offline analysis and online experimentation, designing metrics and experiments that clearly measure quality, impact, and tradeoffs.
+* Own the full model lifecycle from research to production, including data analysis, model development, evaluation, offline and online A/B testing, and continuous iteration.
+* Partner closely with product managers, data scientists, and designers to ensure AI-driven systems deliver meaningful, user-facing improvements.
+* Stay at the forefront of ML and AI innovation by assessing emerging research and translating promising approaches into scalable, production-ready systems.
+
+This is a high-impact role for someone who enjoys combining economic intuition, large-scale ML modeling, and applied engineering to solve complex real-world optimization problems.
+  
+  
+You’re excited about this opportunity because you will…
+  
+  
+
+* Own impactful ML systems: Build and improve models that directly have a large impact on top and bottom line financials.
+* Collaborate cross-functionally: Partner with engineering, analytics, product, and operations to iterate quickly, moving models from prototype to production
+* Shape the future: We're one of the fastest growing Ads platforms in the world and we're looking to take that even further!
+
+We’re excited about you because you have…
+  
+  
+
+* 5+ years of experience building, deploying, and scaling ML and AI models for large-scale, user-facing or data-intensive products.
+* Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software
+* BS, MS, or PhD in Computer Science, Engineering, or a related field, or equivalent practical experience.
+* Deep expertise in one or more of the following areas: deep learning, large language models, information retrieval, ranking and relevance, recommendation systems, natural language processing, or content understanding.
+* Strong programming skills in Python, Java, or C++, with hands-on experience using ML frameworks such as PyTorch, TensorFlow, or XGBoost.
+* Extensive experience across the full ML lifecycle, including data analysis, feature engineering, iterative model development, rigorous offline and online evaluation, and ongoing monitoring and improvement.
+* Strong collaborator and communicator who thrives in fast-paced, cross-functional environments.
+* Product-minded and impact-driven, with a passion for applying cutting-edge ML and AI techniques to real-world problems.
+
+Bonus Points For
+  
+  
+
+* Experience designing and deploying LLM-based systems, including prompt engineering and retrieval-augmented generation (RAG) architectures, Generative RecSys.
+* Experience solving large-scale, user-centric and content-centric personalization problems, including user modeling, retrieval, ranking, and relevance.
+* Demonstrated contributions to the ML community through open-source projects, publications, or applied research in areas such as ML, NLP, information retrieval, or related fields.
+
+**Compensation**
+The successful candidate’s starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.
+  
+  
+In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
+  
+  
+DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.
+  
+  
+To learn more about our benefits, visit our careers page here.
+  
+  
+**See Below For Paid Time Off Details**
+
+* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+* For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).
+
+The national base pay range for this position within the United States, including Illinois and Colorado.
+  
+  
+$242,800—$357,000 USD
+  
+  
+**About DoorDash**
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.
+  
+  
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+  
+  
+Our Commitment to Diversity and Inclusion
+  
+  
+We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+  
+  
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, an</description>
         <pubDate>2026-10-12</pubDate>
     </item>
     
