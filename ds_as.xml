@@ -6,222 +6,42 @@
     <description>jobs</description>
     
     <item>
-        <title>Staff Machine Learning Engineer - PayPal</title>
-        <link>https://www.indeed.com/viewjob?jk=059bf7e68fa47205</link>
-        <description>**The Company**
+        <title>Senior Staff Data Scientist, Product - Intuit</title>
+        <link>https://www.indeed.com/viewjob?jk=3a55a4453520ac4b</link>
+        <description>**Overview**
+------------
 
-PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.
+Intuit Global Business Solutions Group (GBSG) Data Science has an exciting opportunity to be part of the fast-growing Mid-market Data Science team that plays a critical role in driving growth with a long-term winning strategy. Disrupting the small business mid-market is one of Intuit's 3 Big Bets initiatives. We are looking for a Senior Staff Data Scientist to serve as an analytical leader and strategic thought partner for our Mid-market Product Growth initiatives.
 
-We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.
+This is a high-impact individual contributor role where you will set the analytics and measurement vision, raise the scientific bar, and influence product and business strategy for the mid-market segment. You will partner closely with senior leaders across Product, Customer Success, Marketing, Engineering, and Design to identify the biggest growth opportunities across the end-to-end customer journey—from acquisition and activation to habit formation and long-term retention.
 
-We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade.
+Intuit has embraced a hybrid working model and this role will be based out of our Mountain View office 3 days per week.
 
-Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.
+**Responsibilities**
 
-**Job Summary:**
+* **Influence Product Strategy:** Serve as a strategic thought partner to senior Product and Business leaders (up to EVP-level). Influence product strategy by conducting deep-dive analyses on customer segmentation, funnel optimization, product adoption, and voice of the customer.
+* **Set the Analytics Vision:** Establish the measurement architecture, key success metrics, and leading indicators used to evaluate the health and growth of the Mid-market product ecosystem.
+* **Lead Experimentation &amp; Causal Measurement:** Drive an iterative experimentation culture by designing complex experiments (A/B/n, multi-armed bandits) and applying causal inference methodologies (e.g., Propensity Score Matching, Difference-in-Differences) where traditional A/B testing is limited.
+* **Shape the AI-Native Roadmap:** Develop ML models and LLM applications to address complex product problems. Partner with product and engineering teams to integrate intelligent personalization, lead scoring, and generative AI features into the customer experience.
+* **Uncover Growth Opportunities:** Use first-principles thinking and data mining to proactively explore and identify new business opportunities across the funnel, quantifying potential impact to guide investment prioritization.
+* **Raise the Scientific Bar &amp; Mentorship:** Create reusable analytical frameworks, methodologies, and tools that improve decision-making at scale. Coach, mentor, and elevate junior data scientists on the team while remaining hands-on with the highest-leverage problems.
+* Serve as a tech team lead and supervise a team of 3-5 senior to staff data scientist.
 
-This job will lead the design, development, and implementation of advanced machine learning models and algorithms to solve complex problems. You will work closely with data scientists, software engineers, and product teams to enhance services through innovative AI/ML solutions. Your role will involve building scalable ML pipelines, ensuring data quality, and deploying models into production environments to drive business insights and improve customer experiences.
+**Qualifications**
 
-**Job Description:**
+* **Experience:** 8+ years of experience in data science, product analytics, or related fields, with a proven track record of driving strategy and measurable business impact. Experience in B2B SaaS or fintech is highly preferred.
+* **Technical Mastery:** Highly proficient in AI-native data science tech stack (Claude/Cursor/Codex + MCPs/CLIs/APIs). Expert-level proficiency in SQL and Complext Data Modeling. Advanced practical experience applying machine learning (classification, regression, ranking) and LLMs / GenAI workflows to real-world product problems.
+* **Experimentation Rigor:** Deep expertise in experimentation, causal inference, and advanced customer segmentation, with the judgment to balance statistical rigor with business realities.
+* **First-Principles Problem Solving:** Demonstrated ability to translate ambiguous business strategies into clear analytical frameworks and actionable product decisions.
+* **Executive Communication:** Exceptional storytelling and stakeholder influence skills, with the ability to communicate complex data concepts effectively to non-technical audiences and senior executives.
+* **Education:** Minimum Bachelor's or Master's degree in a quantitative field (Statistics, Mathematics, Computer Science, Economics, or related).
 
-**Essential Responsibilities:**
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.
 
-* Lead the development and optimization of advanced machine learning models.
-* Oversee the preprocessing and analysis of large datasets.
-* Deploy and maintain ML solutions in production environments.
-* Collaborate with cross-functional teams to integrate ML models into products and services.
-* Monitor and evaluate the performance of deployed models, making necessary adjustments.
-
-**Minimum Qualifications:**
-
-* 5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience.
-* Extensive experience with ML frameworks like TensorFlow, PyTorch, or scikit-learn.
-* Expertise in cloud platforms (AWS, Azure, GCP) and tools for data processing and model deployment.
-
-**Additional Responsibilities &amp; Preferred Qualifications****:**
-
-**Subsidiary:**
-
-PayPal
-
-**Travel Percent:**
-
-0
-
-
-
-The base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by location is:  
+The expected base pay range for this position is:
   
-
-**Primary Location | Pay Range:**
-
-San Jose, California: ($196,500.00 - $291,500.00 Annually)  
-  
-  
-
-**Additional Location(s) | Pay Range:**
-
-No other locations are assigned to this requisition currently.
-  
-  
-Additional compensation for this role may include an annual performance bonus, equity, or other incentive compensation, as applicable.
-
-PayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application directly, we will never ask you to share passwords, one-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam. All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact-us.
-
-For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.
-
-**Our Benefits:**
-
-At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset-you. That’s why we offer comprehensive, choice-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it matters most. We strive to create a flexible, balanced work culture with a holistic approach to benefits, including generous paid time off, healthcare coverage for you and your family, and resources to create financial security and support your mental health.
-
-**Who We Are:**
-
-  
-
-**Commitment to Diversity and Inclusion**
-
-PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.
-
-**Belonging at PayPal:**
-
-Our employees are central to advancing our mission, and we strive to create an environment where everyone can do their best work with a sense of purpose and belonging. Belonging at PayPal means creating a workplace with a sense of acceptance and security where all employees feel included and valued. We are proud to have a diverse workforce reflective of the merchants, consumers, and communities that we serve, and we continue to take tangible actions to cultivate inclusivity and belonging at PayPal.
-
-Any general requests for consideration of your skills, please Join our Talent Community.
-
-We know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don’t hesitate to apply.</description>
-        <pubDate>2026-10-19</pubDate>
-    </item>
-    
-    <item>
-        <title>(USA) Staff, Data Scientist - Walmart</title>
-        <link>https://www.indeed.com/viewjob?jk=4e73b8efce22bb96</link>
-        <description>**Position Summary...**
------------------------
-
-**What you'll do...**
----------------------
-
-**Role summary:**
-  
-The (USA) Staff, Data Scientist plays a critical role in leveraging advanced analytics, machine learning, and data visualization to drive informed business decisions. This position requires expertise in identifying and sourcing relevant data, developing and validating predictive models, and deploying scalable solutions. The role involves collaborating with cross-functional teams to translate complex business challenges into data-driven strategies, ensuring alignment with organizational goals. The successful candidate will also mentor associates, promote best practices in data science, and contribute to continuous improvement initiatives that enhance operational efficiency and business value.
-  
-**About the team:**
-  
-The Applied AI team develops advanced Search and Personalization solutions to improve product discovery and the shopping experience. Utilizing machine learning, deep learning, and generative AI, the team builds scalable systems aligned with business objectives. Members collaborate by applying expertise in algorithms, data analysis, and solution design to deliver impactful results. The team fosters a professional environment focused on technical excellence, continuous improvement, and customer-centered innovation, driving significant advancements in data science and artificial intelligence across the organization.
-  
-**What you'll do:**
-  
-
-* Identify and source relevant data from multiple business domains, ensuring data quality and suitability for analysis.
-* Develop and implement data strategies aligned with business objectives, focusing on data management, governance, and scalability.
-* Design, build, and validate predictive models using advanced machine learning and statistical techniques to solve complex business problems.
-* Create clear, insightful data visualizations and reports to communicate findings effectively to stakeholders.
-* Collaborate with cross-functional teams to translate business requirements into analytical solutions and support decision-making.
-* Mentor junior team members on modeling techniques, data interpretation, and best practices.
-
-  
-**What you'll bring:**
-  
-
-* Proven expertise in predictive analytics, machine learning algorithms, and advanced statistical modeling techniques.
-* Proficiency in Python programming and data visualization tools such as Matplotlib, Plotly, Tableau, or PowerBI.
-* Strong understanding of data strategy, including data quality, governance, and scalable data storage solutions.
-* Experience in model assessment, validation, deployment, and continuous monitoring using appropriate evaluation metrics.
-* Ability to translate complex business problems into data-driven solutions with domain knowledge across multiple business functions.
-* Skilled in exploratory data analysis, feature engineering, and applying AI and deep learning methods.
-* Effective communication skills to present insights and guide junior team members.
-
-At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
-  
-Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
-  
-For information about benefits and eligibility, see One.Walmart.
-  
-The annual salary range for this position is $143,000.00 - $286,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
-  
-
-* Stock
-
-ㅤ
-
-ㅤ
-
-ㅤ
-
-ㅤ
-
-‎
-
-**Minimum Qualifications...**
------------------------------
-
-*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*
-
-Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics related field. Option 3: 6 years' experience in an analytics or related field
-
-**Preferred Qualifications...**
--------------------------------
-
-*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.*
-
-Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.
-
-**Primary Location...**
------------------------
-
-815 Eleventh Ave, Sunnyvale, CA 94089-4731, United States of AmericaWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
-        <pubDate>2026-10-19</pubDate>
-    </item>
-    
-    <item>
-        <title>Multimodal AI Applied Scientist, SIML - ISE - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=a007f7e2ae93fe85</link>
-        <description>Apple's System Intelligence and Machine Learning (SIML) team is seeking a Multimodal AI applied scientist to drive the future of multimodal scene understanding and human-centric device interaction. At the heart of this effort, you will develop multimodal LLMs designed to perceive complex environments and understand nuanced human behaviors, preferences, and interactions. This role offers a rare opportunity to join a leading applied research team known for its foundational contributions to Apple Intelligence, where you will work across the entire generative model lifecycle, spanning novel architecture design, model training, and deployment.  
-  
-**Description**  
-  
-We are looking for an applied scientist with deep skills in ML and generative modeling to architect, train, and deploy multimodal scene understanding technology that can understand scene from visual and audio data. You will quickly build and demonstrate new user experiences using large foundation models, developing innovative capabilities while partnering with cross-functional teams and iterating rapidly in a dynamic environment.  
-  
-Your work will advance human interaction and scene understanding modeling across the stack, from system-level architecture to core ML algorithms. Among the many challenges you will address are modeling user behaviors and preferences through device and environmental interactions, retrieving nuanced insights from historical context, handling deeply interleaved streaming data, reasoning across diverse temporal horizons, designing memory systems for long-term adaptation, and learning semantically rich representations for open-ended downstream applications.  
-  
-You will also be responsible for delivering ML models and solutions that can be readily integrated into production pipelines, such as APIs for production-ready models and algorithms built directly into our training infrastructure.","responsibilities":"Design, train, and deploy large-scale multimodal LLMs, owning the entire lifecycle from initial architecture to final deployment within the constraints.  
-  
-Implement and demonstrate novel, human-centric user experiences by applying the capabilities of large foundation models.  
-  
-Create robust, scalable ML models and APIs that can be well-integrated into Apple's production pipelines and training infrastructure.  
-  
-Work closely with partner teams to build, iterate, and adapt innovative solutions in a dynamic, product-focused environment.  
-  
-**Preferred Qualifications**  
-  
-PhD in Machine Learning  
-  
-Proven track record of deploying innovative ML technologies in production.  
-  
-Familiarity with developing ML for resource-constrained devices.  
-  
-Experience working with large cross-functional and diverse teams.  
-  
-**Minimum Qualifications**  
-  
-PhD or MS Computer Science, Engineering, or a related field with a focus on machine learning  
-  
-Strong research skills with first author publications in top tier ML conferences  
-  
-Expert-level knowledge of SOTA in large auto-regressive transformer models, multi-modal encoders, and representation learning.  
-  
-Experience with multimodal large language models (LLMs)  
-  
-Strong programming skills in Python, maintaining ML code bases grounded in software engineering principles.  
-  
-**Pay &amp; Benefits**  
-  
-At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location.  
-  
-Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  
-  
-Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</description>
-        <pubDate>2026-10-19</pubDate>
+Mountain View $210,500 - $284,500</description>
+        <pubDate>2026-10-20</pubDate>
     </item>
     
     <item>
@@ -327,6 +147,87 @@ If you have a disability and need an accommodation in relation to the online app
     </item>
     
     <item>
+        <title>(USA) Staff, Data Scientist - Walmart</title>
+        <link>https://www.indeed.com/viewjob?jk=4e73b8efce22bb96</link>
+        <description>**Position Summary...**
+-----------------------
+
+**What you'll do...**
+---------------------
+
+**Role summary:**
+  
+The (USA) Staff, Data Scientist plays a critical role in leveraging advanced analytics, machine learning, and data visualization to drive informed business decisions. This position requires expertise in identifying and sourcing relevant data, developing and validating predictive models, and deploying scalable solutions. The role involves collaborating with cross-functional teams to translate complex business challenges into data-driven strategies, ensuring alignment with organizational goals. The successful candidate will also mentor associates, promote best practices in data science, and contribute to continuous improvement initiatives that enhance operational efficiency and business value.
+  
+**About the team:**
+  
+The Applied AI team develops advanced Search and Personalization solutions to improve product discovery and the shopping experience. Utilizing machine learning, deep learning, and generative AI, the team builds scalable systems aligned with business objectives. Members collaborate by applying expertise in algorithms, data analysis, and solution design to deliver impactful results. The team fosters a professional environment focused on technical excellence, continuous improvement, and customer-centered innovation, driving significant advancements in data science and artificial intelligence across the organization.
+  
+**What you'll do:**
+  
+
+* Identify and source relevant data from multiple business domains, ensuring data quality and suitability for analysis.
+* Develop and implement data strategies aligned with business objectives, focusing on data management, governance, and scalability.
+* Design, build, and validate predictive models using advanced machine learning and statistical techniques to solve complex business problems.
+* Create clear, insightful data visualizations and reports to communicate findings effectively to stakeholders.
+* Collaborate with cross-functional teams to translate business requirements into analytical solutions and support decision-making.
+* Mentor junior team members on modeling techniques, data interpretation, and best practices.
+
+  
+**What you'll bring:**
+  
+
+* Proven expertise in predictive analytics, machine learning algorithms, and advanced statistical modeling techniques.
+* Proficiency in Python programming and data visualization tools such as Matplotlib, Plotly, Tableau, or PowerBI.
+* Strong understanding of data strategy, including data quality, governance, and scalable data storage solutions.
+* Experience in model assessment, validation, deployment, and continuous monitoring using appropriate evaluation metrics.
+* Ability to translate complex business problems into data-driven solutions with domain knowledge across multiple business functions.
+* Skilled in exploratory data analysis, feature engineering, and applying AI and deep learning methods.
+* Effective communication skills to present insights and guide junior team members.
+
+At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+  
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+  
+For information about benefits and eligibility, see One.Walmart.
+  
+The annual salary range for this position is $143,000.00 - $286,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
+  
+
+* Stock
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+‎
+
+**Minimum Qualifications...**
+-----------------------------
+
+*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*
+
+Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics related field. Option 3: 6 years' experience in an analytics or related field
+
+**Preferred Qualifications...**
+-------------------------------
+
+*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.*
+
+Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.
+
+**Primary Location...**
+-----------------------
+
+815 Eleventh Ave, Sunnyvale, CA 94089-4731, United States of AmericaWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
+        <pubDate>2026-10-19</pubDate>
+    </item>
+    
+    <item>
         <title>Senior Staff Research Data Scientist, AI Data Research - Google</title>
         <link>https://www.indeed.com/viewjob?jk=4243db8b30e29a1c</link>
         <description>### **Minimum qualifications:**
@@ -369,61 +270,48 @@ Google is proud to be an equal opportunity workplace and is an affirmative actio
     </item>
     
     <item>
-        <title>Associate Machine Learning Engineer, Recommendations - TikTok USDS JV</title>
-        <link>https://www.indeed.com/viewjob?jk=f267241deb14062e</link>
-        <description>San JoseRegularR&amp;DJob ID: A161644C
+        <title>Product Data Scientist, YouTube Search and Viewer AI - Youtube</title>
+        <link>https://www.indeed.com/viewjob?jk=f23eb3251121465b</link>
+        <description>In most instances, this position requires in-person interviews as part of the hiring process.
 
-to this job
+### **Minimum qualifications:**
 
-Responsibilities
+* Bachelor's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering or a related quantitative field.
+* 5 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
 
-About the team We are a group of applied machine learning engineers and data scientists that focus on general feed recommendations and E-commerce recommendations. We are developing innovative algorithms and techniques to improve user engagement and satisfaction, converting creative ideas into business-impacting solutions. We are interested and excited in applying large scale machine learning to solve various real-world problems. What you will do: - Participate in designing, building, and maintaining robust MLOps pipelines (CI/CD for ML) for hyper-scale (10M–100M+ users) recommendation models, ensuring reliable continuous training, automated evaluation, and seamless deployment. - Architect high-throughput real-time streaming data pipelines and feature stores (offline &amp; online feature synchronization) to support dynamic user interest modeling (short-term &amp; long-term signals). - Optimize candidate generation and ranking predictive models (CTR, CVR) for production serving. Work on inference acceleration, model quantization, parallel computation, and latency reduction using C++/CUDA/TensorRT or similar frameworks. - Build automated monitoring, debugging, and visualization tools for tracking feature drift, model performance degradation, data leakage, and GPU/CPU cluster utilization. - Partner with algorithm researchers and platform teams to streamline the lifecycle of large-scale deep learning models from experimental prototype to zero-downtime production deployment.
+  
 
-Qualifications
+### **Preferred qualifications:**
 
-Minimum Qualifications - Bachelor's degree or higher in Computer Science or related fields. - Strong programming and problem-solving ability. - Basic understanding of MLOps principles, including data preprocessing, containerization (Docker), model tracking/versioning, or workflow orchestration. - Driven to solve complex real-world distributed systems and machine learning operational challenges. Preferred Qualifications: - Experience in recommendation system, online advertising, information retrieval, natural language processing, machine learning, large-scale data mining, or related fields.
+* Experience with machine learning and experiment design principles.
+* Experience with recommender systems.
 
-Job Information
+**About the job**
+-----------------
 
-【For Pay Transparency】Compensation Description (Annually)
+YouTube Search is the second biggest search engine in the world. And its GenAI viewer experiences such as Ask YouTube is on track to become one of the largest AI products in the world. This role joins a growing team of the LLM revolution, and in a sweet spot between classic RecSys and future LLM-powered systems.
 
-The base salary range for this position in the selected city is $122574 - $259200 annually.
+In this role, projects will range from analyzing experiments, to improving foundational search systems, to developing foundational signals. We are looking for someone flexible and comfortable working in a changing environment.
 
-Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.
 
-Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+  
+  
+US: $138000 - $197000 (USD) + 15% bonus target + equity + benefits  
+  
+Learn more about benefits at Google.
 
-The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+**Responsibilities**
+--------------------
 
-For Los Angeles County (unincorporated) Candidates:
+* Collaborate with stakeholders in cross-project and team settings to identify and clarify business or product questions to answer.
+* Use custom data infrastructure or existing data models. Design and evaluate models to mathematically express and solve defined problems with limited precedent.
+* Gather information, business goals, priorities and organizational context around the questions to answer as well as the existing and upcoming data infrastructure.
+* Own the process of gathering, extracting and compiling data across sources via relevant tools (e.g., SQL and Python). Format, re-structure or validate data to ensure quality and review the dataset to ensure it is ready for analysis.
+* Provide feedback to translate and refine business questions into analysis, evaluation metrics or mathematical models.
 
-Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
-
-1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
-
-2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
-
-3. Exercising sound judgment.
-
-About USDS
-
-TikTok USDS Joint Venture LLC is dedicated to the safety and security of millions of Americans who create, discover, and connect with what they love on the apps we operate. The Joint Venture has been established in compliance with the Executive Order signed by President Trump on September 25, 2025. Our foundation is a comprehensive data privacy and cybersecurity program we operate under defined safeguards to protect national security and secure U.S. user data, apps and the algorithm. We safeguard the U.S. content ecosystem, holding decision-making authority for trust and safety policies and moderation. USDS Joint Venture helps ensure Americans can continue to express their creativity, discover new hobbies and interests, and build thriving communities and businesses on a global scale.
-
-On-site presence across teams allows the company to operate with greater speed, alignment, and agility — especially in areas like real-time decision-making, team development, and integrated execution. As such, the company is shifting from a hybrid work model to a fully in-person schedule up to 5 days a week.
-
-Why Join Us
-
-Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.
-
-We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
-
-Diversity &amp; Inclusion
-
-TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
-
-USDS Reasonable Accommodation
-
-USDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-RA</description>
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
         <pubDate>2026-10-16</pubDate>
     </item>
     
@@ -500,6 +388,106 @@ https://www.abbvie.com/join-us/reasonable-accommodations.html</description>
     </item>
     
     <item>
+        <title>Research Data Scientist, Magic Eye - Google</title>
+        <link>https://www.indeed.com/viewjob?jk=11cc1f246a6c043a</link>
+        <description>In most instances, this position requires in-person interviews as part of the hiring process.
+
+### **Minimum qualifications:**
+
+* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.
+* 3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
+
+  
+
+### **Preferred qualifications:**
+
+* 5 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
+
+**About the job**
+-----------------
+
+Magic Eye's mission is to guide strategic decision making for Google's consumer products through data-informed insights, actionable user metrics, and definitions of success. The analysis team partners closely with cross-product area teams from Search, Ads, Android, YouTube, etc., and cross-functionally with teams from Engineering, Behavioral Economics, UX, Finance to bring methodology, data, and insights to Googlers and Google leads.  
+  
+The analysis team is focused on cross-product user research and metric development to dig into Google's performance, including understanding Google's most important users, drivers of key trends, and layering in context from industry and the world. Key research questions include understanding the rapidly evolving GenAI landscape and user journeys across products and devices to identify cross-company strategic opportunities. This team also focuses on advanced decision making frameworks and tooling, ranging from observational, to causal inference, to experiments. We're all about scale to develop and leverage reliable, reproducible analyses for ourselves, our partners, and to drive aligned decision making across Google.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+  
+  
+US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits  
+  
+Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Collaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer.
+* Use custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.
+* Gather information, business goals, priorities, and organizational context around the questions to answer, as well as the existing and upcoming data infrastructure.
+* Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, or validate data to ensure quality, and review the dataset to ensure it is ready for analysis.
+* Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
+        <pubDate>2026-10-16</pubDate>
+    </item>
+    
+    <item>
+        <title>Associate Machine Learning Engineer, Recommendations - TikTok USDS JV</title>
+        <link>https://www.indeed.com/viewjob?jk=f267241deb14062e</link>
+        <description>San JoseRegularR&amp;DJob ID: A161644C
+
+to this job
+
+Responsibilities
+
+About the team We are a group of applied machine learning engineers and data scientists that focus on general feed recommendations and E-commerce recommendations. We are developing innovative algorithms and techniques to improve user engagement and satisfaction, converting creative ideas into business-impacting solutions. We are interested and excited in applying large scale machine learning to solve various real-world problems. What you will do: - Participate in designing, building, and maintaining robust MLOps pipelines (CI/CD for ML) for hyper-scale (10M–100M+ users) recommendation models, ensuring reliable continuous training, automated evaluation, and seamless deployment. - Architect high-throughput real-time streaming data pipelines and feature stores (offline &amp; online feature synchronization) to support dynamic user interest modeling (short-term &amp; long-term signals). - Optimize candidate generation and ranking predictive models (CTR, CVR) for production serving. Work on inference acceleration, model quantization, parallel computation, and latency reduction using C++/CUDA/TensorRT or similar frameworks. - Build automated monitoring, debugging, and visualization tools for tracking feature drift, model performance degradation, data leakage, and GPU/CPU cluster utilization. - Partner with algorithm researchers and platform teams to streamline the lifecycle of large-scale deep learning models from experimental prototype to zero-downtime production deployment.
+
+Qualifications
+
+Minimum Qualifications - Bachelor's degree or higher in Computer Science or related fields. - Strong programming and problem-solving ability. - Basic understanding of MLOps principles, including data preprocessing, containerization (Docker), model tracking/versioning, or workflow orchestration. - Driven to solve complex real-world distributed systems and machine learning operational challenges. Preferred Qualifications: - Experience in recommendation system, online advertising, information retrieval, natural language processing, machine learning, large-scale data mining, or related fields.
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Annually)
+
+The base salary range for this position in the selected city is $122574 - $259200 annually.
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates:
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+
+3. Exercising sound judgment.
+
+About USDS
+
+TikTok USDS Joint Venture LLC is dedicated to the safety and security of millions of Americans who create, discover, and connect with what they love on the apps we operate. The Joint Venture has been established in compliance with the Executive Order signed by President Trump on September 25, 2025. Our foundation is a comprehensive data privacy and cybersecurity program we operate under defined safeguards to protect national security and secure U.S. user data, apps and the algorithm. We safeguard the U.S. content ecosystem, holding decision-making authority for trust and safety policies and moderation. USDS Joint Venture helps ensure Americans can continue to express their creativity, discover new hobbies and interests, and build thriving communities and businesses on a global scale.
+
+On-site presence across teams allows the company to operate with greater speed, alignment, and agility — especially in areas like real-time decision-making, team development, and integrated execution. As such, the company is shifting from a hybrid work model to a fully in-person schedule up to 5 days a week.
+
+Why Join Us
+
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.
+
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+
+Diversity &amp; Inclusion
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+USDS Reasonable Accommodation
+
+USDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-RA</description>
+        <pubDate>2026-10-16</pubDate>
+    </item>
+    
+    <item>
         <title>Applied Scientist III, AWS Account Management and Governance - Amazon Web Services</title>
         <link>https://www.indeed.com/viewjob?jk=239a5570b08b36e3</link>
         <description>**DESCRIPTION**
@@ -545,93 +533,6 @@ The base salary range for this position is listed below. Your Amazon package wil
 
   
 USA, CA, Santa Clara - 192,200.00 - 260,000.00 USD annually</description>
-        <pubDate>2026-10-16</pubDate>
-    </item>
-    
-    <item>
-        <title>Product Data Scientist, YouTube Search and Viewer AI - Youtube</title>
-        <link>https://www.indeed.com/viewjob?jk=f23eb3251121465b</link>
-        <description>In most instances, this position requires in-person interviews as part of the hiring process.
-
-### **Minimum qualifications:**
-
-* Bachelor's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering or a related quantitative field.
-* 5 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
-
-  
-
-### **Preferred qualifications:**
-
-* Experience with machine learning and experiment design principles.
-* Experience with recommender systems.
-
-**About the job**
------------------
-
-YouTube Search is the second biggest search engine in the world. And its GenAI viewer experiences such as Ask YouTube is on track to become one of the largest AI products in the world. This role joins a growing team of the LLM revolution, and in a sweet spot between classic RecSys and future LLM-powered systems.
-
-In this role, projects will range from analyzing experiments, to improving foundational search systems, to developing foundational signals. We are looking for someone flexible and comfortable working in a changing environment.
-
-At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.
-
-Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
-  
-  
-US: $138000 - $197000 (USD) + 15% bonus target + equity + benefits  
-  
-Learn more about benefits at Google.
-
-**Responsibilities**
---------------------
-
-* Collaborate with stakeholders in cross-project and team settings to identify and clarify business or product questions to answer.
-* Use custom data infrastructure or existing data models. Design and evaluate models to mathematically express and solve defined problems with limited precedent.
-* Gather information, business goals, priorities and organizational context around the questions to answer as well as the existing and upcoming data infrastructure.
-* Own the process of gathering, extracting and compiling data across sources via relevant tools (e.g., SQL and Python). Format, re-structure or validate data to ensure quality and review the dataset to ensure it is ready for analysis.
-* Provide feedback to translate and refine business questions into analysis, evaluation metrics or mathematical models.
-
-Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
-        <pubDate>2026-10-16</pubDate>
-    </item>
-    
-    <item>
-        <title>Research Data Scientist, Magic Eye - Google</title>
-        <link>https://www.indeed.com/viewjob?jk=11cc1f246a6c043a</link>
-        <description>In most instances, this position requires in-person interviews as part of the hiring process.
-
-### **Minimum qualifications:**
-
-* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.
-* 3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
-
-  
-
-### **Preferred qualifications:**
-
-* 5 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
-
-**About the job**
------------------
-
-Magic Eye's mission is to guide strategic decision making for Google's consumer products through data-informed insights, actionable user metrics, and definitions of success. The analysis team partners closely with cross-product area teams from Search, Ads, Android, YouTube, etc., and cross-functionally with teams from Engineering, Behavioral Economics, UX, Finance to bring methodology, data, and insights to Googlers and Google leads.  
-  
-The analysis team is focused on cross-product user research and metric development to dig into Google's performance, including understanding Google's most important users, drivers of key trends, and layering in context from industry and the world. Key research questions include understanding the rapidly evolving GenAI landscape and user journeys across products and devices to identify cross-company strategic opportunities. This team also focuses on advanced decision making frameworks and tooling, ranging from observational, to causal inference, to experiments. We're all about scale to develop and leverage reliable, reproducible analyses for ourselves, our partners, and to drive aligned decision making across Google.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
-  
-  
-US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits  
-  
-Learn more about benefits at Google.
-
-**Responsibilities**
---------------------
-
-* Collaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer.
-* Use custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.
-* Gather information, business goals, priorities, and organizational context around the questions to answer, as well as the existing and upcoming data infrastructure.
-* Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, or validate data to ensure quality, and review the dataset to ensure it is ready for analysis.
-* Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.
-
-Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
         <pubDate>2026-10-16</pubDate>
     </item>
     
@@ -1022,6 +923,60 @@ Compensation Range: $160K - $230K</description>
     </item>
     
     <item>
+        <title>Research Data Scientist, YouTube Music and Premium - Youtube</title>
+        <link>https://www.indeed.com/viewjob?jk=0174e38385d95c8e</link>
+        <description>In most instances, this position requires in-person interviews as part of the hiring process.  
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **San Bruno, CA, USA; Mountain View, CA, USA**.
+
+### **Minimum qualifications:**
+
+* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.
+* 3 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
+
+  
+
+### **Preferred qualifications:**
+
+* 5 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
+* Ability to read and apply quantitative methodologies from books, papers, etc.
+* Ability to take open-ended problems, provide better definition and eventually solutions.
+* Ability to communicate well (and the so what) with data.
+
+**About the job**
+-----------------
+
+YouTube Data Science consists of a large analyst team that influences and informs YouTube’s product and engineering leadership teams. We have a long history of working on projects that are at the heart of the business and have a seat at the table when it comes to the decisions that drive YouTube's continued success.
+
+Within YouTube Data Science, the Music and Premium Data Science team is the home for all music products and podcasts at Google, along with efforts to grow the paid users (Premium, Nitrate, Commerce, and Growth). It is a critical area both for expanding Google's business through paid subscriptions growth, as well as showcasing innovation. This is the landing spot for GenAI audio and transforming the product using AI tools.
+
+As a Data Scientist within the YouTube Premium team, you will work alongside premium and music Data Scientists, ProdOps, Finance, PM, Marketing, BD/partnerships, Engineering and UXR partners to uncover actionable data-driven insights that inform the product roadmaps and strategy, create models and define metrics for improved user experiences, and model growth dynamics in premium user base to support the M&amp;P business.
+
+You will need to have a background or a flair for topics related to economics, especially economics of paid subscription services.
+
+The Music and Premium experience for YouTube users involves no ads, backgrounding, downloads (for offline experiences), and many others. This role involves understanding levers of YouTube premium subscriber growth, building robust and scalable tools to understand, manage the trajectory of the business, while balancing subscriber growth and profitability.
+
+At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.
+
+Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+  
+  
+US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits  
+  
+Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Collaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer. Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.
+* Use custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.
+* Drive operational diagnoses in the premium business, such as reasons for changes in paid preserving, trial to paid conversion and the implications for various areas in the subs business (lifetime calue, acquisition and experiments etc.).
+* Adjust prices which require understanding of the impact on existing subs (churn). Involve in improving methods to estimate price elasticity and play a key role in the mission control team which coordinates price increases.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
+        <pubDate>2026-10-14</pubDate>
+    </item>
+    
+    <item>
         <title>Data Scientist, Seller Merchant - Whatnot</title>
         <link>https://www.indeed.com/viewjob?jk=cb89766535ecab59</link>
         <description>**Location**
@@ -1117,60 +1072,6 @@ Experience with e-commerce, merchant products, inventory systems, seller tools, 
     </item>
     
     <item>
-        <title>Research Data Scientist, YouTube Music and Premium - Youtube</title>
-        <link>https://www.indeed.com/viewjob?jk=0174e38385d95c8e</link>
-        <description>In most instances, this position requires in-person interviews as part of the hiring process.  
-Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **San Bruno, CA, USA; Mountain View, CA, USA**.
-
-### **Minimum qualifications:**
-
-* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.
-* 3 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
-
-  
-
-### **Preferred qualifications:**
-
-* 5 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.
-* Ability to read and apply quantitative methodologies from books, papers, etc.
-* Ability to take open-ended problems, provide better definition and eventually solutions.
-* Ability to communicate well (and the so what) with data.
-
-**About the job**
------------------
-
-YouTube Data Science consists of a large analyst team that influences and informs YouTube’s product and engineering leadership teams. We have a long history of working on projects that are at the heart of the business and have a seat at the table when it comes to the decisions that drive YouTube's continued success.
-
-Within YouTube Data Science, the Music and Premium Data Science team is the home for all music products and podcasts at Google, along with efforts to grow the paid users (Premium, Nitrate, Commerce, and Growth). It is a critical area both for expanding Google's business through paid subscriptions growth, as well as showcasing innovation. This is the landing spot for GenAI audio and transforming the product using AI tools.
-
-As a Data Scientist within the YouTube Premium team, you will work alongside premium and music Data Scientists, ProdOps, Finance, PM, Marketing, BD/partnerships, Engineering and UXR partners to uncover actionable data-driven insights that inform the product roadmaps and strategy, create models and define metrics for improved user experiences, and model growth dynamics in premium user base to support the M&amp;P business.
-
-You will need to have a background or a flair for topics related to economics, especially economics of paid subscription services.
-
-The Music and Premium experience for YouTube users involves no ads, backgrounding, downloads (for offline experiences), and many others. This role involves understanding levers of YouTube premium subscriber growth, building robust and scalable tools to understand, manage the trajectory of the business, while balancing subscriber growth and profitability.
-
-At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.
-
-Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
-  
-  
-US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits  
-  
-Learn more about benefits at Google.
-
-**Responsibilities**
---------------------
-
-* Collaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer. Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.
-* Use custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.
-* Drive operational diagnoses in the premium business, such as reasons for changes in paid preserving, trial to paid conversion and the implications for various areas in the subs business (lifetime calue, acquisition and experiments etc.).
-* Adjust prices which require understanding of the impact on existing subs (churn). Involve in improving methods to estimate price elasticity and play a key role in the mission control team which coordinates price increases.
-
-Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
-        <pubDate>2026-10-14</pubDate>
-    </item>
-    
-    <item>
         <title>Sr. Applied Scientist, Agent Evaluation and Experimentation, DTx Science - Amazon.com</title>
         <link>https://www.indeed.com/viewjob?jk=a9eb110ac4ec4a29</link>
         <description>**DESCRIPTION**
@@ -1226,6 +1127,61 @@ The base salary range for this position is listed below. Your Amazon package wil
 USA, NY, New York - 183,800.00 - 248,700.00 USD annually  
 USA, WA, SEATTLE - 167,100.00 - 226,100.00 USD annually</description>
         <pubDate>2026-10-14</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist Engineer, Digital Experience - Everpure</title>
+        <link>https://www.indeed.com/viewjob?jk=14b689d8cd8095e3</link>
+        <description>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.
+
+This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.
+
+**THE ROLE**
+
+As a Data Scientist on the Digital Experience Insights team, you'll lead high-impact analytics initiatives, turning complex data, platform, and time-series data into rigorous predictive models, causal inferences, and strategic product metrics. You'll also apply advanced statistical and quantitative research methods to some of our most complex datasets, but the core of the role is turning that analysis into decisions leadership can act on. This role sits within a fast-moving analytics organization where the specific problems shift over time, so we're looking for someone with strong research rigor who can adapt it to whatever question is in front of them.
+
+**WHAT YOU'LL DO**
+
+* **Advanced Predictive &amp; Statistical Modeling:** Develop ML models spanning predictive modeling, time-series prediction, clustering, churn reduction, anomaly detection, and recommendation systems.
+* **Quantitative Research:** Apply advanced computational methods and statistical techniques, including multilevel models and Statsmodels, to massive datasets.
+* **Executive Visualization:** Create executive-level visual analytics that make complex findings accessible to senior stakeholders.
+* **Stakeholder Collaboration:** Partner directly with Product, Engineering, and Business leaders to translate complex analytical findings into actionable strategy.
+* We are primarily an in-office environment and therefore, you will be expected to work from the Santa Clara office in compliance with Everpure's policies, unless you are on PTO, or work travel, or other approved leave.
+
+**WHAT YOU BRING**
+
+* Master's degree (MS) or Ph.D. in Computational Methods, Physical Science, Statistics, Applied Mathematics, Data Science, or a related quantitative discipline.
+* 5 to 8+ years applying machine learning, statistical modeling, and quantitative research.
+* Proven track record in quantitative research methodologies and experimental design, with publications or presentations of scientific or computational research, or patents.
+* Advanced proficiency in Python and SQL.
+* Hands-on experience with ML and statistics libraries such as Scikit-Learn, TensorFlow/Keras, PyTorch, Pandas, and Statsmodels.
+
+#LI-ONSITE
+
+**WHAT YOU CAN EXPECT FROM US:**
+
+* **Innovation**: We celebrate those who think critically, like a challenge, and aspire to be trailblazers.
+* **Growth**: We give you the space and support to grow along with us and to contribute to something meaningful. We have been named Fortune's Best Workplaces in Technology™, Fortune's Best Workplaces in the Bay Area™, and certified as a Great Place to Work®!
+* **Team**: We build each other up and set aside ego for the greater good.
+
+And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events. Check out http://benefits.everpuredata.com/ for more information.
+
+**ACCOMMODATIONS AND ACCESSIBILITY:**
+
+Candidates with disabilities may request accommodations for all aspects of our hiring process. For more on this, contact us at TA-Ops@purestorage.com if you're invited to an interview.
+
+**OUR COMMITMENT TO A STRONG AND INCLUSIVE TEAM:**
+
+We're forging a future where everyone finds their rightful place and where every voice matters. Where uniqueness isn't just accepted but embraced. That's why we are committed to fostering the growth and development of every person, cultivating a sense of community through our Employee Resource Groups and advocating for inclusive leadership.
+
+Everpure is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire.
+
+**Join us and bring your best.**
+
+**Bring your bold.**
+
+**Pure and simple.**</description>
+        <pubDate>2026-10-13</pubDate>
     </item>
     
     <item>
@@ -1289,99 +1245,87 @@ Crusoe is an Equal Opportunity Employer. Employment decisions are made without r
     </item>
     
     <item>
-        <title>Data Scientist Engineer, Digital Experience - Everpure</title>
-        <link>https://www.indeed.com/viewjob?jk=14b689d8cd8095e3</link>
-        <description>Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.
-
-This type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.
-
-**THE ROLE**
-
-As a Data Scientist on the Digital Experience Insights team, you'll lead high-impact analytics initiatives, turning complex data, platform, and time-series data into rigorous predictive models, causal inferences, and strategic product metrics. You'll also apply advanced statistical and quantitative research methods to some of our most complex datasets, but the core of the role is turning that analysis into decisions leadership can act on. This role sits within a fast-moving analytics organization where the specific problems shift over time, so we're looking for someone with strong research rigor who can adapt it to whatever question is in front of them.
-
-**WHAT YOU'LL DO**
-
-* **Advanced Predictive &amp; Statistical Modeling:** Develop ML models spanning predictive modeling, time-series prediction, clustering, churn reduction, anomaly detection, and recommendation systems.
-* **Quantitative Research:** Apply advanced computational methods and statistical techniques, including multilevel models and Statsmodels, to massive datasets.
-* **Executive Visualization:** Create executive-level visual analytics that make complex findings accessible to senior stakeholders.
-* **Stakeholder Collaboration:** Partner directly with Product, Engineering, and Business leaders to translate complex analytical findings into actionable strategy.
-* We are primarily an in-office environment and therefore, you will be expected to work from the Santa Clara office in compliance with Everpure's policies, unless you are on PTO, or work travel, or other approved leave.
-
-**WHAT YOU BRING**
-
-* Master's degree (MS) or Ph.D. in Computational Methods, Physical Science, Statistics, Applied Mathematics, Data Science, or a related quantitative discipline.
-* 5 to 8+ years applying machine learning, statistical modeling, and quantitative research.
-* Proven track record in quantitative research methodologies and experimental design, with publications or presentations of scientific or computational research, or patents.
-* Advanced proficiency in Python and SQL.
-* Hands-on experience with ML and statistics libraries such as Scikit-Learn, TensorFlow/Keras, PyTorch, Pandas, and Statsmodels.
-
-#LI-ONSITE
-
-**WHAT YOU CAN EXPECT FROM US:**
-
-* **Innovation**: We celebrate those who think critically, like a challenge, and aspire to be trailblazers.
-* **Growth**: We give you the space and support to grow along with us and to contribute to something meaningful. We have been named Fortune's Best Workplaces in Technology™, Fortune's Best Workplaces in the Bay Area™, and certified as a Great Place to Work®!
-* **Team**: We build each other up and set aside ego for the greater good.
-
-And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events. Check out http://benefits.everpuredata.com/ for more information.
-
-**ACCOMMODATIONS AND ACCESSIBILITY:**
-
-Candidates with disabilities may request accommodations for all aspects of our hiring process. For more on this, contact us at TA-Ops@purestorage.com if you're invited to an interview.
-
-**OUR COMMITMENT TO A STRONG AND INCLUSIVE TEAM:**
-
-We're forging a future where everyone finds their rightful place and where every voice matters. Where uniqueness isn't just accepted but embraced. That's why we are committed to fostering the growth and development of every person, cultivating a sense of community through our Employee Resource Groups and advocating for inclusive leadership.
-
-Everpure is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire.
-
-**Join us and bring your best.**
-
-**Bring your bold.**
-
-**Pure and simple.**</description>
-        <pubDate>2026-10-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Research Data Scientist, YouTube Ads - Youtube</title>
-        <link>https://www.indeed.com/viewjob?jk=60bd4ebd95bcfe2d</link>
-        <description>In most instances, this position requires in-person interviews as part of the hiring process.
-
-### **Minimum qualifications:**
-
-* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.
-* 5 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 3 years of work experience with a PhD degree.
+        <title>Machine Learning Engineer, Implicit Signals - OpenAI</title>
+        <link>https://www.indeed.com/viewjob?jk=cf91da6587ae1a4e</link>
+        <description>Applied AI Engineering - San Francisco
 
   
 
-### **Preferred qualifications:**
+### **About the Team**
 
-* 8 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 6 years of work experience with a PhD degree.
+Our team builds classification and evaluation systems that give post-training and research teams fast, reliable feedback on model behavior. We combine machine learning and production engineering to make these capabilities accurate, efficient, and useful at scale, helping researchers assess changes and improve models and products.
 
-**About the job**
------------------
+We work closely with research teams to develop useful measurements and make them practical to run. Our work spans classifier development, rigorous evaluation, and efficient production inference, with ownership from initial experimentation through deployment and continued improvement.
 
-As a part of the YouTube optimization team, you will focus on delivering the best performances to the advertisers advertising on YouTube. In this role, you will work with advertisers who each have a business goal to achieve, such as getting the most conversions within their budget, the most clicks under a cost-per-click limit, building awareness of their brand, or many other more advanced settings. You will be a part of the team responsible for the backend systems that power all these optimizations.
+### **About the Role**
 
-In this role, you will manage advertisers’ spend and translate their business goals into real-time decision making on which ads to show, and to achieve this goal, you will develop large-scale optimization systems by utilizing a variety of different tools such as mathematical and statistical modeling, auction theory, risk management, and machine learning (deep networks, Bayesian, etc.).
+We’re looking for a machine learning engineer to develop new classification and evaluation capabilities and bring them into production. You’ll help turn open-ended questions about model behavior into well-defined ML problems, build methods that address them, and establish how reliably those methods work.
 
-Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+This role combines traditional machine learning, model evaluation, and real-time engineering. You’ll own classifiers throughout their lifecycle, including supervised fine-tuning, distillation, evaluation, deployment, and production inference. You’ll work closely with researchers to identify valuable problems and with software engineers to make promising approaches useful at scale.
+
+### **In this role, you will:**
+
+* Build, deploy, and operate production classification and evaluation systems that provide useful feedback to post-training and research teams.
+* Optimize production inference, including model serving, batching, caching, throughput, latency, compute utilization, and cost.
+* Train and optimize classifiers using supervised fine-tuning and distillation, validating quality and efficiency before deployment.
+* Own the reliability and observability of deployed classifiersance over time.
+* Design rigorous evaluations that assess accuracy, calibration, generalization, and potential measurement bias while guiding production tradeoffs.
+* Partner with software engineers to integrate models into reliable execution systems and support safe rollouts.
+* Build reusable engineering tools that make classifier training, evaluation, deployment, and iteration faster and more repeatable.
+* Work with post-training researchers and data scientists to translate their needs into modeling objectives, evaluation criteria, and production requirements.
+
+### **Your background might look something like**
+
+* Experience taking ML projects from problem formulation and experimentation through production deployment.
+* Strong foundations in supervised learning, statistics, and experimental design.
+* Practical experience evaluating models, investigating systematic errors, and working with imperfect labels.
+* Strong software engineering skills and the ability to build maintainable production ML systems.
+* Experience reasoning about inference performance and the tradeoffs between quality, latency, and compute cost.
+* The ability to combine careful scientific judgment with a practical approach to shipping and operating software.
+* Comfort working closely with researchers and engineers on open-ended problems.
+* Fluency in using AI agents to move quickly across multiple workstreams in a fast-paced environment.
+* Experience with model distillation, representation learning, calibration, or efficient inference is a plus.
+
+**About OpenAI**
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core the full spectrum of humanity.
+
+We are an equal opportunity employeration, or other applicable legally protected characteristic.
+
   
+
+Background checks for applicants will be administered in accordance with applicable lawation technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant. No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities.
+
   
-US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits  
-  
-Learn more about benefits at Google.
 
-**Responsibilities**
---------------------
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
 
-* Partner with stakeholders across cross-projects and team settings to identify and clarify business or product questions to answer, providing feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.
-* Leverage custom data infrastructure or existing data models as appropriate, using specialized knowledge to design and evaluate models that mathematically express and solve defined problems with limited precedent.
-* Gather information, business goals, priorities, and organizational context around the questions to answer, as well as the existing and upcoming data infrastructure.
-* Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python), independently formatting, re-structuring or validating data to ensure quality, and review the dataset to ensure it is ready for analysis.
+**Compensation**
 
-Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
+$381K – $510K + Offers Equity
+
+The base pay offered may vary depending on multiple individualized factorsance-related bonus(es) for eligible employees, and the following benefits.
+
+* Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts
+* Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)
+* 401(k) retirement plan with employer match
+* Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)
+* Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees
+* 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)
+* Mental health and wellness support
+* Employer-paid basic life and disability coverage
+* Annual learning and development stipend to fuel your professional growth
+* Daily meals in our offices, and meal delivery credits as eligible
+* Relocation support for eligible employees
+* Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.
+
+More details about our benefits are available to candidates during the hiring process.
+
+This role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.</description>
         <pubDate>2026-10-13</pubDate>
     </item>
     
@@ -1473,282 +1417,157 @@ This role is at-will and OpenAI reserves the right to modify base pay and other 
     </item>
     
     <item>
-        <title>Data Scientist, Meta Superintelligence Labs (Safety) - Meta</title>
-        <link>https://www.indeed.com/viewjob?jk=58ca53115e8e4d87</link>
-        <description>We're seeking Data Scientists to join the Safety team within MSL (Meta Superintelligence Labs).As a Data Scientist in Safety, you will establish the analytical foundations that allow us to advance personal superintelligence safely and securely. You will help us turn complex, ambiguous risks with incomplete ground truth into measurable systems across model evaluations and online monitoring. You'll work with engineering, research, product, policy, and legal to design and build measurement and mitigation strategies, quantifying trade-offs between user friction and safety risks.  
-  
-  
-
-### **Data Scientist, Meta Superintelligence Labs (Safety) Responsibilities:**
-
-* Measure abuse: build statistical telemetry and measurement frameworks to detect and monitor policy violations or emergent harms
-* Scale model evaluation: design a scalable framework adapting to evolving agentic model capabilities and safety/risk landscape, grounded in statistics
-* Evaluate and optimize safeguards: scale offline and online performance evaluation of our safeguards using human-in-the-loop and active learning
-* Design experiments and analyses: Conduct controlled experiments and rollouts to evaluate the impact of policy or risk definition changes and safety mitigations
-* Build intelligence and reporting: build signals, pipelines, dashboards to enable real-time monitoring driving interventions and safety roadmaps
-
-  
-  
-  
-
-### **Minimum Qualifications:**
-
-* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
-* 12+ years of experience in product data science, applied analytics, or quantitative research, including leading complex analytical workstreams in an individual contributor capacity
-* 12+ years of experience with data querying languages (e.g., SQL), scripting languages (e.g., Python or R), and statistical or mathematical software for large-scale data analysis
-* Experience developing and applying advanced statistical methods including predictive modeling, causal inference, experimentation design, and time series forecasting in a product context
-* Experience influencing product strategy and executive decision-making through data-driven narratives, written analytical frameworks, and stakeholder alignment across multiple cross-functional teams
-* Experience establishing analytical standards, data infrastructure best practices, or measurement frameworks adopted broadly across an organization or business domain
-
-  
-  
-  
-
-### **Preferred Qualifications:**
-
-* Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)
-* Experience defining and scaling self-service analytics platforms or data explorability tools that reduce time-to-insight for non-technical stakeholders
-* Demonstrated use of AI tools to accelerate analytical workflows, including responsible validation of AI-generated outputs and adherence to ethical AI practices
-* Background in ambiguous and sparse data environments to operationalize e.g. harm prevalence measurement, causal inference, root-cause analysis– rooted in quantitative and statistical foundations
-* Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)
-* Experience working in fast-paced, high-ambiguity, cross-functional environments – able to jump from agentic trace deep-dives to explaining risk dimensions in plain English to policy stakeholders
-* Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies
-* Advanced degree (Master's or PhD) in a quantitative field such as Statistics, Computer Science, Mathematics, Economics, or Operations Research
-* Experience in frontier AI products or risks, and navigating online, adversarial environments in Trust &amp; Safety or Fraud/Risk/Security domains. Model evals, threat modelling, actor telemetry, human-in-the-loop review systems don’t sound foreign to you
-
-  
-  
-  
-
-### **About Meta:**
-
-Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.  
-  
-  
-
-Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
-  
-  
-Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.  
-  
-$210,000/year to $281,000/year + bonus + equity + benefits  
-  
-Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.</description>
-        <pubDate>2026-10-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Data Scientist, Audio Telemetry Intelligence - Apple</title>
-        <link>https://www.indeed.com/viewjob?jk=46dac996c952d247</link>
-        <description>Imagine what you could do at Apple! Everyday, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Do you bring passion and dedication to your job? If so, we are looking for individuals like you. The Media Graphics Compute Technologies (MGC) group is at the center of audio, video, and graphics in Apple’s innovative products, including the iPhone, iPad, Mac, Apple Watch, AirPods, HomePod, Apple TV and Vision Pro. Our work directly impacts the end-user experience through impactful features such as Adaptive Noise Control, Conversation Awareness, FaceTime, Siri, media playback, and Conversation Boost, to name just a few.  
-  
-We're seeking an experienced Data Scientist to join our Audio Technology team, focusing on developing and optimizing audio experiences across our portfolio of consumer electronics. You'll work at the intersection of audio engineering, machine learning, and user experience, analyzing complex datasets to drive improvements in sound quality, noise cancellation, voice recognition, and acoustic performance.  
-  
-**Description**  
-  
-We are seeking a Data Scientist to help advance telemetry intelligence for device experience optimization. This role focuses on analyzing large-scale audio session and device telemetry data to uncover patterns in user behavior and system adjustments, enabling opportunities for predictive and adaptive system improvements.  
-  
-The ideal candidate combines strong data analysis and programming skills with experience working with large-scale datasets. This role will partner with data scientists and engineers to build reliable datasets, develop analytical workflows, and translate telemetry insights into data-driven improvements to device audio experiences.  
-  
-","responsibilities":"  
-  
-Analyze large-scale audio session and device telemetry data to identify patterns in user behavior and system adjustments.  
-  
-Develop analytical datasets and workflows that support scalable analysis and experimentation.  
-  
-Build and maintain data pipelines that transform raw telemetry into reliable analytical datasets.  
-  
-Explore opportunities for predictive or adaptive system behaviors that improve device audio experience.  
-  
-Partner with engineering and product teams to translate telemetry insights into actionable product improvements.  
-  
-Improve data accessibility and reliability through automation and internal data tooling.  
-  
-Support experimentation and data-driven decision making across audio and device interaction scenarios.  
-  
-**Preferred Qualifications**  
-  
-Experience working with telemetry, or time-series data.  
-  
-Familiarity with predictive modeling or pattern detection in large-scale data.  
-  
-Experience working with real-time or streaming data pipelines.  
-  
-Experience using AI-assisted development tools  
-  
-Proven experience working with large-scale data platforms or cloud-based data infrastructure.  
-  
-Strong communication skills with the ability to translate complex data insights into actionable recommendations.  
-  
-Experience using version control systems such as Git in collaborative environments.  
-  
-**Minimum Qualifications**  
-  
-Bachelor’s or Master’s degree in Data Science, Machine Learning, Data Engineering, Computer Science, or a related quantitative field.  
-  
-3+ years of full-time professional experience in data science, data engineering, or machine learning related roles.  
-  
-Strong programming skills in Python for data analysis, scripting, and automation.  
-  
-Advanced SQL skills for querying and analyzing large-scale datasets.  
-  
-Experience building or maintaining data pipelines and ETL/ELT workflows.  
-  
-Experience working with large-scale or distributed data processing frameworks (e.g., Apache Spark).  
-  
-Solid understanding of data modeling, data quality, and analytical dataset development.  
-  
-Proven work experience with applying statistical analysis or machine learning techniques to behavioral datasets.  
-  
-**Pay &amp; Benefits**  
-  
-At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $144,600 and $263,800, and your base pay will depend on your skills, qualifications, experience, and location.  
-  
-Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  
-  
-Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</description>
-        <pubDate>2026-10-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Machine Learning Engineer, Implicit Signals - OpenAI</title>
-        <link>https://www.indeed.com/viewjob?jk=cf91da6587ae1a4e</link>
-        <description>Applied AI Engineering - San Francisco
-
-  
-
-### **About the Team**
-
-Our team builds classification and evaluation systems that give post-training and research teams fast, reliable feedback on model behavior. We combine machine learning and production engineering to make these capabilities accurate, efficient, and useful at scale, helping researchers assess changes and improve models and products.
-
-We work closely with research teams to develop useful measurements and make them practical to run. Our work spans classifier development, rigorous evaluation, and efficient production inference, with ownership from initial experimentation through deployment and continued improvement.
-
-### **About the Role**
-
-We’re looking for a machine learning engineer to develop new classification and evaluation capabilities and bring them into production. You’ll help turn open-ended questions about model behavior into well-defined ML problems, build methods that address them, and establish how reliably those methods work.
-
-This role combines traditional machine learning, model evaluation, and real-time engineering. You’ll own classifiers throughout their lifecycle, including supervised fine-tuning, distillation, evaluation, deployment, and production inference. You’ll work closely with researchers to identify valuable problems and with software engineers to make promising approaches useful at scale.
-
-### **In this role, you will:**
-
-* Build, deploy, and operate production classification and evaluation systems that provide useful feedback to post-training and research teams.
-* Optimize production inference, including model serving, batching, caching, throughput, latency, compute utilization, and cost.
-* Train and optimize classifiers using supervised fine-tuning and distillation, validating quality and efficiency before deployment.
-* Own the reliability and observability of deployed classifiersance over time.
-* Design rigorous evaluations that assess accuracy, calibration, generalization, and potential measurement bias while guiding production tradeoffs.
-* Partner with software engineers to integrate models into reliable execution systems and support safe rollouts.
-* Build reusable engineering tools that make classifier training, evaluation, deployment, and iteration faster and more repeatable.
-* Work with post-training researchers and data scientists to translate their needs into modeling objectives, evaluation criteria, and production requirements.
-
-### **Your background might look something like**
-
-* Experience taking ML projects from problem formulation and experimentation through production deployment.
-* Strong foundations in supervised learning, statistics, and experimental design.
-* Practical experience evaluating models, investigating systematic errors, and working with imperfect labels.
-* Strong software engineering skills and the ability to build maintainable production ML systems.
-* Experience reasoning about inference performance and the tradeoffs between quality, latency, and compute cost.
-* The ability to combine careful scientific judgment with a practical approach to shipping and operating software.
-* Comfort working closely with researchers and engineers on open-ended problems.
-* Fluency in using AI agents to move quickly across multiple workstreams in a fast-paced environment.
-* Experience with model distillation, representation learning, calibration, or efficient inference is a plus.
-
-**About OpenAI**
-
-OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core the full spectrum of humanity.
-
-We are an equal opportunity employeration, or other applicable legally protected characteristic.
-
-  
-
-Background checks for applicants will be administered in accordance with applicable lawation technology systems and related data security obligations.
-
-To notify OpenAI that you believe this job posting is non-compliant. No response will be provided to inquiries unrelated to job posting compliance.
-
-We are committed to providing reasonable accommodations to applicants with disabilities.
-
-  
-
-At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
-
-**Compensation**
-
-$381K – $510K + Offers Equity
-
-The base pay offered may vary depending on multiple individualized factorsance-related bonus(es) for eligible employees, and the following benefits.
-
-* Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts
-* Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)
-* 401(k) retirement plan with employer match
-* Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)
-* Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees
-* 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)
-* Mental health and wellness support
-* Employer-paid basic life and disability coverage
-* Annual learning and development stipend to fuel your professional growth
-* Daily meals in our offices, and meal delivery credits as eligible
-* Relocation support for eligible employees
-* Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.
-
-More details about our benefits are available to candidates during the hiring process.
-
-This role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.</description>
-        <pubDate>2026-10-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Applied Scientist , Sponsored Products - Amazon.com</title>
-        <link>https://www.indeed.com/viewjob?jk=d53b54ea2aa86828</link>
-        <description>**DESCRIPTION**
----------------
-
-The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through cutting-edge generative AI technologies, revolutionizing how millions of customers discover products and engage with brands across Amazon.com and beyond. We are at the forefront of re-inventing advertising experiences, bridging human creativity with artificial intelligence to transform every aspect of the advertising lifecycle from ad creation and optimization to performance analysis and customer insights. We are a passionate group of innovators dedicated to developing responsible and intelligent AI technologies that balance the needs of advertisers, enhance the shopping experience, and strengthen the marketplace. If you're energized by solving complex challenges and pushing the boundaries of what's possible with AI, join us in shaping the future of advertising.  
-  
-Key job responsibilities  
-
-* Define and lead science initiatives from problem framing through production deployment in a high-ambiguity environment
-* Develop and deploy models spanning computer vision, language, and search and retrieval that operate on multimodal inputs at scale
-* Design and analyze large-scale online experiments to measure impact on shopper and advertiser outcomes
-* Collaborate with engineering, product, and design to ship science into production
-
-  
-A day in the life  
-As an Applied Scientist on the Sponsored Videos team, you will tackle problems at the intersection of computer vision, generative AI, search and retrieval, and personalization. You'll own the full science lifecycle from research and experimentation through online testing and production deployment, working closely with engineering, product, and design partners to bring ideas to market. You should be comfortable working with multimodal signals, building models that operate at scale, and measuring impact through rigorous experimentation. Your work will directly influence the experience of hundreds of millions of shoppers and the outcomes of tens of thousands of advertisers.
-  
-  
-About the team  
-The Sponsored Videos team within Sponsored Products and Brands develops the science and systems behind video advertising experiences that connect advertisers and shoppers across Amazon. We are on a mission to make Amazon the best-in-class destination for shoppers to discover, engage with, and build affinity with brands through videos.
-
-**BASIC QUALIFICATIONS**
-------------------------
-
-* 3+ years of building models for business application experience
-* PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience
-* Experience programming in Java, C++, Python or related language
-* Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing
-
-**PREFERRED QUALIFICATIONS**
-----------------------------
-
-* Experience using Unix/Linux
-* Experience in professional software development
-
-  
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
-  
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
-
-The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
-
-  
-USA, NY, New York - 172,400.00 - 223,400.00 USD annually</description>
-        <pubDate>2026-10-13</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Data Scientist - Behavior Evaluation - Zoox</title>
         <link>https://www.linkedin.com/jobs/view/4387480569</link>
+        <description>We are seeking a highly skilled and experienced Staff Data Scientist to join our team and play a pivotal role in developing and deploying cutting-edge autonomous driving technologies. As a Staff Data Scientist, you will be responsible for tackling complex data challenges, driving innovation in machine learning and statistical modeling, and contributing to the advancement of our self-driving systems. You will work closely with a team of talented engineers and researchers in a fast-paced, collaborative environment.
+  
+  
+**In This Role, You Will**
+
+* Analyze large-scale datasets from various sources, such as fleet and simulation data, to extract actionable insights.
+* Develop and evaluate novel algorithms and methodologies for data processing, feature engineering, model training, and performance optimization.
+* Evaluate and validate model performance through rigorous testing and analysis, ensuring the safety and reliability of our systems.
+* Communicate complex technical findings and recommendations to both technical and non-technical audiences.
+* Mentor and provide technical guidance to junior data scientists and engineers.
+
+**Qualifications**
+
+* Master's or Ph.D. in Computer Science, Statistics, Mathematics, or a related quantitative field with 8+ years of experience as a Data Scientist.
+* Strong programming skills in Python, including experience with relevant libraries such as scikit-learn, and Pandas &amp; SQL.
+* Expertise in a wide range of machine learning techniques, including deep learning, reinforcement learning, and statistical modeling.
+* Experience working with large-scale datasets and distributed computing platforms (e.g., Spark, Hadoop) with solid understanding of data processing, feature engineering, and data visualization techniques.
+* Strong communication and presentation skills, with the ability to effectively convey technical information to diverse audiences.
+
+**Bonus Qualifications**
+
+* Experience working with autonomous driving data and algorithms, robotics, control systems or related fields.
+* Experience with real-time data processing and low-latency systems.
+* Publications in top-tier machine learning or autonomous driving conferences.
+
+$256,000 - $307,000 a year
+  
+  
+Base Salary Range
+  
+  
+There are three major components to compensation for this position: salary, Amazon Restricted Stock Units (RSUs), and Zoox Stock Appreciation Rights. A sign-on bonus may be offered as part of the compensation package. The listed range applies only to the base salary. Compensation will vary based on geographic location and level. Leveling, as well as positioning within a level, is determined by a range of factors, including, but not limited to, a candidate's relevant years of experience, domain knowledge, and interview performance. The salary range listed in this posting is representative of the range of levels Zoox is considering for this position.
+  
+  
+Zoox also offers a comprehensive package of benefits, including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long-term care insurance, long-term and short-term disability insurance, and life insurance.
+  
+  
+**About Zoox**
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+  
+  
+Follow us on LinkedIn
+  
+  
+**Accommodations**
+If you need an accommodation to participate in the application or interview process please reach out to [email protected] or your assigned recruiter.
+  
+  
+**A Final Note**
+*You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.*
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.</description>
+        <pubDate>2026-10-19</pubDate>
+    </item>
+    
+    <item>
+        <title>Expert Data Scientists, Conversational AI - Walmart Global Tech</title>
+        <link>https://www.linkedin.com/jobs/view/4355934839</link>
         <description>None</description>
         <pubDate>2026-10-19</pubDate>
+    </item>
+    
+    <item>
+        <title>(USA) Principal, Data Scientist - Walmart</title>
+        <link>https://www.linkedin.com/jobs/view/4451286114</link>
+        <description>Position Summary...
+  
+  
+What you'll do...Role summary:
+  
+  
+The Principal Data Scientist will lead the design, development, and deployment of AI-powered Search and Personalization systems serving hundreds of millions of customers across Walmart's global eCommerce platforms. This role demands deep expertise in information retrieval, ranking, recommendation systems, and Generative AI applied at production scale. You will define technical strategy, shape ML architecture, and partner with Product and Engineering to turn ambiguous discovery problems into measurable customer and business outcomes, while mentoring a team of senior scientists raising the bar across the discipline.
+  
+  
+About the team:
+  
+  
+Walmart's Search &amp; Personalization team shapes how hundreds of millions of customers discover products every day. We sit at the intersection of AI research and global-scale systems, owning query understanding, retrieval, ranking, recommendations, and real-time personalization end to end. We work closely with Ads and Sparky, Walmart's AI shopping assistant, building the science that powers discovery across the full customer journey.
+  
+  
+What you'll do:
+  
+  
+
+* Own end-to-end design and delivery of ML systems for Search ranking, query understanding, retrieval, recommendations, and real-time personalization.
+* Build and productionize deep learning and Transformer-based models for relevance, intent classification, and semantic matching.
+* Apply Generative AI and LLMs, including RAG and fine-tuning, to improve query understanding and product discovery.
+* Design large-scale feature engineering and training pipelines handling petabyte-scale catalog and behavioral signals.
+* Define experimentation strategies, offline evaluation frameworks, and online/offline metric alignment for Search and P13n systems.
+* Drive technical architecture decisions and influence the long-term AI roadmap.
+* Mentor senior scientists and establish team standards for model development and production deployment.
+
+What you'll bring:
+  
+  
+
+* Proven track record in Search, Information Retrieval, Ranking, Recommendations, or Personalization at production scale.
+* Hands-on experience with PyTorch and Transformer architectures for relevance modeling, semantic search, or multi-task learning.
+* Practical experience applying Generative AI to real products, including RAG, instruction fine-tuning, or RLHF.
+* Strong engineering skills in Python and Scala, with experience building large-scale Spark-based ML pipelines.
+* Solid command of experimentation: causal inference, A/B testing, interleaving, and offline/online metric alignment.
+* Experience operationalizing ML systems at scale, including model serving, drift monitoring, and continuous training.
+* Excellent communication skills and ability to lead multi-quarter technical initiatives across cross-functional teams.
+
+At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+  
+  
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+  
+  
+**For Information About Benefits And Eligibility, See One.Walmart.**
+The annual salary range for this position is $143,000.00 - $286,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
+  
+  
+
+* Stock
+
+ㅤ
+  
+  
+ㅤ
+  
+  
+ㅤ
+  
+  
+ㅤ
+  
+  
+‎
+  
+  
+**Minimum Qualifications...**
+**Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.**
+Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 5 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 3 years' experience in an analytics related field. Option 3: 7 years' experience in an analytics or related field
+  
+  
+**Preferred Qualifications...**
+**Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.**
+Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Publications or active peer reviewer in related journals or conference, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.
+  
+  
+Primary Location...
+  
+  
+1395 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America
+  
+  
+Walmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
+        <pubDate>2026-10-18</pubDate>
     </item>
     
     <item>
@@ -1825,36 +1644,376 @@ SAP’s culture of inclusion, focus on health and well-being, and flexible worki
     <item>
         <title>Senior Data Scientist, Fleet Health - Gridware</title>
         <link>https://www.linkedin.com/jobs/view/4469776826</link>
+        <description>**About Gridware**
+
+  
+
+Gridware is a San Francisco-based technology company dedicated to protecting and enhancing the electrical grid. We pioneered a groundbreaking new class of grid management called active grid response (AGR), focused on monitoring the electrical, physical, and environmental aspects of the grid that affect reliability and safety. Gridware’s advanced Active Grid Response platform uses high-precision sensors to detect potential issues early, enabling proactive maintenance and fault mitigation. This comprehensive approach helps improve safety, reduce outages, and ensure the grid operates efficiently. The company is backed by climate-tech and Silicon Valley investors. For more information, please visit 
+www.Gridware.io
+.
+
+**Role Description**
+
+  
+
+The Data Scientist, Fleet Health will be a key member of Gridware’s Fleet team, focused on building fleet health predictive models, thresholds, and optimization frameworks to ensure 99% uptime across our rapidly scaling network of IoT devices. This role will drive the development of advanced intelligence for forecasting device health, predicting potential installation performance, and establishing data-driven criteria for detecting and remediating device degradation.
+
+  
+  
+
+The ideal candidate will bring a strong foundation in applied machine learning and forecasting, comfort working with real-world sensor and fleet data, and a passion for scaling intelligent systems that power resilient clean energy infrastructure. You will work closely with engineering, operations, and product teams to apply insights that both optimize today’s fleet performance and inform the evolution of tomorrow’s solutions.
+
+**Responsibilities**
+
+  
+* Develop predictive and forecasting models to anticipate device health issues, solar availability, and connectivity performance, driving proactive interventions and deployment planning.
+  
+* Define, test, and refine health thresholds to classify degradations, detect regressions, and optimize fleet performance across diverse operating conditions.
+  
+* Design and evaluate statistical tests and simulations to measure impact, uncover downtime drivers, and identify optimization opportunities.
+  
+* Collaborate with engineering, fleet operations, and software teams to embed intelligence into automated monitoring and remediation pipelines at scale.
+  
+* Communicate insights and contribute to scalable fleet intelligence frameworks that support growth from tens of thousands to millions of devices.
+  
+
+**Required Skills**
+
+  
+* Bachelor’s, Master’s degree, or PhD in Engineering, Statistics, Data Science, or a related quantitative field.
+  
+* 5+ years of applied experience in data science with large-scale, real-world systems (IoT, clean tech, connectivity, or related domains).
+  
+* Expertise in forecasting, anomaly detection, and predictive modeling, with experience handling time-series, sensor, or geospatial datasets.
+  
+* Proficiency in Python with scientific and ML libraries (NumPy, Pandas, SciPy, scikit-learn, Keras, PyTorch) and familiarity with data platforms (SQL, Spark, etc.).
+  
+* Strong communicator with the ability to design experiments, validate models, and translate technical findings into actionable insights for cross-functional teams.
+  
+
+**Bonus Skills**
+
+  
+* Experience forecasting solar generation, connectivity performance, or energy resource availability.
+  
+* Exposure to distributed sensing systems in energy, seismic monitoring, aerospace, industrial IoT, or environmental science.
+  
+* Background in working with power-constrained, communication-constrained, or solar-powered devices.
+  
+* Experience scaling predictive systems across large and growing hardware fleets.
+
+  
+
+This describes the ideal candidate; many of us have picked up this expertise along the way. Even if you meet only part of this list, we encourage you to apply!
+
+  
+  
+
+Gridware Technologies Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to any characteristic protected by applicable federal, state, or local law.
+
+  
+  
+
+**Benefits**
+
+  
+
+Health, Dental &amp; Vision (Gold and Platinum with some providers plans fully covered)
+
+  
+
+Paid parental leave
+
+  
+
+Alternating day off (every other Monday)
+
+  
+
+“Off the Grid”, a two week per year paid break for all employees.
+
+  
+
+Commuter allowance
+
+  
+
+Company-paid training</description>
+        <pubDate>2026-10-16</pubDate>
+    </item>
+    
+    <item>
+        <title>Principal Data Scientist - Lumentum</title>
+        <link>https://www.linkedin.com/jobs/view/4469771223</link>
         <description>None</description>
+        <pubDate>2026-10-16</pubDate>
+    </item>
+    
+    <item>
+        <title>Sr. Applied Scientist, Prime Video - Personalization and Discovery Science - Amazon Science</title>
+        <link>https://www.linkedin.com/jobs/view/4477731703</link>
+        <description>**Description**
+Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices. Prime members can customize their viewing experience and find their favorite movies, series, documentaries, and live sports – including Amazon MGM Studios-produced series and movies; licensed fan favorites; and programming from Prime Video add-on subscriptions such as Apple TV+, Max, Crunchyroll and MGM+. All customers, regardless of whether they have a Prime membership or not, can rent or buy titles via the Prime Video Store, and can enjoy even more content for free with ads.
+  
+  
+Are you interested in shaping the future of entertainment? Prime Video's technology teams are creating best-in-class digital video experience.
+  
+  
+As a Prime Video technologist, you’ll have end-to-end ownership of the product, user experience, design, and technology required to deliver state-of-the-art experiences for our customers. You’ll get to work on projects that are fast-paced, challenging, and varied. You’ll also be able to experiment with new possibilities, take risks, and collaborate with remarkable people.
+  
+  
+We’ll look for you to bring your diverse perspectives, ideas, and skill-sets to make Prime Video even better for our customers. With global opportunities for talented technologists, you can decide where a career Prime Video Tech takes you!
+  
+  
+We are looking for a self-motivated, passionate and resourceful Applied Scientist to bring diverse perspectives, ideas, and skill-sets to make Prime Video even better for our customers. You will spend your time as a hands-on machine learning practitioner and a research leader. You will play a key role on the team, building and guiding machine learning models from the ground up. At the end of the day, you will have the reward of seeing your contributions benefit millions of Amazon.com customers worldwide.
+  
+  
+Key job responsibilities
+  
+  
+
+* Develop AI solutions for various Prime Video Search systems using Deep learning, GenAI, Reinforcement Learning, and optimization methods;
+* Work closely with engineers and product managers to design, implement and launch AI solutions end-to-end;
+* Design and conduct offline and online (A/B) experiments to evaluate proposed solutions based on in-depth data analyses;
+* Effectively communicate technical and non-technical ideas with teammates and stakeholders;
+* Stay up-to-date with advancements and the latest modeling techniques in the field;
+* Publish your research findings in top conferences and journals.
+
+**About The Team**
+Prime Video Search Science team owns science solution to power search experience on various devices, from sourcing, relevance, ranking, to name a few. We work closely with the engineering teams to launch our solutions in production.
+  
+  
+**Basic Qualifications**
+
+* PhD, or Master's degree and 6+ years of applied research experience
+* 4+ years of building machine learning models for business application experience
+* Experience programming in Java, C++, Python or related language
+* Experience with neural deep learning methods and machine learning
+
+**Preferred Qualifications**
+
+* Experience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.
+* Experience with large scale distributed systems such as Hadoop, Spark etc.
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+  
+  
+USA, CA, Sunnyvale - 192,200.00 - 260,000.00 USD annually
+  
+  
+USA, WA, SEATTLE - 167,100.00 - 226,100.00 USD annually</description>
         <pubDate>2026-10-16</pubDate>
     </item>
     
     <item>
         <title>Principal Data and Applied Scientist, SCM Autonomous Suite, Palo Alto - SAP</title>
         <link>https://www.linkedin.com/jobs/view/4461380798</link>
-        <description>None</description>
+        <description>**We help the world run better**
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+  
+  
+**The context engine that makes AI enterprise ready.**
+Anyone can build an AI agent. What makes SAP's agents different is accuracy grounded in the richest enterprise data and process context in the world. As a Data and Applied Scientist at SAP, you'll build the context engine grounded in SAP’s Business ontology: the semantic infrastructure that transforms raw business data into the knowledge layer powering SAP's AI agents and assistants.
+  
+  
+**What You'll Build**
+The semantic and contextual foundation of SAP's AI. While generic AI agents operate on surface-level patterns, SAP agents are accurate because they understand the real semantics of enterprise business master data, process flows, and domain relationships. You'll build and scale the layer that makes that possible.
+  
+  
+
+* Design and maintain enterprise ontologies and semantic models that give AI agents accurate, grounded understanding of SAP and connected business landscapes harmonizing data from SAP, Salesforce, Workday, ServiceNow, MES/IoT systems, and external providers into unified semantic layers.
+* Build AI capabilities including RAG pipelines, embeddings, vector databases, and enterprise knowledge grounding that make SAP's agents accurate and reliable in production.
+* Develop AI capabilities including generative AI and LLM-based solutions using enterprise business data, knowledge graphs, business process intelligence, and other structured and unstructured data assets.
+* Leverage SAP's deep data and process context including SAP data models, metadata structures, and business process semantics across Order-to-Cash, Procure-to-Pay, Record-to-Report, and Plan-to-Produce to ground AI solutions in real enterprise reality.
+* Work with cloud and data platforms including Databricks, SAP Datasphere, SAP HANA Cloud, AWS, Azure, and GCP to support reliable, scalable AI workflows.
+* Partner across product, engineering, business, and customer-facing teams to translate ambiguous business challenges into concrete AI solutions from concept through deployment and continuous improvement.
+* Apply machine learning, deep learning, and statistical modeling to develop and evaluate AI solutions using real-world enterprise datasets.
+
+**What You'll Bring**
+*Required Qualifications*
+
+* 8+ years of experience in knowledge engineering, semantic data systems, applied AI, or data science in industry, research labs, or advanced academic environments.
+* Master's or PhD in Computer Science, Applied Mathematics, Statistics, Engineering, or a related quantitative field
+* Hands-on experience designing enterprise ontologies and semantic models; proficiency in at least one graph query language (SPARQL, Cypher, or GQL); understanding of trade-offs between RDF triple stores and property graph databases.
+* Hands-on experience with modern GenAI systems RAG, embeddings, vector databases, semantic retrieval, and enterprise knowledge grounding.
+* Strong Python and SQL skills with production-grade development practices; experience with ML libraries such as PyTorch, TensorFlow, or scikit-learn.
+* Proven track record deploying and operating AI/ML solutions in production including handoff, lifecycle support, and continuous improvement.
+* Experience with big data infrastructure and cloud environments Databricks or equivalent, plus at least one major cloud (AWS, Azure, or GCP).
+* Excellent communication and stakeholder management skills, with the ability to work cross-functionally in agile environments.
+
+**Preferred Qualifications**
+
+* Deep working knowledge of SAP data models, metadata structures, and core business processes end-to-end. (SAP knowledge is a strong accelerator)
+* Hands-on experience with the SAP data and AI platform stack SAP Datasphere, SAP HANA Cloud Knowledge Graph Engine, SAP Business Data Cloud, SAP One Domain Model, SAP Graph API, and SAP Business Accelerator Hub.
+* Deep expertise across the W3C stack (OWL, RDF/RDFS, SKOS, SHACL) and/or property graph query languages (Cypher, GQL).
+* Demonstrated experience with data, semantics, and business processes of one or more major supply-chain domains (e.g.: demand, supply and inventory planning; product and bill-of-materials data; manufacturing and capacity; logistics and fulfillment; or asset and service operations) and connect entities, events, KPIs, constraints, and decisions across data domains.
+* Deep expertise in one or more data science fields, including time-series analysis and forecasting, anomaly detection, causal inference, operations research, mathematical optimization, probabilistic modeling, or simulation and scenario search. Track record of productionizing models and measuring calibration, decision quality, and business outcomes.
+* Deep expertise in machine learning and deep learning, with experience developing, evaluating, and improving models on real-world datasets.
+* Experience with agentic AI, reasoning frameworks, planning, orchestration, tool use, or multi-agent architectures.
+* Experience contributing to reusable AI platforms, foundation model initiatives, or shared AI services adopted across multiple product areas.
+* Ability to design upper-level and mid-level ontologies aligned with industry standards and apply semantic interoperability frameworks across complex application landscapes.
+
+#dlhiring
+  
+  
+**Where you belong**
+Data Labs is building the data, semantic, and decision-intelligence foundation for SAP’s next generation of autonomous supply-chain capabilities. You'll work with large-scale planning and execution data and transform it into governed decision context, enabling AI agents to understand disruptions, trace their impact across applications, evaluate feasible responses, and act within enterprise guardrails. Products span supply-chain ontology packs, reusable semantic data products, forecasting and optimization models, typed agent interfaces, and rigorous evaluation suites. SAP Data Scientists work alongside domain experts, data engineers, ML engineers, and application teams across planning, manufacturing, logistics, product design, and asset operations. This is an opportunity to shape foundational technology used across SAP IBP, Joule, and Autonomous SCM agents — and to see that work translate directly into faster, higher-quality supply-chain decisions for customers.
+  
+  
+**Bring out your best**
+SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+  
+  
+**We win with inclusion**
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our </description>
         <pubDate>2026-10-15</pubDate>
     </item>
     
     <item>
         <title>Principal Data Scientist, Ads - Reddit, Inc.</title>
         <link>https://www.linkedin.com/jobs/view/4442727823</link>
-        <description>None</description>
+        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
+  
+  
+Reddit's Ads Data Science team is seeking a highly motivated Principal Data Scientist to drive the strategic application of advanced quantitative methods across our advertising platform to advance the intelligence powering the advertiser experience on Reddit.
+  
+  
+In this pivotal leadership role, you will be responsible for defining and implementing the next generation of foundational data science solutions, leveraging expertise in statistics, econometrics, machine learning and/or other quantitative methods to optimize Reddit's Ads marketplace. You will partner closely with Analytics Engineering to ensure our underlying data systems are continuously upleveled to support advanced analysis and modeling at scale. You will be a strategic partner, collaborating closely with Product, Engineering, and Business leaders to establish the long-term vision for measurement, prediction, and optimization.
+  
+  
+As a thought leader, you will champion scientific rigor, causal inference, and economic modeling, while providing deep mentorship to the broader team. If you are passionate about applying foundational quantitative science to solve complex, high-impact business problems, join us in shaping the future of Reddit ads.
+  
+  
+**What you'll do**
+
+* **Define the future of Ads Data Science:**
+  Own the design and long-term evolution of our core Ads Data Science solutions and infrastructure, building for the next several years of continued scale, revenue growth, and relevance.
+* **Strategic leadership &amp; scientific roadmap:**
+  Identify fundamental gaps and opportunities in our current systems (including platform, auction, targeting, and full-funnel relevance models). Lead the strategic design and scientific roadmap for new solutions to significantly improve Advertiser ROI, User experience, and Reddit revenue.
+* **Drive end-to-end impact:**
+  Take end-to-end ownership of complex problem domains such as full funnel acceleration, advertiser lifetime value (LTV), and developing advanced predictive and causal frameworks that power Reddit's strategic investments.
+* **Establish scientific standards:**
+  Define and codify best practices for large-scale statistical modeling, economic analysis, causal inference, offline model evaluation, and A/B experimentation to ensure scientific rigor and trust across the Ads data science and engineering teams.
+* **Technical deep dive &amp; authority:**
+  Be the undisputed domain authority for data scientists, engineers, and product managers on complex problems involving large-scale behavioral data, foundational models for strategic insights, and the economics of marketplace dynamics.
+* **Translate ambiguity into outcomes:**
+  Influence the design and definition of core business and performance metrics, robust measurement methodologies, and collaborate deeply with cross-org XFNs to align on strategic goals and translate insights into tangible action.
+* **Influence and uplevel the organization:**
+  Lead technically minded peers and mentor senior data scientists, influencing technical and statistical direction across the entire product and engineering organization, and championing innovation in ad systems through advanced quantitative techniques.
+
+**Requirements**
+
+* Demonstrated expertise in at least one of the following: ads marketplace understanding, auctioning/bidding, ads creative &amp; format evaluation, measurement &amp; experimentation at scale
+* Master's or Ph.D. in Economics, Statistics, Computer Science, Operations Research, or a related quantitative discipline
+* For M.S. holders: 12+ years of industry experience in applied science, data science, or machine learning engineering roles
+* For Ph.D. holders: 8+ years of relevant experience applied science, data science, or machine learning engineering roles
+* Advanced proficiency in statistical programming (Python or R) and SQL
+* Experience with statistical analysis, economic modeling, foundational machine learning and/or optimization techniques
+* Strong understanding of experimental design, causal inference, or A/B testing methodologies
+* Exceptional problem-solving and communication skills, with a track record of influencing product and engineering partners
+* Experience working in fast-paced, ambiguous environments with cross-functional teams
+* Proven experience in influencing large (500+ engineers/data scientists) organizations on technical direction, statistical rigor, and machine learning best practice
+
+**Benefits:**
+
+* Comprehensive Healthcare Benefits and Income Replacement Programs
+* 401k with Employer Match
+* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
+* Family Planning Support
+* Gender-Affirming Care
+* Mental Health &amp; Coaching Benefits
+* Flexible Vacation &amp; Paid Volunteer Time Off
+* Generous Paid Parental Leave
+
+**Pay Transparency:**
+This job posting may span more than one career level.
+  
+  
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+  
+  
+To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+  
+  
+The base salary range for this position is:
+  
+  
+$268,000—$365,100 USD
+  
+  
+In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
+  
+  
+During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
+  
+  
+*Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.*</description>
         <pubDate>2026-10-14</pubDate>
     </item>
     
     <item>
         <title>Risk Modeling Services - AI Data Scientist Director - PwC</title>
         <link>https://www.linkedin.com/jobs/view/4479226507</link>
-        <description>None</description>
+        <description>The Opportunity
+  
+  
+As a Risk Modeling Services - AI Data Scientist Director you will lead the development and delivery of AI-enabled modeling solutions that support client needs within our Assurance practice. As a Director you will set strategic direction, shape client relationships at the executive level, and guide teams as they develop new ideas, translate vision into action, and identify opportunities that can advance the firm’s business goals. In this role at PwC, you will oversee multiple workstreams focused on software and product innovation, collaborate across technology delivery teams, and help build solutions that combine machine learning, data science, and practical business insight.
+  
+  
+**Responsibilities**
+
+* Setting strategic direction for AI-driven risk modeling and technology delivery engagements
+* Leading client discussions to identify business needs and translate them into data science solutions
+* Developing and overseeing machine learning models, predictive analytics methods, and model governance practices
+* Guiding end-to-end delivery of data science solutions across design, build, testing, and deployment phases
+* Evaluating data sources, feature engineering approaches, and model performance to improve accuracy and reliability
+* Driving innovation in AI, automation, and digital tooling to advance client service delivery
+* Collaborating across technology, risk, and business teams to align solution design with delivery objectives
+* Coaching teams on technical problem solving, project planning, and release management activities
+* Applying AI fluency, analytical thinking, and software development knowledge to complex delivery challenges
+* Identifying market opportunities and shaping offerings that support growth across risk modeling services
+
+What You Must Have
+  
+  
+
+* At least a Bachelor's degree
+* At least 9 years of experience
+
+What Sets You Apart
+  
+  
+
+* Driving AI data science initiatives for risk modeling engagements
+* Leading strategic client conversations on AI-enabled risk solutions
+* Developing thought leadership in applied machine learning
+* Translating complex technical ideas into business recommendations
+* Mentoring teams across multiple projects and delivery streams
+* Adhering to professional standards, code of conduct, independence
+
+The salary range for this position is: $134,000 - $348,500. For residents of Washington state the salary range for this position is: $134,000 - $410,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance
+  
+  
+As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.
+  
+  
+PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.
+  
+  
+Learn more about how we work: https://pwc.to/how-we-work
+  
+  
+For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.</description>
         <pubDate>2026-10-14</pubDate>
-    </item>
-    
-    <item>
-        <title>Distinguished, Data Scientist - Walmart Global Tech</title>
-        <link>https://www.linkedin.com/jobs/view/4470243722</link>
-        <description>None</description>
-        <pubDate>2026-10-13</pubDate>
     </item>
     
 </channel>
