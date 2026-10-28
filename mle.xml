@@ -6,89 +6,8 @@
     <description>jobs</description>
     
     <item>
-        <title>(USA) Senior, Machine Learning Engineer - Walmart</title>
-        <link>https://www.indeed.com/viewjob?jk=cdb90af056a0843a</link>
-        <description>**Position Summary...**
------------------------
-
-The Senior Machine Learning Engineer will lead the design, development, and deployment of scalable machine learning solutions that address complex business challenges, with a primary focus on building auto-research capabilities that automate model training optimization, experimentation, and evaluation to accelerate the ML development lifecycle. This role requires collaboration with cross-functional teams to deliver robust, production-ready models and data pipelines while ensuring compliance with security and governance standards. Additionally, they will provide technical leadership, mentor peers, and drive continuous improvement to enhance system reliability and innovation aligned with organizational goals.
-  
-  
-About the team:
-  
-  
-Our team develops foundational models tailored for Walmart’s e-commerce platform by leveraging large-scale user interactions to create rich representations of users, products, and search queries. These models enable scalable search, advertising, recommendation, and personalization solutions. Team members apply expertise in data science, machine learning, and software engineering to optimize model performance, training, and deployment. With a strong focus on data quality, advanced analytics, and impactful visualization, the team delivers actionable insights that influence key business outcomes. Cross-functional collaboration drives innovation and continuous improvement in a dynamic technology environment.
-
-**What you'll do...**
----------------------
-
-* Collaborate with engineers, data scientists, and product teams to deliver machine learning features and models.
-* Design and develop auto-research capabilities that automate model training, optimization, experimentation, and evaluation, enabling AI agents to iteratively tune hyperparameters and run experiments against defined objective metrics.
-* Surface the best-performing models with minimal manual intervention, accelerating the overall machine learning development lifecycle.
-* Implement, test, and support machine learning services, APIs, and data pipelines, ensuring quality and reliability.
-* Apply MLOps practices, including CI/CD, model versioning, and automated retraining, to sustain performance.
-* Conduct rigorous model evaluation, monitoring, and maintenance to address model drift and performance issues.
-* Ensure secure, compliant machine learning engineering aligned with enterprise AI governance standards.
-
-  
-**What you'll bring:**
-  
-
-* Proven expertise in designing, developing, and deploying scalable machine learning systems using frameworks such as TensorFlow, PyTorch, and Scikit-learn.
-* Strong proficiency in programming languages including Python, SQL, Java, and C++ to build production-ready machine learning applications.
-* Hands-on experience operating agentic or autonomous research systems.
-* Experience running automated experimentation against defined objective metrics through AutoResearch loops.
-* Experience with machine learning lifecycle management, including data sourcing, feature engineering, model training, evaluation, deployment, and monitoring.
-* Knowledge of MLOps practices such as CI/CD, model versioning, automated retraining, and telemetry to ensure system reliability.
-* Ability to implement secure, compliant machine learning pipelines that adhere to enterprise AI governance standards.
-Demonstrated collaboration and mentorship capabilities within cross-functional teams to drive technical excellence.  
-
-At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
-  
-Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
-  
-For information about benefits and eligibility, see One.Walmart.
-  
-The annual salary range for this position is $143,000.00 - $286,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
-  
-
-* Stock
-
-ㅤ
-
-ㅤ
-
-ㅤ
-
-ㅤ
-
-‎
-
-**Minimum Qualifications...**
------------------------------
-
-*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*
-
-Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering, machine learning engineering, AI systems or related area.  
-Option 2: 5 years’ experience in software engineering, machine learning engineering, AI systems or related area.
-
-**Preferred Qualifications...**
--------------------------------
-
-*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.*
-
-Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 1 years' experience in software engineering, machine learning engineering, AI systems or related area., Prior work experience in accessibility best practices., Prior work experience in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly.
-
-**Primary Location...**
------------------------
-
-815 Eleventh Ave, Sunnyvale, CA 94089-4731, United States of AmericaWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
-        <pubDate>2026-10-26</pubDate>
-    </item>
-    
-    <item>
         <title>Sr Staff Machine Learning Engineer- Consumer Incentives - Uber</title>
-        <link>https://www.indeed.com/viewjob?jk=409505e1264a2ee8</link>
+        <link>https://www.indeed.com/viewjob?jk=99ea7e530421bd53</link>
         <description>**About the role and team**  
   
 Operating across key business areas like grocery and food, the Consumer Incentives team drives Uber's growth and long-term profitability. We deliver products that create seamless, affordable, and enjoyable customer experiences by building AI/ML-powered intelligence and sophisticated distributed systems at scale for hundreds of millions of global users.  
@@ -450,138 +369,6 @@ USA, CA, Sunnyvale - 165,200.00 - 223,600.00 USD annually</description>
     </item>
     
     <item>
-        <title>Sr Machine Learning Engineer - Uber</title>
-        <link>https://www.indeed.com/viewjob?jk=df83d8869e678570</link>
-        <description>**About the Team**  
-  
-The Deliverability team sits at the core of Uber’s delivery marketplace as part of Merchant Optimization. Serving as the critical gating layer for every Uber Eats transaction, our systems answer the fundamental real-time question: "Can this merchant deliver to this eater right now?"  
-  
-We optimize merchant delivery zones to maximize platform selection while balancing marketplace reliability, timeliness, and profitability. The decision made by the deliverability services directly shape selection breadth and business metrics across key downstream platforms, including Search, Feed, and Ads.  
-  
-**Role &amp; Responsibilities**  
-  
-As a Senior Machine Learning Engineer on the Deliverability team, you will drive the technical vision, end-to-end design, and productionization of core ML systems powering global delivery marketplace decisions. Specifically, you will:  
-
-* **Product &amp; Domain ML Architecture:** Architect and translate complex marketplace challenges into high-throughput, large scale ML solutions for delivery zone optimization.
-* **Design &amp; Train Core Models:** Develop, evaluate, and continuously refine state-of-the-art machine learning models that dynamically optimize merchant delivery coverage, balancing conversion, order volume, and fulfillment efficiency.
-* **Production Pipelines &amp; ML Infrastructure:** Engineer, deploy, and operate scalable ML inference pipelines, feature stores, model serving infrastructure, and automated retraining workflows handling high-throughput global delivery evaluations.
-* **Marketplace Optimization &amp; Experimentation:** Lead data-driven investigations to diagnose marketplace inefficiencies, execute online A/B testing and leverage telemetry to drive core business metrics.
-* **Cross-Functional Technical Leadership:** Partner closely with Product Management, Data Science, Operations, and Core Infrastructure teams to align technical roadmaps and define cross-platform ML standards.
-
-  
-**Basic Qualifications**  
-
-* 5+ years of hands-on professional experience designing, training, and operating production ML models at scale.
-* Proactive and strong analytical mindset with a passion for uncovering insights from complex data distributions to drive technical decision-making and project buy-in.
-* Advanced proficiency in Python and mainstream machine learning frameworks (e.g., PyTorch, TensorFlow, Scikit-learn).
-* Solid theoretical foundation in classic and modern ML algorithms, including and not limited to gradient-boosted trees (XGBoost, LightGBM), deep neural networks, and statistical modeling.
-* Proven record of taking complex ML systems end-to-end from initial problem formulation and offline validation to large-scale production deployment.
-* Practical experience developing automated feature engineering pipelines, using feature store technologies, model monitoring platforms, and executing controlled online A/B testing in production.
-
-  
-**Preferred Qualifications**  
-
-* PhD candidate 3+ years of industry experience
-* Experience with geospatial libraries (e.g., H3, S2 Cell).
-* Experience with Graph Neural Networks (GNNs), and/or deep learning recommendation systems.
-* Demonstrated ability to drive cross-functional technical initiatives, mentor junior engineers, and deliver complex multi-phase engineering projects.
-* Familiarity with distributed data processing systems (e.g., Spark, Ray, Flink) and foundational concepts in two-sided marketplace optimization.
-
-  
-For San Francisco, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.  
-  
-For Sunnyvale, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.  
-  
-For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.  
-  
-**Ready to Ride?**  
-  
-This isn't the kind of place where you follow a playbook — it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves — we'd love to hear from you.  
-  
-You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits.  
-  
-Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.  
-  
-Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</description>
-        <pubDate>2026-10-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Lead Machine Learning Engineer - Disney Entertainment &amp; Sports LLC</title>
-        <link>https://www.indeed.com/viewjob?jk=3077ad4169449246</link>
-        <description>**Disney Entertainment and ESPN Product &amp; Technology**
-
-Technology is at the heart of Disney’s past, present, and future. Disney Entertainment and ESPN Product &amp; Technology is a global organization of engineers, product developers, designers, technologists, data scientists, and more – all working to build and advance the technological backbone for Disney’s media business globally.
-
-The team marries technology with creativity to build world-class products, enhance storytelling, and drive velocity, innovation, and scalability for our businesses. We are Storytellers and Innovators. Creators and Builders. Entertainers and Engineers. We work with every part of The Walt Disney Company’s media portfolio to advance the technological foundation and consumer media touch points serving millions of people around the world.
-
-**Here are a few reasons why we think you’d love working here:**
-
-* **Building the future of Disney’s media:** Our Technologists are designing and building the products and platforms that will power our media, advertising, and distribution businesses for years to come.
-* **Reach, Scale &amp; Impact:** More than ever, Disney’s technology and products serve as a signature doorway for fans' connections with the company’s brands and stories. Disney+. Hulu. ESPN. ABC. ABC News…and many more. These products and brands – and the unmatched stories, storytellers, and events they carry – matter to millions of people globally.
-* **Innovation:** We develop and implement groundbreaking products and techniques that shape industry norms, and solve complex and distinctive technical problems.
-
-Product Engineering is a unified team responsible for the engineering of Disney Entertainment &amp; ESPN digital and streaming products and platforms. This includes product engineering, media engineering, quality assurance, engineering behind personalization, commerce, lifecycle, and identity.
-
-The Core ML team is an applied science and machine learning engineering team that owns the core personalization algorithms powering Disney+ and Hulu. Our work spans real-time ranking, content and user understanding, candidate retrieval, and post-ranking, serving recommendations to one of the largest streaming audiences in the world. We operate at the intersection of research and production: we ideate, prototype, validate, and ship, and we are responsible for driving the innovation that moves the personalization experience forward
-
-**Job Summary:**
-
-We are looking for a Lead Machine Learning Engineer to help us ideate, develop, iterate on, and productionize personalization algorithms across the recommendation stack. This includes our core ranking algorithms, content and user understanding models and graphs, as well as candidate retrieval and post-ranking systems.
-
-There is more than one way to be a great fit for this role. You might be a strong applied scientist with sharp intuition for recommendation approaches, evaluation methodology, and how data, features, and objectives shape model behavior. You might be a strong end-to-end ML engineer who can take ideas to production at scale and keep systems healthy, maintainable, and easy to iterate on. Ideally, you bring a blend of both: someone who generates ideas of their own, helps other applied scientists bring theirs to life, and can jump in from either the science or the engineering side when something needs attention.
-
-This is also an opportunity to work at the frontier. We are especially excited about candidates with strong relevant experience (RecSys, ML, AI/LLM) who can help bridge where recommendation systems are today and where the field is heading, applying modern AI techniques not only to improve recommendations themselves, but to improve how we build, evaluate, and iterate on our systems.
-
-In this role, you will help drive the vision and innovation behind Disney's personalization systems, with the goal of delighting our users through great content recommendations, improving customer satisfaction, and deepening our understanding of both content and users.
-
-**Responsibilities:**
-
-* **Algorithm development:** Ideate, develop, iterate on, and productionize personalization algorithms, including core ranking, content and user understanding models and graphs, candidate retrieval, and post-ranking systems.
-* **AI and LLM innovation:** Apply modern AI and LLM techniques to recommendation systems, including using them to generate and improve recommendations, strengthen system evaluation, and accelerate how we build and improve our models.
-* **Applied science:** Contribute ideas and insight on recommendation approaches, evaluation methodology, and how we define data, features, and objectives for our models, and help other scientists on the team shape and productionize their ideas.
-* **Vision and roadmap:** Help drive the technical vision and innovation agenda for personalization, identifying high-impact opportunities and shaping how the team approaches them.
-* **Experimentation and evaluation:** Design and run rigorous offline and online experiments, and contribute to improving our evaluation systems and methodology.
-* **Collaboration:** Work closely within the team and across Engineering, Product, and Data partners, communicating methodologies clearly to technical and non-technical audiences and managing stakeholder expectations.
-* **ML engineering:** Build production-worthy, maintainable systems that are easy to iterate on, uphold strong standards for development, testing, and deployment, and jump in to support when production issues arise.
-
-**:**
-
-**Basic Qualifications**
-
-* 7+ years of experience developing machine learning models and deploying them to production systems
-* Strong background in applied ML science, end-to-end ML engineering, or ideally a blend of both, with experience in recommendation systems modeling
-* Hands-on experience with AI and LLM techniques and a solid understanding of the modern AI landscape
-* Proficiency with tools and frameworks such as PyTorch, TensorFlow, Databricks, Spark, and SQL
-* In-depth understanding of modern machine learning methods, models, and their mathematical underpinnings
-* Strong written and verbal communication skills
-* A collaborative, personable working style; works well within the team and across teams rather than operating in isolation
-
-**Preferred Qualifications**
-
-* PhD in computer science, statistics, math, or a related quantitative field
-* Publications or papers in machine learning or AI, especially in recommender systems
-* Production experience developing content recommendation algorithms at scale
-* Experience with reinforcement learning or related sequential decision-making approaches
-* Experience with evaluation methodology for recommendation systems, including offline evaluation and A/B experimentation
-
-**Required Education**
-
-* BS or MS in Computer Science, Engineering, or a related field
-
-  
-The hiring range for this position in San Francisco, CA is $187,900.00 - $252,000.00 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.  
-**Disclaimer**  
-
-This position is with Disney Entertainment &amp; Sports LLC, which is part of a business we call Disney Entertainment and ESPN Product &amp; Technology.
-
-To learn more about Disney's guidelines on the use of AI for candidates, click here.
-
-Disney Entertainment &amp; Sports LLC is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Disney champions a business environment where ideas and decisions from all people </description>
-        <pubDate>2026-10-20</pubDate>
-    </item>
-    
-    <item>
         <title>Applied Scientist, Amazon Ads - Amazon Science</title>
         <link>https://www.linkedin.com/jobs/view/4481860979</link>
         <description>**Description**
@@ -731,6 +518,61 @@ You will work closely with recommendation algorithm, growth product and operatio
   Our combination of trading, content, community, AI, and campaigns creates distinctive technical challenges and enables rapid iteration.
 * **Global scale:**
   Serve more than 80 million users across over 200 countries, tackling the real-world complexity of large-scale, real-time systems.</description>
+        <pubDate>2026-10-27</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Staff Machine Learning Engineer – Autonomous Driving Foundation Models - XPENG</title>
+        <link>https://www.linkedin.com/jobs/view/4484236214</link>
+        <description>**XPENG**
+is a leading smart technology company at the forefront of innovation, integrating advanced AI and autonomous driving technologies into its vehicles, including electric vehicles (EVs), electric vertical take-off and landing (eVTOL) aircraft, and robotics. With a strong focus on intelligent mobility, XPENG is dedicated to reshaping the future of transportation through cutting-edge R&amp;D in AI, machine learning, and smart connectivity.
+
+**The Mission:**
+We are building the next generation of L4 autonomous vehicles. Moving beyond traditional modular stacks, we are developing large-scale
+**Vision-Language-Action (VLA)**
+models and
+**World Models**
+to handle the infinite long-tail scenarios of global driving. As a Senior Staff Machine Learning Engineer, you will architect the transition from behavior cloning to intelligent, zero-shot decision-making in diverse global markets.
+
+**Key Responsibilities:**
+
+* **Architectural Leadership:**
+  Lead the design of end-to-end VLA architectures, bridging multi-modal perception with high-level linguistic reasoning and precise action generation.
+* **World Model Development:**
+  Drive R&amp;D in generative world models (latent dynamics) to create high-fidelity, controllable driving simulations for closed-loop training and evaluation.
+* **Policy Evolution:**
+  Apply Advanced RL (Online/Offline) and IL to refine driving policies, focusing on long-horizon planning and complex multi-agent interactions.
+* **Scaling &amp; Data Strategy:**
+  Define scaling laws for driving foundation models, overseeing data curation, automated labeling, and post-training at a multi-billion parameter scale.
+* **Global Generalization:**
+  Lead the model’s adaptation strategy for overseas road conditions, ensuring robust performance across varying traffic laws and driving cultures.
+
+**Qualifications:**
+
+* 5-7 years of expertise in Deep Learning, with a significant track record in
+  **VLM, VLA, or Embodied AI**
+  .
+* Proven experience in training and deploying
+  **Foundation Models**
+  (Transformers, LLMs) at scale.
+* Deep understanding of
+  **Sequential Decision Making**
+  , World Models, or Policy Gradient methods.
+* Mastery of PyTorch and expertise in distributed training (DeepSpeed, Megatron, etc.).
+* A "Product-First" mindset: The ability to balance cutting-edge research with the deterministic requirements of L4 production vehicles.
+
+**What do we provide:**
+
+* A fun, supportive and engaging environment
+* Infrastructures and computational resources to support your ML model development/research.
+* Opportunity to work on cutting edge technologies with the top talent in the field.
+* Opportunity to make significant impact on transportation revolution by the means of advancing autonomous driving
+* Competitive compensation package
+* Snacks, lunches, dinners, and fun activities
+
+The base salary range for this full-time position is $244,140-$413,160, in addition to bonus, equity and benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.
+
+We are an Equal Opportunity Employer. It is our policy to provide equal employment opportunities to all qualified persons without regard to race, age, color, sex, sexual orientation, religion, national origin, disability, veteran status or marital status or any other prescribed category set forth in federal or state regulation</description>
         <pubDate>2026-10-27</pubDate>
     </item>
     
@@ -907,6 +749,108 @@ Primary Location...
   
   
 Walmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
+        <pubDate>2026-10-27</pubDate>
+    </item>
+    
+    <item>
+        <title>Fulltime :: Senior Data Scientist / ML Engineer :: San Jose, CA (Onsite) - TestingXperts</title>
+        <link>https://www.linkedin.com/jobs/view/4484245156</link>
+        <description>Summary Works directly with Client and its data to build, train and deploy next-generation LLM-based recommender systems. Works closely with the client's science team, the AWS account team and the AWS Applied Scientist leading the science. The role covers the full path from raw customer data to a deployed model.
+  
+  
+**Responsibilities**
+
+* Data to training sets: turn unstructured and structured traveler and catalog data into narrative text documents and synthetic data, at a scale of tens of millions of documents.
+* Feature and context engineering: decide what information goes into each document and how to express it, such as market-relative price, tier and trip context.
+* Large-scale distributed training on Amazon SageMaker AI, including HyperPod.
+* Fine-tuning: LoRA/QLoRA adapters, supervised training, and reinforcement learning for ranking and reasoning.
+* Deep learning modeling: model architecture, ranking heads, co-training and multi-task setups.
+* Inference and deployment: low-latency, cost-efficient serving, including quantization, distillation and profiling.
+* Evaluation and error analysis: build evaluation sets, run ablations and catch data leakage. Write up findings clearly for the customer and the AWS science team.
+* Data privacy: handle customer data safely, including removing per
+
+**Required Skills**
+
+* Spark (PySpark) and the Hadoop ecosystem (Hive, HDFS) on corpora of tens of millions of documents.
+* Amazon SageMaker AI: processing, training, distributed training (HyperPod), deployment.
+* LLM fine-tuning (LoRA/QLoRA) and reinforcement learning (e.g. GRPO/PPO-style methods).
+* Strong deep learning fundamentals in PyTorch: architectures, training dynamics, co-training.
+* Large-scale batch LLM inference and production inference (vLLM, Amazon Bedrock batch).
+* Data privacy and security on AWS: personal-data removal, IAM, KMS, Lake Formation.
+* Clear written communication with customer and science stakeholders.
+
+**Preferred Skills**
+
+* AWS Trainium / Inferentia (Neuron SDK).
+* Recommender systems: ranking metrics (NDCG, MRR), sequential and generative recommenders.
+* Embedding quantization or semantic IDs.
+
+Experience in a customer-facing or embedded role</description>
+        <pubDate>2026-10-27</pubDate>
+    </item>
+    
+    <item>
+        <title>Sr. Applied Scientist, Prime Video - Personalization and Discovery Science - Amazon Science</title>
+        <link>https://www.linkedin.com/jobs/view/4482256081</link>
+        <description>**Description**
+Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices. Prime members can customize their viewing experience and find their favorite movies, series, documentaries, and live sports – including Amazon MGM Studios-produced series and movies; licensed fan favorites; and programming from Prime Video add-on subscriptions such as Apple TV+, Max, Crunchyroll and MGM+. All customers, regardless of whether they have a Prime membership or not, can rent or buy titles via the Prime Video Store, and can enjoy even more content for free with ads.
+  
+  
+Are you interested in shaping the future of entertainment? Prime Video's technology teams are creating best-in-class digital video experience.
+  
+  
+As a Prime Video technologist, you’ll have end-to-end ownership of the product, user experience, design, and technology required to deliver state-of-the-art experiences for our customers. You’ll get to work on projects that are fast-paced, challenging, and varied. You’ll also be able to experiment with new possibilities, take risks, and collaborate with remarkable people.
+  
+  
+We’ll look for you to bring your diverse perspectives, ideas, and skill-sets to make Prime Video even better for our customers. With global opportunities for talented technologists, you can decide where a career Prime Video Tech takes you!
+  
+  
+We are looking for a self-motivated, passionate and resourceful Applied Scientist to bring diverse perspectives, ideas, and skill-sets to make Prime Video even better for our customers. You will spend your time as a hands-on machine learning practitioner and a research leader. You will play a key role on the team, building and guiding machine learning models from the ground up. At the end of the day, you will have the reward of seeing your contributions benefit millions of Amazon.com customers worldwide.
+  
+  
+Key job responsibilities
+  
+  
+
+* Develop AI solutions for various Prime Video Search systems using Deep learning, GenAI, Reinforcement Learning, and optimization methods;
+* Work closely with engineers and product managers to design, implement and launch AI solutions end-to-end;
+* Design and conduct offline and online (A/B) experiments to evaluate proposed solutions based on in-depth data analyses;
+* Effectively communicate technical and non-technical ideas with teammates and stakeholders;
+* Stay up-to-date with advancements and the latest modeling techniques in the field;
+* Publish your research findings in top conferences and journals.
+
+**About The Team**
+Prime Video Search Science team owns science solution to power search experience on various devices, from sourcing, relevance, ranking, to name a few. We work closely with the engineering teams to launch our solutions in production.
+  
+  
+**Basic Qualifications**
+
+* PhD, or Master's degree and 6+ years of applied research experience
+* 4+ years of building machine learning models for business application experience
+* Experience programming in Java, C++, Python or related language
+* Experience with neural deep learning methods and machine learning
+
+**Preferred Qualifications**
+
+* Experience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.
+* Experience with large scale distributed systems such as Hadoop, Spark etc.
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+  
+  
+USA, CA, Sunnyvale - 192,200.00 - 260,000.00 USD annually
+  
+  
+USA, WA, SEATTLE - 167,100.00 - 226,100.00 USD annually</description>
         <pubDate>2026-10-27</pubDate>
     </item>
     
@@ -1582,6 +1526,143 @@ Uber is proud to be an Equal Opportunity employer. All qualified applicants will
     </item>
     
     <item>
+        <title>Machine Learning Engineer, GAI Search Relevance - Moveworks - ServiceNow</title>
+        <link>https://www.linkedin.com/jobs/view/4420488705</link>
+        <description>**Company Description**
+It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.
+  
+  
+Join us to put AI to work for people.
+  
+  
+**Job Description**
+Company Description
+  
+  
+It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
+  
+  
+**What You Will Do**
+We are looking for a search relevance engineer to work with a team to improve a search based question answering platform. At Moveworks, we build search technology to answer enterprise users’ tech questions instantly, by combining modern information retrieval methodology with the latest advancement in natural language understanding. Our core Search product value is achieved through the capability of accurately retrieving, matching and ranking text snippets extracted from heterogeneous knowledge sources, as direct answers to users’ requests. You will play a critical role in boosting answer quality by meeting the challenges such as lexical gap, semantic text understanding, and data sparsity.
+  
+  
+We’re building a team that indexes on moving fast, solving challenging product/engineering problems and providing value to our customers. To be successful, you'll be partnering with product, user experience, customer success and other engineering teams to identify, define and build elegant solutions.
+  
+  
+
+* Craft new ranking features and optimizing existing ones to enhance relevance metrics
+* Develop algorithm framework to support diversified ranking features
+* Design platform and tooling to enable parallel ranking experiments
+* Develop metrics to evaluate ranking performance
+
+**Qualifications**
+**What You Bring To The Table**
+
+* First-hand experience in traditional information retrieval techniques, or machine learning based ranking models
+* Capable of deriving insights from query logs analysis and identifying areas of improvement for search quality
+* Background in text processing, information retrieval, natural language understanding, or machine learning
+
+**Nice to Have**
+
+* Experience in Golang
+
+For positions in this location, we offer a base pay of $139,700 - $216,500, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs.
+  
+  
+Compensation is based on the geographic location in which the role is located and is subject to change based on work location.
+  
+  
+Additional Information
+  
+  
+**Work Personas**
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+  
+  
+**Equal Opportunity Employer**
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+  
+  
+**Accommodations**
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+  
+  
+**Export Control Regulations**
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
+  
+  
+From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license. .</description>
+        <pubDate>2026-10-27</pubDate>
+    </item>
+    
+    <item>
+        <title>AI &amp; Machine Learning Engineering Consultant - Databricks - Manager - Consulting- Location OPEN - EY</title>
+        <link>https://www.linkedin.com/jobs/view/4482235998</link>
+        <description>Location: Anywhere in Country
+  
+  
+At EY, we’re all in to shape your future with confidence.
+  
+  
+We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world.
+  
+  
+**The opportunity**
+Our AI, Data &amp; Engineering team helps apply cutting edge technology and techniques to bring solutions to our clients. As part of that, you'll sit side-by-side with clients and diverse teams from EY to create a well-rounded approach to advising and solving challenging problems, some of which have not been solved before. No two days will be the same, and with constant research and development, you'll find yourself building knowledge that can be applied across a wide range of projects now, and in the future. You'll need to have a passion for continuous learning, stay ahead of the trends, and influence new ways of working so you can position solutions in the most relevant and innovative way for our clients. You can expect heavy client interaction in a fast-paced environment and the opportunity to develop your own career path for your unique skills and ambitions.
+  
+  
+EY is experiencing significant growth in consulting services centered on Databricks, a market-leading data and AI platform. We are seeking an accomplished leader who combines strong business acumen, consulting experience, and technical credibility to help clients realize value from this strategic platform. In this role, you will collaborate with clients and Databricks account, sector, and leadership teams to shape and deliver generative AI use cases, advanced data and AI solutions, and scalable platforms.
+  
+  
+In this role, you will research, build, and implement scalable AI, machine learning, generative AI, and agentic systems that learn, reason, and generate outputs tailored to business requirements on Databricks. You will enhance data pipelines and storage on Databricks, ensuring data is clean, accurate, and optimized for XOps processes. Additionally, you will monitor and evaluate learning processes to continuously improve high-performance models, collaborating with other data and analytics professionals to industrialize analysis into effective analytics solutions. You will deliver solutions on Databricks, from data pipelines to agents in production.
+  
+  
+**Your Key Responsibilities**
+As a Manager in Model Engineering, you will play a pivotal role in delivering innovative solutions that drive business success. You will work with a wide variety of clients to deliver modern AI engineering, machine learning, and generative AI technologies. Your teams will design and build scalable solutions that unify, enrich, and derive insights from varied data sources across a broad technology landscape. You will help our clients navigate the complex world of modern data science, analytics, and software engineering. We'll look to you to provide guidance and perform technical development tasks to ensure AI solutions are responsibly engineered, evaluated, deployed, and maintained to support the ongoing business needs of our clients.
+  
+  
+You will be joining a dynamic and interdisciplinary team of scientists and engineers who love to tackle the most challenging computational problems for our clients. We love to think creatively, build applications efficiently, and collaborate in both the ideation of solutions and the pursuit of new opportunities. Many on our team have advanced academic degrees or equivalent experience in industry.
+  
+  
+**Your responsibilities will include:**
+
+* Leading AI workstreams from solution design through production deployment and ongoing optimization, focusing on the Databricks platform
+* Leading teams building data engineering pipelines, AI solutions (machine learning, generative AI, and agentic AI), and the pipelines that support AI solutions on Databricks
+* Continuously improving processes by identifying innovative solutions through research and analysis
+* Managing multidisciplinary teams to deliver complex AI engineering initiatives, with accountability for quality, responsible deployment, and results
+* Engaging actively with clients, participating in daily working sessions, and leading workstreams from planning through execution to closure
+* Designing, building, and governing domain ontologies and semantic models that define business concepts, relationships, and rules for AI solutions, knowledge graphs, and enterprise data products
+* Applying a product-centric development approach by partnering with product, business, data science, and engineering stakeholders to define user needs, prioritize reusable capabilities, and iteratively deliver measurable outcomes across the product lifecycle
+* Identifying opportunities for additional services and managing engagement economics
+
+**Skills And Attributes For Success**
+To excel in this role, you will need a blend of technical expertise and strong interpersonal skills. This role will work to deliver tech at speed, innovate at scale and put humans at the center. Provide technical guidance and share knowledge with team members with diverse skills and backgrounds. Consistently deliver quality client services focusing on more complex, judgmental and/or specialized issues surrounding emerging technology. Demonstrate technical capabilities and professional knowledge. Learn about EY and its service lines and actively assess and present ways to apply knowledge and services
+  
+  
+The following attributes will make a significant impact:
+  
+  
+
+* Translating AI strategy into a implementable Model Engineering activities that aligns with the client’s goals, mission and vision
+* Leading teams of AI engineers, data engineers, and data scientists in the delivery of production-grade solutions for clients on Databricks; These include data engineering pipelines, AI solutions (machine learning, generative AI, and agentic AI), and the pipelines that support AI solutions
+* Implementing product-centric AI solutions on Databricks, from discovery and roadmap definition through iterative delivery, adoption, and continuous improvement, with measurable business and user outcomes.
+* Working across design, build, deploy, and operate phases to deliver production-grade data and AI pipelines, governed business ontologies, and semantic models on Databricks, ensuring solutions are reliable, reusable, and aligned with client business processes
+* Experience applying a product-centric development approach to data and AI solutions by defining user outcomes, prioritizing reusable capabilities, managing roadmaps and backlogs, incorporating user feedback, measuring adoption and business value, and continuously improving products after launch
+* Staying abreast of AI technology trends and provide directional guidance and recommendations around AIOps, MLOps, and AgentOps tools and solutions on Databricks that fit their needs and integrate with their existing ecosystem
+* Applying combined business and technical knowledge to develop and execute ModelOps target architecture on Databricks that enables implementation and monitoring of AI at scale, with tools like Unity Catalog and Model Serving
+* Collaborating with Data Scientists, Data Engineers, Cloud Engineers, and Platform Engineers, DevOps to implement and sustain solutions in the Databricks platform
+* Staying abreast of industry trends, technology innovations and AI regulatory requirements across the globe
+* Understanding clients’ overall data, AI and technology landscape and business priorities and success measures
+* Strong team collaboration and experience working with a diverse team in a hybrid model (on site and remote)
+* Fostering relationships with client personnel at appropriate levels
+* Consistently delivering quality client services
+* Driving high-quality work products within expected timeframes and on budget
+* Collaborating, influencing and building consensus through constructive relationships and effective listening
+* So</description>
+        <pubDate>2026-10-27</pubDate>
+    </item>
+    
+    <item>
         <title>Staff Machine Learning Engineer - Fruition Group US</title>
         <link>https://www.linkedin.com/jobs/view/4483565689</link>
         <description>**Staff Machine Learning Research Engineer, Multimodal Driving Models**
@@ -1765,94 +1846,6 @@ Pinterest is an equal opportunity employer and makes employment decisions on the
   
   
 *By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.*</description>
-        <pubDate>2026-10-26</pubDate>
-    </item>
-    
-    <item>
-        <title>(USA) Senior, Machine Learning Engineer - Walmart</title>
-        <link>https://www.linkedin.com/jobs/view/4481822277</link>
-        <description>Position Summary...The Senior Machine Learning Engineer will lead the design, development, and deployment of scalable machine learning solutions that address complex business challenges, with a primary focus on building auto-research capabilities that automate model training optimization, experimentation, and evaluation to accelerate the ML development lifecycle. This role requires collaboration with cross-functional teams to deliver robust, production-ready models and data pipelines while ensuring compliance with security and governance standards. Additionally, they will provide technical leadership, mentor peers, and drive continuous improvement to enhance system reliability and innovation aligned with organizational goals.
-  
-  
-About the team:
-  
-  
-Our team develops foundational models tailored for Walmart’s e-commerce platform by leveraging large-scale user interactions to create rich representations of users, products, and search queries. These models enable scalable search, advertising, recommendation, and personalization solutions. Team members apply expertise in data science, machine learning, and software engineering to optimize model performance, training, and deployment. With a strong focus on data quality, advanced analytics, and impactful visualization, the team delivers actionable insights that influence key business outcomes. Cross-functional collaboration drives innovation and continuous improvement in a dynamic technology environment.
-  
-  
-What you'll do...
-  
-  
-
-* Collaborate with engineers, data scientists, and product teams to deliver machine learning features and models.
-* Design and develop auto-research capabilities that automate model training, optimization, experimentation, and evaluation, enabling AI agents to iteratively tune hyperparameters and run experiments against defined objective metrics.
-* Surface the best-performing models with minimal manual intervention, accelerating the overall machine learning development lifecycle.
-* Implement, test, and support machine learning services, APIs, and data pipelines, ensuring quality and reliability.
-* Apply MLOps practices, including CI/CD, model versioning, and automated retraining, to sustain performance.
-* Conduct rigorous model evaluation, monitoring, and maintenance to address model drift and performance issues.
-* Ensure secure, compliant machine learning engineering aligned with enterprise AI governance standards.
-
-What you'll bring:
-  
-  
-
-* Proven expertise in designing, developing, and deploying scalable machine learning systems using frameworks such as TensorFlow, PyTorch, and Scikit-learn.
-* Strong proficiency in programming languages including Python, SQL, Java, and C++ to build production-ready machine learning applications.
-* Hands-on experience operating agentic or autonomous research systems.
-* Experience running automated experimentation against defined objective metrics through AutoResearch loops.
-* Experience with machine learning lifecycle management, including data sourcing, feature engineering, model training, evaluation, deployment, and monitoring.
-* Knowledge of MLOps practices such as CI/CD, model versioning, automated retraining, and telemetry to ensure system reliability.
-* Ability to implement secure, compliant machine learning pipelines that adhere to enterprise AI governance standards.
-* Demonstrated collaboration and mentorship capabilities within cross-functional teams to drive technical excellence.
-
-At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
-  
-  
-Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
-  
-  
-**For Information About Benefits And Eligibility, See One.Walmart.**
-The annual salary range for this position is $143,000.00 - $286,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
-  
-  
-
-* Stock
-
-ㅤ
-  
-  
-ㅤ
-  
-  
-ㅤ
-  
-  
-ㅤ
-  
-  
-‎
-  
-  
-**Minimum Qualifications...**
-**Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.**
-Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering, machine learning engineering, AI systems or related area.
-  
-  
-Option 2: 5 years’ experience in software engineering, machine learning engineering, AI systems or related area.
-  
-  
-**Preferred Qualifications...**
-**Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.**
-Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 1 years' experience in software engineering, machine learning engineering, AI systems or related area., Prior work experience in accessibility best practices., Prior work experience in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly.
-  
-  
-Primary Location...
-  
-  
-815 Eleventh Ave, Sunnyvale, CA 94089-4731, United States of America
-  
-  
-Walmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.</description>
         <pubDate>2026-10-26</pubDate>
     </item>
     
@@ -9355,6 +9348,91 @@ TikTok is committed to providing reasonable accommodations in our recruitment pr
     </item>
     
     <item>
+        <title>Applied Scientist II, Foundation Model - Amazon</title>
+        <link>https://www.linkedin.com/jobs/view/4455901676</link>
+        <description>**Description**
+Amazon is seeking exceptional talent to help develop the next generation of advanced robotics systems that will transform automation at Amazon's scale. We're building revolutionary robotic systems that combine innovative AI, sophisticated control systems, and advanced mechanical design to create adaptable automation solutions capable of working safely alongside humans in dynamic environments. This is a unique opportunity to shape the future of robotics and automation at unprecedented scale, working with world-class teams pushing the boundaries of what's possible in robotic manipulation, locomotion, and human-robot interaction. This role presents an opportunity to shape the future of robotics through innovative applications of deep learning and large language models.
+  
+  
+We leverage advanced robotics, machine learning, and artificial intelligence to solve complex operational challenges at unprecedented scale. Our fleet of robots operates across hundreds of facilities worldwide, working in sophisticated coordination to fulfill our mission of customer excellence.
+  
+  
+We are pioneering the development of robotics foundation models that:
+  
+  
+
+* Enable unprecedented generalization across diverse tasks
+* Integrate multi-modal learning capabilities (visual, tactile, linguistic)
+* Accelerate skill acquisition through demonstration learning
+* Enhance robotic perception and environmental understanding
+* Streamline development processes through reusable capabilities
+
+The ideal candidate will contribute to research that bridges the gap between theoretical advancement and practical implementation in robotics. You will be part of a team that's revolutionizing how robots learn, adapt, and interact with their environment.
+  
+  
+Join us in building the next generation of intelligent robotics systems that will transform the future of automation and human-robot collaboration.
+  
+  
+As an Applied Scientist, you will develop and improve machine learning systems that help robots perceive, reason, and act in real-world environments. You will leverage state-of-the-art models (open source and internal research), evaluate them on representative tasks, and adapt/optimize them to meet robustness, safety, and performance needs. You will invent new algorithms where gaps exist. You’ll collaborate closely with research, controls, hardware, and product-facing teams, and your outputs will be used by downstream teams to further customize and deploy on specific robot embodiments.
+  
+  
+Key job responsibilities
+  
+  
+As an Applied Scientist in the Foundations Model team, you will:
+  
+  
+
+* Leverage state-of-the-art models for targeted tasks, environments, and robot embodiments through fine-tuning and optimization.
+* Execute rapid, rigorous experimentation with reproducible results and solid engineering practices, closing the gap between sim and real environments.
+* Build and run capability evaluations/benchmarks to clearly profile performance, generalization, and failure modes.
+* Contribute to the data and training workflow: collection/curation, dataset quality/provenance, and repeatable training recipes.
+* Write clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs
+* Stay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions.
+* Work closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies.
+
+**Basic Qualifications**
+
+* 2+ years of building models for business application experience
+* Knowledge of programming languages such as C/C++, Python, Java or Perl
+* PhD, or Master’s + 4+ years building ML models/algorithms in applied settings
+* 2+ years hands-on experience in deep learning with strength in at least one: computer vision, multimodal models, imitation learning / RL for robotics, or human-robot interaction
+* Ability to design rigorous experiments, analyze results, and iterate quickly with reproducible baselines
+* Demonstrated technical contributions (e.g., publications, patents, open-source, or impactful internal systems)
+
+**Preferred Qualifications**
+
+* Experience using Unix/Linux
+* Experience in professional software development
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+  
+  
+USA, CA, SAN FRANCISCO - 171,600.00 - 222,200.00 USD annually
+  
+  
+USA, CA, Sunnyvale - 171,600.00 - 222,200.00 USD annually
+  
+  
+  
+**Company**
+- Amazon.com Services LLC
+  
+  
+Job ID: A3189870</description>
+        <pubDate>2026-10-22</pubDate>
+    </item>
+    
+    <item>
         <title>Search Ads Research Data Scientist - Google</title>
         <link>https://www.linkedin.com/jobs/view/4481311542</link>
         <description>In most instances, this position requires in-person interviews as part of the hiring process
@@ -11941,67 +12019,6 @@ TikTok is committed to providing reasonable accommodations in our recruitment pr
     </item>
     
     <item>
-        <title>Sr Machine Learning Engineer - Uber</title>
-        <link>https://www.linkedin.com/jobs/view/4482032099</link>
-        <description>**About The Team**
-The Deliverability team sits at the core of Uber’s delivery marketplace as part of Merchant Optimization. Serving as the critical gating layer for every Uber Eats transaction, our systems answer the fundamental real-time question: "Can this merchant deliver to this eater right now?"
-  
-  
-We optimize merchant delivery zones to maximize platform selection while balancing marketplace reliability, timeliness, and profitability. The decision made by the deliverability services directly shape selection breadth and business metrics across key downstream platforms, including Search, Feed, and Ads.
-  
-  
-**Role &amp; Responsibilities**
-As a Senior Machine Learning Engineer on the Deliverability team, you will drive the technical vision, end-to-end design, and productionization of core ML systems powering global delivery marketplace decisions. Specifically, you will:
-  
-  
-
-* Product &amp; Domain ML Architecture: Architect and translate complex marketplace challenges into high-throughput, large scale ML solutions for delivery zone optimization.
-* Design &amp; Train Core Models: Develop, evaluate, and continuously refine state-of-the-art machine learning models that dynamically optimize merchant delivery coverage, balancing conversion, order volume, and fulfillment efficiency.
-* Production Pipelines &amp; ML Infrastructure: Engineer, deploy, and operate scalable ML inference pipelines, feature stores, model serving infrastructure, and automated retraining workflows handling high-throughput global delivery evaluations.
-* Marketplace Optimization &amp; Experimentation: Lead data-driven investigations to diagnose marketplace inefficiencies, execute online A/B testing and leverage telemetry to drive core business metrics.
-* Cross-Functional Technical Leadership: Partner closely with Product Management, Data Science, Operations, and Core Infrastructure teams to align technical roadmaps and define cross-platform ML standards.
-
-**Basic Qualifications**
-
-* 5+ years of hands-on professional experience designing, training, and operating production ML models at scale.
-* Proactive and strong analytical mindset with a passion for uncovering insights from complex data distributions to drive technical decision-making and project buy-in.
-* Advanced proficiency in Python and mainstream machine learning frameworks (e.g., PyTorch, TensorFlow, Scikit-learn).
-* Solid theoretical foundation in classic and modern ML algorithms, including and not limited to gradient-boosted trees (XGBoost, LightGBM), deep neural networks, and statistical modeling.
-* Proven record of taking complex ML systems end-to-end from initial problem formulation and offline validation to large-scale production deployment.
-* Practical experience developing automated feature engineering pipelines, using feature store technologies, model monitoring platforms, and executing controlled online A/B testing in production.
-
-**Preferred Qualifications**
-
-* PhD candidate 3+ years of industry experience
-* Experience with geospatial libraries (e.g., H3, S2 Cell).
-* Experience with Graph Neural Networks (GNNs), and/or deep learning recommendation systems.
-* Demonstrated ability to drive cross-functional technical initiatives, mentor junior engineers, and deliver complex multi-phase engineering projects.
-* Familiarity with distributed data processing systems (e.g., Spark, Ray, Flink) and foundational concepts in two-sided marketplace optimization.
-
-For San Francisco, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.
-  
-  
-For Sunnyvale, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.
-  
-  
-For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.
-  
-  
-**Ready to Ride?**
-This isn't the kind of place where you follow a playbook — it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves — we'd love to hear from you.
-  
-  
-You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits.
-  
-  
-Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.
-  
-  
-Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</description>
-        <pubDate>2026-10-21</pubDate>
-    </item>
-    
-    <item>
         <title>Senior Applied Scientist, Foundation Model - Amazon</title>
         <link>https://www.linkedin.com/jobs/view/4473562780</link>
         <description>**Description**
@@ -12999,223 +13016,6 @@ Rivian is committed to ensuring that our hiring process is accessible for person
 **Candidate Data Privacy and Technology**
 Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into </description>
         <pubDate>2026-10-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Sr Applied Data Scientist - Search and Browse (applied ML, LLMs, ML Ops) - Target</title>
-        <link>https://www.linkedin.com/jobs/view/4481785501</link>
-        <description>The pay range is $118,000.00 - $211,000.00
-  
-  
-Pay is based on several factors which vary based on position. These include labor markets and in some instances may include education, work experience and certifications. In addition to your pay, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Target offers eligible team members and their dependents comprehensive health benefits and programs, which may include medical, vision, dental, life insurance and more, to help you and your family take care of your whole selves. Other benefits for eligible team members include 401(k), employee discount, short term disability, long term disability, paid sick leave, paid national holidays, and paid vacation. Find competitive benefits from financial and education to well-being and beyond at https://corporate.target.com/careers/benefits.
-  
-  
-**JOIN TARGET AS A SR APPLIED DATA SCIENTIST – SEARCH RANKING**
-**About Us**
-Working at Target means helping all families discover the joy of everyday life. We bring that vision to life through our values and culture. Learn more about Target here.
-  
-  
-A role with Applied Data Sciences team at Target means the chance to help develop and manage state of the art predictive algorithms that use data at scale to automate and optimize decisions at scale. Whether you join our Search, RecSys, Supply Chain Optimization or Machine Learning teams, you’ll be challenged to harness Target’s impressive data breadth to build the algorithms that power solutions our partners in Marketing, Supply Chain Optimization, Network Security and Personalization rely on. Every Scientist on Target’s Data Sciences team can expect modeling and data science, software/product development of highly performant code for Model Performance, and to elevate Target’s culture and apply retail domain knowledge.
-  
-  
-**About Our Search And Browse Team**
-The Search and Browse Applied Data Science team builds the core relevance, retrieval, ranking, and personalization systems that power Target’s Digital experience. We develop scalable ML systems that improve product discovery, semantic search, browse relevance, and customer engagement across Mobile and Web platforms.
-  
-  
-E-commerce Search is rapidly evolving with advances in LLMs, semantic retrieval, and conversational AI. We are building next-generation discovery experiences that help millions of guests find the right products quickly and intuitively across massive and constantly changing retail catalogs.
-  
-  
-Our team is solving large-scale Search challenges at enterprise scale, including natural language and long-tail search, semantic retrieval, zero-shot item understanding, and AI-native commerce discovery experiences operating at 10K+ QPS with strict latency and reliability requirements.
-  
-  
-**As a Sr Data Scientist – Search You Will**
-
-* Develop and deploy scalable ML models for search ranking, browse personalization, semantic retrieval, and query understanding systems
-* Design and execute offline and online experiments to improve relevance, engagement, conversion, and customer satisfaction
-* Build scalable feature pipelines, evaluation frameworks, and ML workflows for production systems
-* Apply modern ML techniques including embeddings, retrieval/ranking models, transformers, NLP, vector search, and GenAI/RAG systems
-* Improve query understanding, catalog understanding, semantic retrieval, and long-tail search relevance across large retail catalogs
-* Partner closely with Product, Engineering, and Infrastructure teams to align technical solutions with business priorities and operational requirements
-* Drive data-informed decision making through deep analysis, experimentation, and business impact measurement
-* Balance model quality with latency, scalability, reliability, and infrastructure efficiency in large-scale production systems
-* Contribute to best practices in experimentation, ML engineering, and operational excellence
-* Mentor junior scientists and collaborate across teams to improve Search and Browse experiences
-
-Core responsibilities of this job are articulated within this job description. Job duties may change at any time due to business needs.
-  
-  
-**About You**
-
-* PhD or MS in Computer Science, Statistics, Applied Mathematics, Physics or related quantitative discipline
-* 3+ years of industry experience in Machine Learning, Data Science, Search, NLP, Personalization or related ML systems
-* Exceptional experience and understanding with retrieval/ranking systems, semantic search, NLP, vector search, or related ML domains
-* Strong demonstrated coding skills in Python and SQL with experience in distributed data processing ecosystems
-* Demonstrated experience building and deploying end to end production ML systems
-* Strong understanding of production ML system tradeoffs including latency, scalability, reliability, and operational excellence
-* Experience with modern ML approaches such as embeddings, transformers, semantic retrieval, RAG systems, or GenAI technologies
-* Experience designing experiments and interpreting online/offline metrics
-* Strong problem-solving skills with the ability to independently drive projects in moderately ambiguous environments
-* Very good communication and cross-functional collaboration skills
-* Constant learner mentality who stays current with new and evolving AI technologies via formal training and self-directed education
-
-This position will operate as a Hybrid/Flex for Your Day work arrangement based on Target’s needs. A Hybrid/Flex for Your Day work arrangement means the team member’s core role will need to be performed both onsite at the Target HQ in Sunnyvale, CA or MN location the role is assigned to and virtually, depending upon what your role, team and tasks require for that day. Work duties cannot be performed outside of the country of the primary work location, unless otherwise prescribed by Target. Click here if you are curious to learn more about Minnesota.
-  
-  
-Target will consider for employment qualified applicants with criminal histories in a manner consistent with the San Francisco and City of Los Angeles Fair Chance Ordinances.
-  
-  
-**Benefits Eligibility**
-Please paste this url into your preferred browser to learn about benefits eligibility for this role: https://tgt.biz/BenefitsForYou\_D
-  
-  
-**Americans With Disabilities Act (ADA)**
-In compliance with state and federal laws, Target will make reasonable accommodations for applicants with disabilities. If a reasonable accommodation is needed to participate in the job application or interview process, please reach out to candidate.accommodations@HRHelp.Target.com. Non-accommodation-related requests, such as application follow-ups or technical issues, will not be addressed through this channel.</description>
-        <pubDate>2026-10-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Applied Scientist, FAIM (Full Funnel Agentic Intelligence and Models) - Amazon</title>
-        <link>https://www.linkedin.com/jobs/view/4481760104</link>
-        <description>**Description**
-The FAIM (Full Funnel Agentic Intelligence and Models) builds the agentic AI systems behind next-generation advertising. The team develops multimodal foundation models and LLM-driven agents that power shopper understanding, audience-aware creative generation, and agentic advertising workflows.
-  
-  
-As a Principal Applied Scientist for the FAIM team, you will invent the models that help advertisers achieve desired outcomes. Today's state of the art models can setup ad campaigns to a specification, but do not understand advertising strategy well enough to help with abstract goals that real advertisers ask about like "how can I make more money."
-  
-  
-This is a rare charter to build foundational optimization science where little exists today, spanning campaign recommendation, cross-product budget allocation, incrementality measurement, and long-term-sales modeling. You will set technical direction for a growing team, partner with engineering and product to take models from research to production at Amazon scale, and directly move advertiser ROAS and new-to-brand growth.
-  
-  
-In this role you will
-  
-  
-
-* Own the science vision for training models in our RL Gym from end-to-end
-* Invent models for joint budget allocation, incrementality, and long-term value
-* Take innovations from prototype to production serving live advertiser campaigns
-* Raise the technical bar across scientists and engineers
-
-Key job responsibilities
-  
-  
-
-* Define the long-term scientific vision for our RL Gym based training process focusing on campaign optimization and other advertising workflows
-* Translating ambiguous advertiser needs and competing objectives into a concrete science roadmap.
-* Invent, prototype, and productionize machine learning and optimization solutions for joint budget allocation across sponsored ad products, spanning the shopper journey from awareness to purchase.
-* Develop rigorous approaches to incrementality measurement and long-term-sales modeling that ground optimization in true advertiser value.
-* Design and lead large-scale experiments and analyses to validate hypotheses and guide product direction.
-* Partner closely with engineering and product to define technical contracts, data schemas, and serving systems that carry models into production.
-* Raise the technical bar across science and engineering through mentorship, design reviews, and hands-on collaboration.
-* Grow scientific talent and publish impactful research internally and at top-tier venues.
-
-**Basic Qualifications**
-
-* PhD in Electrical Engineering, Computer Science, Mathematics, or a related technical field
-* 5+ years of hands-on experience in predictive modeling and analysis
-* Experience distilling informal customer requirements into problem definitions while dealing with ambiguity and competing objectives
-* Experience programming in Java, C++, Python, or related language
-* Experience leading experienced scientists, as well as a record of developing junior members from academia or industry into a career track in a business environment
-
-**Preferred Qualifications**
-
-* 10+ years of relevant experience in industry or academia
-* Knowledge of problem solving, algorithm design, and complexity analysis
-* Experience creating novel algorithms and advancing the state of the art
-* Peer-reviewed scientific contributions in premier journals and conferences
-
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
-  
-  
-Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-  
-  
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
-  
-  
-The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
-  
-  
-USA, CA, Palo Alto - 228,700.00 - 309,400.00 USD annually
-  
-  
-USA, NY, New York - 218,800.00 - 295,900.00 USD annually
-  
-  
-USA, WA, SEATTLE - 198,900.00 - 269,000.00 USD annually
-  
-  
-  
-**Company**
-- Amazon.com Services LLC
-  
-  
-Job ID: A10584104</description>
-        <pubDate>2026-10-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Applied Scientist, AWS Neuron Science - Core Algorithm, AWS Neuron Science - Core Algorithm - Amazon Science</title>
-        <link>https://www.linkedin.com/jobs/view/4478947273</link>
-        <description>**Description**
-The AWS Neuron Science Core Algorithm team is looking for talented Applied Scientists to push the frontier of hardware-aware machine learning for Trainium and Inferentia, the AWS Machine Learning accelerators. In this rare role at the intersection of LLM modeling, large-scale training systems, and hardware/datatype co-design, you own model and algorithm decisions jointly with AWS custom silicon. You will own solutions end-to-end from research through production, publish at top venues, and work alongside distinguished engineers and scientists in a strategic growth area for AWS.
-  
-  
-**We Actively Work On These Areas**
-
-* Low-precision training and inference: MXFP8, MXFP4, and sub-4-bit training and inference recipes, stochastic rounding, and Trn4 datatype exploration.
-* Trn-friendly architectures: model architectures that exploit hardware strengths without sacrificing quality.
-* System-aware optimizers &amp; efficient distributed systems: efficient optimizers and distributed system that gives best accuracy, co-designed with the hardware.
-* Foundation-model pre-training accuracy: end-to-end validation across model scales, catching training divergence early, and equivalence-checking tooling.
-* GenAI for systems: RL post-training for NKI kernel generation, mitigating reward-hacking and accelerating under low precision on Trn.
-
-Key job responsibilities
-  
-  
-
-* Own scientific problems end-to-end - from research and experimentation through production impact - applying rigorous evaluation to complex, ill-defined problems at large scale.
-* Develop production-quality code in PyTorch or JAX and integrate scientific components into large-scale training and inference systems with operational excellence and efficient resource usage.
-* Partner with foundation-model, engineering, and hardware-architecture teams so your findings directly inform what gets built into Trainium and shipped in the product stack.
-* Mentor fellow scientists and interns, give constructive peer reviews, and help shape team goals, priorities, and the technical roadmap.
-* Author and publish research at top peer-reviewed venues (ICLR, NeurIPS, ICML, MLSys) and engage the broader scientific community.
-
-A day in the life
-  
-  
-You might start your morning reviewing large-scale training runs — checking accuracy at a new low-precision datatype or debugging a divergence before it costs a run — then join a design discussion with engineering partners on how to land your recipe in the production stack. After lunch you could be whiteboarding a Trn-friendly architecture variant or an RL post-training approach for kernel generation with a teammate, then writing code to prototype it on Trainium. You will regularly present findings to the team and to leadership, review peers' and interns' work, and stay connected with the academic community.
-  
-  
-**About The Team**
-AWS Neuron is the software of Trainium and Inferentia, the AWS Machine Learning chips. Inferentia delivers best-in-class ML inference performance at the lowest cost in the cloud to our AWS customers. Trainium is designed to deliver the best-in-class ML training performance at the lowest training cost in the cloud, and it's all being enabled by AWS Neuron. Neuron is a software that includes an ML compiler and native integration into popular ML frameworks. Our products are being used at scale with external customers like Anthropic and Databricks as well as internal customers like Amazon FMR, Amazon AGI, Amazon Bedrock, Amazon Robotics, Amazon Ads, and many more.
-  
-  
-**Basic Qualifications**
-
-* PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience
-* Experience in patents or publications at top-tier peer-reviewed conferences or journals
-* 3+ years of building models for business application experience
-* Experience programming in Java, C++, Python or related language
-* Experience in state-of-the-art deep learning models architecture design and deep learning training and optimization and model pruning
-
-**Preferred Qualifications**
-
-* Experience in professional software development
-* Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing
-* Knowledge of standard speech and machine learning techniques
-
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
-  
-  
-Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-  
-  
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
-  
-  
-The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
-  
-  
-USA, CA, Cupertino - 171,600.00 - 222,200.00 USD annually</description>
-        <pubDate>2026-10-20</pubDate>
     </item>
     
 </channel>
