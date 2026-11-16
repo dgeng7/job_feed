@@ -477,6 +477,141 @@ Compensation Range: $228,960 - $315,360</description>
     </item>
     
     <item>
+        <title>Senior Staff Machine Learning Engineer - Sonatus</title>
+        <link>https://www.linkedin.com/jobs/view/4489713057</link>
+        <description>At Sonatus, we're driving the transformation to AI-enabled software-defined vehicles. Traditional automotive software methods can't keep pace with consumer expectations shaped by the mobile industry-where features evolve rapidly, update seamlessly, and improve continuously. That's why leading OEMs trust Sonatus to accelerate this shift. Our technology is already in production across more than 9 million vehicles on the road today and rapidly expanding.
+  
+  
+Headquartered in Sunnyvale, CA, with 250+ employees worldwide, Sonatus combines the agility of a fast-growing company with the scale and impact of an established partner. Backed by strong funding and proven by global deployment, we're solving some of the most interesting and complex challenges in the industry. Join us and help redefine what's possible as we shape the future of mobility.
+  
+  
+**Role Summary**
+Sonatus is a global leader in the automotive industry, providing key technologies that enable intelligent AI-defined vehicles. Our solutions are already on the road with millions of vehicles, and we are quickly expanding our offerings for production-grade AI on the Edge. We are looking for a great
+  
+  
+Senior Staff Machine Learning Engineer
+  
+  
+to join our seasoned AI team and lead the development of Edge AI for in-vehicle self-aware health monitoring and prediction. In this role, you will build and deploy AI models that analyze continuous data generated in the vehicle during day-to-day operation, including system logs, traces, and vehicle internal signals (Ethernet and CAN) to detect and predict the health of different sub-systems and anticipate failures in real-time. You will own the end-to-end ML pipeline-from data ingestion and model training to deployment on resource-constrained edge devices and model optimization. You will work in a fast-paced startup environment where your code will directly impact fleet reliability and build the next generation of the self-aware vehicle. You will be expected to collaborate with other leading developers who have a deep understanding and expertise in vehicle software and systems, and other AI developers working on MLOps and integration of AI models on vehicles expected to be on the road today. Expect to experiment with cutting-edge model architectures and best-in-class development tools.
+  
+  
+This is a hybrid role out of our Sunnyvale, CA, where you will be expected to work in our office 3 days a week.
+  
+  
+**Responsibilities**
+Build and train AI Edge models (e.g., Transformers, LLMs, CNN, LSTM, Trees) to process unstructured application logs, kernel traces, and multi-modalities.
+  
+  
+Integrate ML flows, including cloud-based LLM APIs (Gemini, OpenAI, Claude), with emphasis on synthetic data creation.
+  
+  
+Develop algorithms to automatically cluster log patterns and detect software regressions, race conditions, or crash precursors.
+  
+  
+Design unsupervised and supervised learning models (e.g., Autoencoders, Isolation Forests) to monitor time-series data from CAN bus and on-board sensors.
+  
+  
+Implement logic to correlate signal anomalies (e.g., ADAS drifts, sensor spikes, latency jitters) across different modalities with system events to identify root causes.
+  
+  
+Port and optimize PyTorch/TensorFlow models into production-grade models for execution on CPU/GPU-bound targets or embedded NPUs.
+  
+  
+Apply quantization, pruning, distillation, and memory optimization to ensure models run within strict RAM/Flash budgets.
+  
+  
+Define the data strategy for on-device filtering: pre-processing on device and decide which data is processed locally versus processed in the cloud.
+  
+  
+Lead the architecture for the edge ML pipeline and mentor junior engineers on best practices for embedded AI.
+  
+  
+**Requirements**
+Bachelor's degree in Computer Science, Electrical Engineering, Software Engineering, or a related field.
+  
+  
+10+ years in Machine Learning Engineering, with 3+ years focused on Edge AI or Embedded Systems.
+  
+  
+Proven experience mentoring junior engineers in software development.
+  
+  
+Expert Python (for training) and decent working knowledge of modern C++ (C++14/17 for inference).
+  
+  
+Deep proficiency with PyTorch or TensorFlow, and experience with inference engines like ONNX, TFLite, or TVM.
+  
+  
+Experience with NLP techniques for textual data parsing, sequence modeling (RNN/GRU), vector stores, or lightweight LLMs/SLMs.
+  
+  
+Experience with libraries like scikit-learn, tslearn, or statsmodels for anomaly detection on sensor data.
+  
+  
+Proven ability to lead technical projects from concept to production in an ambiguous, fast-paced environment. Ability to communicate with stakeholders and articulate trade-offs.
+  
+  
+Experience deploying to Edge environments (e.g., ARM-based), managing memory manually, and working with limited compute resources.
+  
+  
+Candidates with a strong Computer Vision (CV) / ADAS track record are highly encouraged to apply!
+  
+  
+**Desired Skills**
+MS/PhD in Computer Science, Engineering, or related fields.
+  
+  
+Familiarity with Edge systems and preferably automotive formats (CAN, DBC, UDS, SOME/IP, or MQTT.
+  
+  
+Understanding of Linux/QNX kernel logs (dmesg), process states, and OS-level debugging.
+  
+  
+Experience with NVIDIA TensorRT, Qualcomm SNPE.
+  
+  
+**Sunnyvale HQ Benefits &amp; Perks Offered**
+Health care plan (Medical, Dental &amp; Vision)
+  
+  
+Flexible and Dependent Care Expense program
+  
+  
+Retirement plan (401k)
+  
+  
+Life Insurance (Basic, Voluntary &amp; AD&amp;D)
+  
+  
+Unlimited paid time off per year, 14+ paid holidays
+  
+  
+Hybrid office work arrangement
+  
+  
+Complimentary lunches, snacks, and beverages during on-site working days
+  
+  
+Wellness benefit allowance
+  
+  
+Phone &amp; Internet reimbursement
+  
+  
+Computer Accessory Allowance
+  
+  
+The posted salary range is a general guideline and represents a good faith estimate of what Sonatus ("Company") could reasonably expect to pay for a base salary for this position. The pay offered to a selected candidate will be determined based on factors such as (but not limited to) the scope and responsibilities of the position, the qualifications of the selected candidate, departmental budget availability, geographic location and external market pay for comparable jobs. The Company reserves the right to modify this range in the future, as needed, as market conditions change.
+  
+  
+Base Salary Pay Range
+  
+  
+$227,000-$300,000 USD</description>
+        <pubDate>2026-11-15</pubDate>
+    </item>
+    
+    <item>
         <title>Applied Scientist II, Search Ranking - Amazon</title>
         <link>https://www.linkedin.com/jobs/view/4455913537</link>
         <description>**Description**
@@ -3950,83 +4085,6 @@ Base salary is just one part of our total rewards package at SpaceXSI, which als
 
 *SpaceXSI is an equal opportunity employer. For details on data processing, view our*
 *Recruitment Privacy Notice.*</description>
-        <pubDate>2026-11-13</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Machine Learning Engineer, Radar - Stripe</title>
-        <link>https://www.linkedin.com/jobs/view/4490575347</link>
-        <description>Who we are
-  
-  
-**About Stripe**
-Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
-  
-  
-**About The Team**
-The Radar ML team builds the machine learning systems that power Stripe’s Radar fraud and abuse product suite. Our models make real-time decisions across a significant share of internet commerce - helping businesses stop fraud, increase authorization, and grow safely. By turning economy-scale datasets into compelling ML products, the team directly improves customer outcomes and drives meaningful revenue for Stripe.
-  
-  
-The team is growing, and expanding into multiple new areas. We are building abuse protections across the full customer life-cycle, adaptive and customizable fraud systems for enterprises, and risk intelligence for 50+ global payment methods.
-  
-  
-What you’ll do
-  
-  
-You will lead the machine learning strategy for abuse prevention across the full customer lifecycle. Abuse doesn't stop at the payment. Bad actors create fake and duplicate accounts, take over legitimate ones, farm free trials and promotions, resell access they obtained below cost, use services they never intend to pay for, and file bad-faith refunds and disputes. For AI companies, every abusive account burns real compute, and the same actors keep moving from one account, product, and access path to the next.
-  
-  
-Stripe is uniquely positioned to solve this. Our network sees consumers across millions of businesses, so we can recognize a bad actor at signup, at login, at payment, and long after. Radar has already shipped the first building blocks: account evaluations at signup and login, customer-level abuse risk, and APIs that let businesses report their own abuse outcomes. You will turn these building blocks into a unified abuse prevention layer that understands the consumer behind every event and helps businesses act consistently across all of that consumer's accounts. This is a large growth opportunity for Radar, and a strategic priority for Stripe.
-  
-  
-This is a fast-moving 0→1 area, built alongside some of the world's leading AI companies, and the attacks are real today. Labels are sparse, delayed, and differ by business. Much of the customer journey is only partly visible to us. Adversaries adapt as soon as we ship. You will set the technical direction, make the hard architecture calls, and personally build the hardest pieces.
-  
-  
-**Responsibilities**
-
-* Set the technical strategy and multi-quarter roadmap for lifecycle abuse ML, with product and engineering leadership: which abuse vectors to take on, in what order, and with what approach.
-* Design a persistent, continuously updated consumer risk profile that combines signals from signups, logins, payments, product usage, refunds, and disputes. Evolve it from explainable composite scores toward model-driven risk scores for each type of abuse.
-* Lead development of models for abuse vectors such as multi-accounting, account takeover, bots, free-trial and promotion abuse, unauthorized resale, non-payment, refund abuse, and friendly fraud. Use graph, sequence, and LLM-based approaches over payment, account, and product-usage data.
-* Solve the label problem by designing ways to learn from sparse, delayed, merchant-specific, and weak labels, including merchant-shared feedback, LLM-assisted labeling, and network-level signals.
-* Define how we measure success: evaluation frameworks, impact and ROI estimates, and operating-point guidance that help businesses trade off abuse losses against growth and conversion.
-* Turn detection into action by shaping the risk controls, interventions, and recommendations businesses can turn on at each step of the customer journey.
-* Stay deeply hands-on: write substantial production code, prototype quickly, and personally land the most technically difficult components, with the reliability and latency standards of systems in Stripe's critical path.
-* Break ambiguous problems into parallel workstreams, unblock other engineers, and raise the team's bar through design review, code review, and mentorship.
-* Partner directly with leading Stripe users, fraud experts, product, and adjacent Stripe teams to ground the work in real user pain and change course quickly based on what you learn.
-* Build AI-native tooling, agents, and workflows that let the team investigate attacks and build and operate models dramatically faster.
-
-Who you are
-  
-  
-You are a hands-on technical leader who has built ML systems that matter, shipped them to production, and led others in doing the same. You thrive in ambiguity. You can take an open-ended problem with messy data and incomplete labels, find the highest-leverage path, get to user impact quickly, and change course when the data says so. You make the engineers around you better. You're as comfortable talking with a customer about the economics of their abuse problem as you are debugging a feature pipeline. You're excited to use frontier AI both in the systems you build and in how you build them.
-  
-  
-We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
-  
-  
-**Minimum Requirements**
-
-* 10+ years of experience developing, evaluating, and deploying machine learning models in a production environment.
-* A track record of technically leading large, ambiguous ML initiatives from problem definition to production, with measurable business impact.
-* Deep expertise in machine learning, statistics, model evaluation, and experiment design, including where labels are noisy, delayed, or scarce.
-* Strong software-engineering skills, and you remain a hands-on contributor who regularly writes tested, maintainable production code.
-* Experience designing and operating production ML systems at scale, including data and feature pipelines, real-time inference, deployment, and monitoring, and making architecture tradeoffs across them.
-* Experience setting technical direction across multiple engineers or teams, and mentoring engineers to grow their scope.
-* Ability to explain complex tradeoffs clearly to engineers, product leaders, and customers, and to build alignment across functions.
-
-**Preferred Qualifications**
-
-* Experience applying ML to fraud, abuse, integrity, trust and safety, identity, or security, where adversaries actively adapt to your defenses.
-* Experience with entity resolution, graph learning, or behavioral and sequence modeling of users, accounts, or devices (for example, detecting multi-accounting, account takeover, or bots).
-* Experience productionizing modern deep learning or LLM-based approaches, including using LLMs for labeling, investigation, or detection.
-* Experience building 0→1 ML products and working directly with customers to define what to build.
-* Experience building shared ML platforms, representations, or foundation models used across multiple products or teams.
-* Experience building AI-assisted tooling or agents that measurably increased a team's velocity.
-
-In-office expectations
-  
-  
-Office-assigned Stripes in most of our locations are currently expected to spend at least 50% of the time in a given month in their local office or with users. This expectation may vary depending on role, team and location. For example, Stripes in Stripe Delivery Center roles in Mexico City, Mexico, Bengaluru, India, and Dublin, Ireland work 100% from the office. Also, some teams have greater in-office attendance requirements, to appropriately support our use</description>
         <pubDate>2026-11-13</pubDate>
     </item>
     
@@ -10444,6 +10502,88 @@ Compensation Range: $210K - $300K</description>
     </item>
     
     <item>
+        <title>Senior Staff Machine Learning Engineer, Tapestry - X, The Moonshot Factory</title>
+        <link>https://www.linkedin.com/jobs/view/4487849733</link>
+        <description>**About Tapestry**
+Tapestry is a team within Alphabet working to build the AI-powered electric grid. We are tackling one of the world’s most important infrastructure challenges: helping the energy system become more visible, understandable, reliable, affordable, abundant, and clean.
+  
+  
+Originally born at X, Alphabet’s moonshot factory, Tapestry brings together experts in energy, AI, software, engineering, and product to build tools that help the electricity ecosystem plan smarter, move faster, and operate more efficiently.
+  
+  
+This is a global effort. Tapestry supports partners across the U.S., U.K., Chile, New Zealand, Australia, and Brazil as they work toward a cleaner, more resilient energy future.
+  
+  
+Joining Tapestry means doing high-impact work with a multidisciplinary team tackling a problem that matters at global scale. Learn more about our team and our mission here.
+  
+  
+**About The Role**
+You will serve as a foundational architect of Tapestry’s multi-year machine learning strategy, bridging cutting-edge AI research, the physics of continental-scale power grids, and the development of production ML/AI systems across multimodal machine learning, agentic systems and ML/AI operations.You will architect machine learning systems that advance grid planning, simulation, and asset intelligence at continental scale.
+  
+  
+**How You Will Make 10X Impact**
+
+* Own the technical roadmap and system architecture for Tapestry’s intelligence engines, scaling models across multimodal machine learning, graph neural networks, geospatial and remote-sensing data, reinforcement learning for physical control systems, and multi-turn agentic systems.
+* Partner closely with Tapestry’s machine learning technical leads, power systems scientists, software engineers, product managers, and global utility partners to translate complex, large-scale grid data into actionable insights that improve grid planning, operations, and maintenance.
+* Serve as a technical force multiplier across the engineering organization by mentoring senior and staff-level engineers, establishing rigorous production standards, and aligning cross-functional stakeholders around architectural direction.
+* Advance the application of state-of-the-art AI architectures spanning agentic AI, physics informed ML models, natural language understanding and geospatial intelligence to solve highly constrained energy-infrastructure challenges in production environments.
+* Establish scalable architectural patterns and technical standards that improve the reliability, performance, and long-term maintainability of Tapestry’s machine learning systems.
+* Shape long-term machine learning strategy through first-principles thinking, rigorous technical analysis, and clear decision-making across complex and evolving problem spaces.
+
+**What You Should Have...**
+
+* A Master’s degree or PhD in Computer Science, Electrical Engineering, Applied Mathematics, or a related quantitative field, or equivalent practical experience.
+* 10+ years of professional experience building, training, and deploying large-scale machine learning systems in production, with deep proficiency in modern frameworks such as PyTorch, JAX, or TensorFlow.
+* A demonstrated track record of architecting systems capable of handling massive datasets or highly compute-intensive, parallel workloads.
+* Experience collaborating across technical disciplines and functions, aligning stakeholders around complex architectural decisions, and mentoring senior technical leaders.
+* The ability to think from first principles and apply structured technical judgment to complex, ambiguous problems spanning machine learning, physical systems, and production infrastructure.
+* Strong written and verbal communication skills, with the ability to communicate complex technical concepts clearly across multidisciplinary audiences.
+
+**It’d be great if you also had one or more of these:**
+
+* Experience applying machine learning to physical, interconnected networks.
+* 4+ years of professional experience working with grid modeling, simulation, state estimation, or power-system optimization, including familiarity with physical grid constraints, utility data structures, or spatiotemporal modeling for the grid.
+* Familiarity with commercial grid-simulation software or numerical solvers, such as PSS®E, GridLAB-D, or MATPOWER, alongside scientific Python tools.
+* A history of open-source contributions or peer-reviewed publications at leading AI conferences .
+* Experience operating in a high-growth, or rapidly evolving technical environment.
+
+**Tapestry Values**
+
+* Take charge: We take initiative and own outcomes that move the mission forward.
+* Transform with purpose: We build solutions that solve real problems and create meaningful impact.
+* Be a Tapestry, not a thread: We collaborate across diverse skills and perspectives to achieve more than we can individually.
+* Always fine-tune: We stay curious, seek feedback, and refine our understanding as we learn.
+* Stay grounded: We listen openly, value different perspectives, and stay focused on what matters most.
+
+**What We Offer**
+A culture that supports growth, ownership, and meaningful impact, along with…
+  
+  
+
+* Competitive salary and equity
+* Medical, dental, and vision coverage
+* Generous PTO and flexible hybrid work model
+* 401(k) with employer contribution
+* Professional development
+* The ability to work on important real-world problems within an Alphabet-backed environment
+
+The US base salary range for this full-time position is $262,000 - $361,000 + bonus + equity + benefits. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your location during the hiring process.
+  
+  
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+  
+  
+An Equal Opportunity Workplace
+  
+  
+At X, we don't just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. We are proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+  
+  
+If you have a disability or special need that requires accommodation, please contact us at x-accommodation-request@x.team.</description>
+        <pubDate>2026-11-11</pubDate>
+    </item>
+    
+    <item>
         <title>Machine Learning Engineer Graduate (Brand Ads) - 2027 Start (PhD) - TikTok</title>
         <link>https://www.linkedin.com/jobs/view/4447903409</link>
         <description>**Responsibilities**
@@ -12949,96 +13089,6 @@ DISCLAIMER: We will not ask about marriage or pregnancy, care responsibilities o
   
   
 Compensation Range: $390K - $460K</description>
-        <pubDate>2026-11-09</pubDate>
-    </item>
-    
-    <item>
-        <title>Senior Data Scientist - Walmart Global Tech</title>
-        <link>https://www.linkedin.com/jobs/view/4416385009</link>
-        <description>Position Summary...
-  
-  
-What you'll do...We’re seeking a Data Scientist to build personalized, high-impact digital experiences for millions of users. You’ll develop scalable, high-performance Engineering applications that drive engagement and customer value. If you enjoy solving complex problems, working with data, and collaborating in a fast-paced environment, this is a great opportunity to make an impact. About Team Our team partners closely with retail and e-commerce business units to deliver innovative technology solutions that improve customer experiences across digital and in-store channels. Key focus areas include customer experience, store operations, merchant tools, data science, and search and personalization. We are focused on building end-to-end customer experience, from finding the product to delivering it to the customer. This will span many markets, business models and form factors; therefore, we are looking for data scientists who will bring not only the experiences in technologies, but the curiosity and capability to innovate. Come join an organization where you'll get to work as part of a world-class team, solve problems that are at a scale few can create, and get to build products that are only bound by the scope of your imagination. Put your footprint on ground up development focused on building brand new products that will impact a Global customer base. What you'll do:
-  
-  
-
-* Developing and implementing cutting-edge machine learning techniques, particularly in personalization and recommendation systems for conversational agents.
-* Researching and building advanced algorithms utilizing deep learning, reinforcement learning, Generative AI, and computer vision techniques.
-* Collaborating with tech leads on top-down or bottom-up initiatives and priorities
-* Develop data models and iteratively improve them based on new data insights
-* Design, architect data models. Iterate, challenge, and accelerate best practices in Personalization and Item Recommendations
-
-What you'll bring:
-  
-  
-
-* Master's degree/PHD in Data science, Computer Science, or related fields with practical experience
-* Expertise in Machine Learning, Statistics, Generative AI, Personalization, and Item Recommendation algorithms
-* Experience in data science and building and evaluating large scale machine learning &amp; deep learning models
-* Experience in deploying highly scalable Recommenders Systems, bonus domain - conversational agents
-* Curiosity in state-of-the-art techniques in recommendation related areas
-
-About Walmart Global Tech
-  
-  
-Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.
-  
-  
-Walmart’s culture is a competitive advantage, and it’s fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.
-  
-  
-Our hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.
-  
-  
-Benefits:
-  
-  
-Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
-  
-  
-Equal Opportunity Employer:
-  
-  
-Walmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.
-  
-  
-*The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.*
-At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
-  
-  
-Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
-  
-  
-**For Information About Benefits And Eligibility, See One.Walmart.**
-The annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
-  
-  
-
-* Stock
-
-ㅤ
-  
-  
-ㅤ
-  
-  
-ㅤ
-  
-  
-ㅤ
-  
-  
-‎
-  
-  
-**Minimum Qualifications...**
-**Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.**
-Option 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.
-  
-  
-**Preferred Qualifications...**
-**Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.**
-Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates</description>
         <pubDate>2026-11-09</pubDate>
     </item>
     
