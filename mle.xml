@@ -6,64 +6,66 @@
     <description>jobs</description>
     
     <item>
-        <title>Senior Machine Learning Engineer - Uber</title>
-        <link>https://www.indeed.com/viewjob?jk=ac9a5691892b6c5a</link>
-        <description>About the Team  
+        <title>Machine Learning Engineer II - Uber</title>
+        <link>https://www.indeed.com/viewjob?jk=b84f769cea7fed50</link>
+        <description>About the Role  
   
-The Uber Eats Delivery Search team builds large-scale machine learning systems that help consumers discover relevant merchants, products, and items across Uber Eats.  
+Uber One is Uber's flagship membership program, serving more than 50 million members globally across Mobility, Delivery, Grocery, and other Uber experiences. Membership combines savings, benefits, priority experiences, and exclusive offerings while driving engagement, cross-platform adoption, and long-term retention.  
   
-We are transforming Search through two major initiatives: Search as an LLM (SaaL), evolving traditional retrieval and ranking into an LLM-native Search architecture, and Whole-Page Quality, developing AI-powered evaluation and diagnostic capabilities to systematically identify customer-facing defects and improve end-to-end Search experiences.  
+As a Machine Learning Engineer, you will build product-focused ML systems for targeting, personalization, offers, and member engagement. Your models will directly influence the Membership experiences consumers see across Uber and Uber Eats.  
   
-Our team tackles challenging ML problems spanning large language model training and optimization (CPT, SFT, RL), semantic retrieval, generative Search, model evaluation, and production ML systems at Uber scale.  
-  
-Role &amp; Responsibilities  
-  
-As a Senior Machine Learning Engineer on the Delivery Search team, you will design, develop, and deploy ML solutions that power next-generation Search experiences. Specifically, you will:  
+What You Will Do  
 
-* LLM Training &amp; Optimization: Develop, train, and optimize large language models for Search using continued pretraining (CPT), supervised fine-tuning (SFT), reinforcement learning (RL), and advanced model optimization techniques.
+* Own targeting and personalization models from problem framing through deployment and monitoring.
   
-* Search Relevance &amp; Semantic Understanding: Build and improve ML models for semantic retrieval, ranking, and catalog understanding to deliver relevant, personalized, and context-aware Search results across diverse markets and merchant catalogs.
+* Build treatment-effect and uplift models to estimate incremental impact of Membership interventions.
   
-* Whole-Page Quality &amp; Evaluation: Develop LLM-based quality judges, automated evaluation frameworks, and defect detection models to assess end-to-end Search experiences, identify recurring quality issues, and drive measurable improvements.
+* Design budget-aware allocation systems for consumer offers under real business constraints.
   
-* ML Experimentation &amp; Production Systems: Design scalable model training, evaluation, and inference pipelines; conduct offline and online experiments; and deploy and monitor ML models in production.
+* Build ranking and sequencing models for Membership messaging across Mobility and Delivery.
   
-* Cross-Functional Collaboration: Independently drive complex ML projects from design through production, partnering with ML Infrastructure, Backend Engineering, Data Science, and Product teams to deliver measurable customer impact.
+* Productionize models in real-time serving paths and large-scale batch pipelines.
+  
+* Design and analyze experiments to measure incremental product impact.
+  
+* Translate ambiguous Membership growth problems into concrete ML solutions with cross-functional partners.
 
   
 Basic Qualifications  
 
-* 5+ years of professional software engineering experience, including hands-on development and deployment of production ML systems.
+* 3+ years of experience building and shipping production ML models.
   
-* Strong proficiency in Python and modern ML frameworks such as PyTorch or TensorFlow.
+* Proficiency in Python and modern ML frameworks such as PyTorch, scikit-learn, XGBoost, or LightGBM.
   
-* Solid foundation in machine learning, deep learning, algorithms, and scalable software engineering.
+* Strong understanding of SQL and large-scale data processing experience with Spark, Hive, Presto, or similar technologies.
   
-* Experience developing, training, and evaluating ML models using large-scale datasets.
+* Experience with experimental design, A/B testing, and measurement of noisy product outcomes.
   
-* Proven ability to independently deliver ML solutions from problem formulation and experimentation through production deployment.
+* Experience working on ML systems from offline development through serving, monitoring, and retraining.
   
-* Experience with model evaluation, performance analysis, and offline or online experimentation.
+* Experience applying ML to user-facing product or business decisions.
+  
+* Bachelor's degree in a quantitative field or equivalent practical experience.
 
   
 Preferred Qualifications  
 
-* Experience with large language models, generative AI, and training techniques such as CPT, SFT, or RL.
+* Experience applying ML to membership, subscription, growth, or consumer engagement products.
   
-* Experience with large-scale Search, recommendation, information retrieval, or ranking systems.
+* Experience with uplift modeling, treatment effects, ranking, recommendation, or sequential decision systems.
   
-* Familiarity with LLM-based evaluation, automated quality assessment, or defect detection.
+* Experience with constrained optimization, incentives, promotions, pricing, or offer targeting at consumer scale.
   
-* Experience with distributed ML training, inference optimization, or production ML infrastructure.
+* Strong product mindset with experience translating consumer needs and business constraints into measurable ML outcomes.
   
-* Demonstrated ability to collaborate across engineering teams, lead technical projects, and mentor other engineers.
+* Experience collaborating across Product, Engineering, Data Science, Finance, or Marketing on complex product decisions.
+  
+* Familiarity with subscription metrics including conversion, retention, LTV, cannibalization, and incrementality.
 
   
-For San Francisco, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.  
+For New York City, NY-based roles: The base salary range for this role is USD $171,000 per year - USD $190,000 per year.  
   
-For Seattle, WA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.  
-  
-For Sunnyvale, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.  
+For San Francisco, CA-based roles: The base salary range for this role is USD $171,000 per year - USD $190,000 per year.  
   
 For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.  
   
@@ -76,7 +78,7 @@ You may be eligible for bonuses, equity, and other compensation, as well as a ra
 Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.  
   
 Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</description>
-        <pubDate>2026-11-20</pubDate>
+        <pubDate>2026-11-21</pubDate>
     </item>
     
     <item>
@@ -149,6 +151,80 @@ Learn about reasonable accommodations for job applicants
   
 
 Apple accepts applications to this posting on an ongoing basis.</description>
+        <pubDate>2026-11-20</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Machine Learning Engineer - Uber</title>
+        <link>https://www.indeed.com/viewjob?jk=ac9a5691892b6c5a</link>
+        <description>About the Team  
+  
+The Uber Eats Delivery Search team builds large-scale machine learning systems that help consumers discover relevant merchants, products, and items across Uber Eats.  
+  
+We are transforming Search through two major initiatives: Search as an LLM (SaaL), evolving traditional retrieval and ranking into an LLM-native Search architecture, and Whole-Page Quality, developing AI-powered evaluation and diagnostic capabilities to systematically identify customer-facing defects and improve end-to-end Search experiences.  
+  
+Our team tackles challenging ML problems spanning large language model training and optimization (CPT, SFT, RL), semantic retrieval, generative Search, model evaluation, and production ML systems at Uber scale.  
+  
+Role &amp; Responsibilities  
+  
+As a Senior Machine Learning Engineer on the Delivery Search team, you will design, develop, and deploy ML solutions that power next-generation Search experiences. Specifically, you will:  
+
+* LLM Training &amp; Optimization: Develop, train, and optimize large language models for Search using continued pretraining (CPT), supervised fine-tuning (SFT), reinforcement learning (RL), and advanced model optimization techniques.
+  
+* Search Relevance &amp; Semantic Understanding: Build and improve ML models for semantic retrieval, ranking, and catalog understanding to deliver relevant, personalized, and context-aware Search results across diverse markets and merchant catalogs.
+  
+* Whole-Page Quality &amp; Evaluation: Develop LLM-based quality judges, automated evaluation frameworks, and defect detection models to assess end-to-end Search experiences, identify recurring quality issues, and drive measurable improvements.
+  
+* ML Experimentation &amp; Production Systems: Design scalable model training, evaluation, and inference pipelines; conduct offline and online experiments; and deploy and monitor ML models in production.
+  
+* Cross-Functional Collaboration: Independently drive complex ML projects from design through production, partnering with ML Infrastructure, Backend Engineering, Data Science, and Product teams to deliver measurable customer impact.
+
+  
+Basic Qualifications  
+
+* 5+ years of professional software engineering experience, including hands-on development and deployment of production ML systems.
+  
+* Strong proficiency in Python and modern ML frameworks such as PyTorch or TensorFlow.
+  
+* Solid foundation in machine learning, deep learning, algorithms, and scalable software engineering.
+  
+* Experience developing, training, and evaluating ML models using large-scale datasets.
+  
+* Proven ability to independently deliver ML solutions from problem formulation and experimentation through production deployment.
+  
+* Experience with model evaluation, performance analysis, and offline or online experimentation.
+
+  
+Preferred Qualifications  
+
+* Experience with large language models, generative AI, and training techniques such as CPT, SFT, or RL.
+  
+* Experience with large-scale Search, recommendation, information retrieval, or ranking systems.
+  
+* Familiarity with LLM-based evaluation, automated quality assessment, or defect detection.
+  
+* Experience with distributed ML training, inference optimization, or production ML infrastructure.
+  
+* Demonstrated ability to collaborate across engineering teams, lead technical projects, and mentor other engineers.
+
+  
+For San Francisco, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.  
+  
+For Seattle, WA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.  
+  
+For Sunnyvale, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.  
+  
+For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.  
+  
+**Ready to Ride?**  
+  
+This isn't the kind of place where you follow a playbook — it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves — we'd love to hear from you.  
+  
+You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits.  
+  
+Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.  
+  
+Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</description>
         <pubDate>2026-11-20</pubDate>
     </item>
     
@@ -411,59 +487,89 @@ Apple accepts applications to this posting on an ongoing basis.</description>
     </item>
     
     <item>
-        <title>Machine Learning Engineer - Arena Intelligence, Inc.</title>
-        <link>https://www.indeed.com/viewjob?jk=33da3e55b22ccab8</link>
-        <description>**About Arena Intelligence**
-============================
-
-Arena is the platform for evaluating how AI models perform in the real world. Founded by researchers from UC Berkeley's SkyLab, we're on a mission to measure and advance the frontier of AI for real-world use, and to build the foundation for everyone to understand, shape, and benefit from it.
-
-Tens of millions of people use Arena each month to evaluate how frontier systems handle the work they actually do. The preferences they share power the most transparent, rigorous, and human-centered evaluations in AI. Leading AI labs, enterprises, and independent researchers rely on our work and open datasets to understand how models behave in real workflows: agentic coding, creative generation, professional productivity, and beyond. We go beyond leaderboards and decompose what human experience reveals about AI, so models advance toward the work people actually do.
-
-We're a team of researchers, academics, builders, and creatives from UC Berkeley, Google, Stanford, and DeepMind. We seek truth, move fast, and value craftsmanship, curiosity, and impact over hierarchy. We're building a company where thoughtful, curious people from all backgrounds can do their best work together, in an office culture that radiates excellence, energy, and focus.
-
-### **About the Role**
-
-Arena Intelligence is seeking a Machine Learning Engineer to help scale and strengthen the core infrastructure that powers real-world AI evaluation. You’ll play a foundational role in shaping how we build, deploy, and improve our model benchmarking systems, working across data pipelines, inference APIs, and new evaluation methodologies. This is an opportunity to apply your technical expertise to a platform trusted by millions, and to help define how cutting-edge AI is assessed in the wild.
-
-As one of the first ML engineers on the team, you’ll partner closely with researchers, engineers, and product leadership to turn new ideas into reliable systems. You’ll help us move fast while staying rigorous, improving reproducibility, scaling up to new modalities, and deepening our ability to understand and compare frontier models.
-
-### **You’ll**
-
-* Architect and build what will become our core modeling for data and evaluation products
-* Own the full stack data, model training, and eval pipelines
-* Help grow a culture of feedback and rapid product iteration as we build new features as a tight-nit team
-* Conduct research into state-of-the-art evaluation methods and contribute to the long-term vision for a centralized, scalable evaluation platform.
-
-### **You’ll have**
-
-* Strong programming skills with the ability to work across the stack in a typical recommendation system or LLM stack
-* Experience in deep learning, language models or reward model training
-* Experience in working with LLM for fine tuning, prompt engineering, function calling etc
-* Self-motivated with a willingness to take ownership of tasks
-* A passion for shipping quality products
-* 4+ years of industry experience or relevant projects
-* Prior experience working on anti-abuse
-* Solid understanding of statistics, and various tools and methodologies for evaluating uncertainty in a way that is specific to the given product being shipped
-
-**What we offer**
-=================
-
-* We offer competitive compensation aligned to the markets where our team members are based. The compensation range for each role is listed on its posting and will depend on the candidate's experience and work location.
-* Comprehensive health and wellness benefits, including medical, dental, vision, and additional support programs.
-* The opportunity to work on cutting-edge AI with a small, mission-driven team
-* A culture that values transparency, trust, and community impact
-
-Come help build the space where anyone can explore and help shape the future of AI.
-
-Arena Intelligence *provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.*</description>
-        <pubDate>2026-11-14</pubDate>
-    </item>
-    
-    <item>
         <title>Staff Machine Learning Engineer, Retrieval - Reddit, Inc.</title>
         <link>https://www.linkedin.com/jobs/view/4467173097</link>
-        <description>None</description>
+        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
+  
+  
+**Team Description:**
+The Ads Retrieval ML team builds the machine learning systems that identify relevant advertising candidates for Reddit users. Retrieval sits at the heart of the ads delivery funnel: before downstream ranking and auction decisions, our models determine which campaigns and ads are eligible to compete. We work on large-scale retrieval across multiple objectives, placements, and geographies. Our work combines representation learning, candidate generation, nearest-neighbor search, behavioral and contextual signals, and rigorous offline and online experimentation.
+  
+  
+**Role Description:**
+We are looking for a Staff Machine Learning Engineer to provide technical leadership for the Retrieval ML team. You will lead the design and evolution of retrieval models and modeling practices that improve relevance, advertiser outcomes, and user experience at Reddit scale. This is an applied ML role centered on retrieval modeling and end-to-end product impact. You will be expected to stay close to the technical details—from data and objective design through model development, evaluation, experimentation, and launch—while setting direction for other engineers.
+  
+  
+**Responsibilities:**
+
+* Define the technical direction and multi-year roadmap for ads retrieval modeling in partnership with engineering, product, data science, and ads stakeholders.
+* Design, develop, and launch candidate-generation and retrieval models for campaigns and ads across Reddit's advertising surfaces.
+* Apply modern approaches such as two-tower architectures, representation learning, embeddings, sequence models, graph-based methods, and other deep learning techniques when they create meaningful product value.
+* Improve the retrieval stack across key modeling decisions, including objectives, labels, sampling strategies, hard-negative mining, feature design, embedding generation, candidate filtering, and retrieval depth.
+* Work with approximate nearest-neighbor and vector retrieval systems, reasoning about recall, relevance, freshness, diversity, coverage, latency, and cost trade-offs.
+* Establish strong evaluation practices that connect retrieval metrics—such as recall, precision, candidate coverage, calibration, and downstream lift—to ads and user outcomes.
+* Lead offline analysis and online experiments, interpret ambiguous results, and translate findings into the next modeling iteration.
+* Partner with downstream ranking, ads platform, auction, measurement, and product teams to ensure retrieval models integrate effectively into the full ads funnel.
+* Write design documents, review code and model changes, and raise the quality bar for modeling, testing, observability, and production ownership.
+* Mentor ML engineers and help grow the team's expertise in retrieval, recommendation, and representation learning.
+
+**Required Qualifications:**
+
+* 7+ years of industry experience, including substantial experience building and shipping applied ML products.
+* Deep experience with information retrieval, candidate generation, recommender systems, ranking, or related relevance problems.
+* Strong understanding of retrieval modeling concepts, including DNN, embeddings, two-tower or dual-encoder models, approximate nearest-neighbor search, and multi-stage retrieval.
+* Deep experience training, evaluating, debugging, and deploying deep learning models using TensorFlow, PyTorch, or similar frameworks.
+* Demonstrated ownership of ML projects from problem framing and data preparation through offline evaluation, online experimentation, production launch, and iteration.
+* Strong command of experimental design and model evaluation, including how offline retrieval metrics relate to downstream business and user metrics.
+* Experience working with large-scale behavioral, contextual, or content datasets and complex feature pipelines.
+* Strong software engineering fundamentals and the ability to write clear, reliable, maintainable production code.
+* Technical leadership experience: setting direction, leading complex projects, influencing partner teams, and mentoring other engineers.
+* Excellent written and verbal communication, with the ability to explain complex modeling choices to technical and non-technical audiences.
+
+**Preferred Qualifications:**
+
+* Experience with ads retrieval, ad serving, recommendation, search relevance, or marketplace optimization
+* Experience modeling user, content, campaign, or ad interactions with sequential, graph, or multimodal signals
+* Experience connecting retrieval improvements to downstream ranking, auction, conversion, revenue, or user-experience outcomes
+* Experience in ads marketplaces at peer companies
+* Publications, patents, or industry contributions in applied ML or ranking systems
+* Experience with sequential modeling (e.g., RNNs, Transformers)
+
+**Benefits:**
+
+* 100% remote opportunity (we have 4 office locations for hybrid/onsite work preference in NY, SF, LA and Chicago)
+* Comprehensive Healthcare Benefits and Income Replacement Programs
+* 401k with Employer Match
+* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
+* Family Planning Support
+* Gender-Affirming Care
+* Mental Health &amp; Coaching Benefits
+* Flexible Vacation &amp; Paid Volunteer Time Off
+* Generous Paid Parental Leave
+
+**Pay Transparency:**
+This job posting may span more than one career level.
+  
+  
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+  
+  
+To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+  
+  
+The base salary range for this position is:
+  
+  
+$230,000—$322,000 USD
+  
+  
+In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
+  
+  
+During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
+  
+  
+*Reddit is proud to be an equal opportunity employer, and is committed t</description>
         <pubDate>2026-11-20</pubDate>
     </item>
     
@@ -471,6 +577,83 @@ Arena Intelligence *provides equal employment opportunities (EEO) to all employe
         <title>Machine Learning Engineer Graduate (Brand Ads) - 2027 Start (PhD) - TikTok</title>
         <link>https://www.linkedin.com/jobs/view/4492581150</link>
         <description>None</description>
+        <pubDate>2026-11-20</pubDate>
+    </item>
+    
+    <item>
+        <title>Principal Machine Learning Engineer, Causal Decisioning - DoorDash</title>
+        <link>https://www.linkedin.com/jobs/view/4466231227</link>
+        <description>**About The Team**
+DoorDash is building the next generation of causal decisioning systems for New Verticals: grocery, convenience, retail, alcohol, pets, flowers, and other emerging categories. These businesses operate in high-dimensional, dynamic marketplaces where every consumer, merchant, item, promotion, substitution, search result, and delivery promise creates a causal question.
+  
+  
+We are hiring a Principal Machine Learning Engineer to lead the Causal ML pod and establish the technical foundation for company-level causal decisioning. This is a senior technical leadership role for a practitioner who has built consequential causal systems in production and can turn ambiguous business questions into a coherent measurement and decision platform.
+  
+  
+A central mandate is to define and build a durable company-level causal value metric: a trusted, long-term signal that estimates the incremental value created by product, growth, and marketplace actions. The metric will connect experiments, observational evidence, and production ML so leaders and product teams can compare investments on a common basis while protecting customer experience and marketplace health.
+  
+  
+**About The Role**
+You will set the multi-year technical direction for causal ML, lead the pod’s portfolio and operating model, and remain close to the hardest modeling and systems work. You will be accountable for both scientific credibility and production impact.
+  
+  
+**You’re Excited About This Opportunity Because You Will…**
+
+* Lead the Causal ML pod across technical strategy, architecture, execution, and quality. Create a roadmap that joins foundational platform work with high-value product applications.
+* Define the company-level causal value metric and its measurement framework, including the target construct, time horizon, component outcomes, identification strategy, calibration, uncertainty, and guardrails.
+* Build the metric into a decision system that teams can use for product prioritization, experiment readouts, intervention selection, budget allocation, and portfolio tradeoffs.
+* Establish how randomized experiments, quasi-experiments, observational estimation, and learned models work together. Make the limits of each source of evidence explicit.
+* Architect reusable causal capabilities for treatment effect estimation, surrogate validation, counterfactual policy evaluation, sensitivity analysis, and long-term outcome forecasting.
+* Guide production applications across promotions, lifecycle interventions, ranking, recommendations, search, substitutions, demand shaping, and inventory-aware discovery.
+* Set standards for validation, monitoring, reproducibility, and governance so causal estimates remain reliable as policies, populations, and marketplace conditions change.
+* Influence senior leaders across Product, Engineering, Analytics, Finance, Strategy, and business teams by translating complex causal evidence into clear decisions and tradeoffs.
+* Develop senior engineers and scientists through technical direction, design review, coaching, and a high bar for causal reasoning and engineering craft.
+
+**Example Focus Areas Include**
+
+* Company-level causal value: Create a common, causally grounded measure of the long-term value generated by product and business actions, enabling teams to compare opportunities across surfaces while preserving interpretable components and guardrails;
+* Consumer action and lifetime value: Estimate which interventions truly grow durable customer value rather than pull demand forward, including promotions, lifecycle nudges, personalization, retention, and reactivation;
+* Surrogate metrics and faster learning: Develop and validate early indicators that accelerate decisions before long-term outcomes mature, paired with variance reduction, sequential learning, and clear standards for trust;
+* Counterfactual ranking and decisioning: Build causal layers for recommendations, search, targeting, demand shaping, and marketplace allocation so systems optimize incremental outcomes rather than predictive relevance alone; and
+* Causal measurement platform: Create shared infrastructure that connects experiments, observational data, policy logs, estimation, calibration, and decision workflows across teams.
+
+**We’re Excited About You Because You Have…**
+
+* Extensive experience (10+ years) in causal inference, econometrics, experimentation, or causal machine learning, with a record of setting technical direction beyond a single team.
+* Experience leading the design and productionization of causal models, measurement platforms, experimentation systems, or large-scale decision engines.
+* Deep judgment about randomized experiments, observational methods, surrogate endpoints, and model-based decisioning, including when evidence is insufficient for a decision.
+* Fluency with methods such as doubly robust estimation, double machine learning, instrumental variables, difference-in-differences, synthetic controls, variance reduction, heterogeneous treatment effects, contextual bandits, and off-policy evaluation.
+* Strong ML engineering and systems ability. You can shape data contracts, modeling pipelines, evaluation frameworks, serving patterns, and monitoring for high-stakes production use.
+* The ability to reason about long-term customer and marketplace value, not only local model metrics or immediate conversion.
+* A track record of influencing executives and senior cross-functional partners through clear problem framing, technical judgment, and evidence.
+* A multiplier mindset: you create reusable abstractions, improve decision quality across teams, and raise the technical standard of the people around you.
+
+**Compensation**
+The successful candidate’s starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.
+  
+  
+In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
+  
+  
+DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.
+  
+  
+To learn more about our benefits, visit our careers page here.
+  
+  
+**See Below For Paid Time Off Details**
+
+* For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+* For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).
+
+The national base pay range for this position within the United States, including Illinois and Colorado.
+  
+  
+$282,100—$414,800 USD
+  
+  
+**About DoorDash**
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people t</description>
         <pubDate>2026-11-20</pubDate>
     </item>
     
@@ -558,77 +741,7 @@ Pinterest is an equal opportunity employer and makes employment decisions on the
     <item>
         <title>Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative &amp; Large Recommendation Model) - 2027 Start (PhD) - TikTok</title>
         <link>https://www.linkedin.com/jobs/view/4466815411</link>
-        <description>**Responsibilities**
-Team Introduction
-  
-  
-Global E-Commerce (TikTok Shop) is one of TikTok's fastest-growing businesses and a core driver of the company's revenue growth. Our Global E-Commerce Content Recommendation team owns the end-to-end recommendation stack for e-commerce video and image-text content on TikTok worldwide — retrieval, ranking, and multi-queue blending; supply ecosystem and cold start; and the browsing-to-purchase experience for hundreds of millions of users.
-  
-  
-We believe recommendation is being rewritten in the compute era. ID-based collaborative filtering and supervised learning built today's systems and still run most of the industry — but their returns are diminishing, and we are betting the next order of magnitude on rebuilding the stack on LLM foundations. Our ambition is to build the most advanced recommendation system in the world, and the next generation after that.
-  
-  
-We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.
-  
-  
-Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.
-  
-  
-**Responsibilities:**
-You will help build — and rewrite — an industrial recommendation system serving a billion-scale user base across short-video, livestream, and product scenarios, covering retrieval, pre-ranking, ranking, and blending end to end. Every iteration ships to production and directly moves user experience and GMV.
-  
-  
-
-* Scale recommendation models like LLMs. Push ranking models from hundreds of millions to billions of parameters and chart the scaling laws of recommendation: behavior-corpus pre-training; multi-scenario, multi-task, multi-stage joint training; ultra-long behavior-sequence modeling (10K+ events) with KV caching, sequence compression, user/generation (U-G) disaggregated serving, speculative decoding, and dynamic batching — raising MFU while holding a strict millisecond latency budget.
-* Build one-stage generative retrieval. Reframe retrieval as generation: tokenize the item space into semantic IDs (RQ-VAE / SID) and train autoregressive models, grounded in MLLM semantics, to generate what a user wants next — collapsing the traditional "multi-channel retrieval + ranking" funnel into a single generative stage. The open problems span the full stack: item tokenizers that balance semantic content against collaborative signal, and SIDs that stay stable while millions of new items arrive daily; post-training the generator directly on live user feedback (preference optimization, GRPO-style RL); and decoding under a millisecond budget — beam search, decoding constrained to the valid item space, and test-time scaling that trades inference compute for better recommendations. The prize is a system freed from its path dependence on ID memorization, where cold-start generalization comes from semantics rather than impression history.
-* Inject world knowledge. Use large models' real-world knowledge to mine latent user interests and semantic representations beyond what pure ID co-occurrence can express; use reasoning models to run explicit chain-of-thought inference over long-horizon user intent, making the system materially better at discovery and novelty.
-* Push training and inference to the hardware limit. Custom CUDA / Triton fused kernels, memory and computation-graph optimization, distributed training and inference acceleration, mixed precision and low-bit quantization — engineered for what makes recommendation hard: sparse embeddings, variable-length sequences, and many task heads.
-* Rewrite R&amp;D with agents. We are embedding coding agents deep into the algorithm-development loop: automated feature mining and pipeline generation, experiment configuration and training orchestration, automated evaluation and online-diagnosis attribution, bad-case mining and patrol. You will be both a user and a builder of this system.
-* Do original work on open problems. Long-term value modelling, repurchase and retention, transaction attribution, fatigue modeling, new-user recommendation, incremental value modelling, interest exploration, LLM4Rec — problems where industry has no standard answers. We expect, and support, original research: internal papers, patents, and publication at top external venues.
-
-**Qualifications**
-Minimum Qualifications:
-  
-  
-
-* Individuals who are completing or have recently completed a PhD degree in Computer Science, AI, Mathematics, Statistics or a related discipline
-* Solid ML and engineering fundamentals: you understand the math behind the models, and you write clean, efficient, reproducible code with a strong command of algorithms and data structures.
-* Deep research or engineering practice in at least one of: LLMs / foundation models, NLP, CV, RL, or recommendation / search / ads — and you can articulate why you made the choices you made, and where they fell short.
-* Genuine enthusiasm for LLM / LRM techniques: you want frontier methods live in production, not parked at offline metrics.
-* Strong problem definition and decomposition: faced with an ambiguous problem that has no standard answer, you find your own foothold.
-
-**Preferred Qualifications:**
-
-* Publications at KDD, SIGIR, RecSys, WWW, ACL, NeurIPS, ICML, ICLR, or comparable venues — or high-quality open-source work.
-* CUDA / Triton kernel development, source-level deep-learning-framework optimization, large-scale distributed training, or high-performance inference deployment.
-* Hands-on experience with LLM post-training (SFT / RLHF / DPO / GRPO), agent-system construction, or inference acceleration.
-* Led or deeply contributed to a key project in search, ads, recommendation, or large models, with a complete problem-to-online-impact loop.
-* Awards in ACM-ICPC, NOI, Kaggle, or comparable competitions.
-* Heavy user of AI coding and agentic workflows for building systems and optimizing models.
-
-Job Information
-  
-  
-**【For Pay Transparency】Compensation Description (Annually)**
-The base salary range for this position in the selected city is $162000 - $387600 annually.
-  
-  
-Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
-  
-  
-Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
-  
-  
-The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
-  
-  
-**For Los Angeles County (unincorporated) Candidates:**
-Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
-  
-  
-
-* Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
-* Appropriately handling and managing confidential information including proprietary and trade secret information and access to information </description>
+        <description>None</description>
         <pubDate>2026-11-19</pubDate>
     </item>
     
@@ -637,6 +750,103 @@ Qualified applicants with arrest or conviction records will be considered for em
         <link>https://www.linkedin.com/jobs/view/4476513256</link>
         <description>None</description>
         <pubDate>2026-11-18</pubDate>
+    </item>
+    
+    <item>
+        <title>Machine Learning Engineer, E-commerce Recommendation Foundation  - USDS - TikTok USDS Joint Venture</title>
+        <link>https://www.linkedin.com/jobs/view/4490117631</link>
+        <description>**Responsibilities**
+The E-commerce Recommendation Foundation team is dedicated to building the next-generation recommendation intelligence. We aim to develop a unified Foundation Model that supports multi-business and multi-scenario recommendation systems, covering the full pipeline from retrieval and ranking to re-ranking, and driving a comprehensive upgrade in intelligence and generative capability.
+  
+  
+We believe the future of recommendation systems goes beyond predicting click-through rates — it lies in understanding the relationship between people and content, and in generating new connections. The team is exploring an event-sequence-driven generative recommendation paradigm, deeply integrating large language models (LLMs), multimodal understanding, reinforcement learning, and system optimization to advance recommendation systems toward general-purpose intelligent agents.
+  
+  
+We value original exploration and encourage both research thinking and engineering excellence. Every team member is empowered to propose hypotheses and validate ideas in an open environment — your code and papers may help define the next paradigm of recommendation systems. We seek individuals with a general intelligence mindset to join us in redefining the future of recommendation.
+  
+  
+Responsibilities:
+  
+- Build and optimize cross-scenario shared Foundation Models to enable unified modeling and efficient inference. Advance the event-sequence-driven generative recommendation paradigm, integrating multimodal understanding and generative capabilities.
+  
+- Apply LLM technologies across retrieval, ranking, and re-ranking stages; participate in model training, inference optimization, and system co-design.
+  
+- Explore the integration of LLMs / VLMs with recommendation systems to develop adaptive and evolving intelligent recommenders.
+  
+- Research end-to-end generative recommendation and system optimization methods that balance efficiency and user experience.
+  
+  
+**Qualifications**
+Minimum Qualifications:
+  
+- Bachelor's or Master's degree in Computer Science, Machine Learning, or a related field.
+  
+- 1+ years of experience in machine learning, deep learning, or information retrieval.
+  
+- Proficiency in Python and familiarity with mainstream deep learning frameworks (e.g., PyTorch).
+  
+- Strong passion for intelligent recommendation systems and a self-driven research mindset.
+  
+  
+Preferred Qualifications:
+  
+- PhD degree in Computer Science, Machine Learning, or a related field.
+  
+- Experience in large-scale recommendation system development or large-model training, with notable technical achievements in a sub-area.
+  
+- Research experience or publications in LLMs, multimodal learning, reinforcement learning, or generative recommendation.
+  
+- Familiarity with pre-training and post-training processes for large language models (LLMs) or Foundation Models.
+  
+  
+**About USDS**
+TikTok USDS Joint Venture LLC is dedicated to the safety and security of millions of Americans who create, discover, and connect with what they love on the apps we operate. The Joint Venture has been established in compliance with the Executive Order signed by President Trump on September 25, 2025. Our foundation is a comprehensive data privacy and cybersecurity program we operate under defined safeguards to protect national security and secure U.S. user data, apps and the algorithm. We safeguard the U.S. content ecosystem, holding decision-making authority for trust and safety policies and moderation. USDS Joint Venture helps ensure Americans can continue to express their creativity, discover new hobbies and interests, and build thriving communities and businesses on a global scale.​
+  
+​
+  
+On-site presence across teams allows the company to operate with greater speed, alignment, and agility — especially in areas like real-time decision-making, team development, and integrated execution. As such, the company is shifting from a hybrid work model to a fully in-person schedule up to 5 days a week.​
+  
+  
+  
+**Why Join Us**
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​
+  
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+  
+​
+  
+Diversity &amp; Inclusion​
+  
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+  
+  
+  
+**USDS Reasonable Accommodation**
+USDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-RA​
+  
+  
+  
+**Job Information**
+【For Pay Transparency】Compensation Description (Annually)
+  
+The base salary range for this position in the selected city is $122574 - $259200 annually.​
+  
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
+  
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​
+  
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
+  
+For Los Angeles County (unincorporated) Candidates:​
+  
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
+  
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
+  
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
+  
+3. Exercising sound judgment.​</description>
+        <pubDate>2026-11-16</pubDate>
     </item>
     
     <item>
@@ -649,58 +859,209 @@ Qualified applicants with arrest or conviction records will be considered for em
     <item>
         <title>Staff Machine Learning Engineer, Retrieval &amp; Targeting - Reddit, Inc.</title>
         <link>https://www.linkedin.com/jobs/view/4483306246</link>
-        <description>None</description>
+        <description>Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com.
+  
+  
+**Team Description:**
+The Ads Retrieval ML team builds the machine learning systems that identify relevant advertising candidates for Reddit users. Retrieval sits at the heart of the ads delivery funnel: before downstream ranking and auction decisions, our models determine which campaigns and ads are eligible to compete. We work on large-scale retrieval across multiple objectives, placements, and geographies. Our work combines representation learning, candidate generation, nearest-neighbor search, behavioral and contextual signals, and rigorous offline and online experimentation.
+  
+  
+**Role Description:**
+We are looking for a Staff Machine Learning Engineer to provide technical leadership for the Retrieval and Targeting ML team. You will lead the design and evolution of retrieval models and modeling practices that improve relevance, advertiser outcomes, and user experience at Reddit scale. This is an applied ML role centered on retrieval modeling and end-to-end product impact. You will be expected to stay close to the technical details—from data and objective design through model development, evaluation, experimentation, and launch—while setting direction for other engineers.
+  
+  
+**Responsibilities:**
+
+* Define the technical direction and multi-year roadmap for ads retrieval modeling in partnership with engineering, product, data science, and ads stakeholders.
+* Design, develop, and launch candidate-generation and retrieval models for campaigns and ads across Reddit's advertising surfaces.
+* Apply modern approaches such as two-tower architectures, representation learning, embeddings, sequence models, graph-based methods, and other deep learning techniques when they create meaningful product value.
+* Improve the retrieval stack across key modeling decisions, including objectives, labels, sampling strategies, hard-negative mining, feature design, embedding generation, candidate filtering, and retrieval depth.
+* Work with approximate nearest-neighbor and vector retrieval systems, reasoning about recall, relevance, freshness, diversity, coverage, latency, and cost trade-offs.
+* Establish strong evaluation practices that connect retrieval metrics—such as recall, precision, candidate coverage, calibration, and downstream lift—to ads and user outcomes.
+* Lead offline analysis and online experiments, interpret ambiguous results, and translate findings into the next modeling iteration.
+* Partner with downstream ranking, ads platform, auction, measurement, and product teams to ensure retrieval models integrate effectively into the full ads funnel.
+* Write design documents, review code and model changes, and raise the quality bar for modeling, testing, observability, and production ownership.
+* Mentor ML engineers and help grow the team's expertise in retrieval, recommendation, and representation learning.
+
+**Required Qualifications:**
+
+* 7+ years of industry experience, including substantial experience building and shipping applied ML products.
+* Deep experience with information retrieval, candidate generation, recommender systems, ranking, or related relevance problems.
+* Strong understanding of retrieval modeling concepts, including DNN, embeddings, two-tower or dual-encoder models, approximate nearest-neighbor search, and multi-stage retrieval.
+* Deep experience training, evaluating, debugging, and deploying deep learning models using TensorFlow, PyTorch, or similar frameworks.
+* Demonstrated ownership of ML projects from problem framing and data preparation through offline evaluation, online experimentation, production launch, and iteration.
+* Strong command of experimental design and model evaluation, including how offline retrieval metrics relate to downstream business and user metrics.
+* Experience working with large-scale behavioral, contextual, or content datasets and complex feature pipelines.
+* Strong software engineering fundamentals and the ability to write clear, reliable, maintainable production code.
+* Technical leadership experience: setting direction, leading complex projects, influencing partner teams, and mentoring other engineers.
+* Excellent written and verbal communication, with the ability to explain complex modeling choices to technical and non-technical audiences.
+
+**Preferred Qualifications:**
+
+* Experience with ads retrieval, ads ranking, ad targeting, ad serving, recommendation, search relevance, or marketplace optimization
+* Experience modeling user, content, campaign, or ad interactions with sequential, graph, or multimodal signals
+* Experience connecting retrieval improvements to downstream ranking, auction, conversion, revenue, or user-experience outcomes
+* Experience in ads marketplaces at peer companies
+* Publications, patents, or industry contributions in applied ML or ranking systems
+* Experience with sequential modeling (e.g., RNNs, Transformers)
+
+**Benefits:**
+
+* 100% remote opportunity (we have 4 office locations for hybrid/onsite work preference in NY, SF, LA and Chicago)
+* Comprehensive Healthcare Benefits and Income Replacement Programs
+* 401k with Employer Match
+* Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
+* Family Planning Support
+* Gender-Affirming Care
+* Mental Health &amp; Coaching Benefits
+* Flexible Vacation &amp; Paid Volunteer Time Off
+* Generous Paid Parental Leave
+
+**Pay Transparency:**
+This job posting may span more than one career level.
+  
+  
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+  
+  
+To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+  
+  
+The base salary range for this position is:
+  
+  
+$230,000—$322,000 USD
+  
+  
+In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
+  
+  
+During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
+  
+  
+*Reddit is proud to be an equal</description>
         <pubDate>2026-11-14</pubDate>
     </item>
     
     <item>
         <title>Sr Staff Machine Learning Engineer- Consumer Incentives - Uber</title>
         <link>https://www.linkedin.com/jobs/view/4483316231</link>
-        <description>**About The Role And Team**
-Operating across key business areas like grocery and food, the Consumer Incentives team drives Uber's growth and long-term profitability. We deliver products that create seamless, affordable, and enjoyable customer experiences by building AI/ML-powered intelligence and sophisticated distributed systems at scale for hundreds of millions of global users.
+        <description>None</description>
+        <pubDate>2026-11-14</pubDate>
+    </item>
+    
+    <item>
+        <title>Senior Applied Scientist, Entertainment Devices &amp; Grocery Experiences (EDGE) Ads - Amazon</title>
+        <link>https://www.linkedin.com/jobs/view/4455798834</link>
+        <description>**Description**
+We are seeking an Senior Applied Scientist for our Entertainment Devices &amp; Grocery Experiences (EDGE) Ads team. This team addresses challenging content and ads optimization problem related to how advertisements are priced, selected, allocated and shown to customers on Amazon devices including Prime Video, Fire TV, Alexa, Fire Tablet and Amazon Stores. As Senior Applied Scientist, you will be responsible for improving advertising performance and delivering innovative advertising experiences for display and video ads on Amazon Devices. We are innovating for the next generation of conversational ads and agentic ai driven ads experience. This team leads initiatives to improve advertising fundamentals such as relevance, coverage, CTR, and CPSU (cost per sign up for streaming services) which in turn increase advertising revenue across Amazon's devices worldwide. You will own the scoping, implementation, and launch of science based ad solutions and experiences specifically for these entertainment focused environments.
   
   
-**What You’ll Do**
-As a Senior Staff Machine Learning Engineer, you will shape the technical vision and long-term ML strategy for Consumer Incentives. You will tackle fundamental questions about how to personalize incentives, understand their incremental impact on consumer behavior, and optimize investment to deliver customer value and sustainable business growth.
-  
-  
-This is a hands-on technical leadership role spanning machine learning, optimization, experimentation, and large-scale systems. You will lead initiatives across team boundaries, partner with engineering and cross-functional leaders to define the roadmap, and translate advances in ML into reliable products with measurable business impact. Building on our established capabilities in deep learning and constrained optimization, you will also help identify and develop opportunities for reinforcement learning, foundation models, and generative AI.
+Key job responsibilities
   
   
 
-* Set technical direction: Define the long-term ML vision, architecture, and technical roadmap for Consumer Incentives, aligning investments with consumer needs and business priorities.
-* Lead strategically important initiatives: Turn ambiguous problems into actionable technical strategies, and drive execution across teams from problem formulation and offline evaluation through experimentation, production deployment, and ongoing improvement.
-* Advance personalization and optimization: Design models and algorithms that improve incentive relevance, estimate incremental impact, and optimize decisions under business and operational constraints.
-* Architect scalable ML systems: Guide—and contribute directly to—the design and implementation of end-to-end ML systems, spanning data and feature pipelines, model training, inference, and monitoring, with a high bar for reliability, scalability, and maintainability.
-* Connect scientific rigor to business outcomes: Establish strong approaches to model evaluation, experimental design, and causal measurement, balancing short-term results with long-term consumer value and sustainable growth.
-* Translate emerging techniques into practical advances: Evaluate where reinforcement learning, foundation models, and generative AI can meaningfully improve our products, and lead promising approaches from exploration to production.
-* Build alignment across functions: Partner with product management, data science, operations, and engineering leaders to prioritize opportunities, make technical tradeoffs, and deliver shared outcomes.
-* Multiply the impact of others: Mentor engineers and technical leaders, raise the quality of technical decision-making, and build reusable capabilities that accelerate work across teams.
+* Gain a comprehensive understanding of the customer lifecycle journey with Amazon Ads, and develop sophisticated models to optimize various conversion KPIs for enhanced marketing effectiveness.
+* Develop scalable data processing pipelines and architectures to ingest, transform, and enrich Customer data from various sources (Retail, Prime Video, FireTV, Alexa+ and AppStore).
+* Build machine learning models, perform proof-of-concept, experiment, optimize, and deploy your models into production; work closely with product managers and engineers to launch your models to customers.
+* Drive innovation within your team and partner closely with other scientists, engineers and Product Managers to build science roadmaps
+* Establish scalable, efficient, automated processes for large-scale data analysis, machine-learning model development, model validation and serving.
+* Stay up-to-date with the latest advancements in machine learning, natural language processing, knowledge representation, multi-modal learning and related fields, and identify opportunities to apply them to Advertising Use Cases.
+* We are looking for world class researchers with experience in one or more of the following areas of Agentic AI for ads targeting - autonomous agents, multi agent orchestration, Planning, large multimodal models (especially vision-language models), reinforcement learning (RL) and sequential decision making.
+* Effectively communicate complex science problems and solutions to both technical and non-technical audiences.
 
+A day in the life
+  
+  
+In this role, you will regularly work with scientists and technical leaders across the advertising organization, including other science teams, product management, and senior leadership. You will also collaborate with science leaders across Amazon Devices and Prime Video organizations to build company-wide alignment. You will manage and work closely alongside your team of applied and data scientists to guide them through high-ambiguity problems and deliver robust, scalable solutions.
+  
+  
+**About The Team**
+This role is on Device Ads and Personalization (DAPP) team, which is under Amazon Publisher Monetization (APM). This team has a vision to create innovative Ad experiences on Amazon Devices, providing customers better convenience and more selection.
+  
+  
 **Basic Qualifications**
 
-* Masters degree or Ph.D in Computer Science, Engineering, Mathematics
-* 12+ years of ML experience, including significant work on large-scale deep learning systems.
-* Demonstrated ownership of high-impact ML systems such as search, recommendations, personalization, targeting.
-* Proven ability to set the technical strategy for a large organization and influence product roadmaps at the executive level.
-* Strong product intuition and ability to connect model improvements to business outcomes.
+* 5+ years of building machine learning models for business application experience
+* PhD, or Master's degree and 6+ years of applied research experience
+* Experience programming in Java, C++, Python or related language
+* Experience in building speech recognition, machine translation and natural language processing systems (e.g., commercial speech products or government speech projects)
 
 **Preferred Qualifications**
 
-* Track record of successfully launching multi-year, multi-org ML initiatives that drove step-change business outcomes.
-* Successfully championed and driven the adoption of multi-year technical roadmaps across multiple large engineering organizations.
-* Elevated engineering standards through mentorship and technical leadership, establishing org-wide best practices.
+* Experience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.
+* Experience with large scale distributed systems such as Hadoop, Spark etc.
 
-For New York City, NY-based roles: The base salary range for this role is USD $267,000 per year - USD $297,000 per year.
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
   
   
-For San Francisco, CA-based roles: The base salary range for this role is USD $267,000 per year - USD $297,000 per year.
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
   
   
-For Seattle, WA-based roles: The base salary range for this role is USD $267,000 per year - USD $297,000 per year.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
   
   
-For Sunnyvale, CA-based roles: The base salary range for this role is USD $267,000 per year - USD $297,000 per year.
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+  
+  
+USA, CA, Sunnyvale - 192,200.00 - 260,000.00 USD annually
+  
+  
+USA, MA, Boston - 167,100.00 - 226,100.00 USD annually
+  
+  
+USA, NY, New York - 183,800.00 - 248,700.00 USD annually
+  
+  
+  
+**Company**
+- Amazon.com Services LLC
+  
+  
+Job ID: A10394748</description>
+        <pubDate>2026-11-14</pubDate>
+    </item>
+    
+    <item>
+        <title>Staff Machine Learning Engineer - Uber</title>
+        <link>https://www.linkedin.com/jobs/view/4483314548</link>
+        <description>**About The Role**
+Uber Marketplace is at the heart of Uber’s business, with Rider Pricing playing a critical role by setting prices and targeting promotions for Uber riders. Our team’s mission is to drive revenue growth, ridership growth and Uber’s profitability through advanced machine learning and data science. We build reliable, scalable platforms that optimize rider pricing in both real-time and offline systems, including baseline trip pricing and targeted discounts.
+  
+  
+The Rider Pricing team is a fast-moving, high-opportunity space where you’ll have the chance to make a significant impact on the business. On this team, your work will affect over 95% of Uber’s mobility business revenue. You’ll take ownership of one key pillar of the rider pricing domain and lead the technical direction for improving our pricing algorithms, optimization algorithms and models. You will work across ML, serving, and optimization system components, and set technical direction for modeling best practices across model building, evaluation and deployment.
+  
+  
+In this role, you'll apply advanced machine learning technologies, including deep learning, generative AI for causal modeling, representation learning and personalization, to optimize Uber’s pricing. You will also work with serving infrastructure and product teams to design and evolve the rider pricing systems to support new product and algorithm evolutions and drive Uber’s top-line rider and revenue growth.
+  
+  
+**What You’ll Do**
+
+* Lead a group of SWEs and MLEs working on Uber’s rider pricing to develop and implement new machine learning and optimization techniques powering billions of rides around the world, and helping riders achieve their mobility needs.
+* Improve the performance of models and algorithms powering pricing algorithms and promotion targeting.
+* Own the problem E2E, including working with cross-functional teams to define the product and/or technical roadmap.
+* Mentor more junior team members by role modeling ML best practices. Collaborate with cross-functional teams to ensure alignment and drive Uber’s ridership and revenue growth. Help Uber’s end-users by making mobility options accessible and affordable.
+
+**Basic Qualifications**
+
+* Masters degree in Computer Science, Engineering, Mathematics, or a related field, with 7+ years of full-time engineering experience.
+* Proficiency in one or more programming languages (e.g., C, C++, Java, Python, Go).
+* Experience with machine learning and optimization algorithms.
+
+**Preferred Qualifications**
+
+* PhD in Computer Science, Engineering, Mathematics, or a related field, with 2+ years of full-time engineering experience.
+* Experience solving complex business problems by translating them into machine learning and optimization solutions.
+* Familiarity with large-scale data systems (e.g., Spark, Hive) and experience building production-ready algorithmic systems.
+* Strong background in deep learning, generative AI, causal modeling, and reinforcement learning.
+
+For New York City, NY-based roles: The base salary range for this role is USD $232,000 per year - USD $258,000 per year.
+  
+  
+For San Francisco, CA-based roles: The base salary range for this role is USD $232,000 per year - USD $258,000 per year.
+  
+  
+For Sunnyvale, CA-based roles: The base salary range for this role is USD $232,000 per year - USD $258,000 per year.
   
   
 For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.
