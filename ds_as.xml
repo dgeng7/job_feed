@@ -6,6 +6,72 @@
     <description>jobs</description>
     
     <item>
+        <title>Sr Applied Scientist, Embedded Battery Algorithms, Energy Storage - Amazon.com</title>
+        <link>https://www.indeed.com/viewjob?jk=7f43481f25c6eb67</link>
+        <description>**DESCRIPTION**
+---------------
+
+Do you want to write the algorithms that control next-generation batteries, and shape the future of energy storage? This role sits where electrochemistry, data/ML, and control theory meet. You will develop the physics-informed and data-driven methods that estimate state of charge, health, power capability, and remaining life, and validate them against lab and fleet data until they are ready to ship. Your algorithms will decide how hard a battery can be pushed, when it needs attention, and how long it will last, so they shape the safety, warranty, and economics of the whole product. You will work side by side with cell, systems, and software engineers, and as an early hire you will help define how we develop and validate battery algorithms.  
+  
+This role can be based in Boston, Irvine, Sunnyvale, or Seattle, and involves occasional domestic and international travel, up to 10% of the time.  
+  
+Key job responsibilities  
+
+* Develop and own algorithms for state of charge, state of health, power capability, and remaining useful life, combining physics-based models with data-driven and estimation methods.
+* Deliver validated reference implementations, test vectors, and accuracy targets that define what production code must achieve.
+* Design the test plans and data needed to develop and validate algorithms, working with the cell and testing teams to turn lab and field data into model improvements.
+* Analyze algorithm performance across the deployed fleet, find where models drift or fail, and drive improvements.
+* Own the accuracy and robustness of battery algorithms, and sign off that production implementations match the validated reference. Provide algorithm evidence for safety certification.
+
+  
+A day in the life  
+Your week moves between data, models, and experiments. One day you might be working out why a health estimate drifts on cells that have aged in the field, and the next deciding which model structure holds accuracy at cold temperatures. You could be designing a test with the cell team to expose a behavior your model misses, or reviewing an implementation with an applied scientist to confirm that what ships matches what you validated. You will regularly share results with software, systems, and cell leaders, and your findings will shape decisions well beyond the algorithm itself.  
+  
+About the team  
+We are building Amazon's energy storage capability, providing power for advanced technologies while contributing to a stable grid. Our product is highly connected, yet secure and resilient by design. We own it end to end, from software, ML, and controls through system design to cell selection and supply, and on to a safety-certified product in the field. The organization operates like a startup inside Amazon: small, fast-moving, and accountable for our decisions. We work across hardware, software, and science, with suppliers and partners worldwide, and with Amazon infrastructure, procurement, legal, and finance.  
+  
+The organization is at an early stage and growing quickly. You will be among the first algorithm hires, so you will help shape how we design, build, certify, and ship, with a direct line of sight to the product and business decisions your work informs. This is a dynamic role that will regularly present new challenges as the product and organization evolve.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Master's degree in electrical engineering, chemical engineering, mechanical engineering, materials science, applied mathematics, or a related field.
+* 8+ years of experience developing battery algorithms or battery models in industry or research with a Master's degree, or 5+ years with a PhD.
+* Extensive experience launching battery products with leading automotive or grid storage OEMs may be considered in place of some of this experience.
+* Experience developing state of charge or state of health estimation algorithms for lithium-ion batteries, including building equivalent circuit models and using methods such as Kalman filtering or data-driven models.
+* Experience validating battery algorithms against laboratory and field data.
+* Expert proficiency in Python for building and validating battery models, and the ability to prototype algorithms in C.
+* Familiarity with automotive or battery energy storage system (BESS) safety standards, such as ISO 26262, UL 1973, or UL 9540A.
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* PhD in electrical engineering, chemical engineering, mechanical engineering, materials science, applied mathematics, or a related field.
+* Experience building physics-based electrochemical models, such as the Doyle-Fuller-Newman (DFN) or single particle model (SPM) or other advanced battery models, and with lithium-ion aging mechanisms.
+* Experience with lithium iron phosphate (LFP) cells, including state of charge estimation across the flat voltage plateau and hysteresis.
+* Familiarity with lithium-ion failure modes and abuse hazards, such as overcharge, internal short, and thermal runaway, and experience developing algorithms to detect them.
+* Experience designing battery test protocols, such as hybrid pulse power characterization (HPPC), drive or duty cycles, and impedance spectroscopy.
+* Experience making technical trade-offs on a safety-critical product, where certification and field reliability constrain cost and schedule.
+* Comfortable making decisions with incomplete information, and effective across cultures, companies, and time zones.
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+
+  
+USA, CA, Irvine - 167,100.00 - 226,100.00 USD annually  
+USA, CA, SUNNYVALE - 192,200.00 - 260,000.00 USD annually  
+USA, MA, Boston - 167,100.00 - 226,100.00 USD annually  
+USA,</description>
+        <pubDate>2026-11-27</pubDate>
+    </item>
+    
+    <item>
         <title>Data Scientist III (6400) - itD Tech</title>
         <link>https://www.indeed.com/viewjob?jk=13752d7cbb8f2083</link>
         <description>itD is seeking a Data Scientist III to shape analytics strategy and measure the quality and impact of an AI-powered incident investigation product that helps engineers identify root causes and accelerate mitigation. The ideal candidate will bring deep experience in product analytics, 0-to-1 product development, and cross-functional leadership, with a track record of defining success metrics and translating complex data into product decisions.
@@ -1573,53 +1639,6 @@ Our employees are central to advancing our mission, and we strive to create an e
     </item>
     
     <item>
-        <title>Data Scientist III, Product - Youtube</title>
-        <link>https://www.indeed.com/viewjob?jk=72843a5400f7702c</link>
-        <description>In most instances, this position requires in-person interviews as part of the hiring process
-
-### **Minimum qualifications:**
-
-* Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
-* 5 years of experience with analysis applications (extracting insights, performing statistical analysis, or solving business problems), and coding (Python, R, SQL) or 2 years of experience with a Master's degree.
-
-  
-
-### **Preferred qualifications:**
-
-* Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
-* Experience in media, content, and entertainment analysis.
-* Experience in measurement and causal inference.
-* Ability to take open-ended problems, provide better definition and eventually solutions.
-* Ability to communicate well to various audiences, technical and non-technical.
-
-**About the job**
------------------
-
-YouTube Data Science is a 140+-analyst team that influences and informs YouTube’s product and engineering leadership teams. We have a long history of working on projects that are at the heart of the business and have a seat at the table when it comes to the decisions that drive YouTube's continued success. We work closely with product and engineering teams to improve decision making with science, all with the goal of bringing YouTube users the best entertainment experience possible.  
-  
-Within YouTube Data Science, the Over-the-Top (OTT) team focuses on over-the-top content, broadly referring to licensed digital media content including sports, movies, and shows. Our subscription products are key growth drivers for YouTube, with YouTube TV exceeding 10M subscribers, NFL Sunday Ticket bringing out-of-market football games to over 3M users, and Primetime Channels connecting over 1M users to their favorite content. As more fans flock to YouTube to meet their entertainment needs, data science plays a crucial role in identifying growth opportunities and informing data-driven decision making.  
-  
-As a Data Scientist in the OTT team, you will work cross-functionally across Data Science, Product Management, Engineering, UXR, Production Operations, and Marketing. You will leverage product intuition on how users engage with their favorite movies, shows, and sports on YouTube, and combine that intuition with quantitative analysis to inform our product roadmap and growth strategy.At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
-  
-  
-US: $138000 - $197000 (USD) + 15% bonus target + equity + benefits  
-  
-Learn more about benefits at Google.
-
-**Responsibilities**
---------------------
-
-* Perform analysis by utilizing relevant tools (e.g., SQL, R, Python). Using comprehensive technical knowledge, use custom data infrastructure or existing data models.
-* Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, and validate data to ensure quality.
-* Provide investigative insights and recommendations to influence product feature development decisions, and with some guidance.
-* Build and prototype analysis and business cases iteratively to provide insights at scale. Develop comprehensive knowledge of Google data structures and metrics.
-* Drive growth strategy for our existing streaming services by quantitatively analyzing logs data and combining results with qualitative insights.
-
-Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
-        <pubDate>2026-11-23</pubDate>
-    </item>
-    
-    <item>
         <title>Sr. Applied Scientist, Agentic Automated Reasoning Group - Amazon Web Services</title>
         <link>https://www.indeed.com/viewjob?jk=91692550952031fc</link>
         <description>**DESCRIPTION**
@@ -1668,6 +1687,53 @@ The base salary range for this position is listed below. Your Amazon package wil
 USA, CA, Santa Clara - 192,200.00 - 260,000.00 USD annually  
 USA, MA, Boston - 167,100.00 - 226,100.00 USD annually  
 USA, OR, Portland - 167,100.00 - 226,100.00 USD annually</description>
+        <pubDate>2026-11-23</pubDate>
+    </item>
+    
+    <item>
+        <title>Data Scientist III, Product - Youtube</title>
+        <link>https://www.indeed.com/viewjob?jk=72843a5400f7702c</link>
+        <description>In most instances, this position requires in-person interviews as part of the hiring process
+
+### **Minimum qualifications:**
+
+* Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
+* 5 years of experience with analysis applications (extracting insights, performing statistical analysis, or solving business problems), and coding (Python, R, SQL) or 2 years of experience with a Master's degree.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
+* Experience in media, content, and entertainment analysis.
+* Experience in measurement and causal inference.
+* Ability to take open-ended problems, provide better definition and eventually solutions.
+* Ability to communicate well to various audiences, technical and non-technical.
+
+**About the job**
+-----------------
+
+YouTube Data Science is a 140+-analyst team that influences and informs YouTube’s product and engineering leadership teams. We have a long history of working on projects that are at the heart of the business and have a seat at the table when it comes to the decisions that drive YouTube's continued success. We work closely with product and engineering teams to improve decision making with science, all with the goal of bringing YouTube users the best entertainment experience possible.  
+  
+Within YouTube Data Science, the Over-the-Top (OTT) team focuses on over-the-top content, broadly referring to licensed digital media content including sports, movies, and shows. Our subscription products are key growth drivers for YouTube, with YouTube TV exceeding 10M subscribers, NFL Sunday Ticket bringing out-of-market football games to over 3M users, and Primetime Channels connecting over 1M users to their favorite content. As more fans flock to YouTube to meet their entertainment needs, data science plays a crucial role in identifying growth opportunities and informing data-driven decision making.  
+  
+As a Data Scientist in the OTT team, you will work cross-functionally across Data Science, Product Management, Engineering, UXR, Production Operations, and Marketing. You will leverage product intuition on how users engage with their favorite movies, shows, and sports on YouTube, and combine that intuition with quantitative analysis to inform our product roadmap and growth strategy.At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+  
+  
+US: $138000 - $197000 (USD) + 15% bonus target + equity + benefits  
+  
+Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Perform analysis by utilizing relevant tools (e.g., SQL, R, Python). Using comprehensive technical knowledge, use custom data infrastructure or existing data models.
+* Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, and validate data to ensure quality.
+* Provide investigative insights and recommendations to influence product feature development decisions, and with some guidance.
+* Build and prototype analysis and business cases iteratively to provide insights at scale. Develop comprehensive knowledge of Google data structures and metrics.
+* Drive growth strategy for our existing streaming services by quantitatively analyzing logs data and combining results with qualitative insights.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.</description>
         <pubDate>2026-11-23</pubDate>
     </item>
     
@@ -1889,512 +1955,6 @@ Intuit provides a competitive compensation package with a strong pay for perform
 The expected base pay range for this position is:
   
 Mountain View $194,000 - $262,500</description>
-        <pubDate>2026-11-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Lead Data Scientist, Cloud Distribution &amp; Growth - OpenAI</title>
-        <link>https://www.indeed.com/viewjob?jk=1b9f7e5466f76294</link>
-        <description>Data Science - San Francisco and Seattle
-
-**About the Team**
-
-Cloud service providers give developers a way to use OpenAI models in the environments where they already build and run software. Our team works with Go-to-Market (GTM), Product, Engineering, and Finance to understand which customers we can reach through these providers and what helps them grow from a first API call to a production workload.
-
-**About the Role**
-
-In your first few months, you’ll identify a customer segment or workload where OpenAI can grow, recommend an investment to GTM, Product, and Engineering, and define how we’ll know whether it brought new usage to OpenAI. Your first priority will be to explain what drives usage and revenue across providers. You’ll use that understanding to help GTM decide which customers and workloads to invest in and to build forecasts the team can plan against.
-
-A customer might sign a substantial cloud commitment and send very little traffic. You can sit down with the account team, trace the customer’s first requests, and work out whether they need help launching, access to a different model, or more capacity. When you see the same opportunity across customers, your work can change where OpenAI invests.
-
-**In This Role, You Will:**
-
-* Build a reliable view of the business from provider usage reports, billing records, and API logs. Show how new workloads, expansion, changes in price, and shifts in model mix contribute to growth.
-* Estimate how much demand cloud distribution adds to OpenAI. Trace customer activity across channels to distinguish new use cases from traffic that moved from the direct API.
-* Identify where customers are ready to scale. Combine what account teams hear with evidence on request failures, latency, and model availability. Work with Product and Engineering on a change and measure what happens to usage.
-* Shape growth plans with GTM and Finance. Estimate what existing workloads and upcoming launches can contribute by year end, test the assumptions that matter most, and recommend where to focus with each provider.
-* Own the consumption forecast. Compare forecasts with actual usage over the same period, explain the biggest misses, and use what you learn to improve the next forecast.
-
-**You Might Thrive in This Role If You:**
-
-* Like questions that take you from a conversation with an account team to a query about a single API request. You’re curious about why a customer’s behavior differs from what the numbers first suggest.
-* Are comfortable making a recommendation while some questions are still open. You can tell a sales leader where you’d invest and explain to an engineer what evidence would change your mind.
-
-**Qualifications**
-
-* Experience independently leading data science work on a product, growth, or commercial question that changed a business decision.
-* Strong SQL and Python skills. You can join incomplete datasets, choose the right unit of analysis, and validate an aggregate result against individual customers or workloads.
-* Experience using cohorts, experiments, or observational comparisons to assess what drove a change. You can explain how customer selection affects the conclusion and evaluate a forecast against a simple baseline.
-
-**Preferred Qualifications**
-
-* Experience with API platforms, cloud marketplaces, enterprise GTM, or a usage-based business.
-* Experience connecting service reliability or capacity to customer adoption, or using demand forecasts to guide a commercial or infrastructure investment.
-
-**About OpenAI**
-
-OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core the full spectrum of humanity.
-
-We are an equal opportunity employeration, or other applicable legally protected characteristic.
-
-  
-
-Background checks for applicants will be administered in accordance with applicable lawation technology systems and related data security obligations.
-
-To notify OpenAI that you believe this job posting is non-compliant. No response will be provided to inquiries unrelated to job posting compliance.
-
-We are committed to providing reasonable accommodations to applicants with disabilities.
-
-  
-
-At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
-
-**Compensation**
-
-$347K – $445K + Offers Equity
-
-The base pay offered may vary depending on multiple individualized factorsance-related bonus(es) for eligible employees, and the following benefits.
-
-* Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts
-* Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)
-* 401(k) retirement plan with employer match
-* Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)
-* Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees
-* 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)
-* Mental health and wellness support
-* Employer-paid basic life and disability coverage
-* Annual learning and development stipend to fuel your professional growth
-* Daily meals in our offices, and meal delivery credits as eligible
-* Relocation support for eligible employees
-* Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.
-
-More details about our benefits are available to candidates during the hiring process.
-
-This role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.</description>
-        <pubDate>2026-11-21</pubDate>
-    </item>
-    
-    <item>
-        <title>MACHINE LEARNING ENGINEER - KILONEWTONS</title>
-        <link>https://www.indeed.com/viewjob?jk=a24ce88b0e6a3099</link>
-        <description>**Job Title:** Machine Learning Engineer
-
-**Company:** KILONEWTONS
-
-**Location:** Silicon Valley, CA, USA
-
-**Website:** www.kilonewtons.com
-
-**About KILONEWTONS:** KILONEWTONS is a forward-thinking global engineering and construction firm dedicated to delivering high-quality, structurally sound, and innovative projects. We specialize in bringing complex architectural visions to life through precise engineering execution.
-
-**Role Overview:** We are seeking a visionary Machine Learning Engineer to join our technology hub in Silicon Valley. In this role, you will lead the development and deployment of advanced machine learning models that optimize our global engineering workflows and power our digital platforms. You will play a pivotal role in bridging the gap between heavy structural engineering and cutting-edge artificial intelligence, extracting actionable insights from complex construction data and bringing intelligent, predictive features to our cross-platform mobile applications.
-
-**Key Responsibilities:** \* Design, train, and deploy scalable machine learning models to solve complex problems in structural analysis, predictive site maintenance, and construction logistics.
-
-* Process and analyze large, complex datasets generated from 3D structural models (such as Revit and Tekla) and real-time on-site construction metrics.
-* Integrate machine learning capabilities seamlessly into our custom internal software and user-facing mobile applications to enhance user experience and operational efficiency.
-* Collaborate closely with software developers, backend engineers, and structural experts to ensure ML models are robust, highly performant, and securely integrated into our cloud infrastructure.
-* Continuously monitor, evaluate, and fine-tune deployed models to ensure maximum accuracy and adapt to new architectural and engineering data streams.
-
-**Qualifications &amp; Skills:** \* Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, or a related highly quantitative field.
-
-* Proven experience as a Machine Learning Engineer or Data Scientist, with a strong portfolio of deployed ML models in production environments.
-* Deep technical proficiency in Python and industry-standard machine learning frameworks (e.g., TensorFlow, PyTorch, Scikit-learn).
-* Hands-on experience with cloud computing platforms, RESTful APIs, and integrating ML solutions with backend-as-a-service environments like Firebase.
-* Exceptional analytical problem-solving skills and a strong desire to apply machine learning innovations to the architecture, engineering, and construction (AEC) sectors.
-
-**How to Apply:** Please submit your resume, a link to your GitHub (or equivalent portfolio of ML projects), and a cover letter through our website at **www.kilonewtons.com/careers**.</description>
-        <pubDate>2026-11-20</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Data and Applied Scientist, SCM Autonomous Suite, Palo Alto - SAP</title>
-        <link>https://www.linkedin.com/jobs/view/4461380798</link>
-        <description>**We help the world run better**
-At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
-  
-  
-**The context engine that makes AI enterprise ready.**
-Anyone can build an AI agent. What makes SAP's agents different is accuracy grounded in the richest enterprise data and process context in the world. As a Data and Applied Scientist at SAP, you'll build the context engine grounded in SAP’s Business ontology: the semantic infrastructure that transforms raw business data into the knowledge layer powering SAP's AI agents and assistants.
-  
-  
-**What You'll Build**
-The semantic and contextual foundation of SAP's AI. While generic AI agents operate on surface-level patterns, SAP agents are accurate because they understand the real semantics of enterprise business master data, process flows, and domain relationships. You'll build and scale the layer that makes that possible.
-  
-  
-
-* Design and maintain enterprise ontologies and semantic models that give AI agents accurate, grounded understanding of SAP and connected business landscapes harmonizing data from SAP, Salesforce, Workday, ServiceNow, MES/IoT systems, and external providers into unified semantic layers.
-* Build AI capabilities including RAG pipelines, embeddings, vector databases, and enterprise knowledge grounding that make SAP's agents accurate and reliable in production.
-* Develop AI capabilities including generative AI and LLM-based solutions using enterprise business data, knowledge graphs, business process intelligence, and other structured and unstructured data assets.
-* Leverage SAP's deep data and process context including SAP data models, metadata structures, and business process semantics across Order-to-Cash, Procure-to-Pay, Record-to-Report, and Plan-to-Produce to ground AI solutions in real enterprise reality.
-* Work with cloud and data platforms including Databricks, SAP Datasphere, SAP HANA Cloud, AWS, Azure, and GCP to support reliable, scalable AI workflows.
-* Partner across product, engineering, business, and customer-facing teams to translate ambiguous business challenges into concrete AI solutions from concept through deployment and continuous improvement.
-* Apply machine learning, deep learning, and statistical modeling to develop and evaluate AI solutions using real-world enterprise datasets.
-
-**What You'll Bring**
-*Required Qualifications*
-
-* 8+ years of experience in knowledge engineering, semantic data systems, applied AI, or data science in industry, research labs, or advanced academic environments.
-* Master's or PhD in Computer Science, Applied Mathematics, Statistics, Engineering, or a related quantitative field
-* Hands-on experience designing enterprise ontologies and semantic models; proficiency in at least one graph query language (SPARQL, Cypher, or GQL); understanding of trade-offs between RDF triple stores and property graph databases.
-* Hands-on experience with modern GenAI systems RAG, embeddings, vector databases, semantic retrieval, and enterprise knowledge grounding.
-* Strong Python and SQL skills with production-grade development practices; experience with ML libraries such as PyTorch, TensorFlow, or scikit-learn.
-* Proven track record deploying and operating AI/ML solutions in production including handoff, lifecycle support, and continuous improvement.
-* Experience with big data infrastructure and cloud environments Databricks or equivalent, plus at least one major cloud (AWS, Azure, or GCP).
-* Excellent communication and stakeholder management skills, with the ability to work cross-functionally in agile environments.
-
-**Preferred Qualifications**
-
-* Deep working knowledge of SAP data models, metadata structures, and core business processes end-to-end. (SAP knowledge is a strong accelerator)
-* Hands-on experience with the SAP data and AI platform stack SAP Datasphere, SAP HANA Cloud Knowledge Graph Engine, SAP Business Data Cloud, SAP One Domain Model, SAP Graph API, and SAP Business Accelerator Hub.
-* Deep expertise across the W3C stack (OWL, RDF/RDFS, SKOS, SHACL) and/or property graph query languages (Cypher, GQL).
-* Demonstrated experience with data, semantics, and business processes of one or more major supply-chain domains (e.g.: demand, supply and inventory planning; product and bill-of-materials data; manufacturing and capacity; logistics and fulfillment; or asset and service operations) and connect entities, events, KPIs, constraints, and decisions across data domains.
-* Deep expertise in one or more data science fields, including time-series analysis and forecasting, anomaly detection, causal inference, operations research, mathematical optimization, probabilistic modeling, or simulation and scenario search. Track record of productionizing models and measuring calibration, decision quality, and business outcomes.
-* Deep expertise in machine learning and deep learning, with experience developing, evaluating, and improving models on real-world datasets.
-* Experience with agentic AI, reasoning frameworks, planning, orchestration, tool use, or multi-agent architectures.
-* Experience contributing to reusable AI platforms, foundation model initiatives, or shared AI services adopted across multiple product areas.
-* Ability to design upper-level and mid-level ontologies aligned with industry standards and apply semantic interoperability frameworks across complex application landscapes.
-
-#dlhiring
-  
-  
-**Where you belong**
-Data Labs is building the data, semantic, and decision-intelligence foundation for SAP’s next generation of autonomous supply-chain capabilities. You'll work with large-scale planning and execution data and transform it into governed decision context, enabling AI agents to understand disruptions, trace their impact across applications, evaluate feasible responses, and act within enterprise guardrails. Products span supply-chain ontology packs, reusable semantic data products, forecasting and optimization models, typed agent interfaces, and rigorous evaluation suites. SAP Data Scientists work alongside domain experts, data engineers, ML engineers, and application teams across planning, manufacturing, logistics, product design, and asset operations. This is an opportunity to shape foundational technology used across SAP IBP, Joule, and Autonomous SCM agents — and to see that work translate directly into faster, higher-quality supply-chain decisions for customers.
-  
-  
-**Bring out your best**
-SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
-  
-  
-**We win with inclusion**
-SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our </description>
-        <pubDate>2026-11-27</pubDate>
-    </item>
-    
-    <item>
-        <title>(USA) Principal, Data Scientist - Walmart Data Ventures</title>
-        <link>https://www.linkedin.com/jobs/view/4493456843</link>
-        <description>None</description>
-        <pubDate>2026-11-25</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Applied Data Scientist - Search and Browse (NLP, Vector Search, LLMs)(Remote Or Hybrid) - Target</title>
-        <link>https://www.linkedin.com/jobs/view/4494116539</link>
-        <description>The pay range is $168,000.00 - $356,000.00
-  
-  
-Pay is based on several factors which vary based on position. These include labor markets and in some instances may include education, work experience and certifications. In addition to your pay, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Target offers eligible team members and their dependents comprehensive health benefits and programs, which may include medical, vision, dental, life insurance and more, to help you and your family take care of your whole selves. Other benefits for eligible team members include 401(k), employee discount, short term disability, long term disability, paid sick leave, paid national holidays, and paid vacation. Find competitive benefits from financial and education to well-being and beyond at https://corporate.target.com/careers/benefits.
-  
-  
-**JOIN TARGET AS A PRINCIPAL DATA SCIENTIST – SEARCH AND BROWSE**
-**About Us**
-Working at Target means helping all families discover the joy of everyday life. We bring that vision to life through our values and culture. Learn more about Target here.
-  
-  
-A role with Applied Data Sciences team at Target means the chance to help develop and manage state of the art predictive algorithms that use data at scale to automate and optimize decisions at scale. Whether you join our Search, RecSys, Supply Chain Optimization or Machine Learning teams, you’ll be challenged to harness Target’s impressive data breadth to build the algorithms that power solutions our partners in Marketing, Supply Chain Optimization, Network Security and Personalization rely on. Every Scientist on Target’s Data Sciences team can expect modeling and data science, software/product development of highly performant code for Model Performance, and to elevate Target’s culture and apply retail domain knowledge.
-  
-  
-**About Our Search And Browse Team**
-The Search and Browse Applied Data Science team builds the foundational relevance, retrieval, ranking, and personalized search systems that power Target’s Digital experience at scale. We are defining the future of AI-native commerce discovery across Search, Browse and emerging conversational shopping experiences.
-  
-  
-E-commerce Search Is Undergoing a Massive Transformation, And We Are Building The Architecture To Lead It. We Are Solving Some Of The Hardest Problems In Retail AI At a $10B+ Commercial Scale And 10K+ QPS, Including
-  
-  
-
-* Architecting search and data systems for external LLM ingestion so our catalog wins in ChatGPT, Gemini, agentic commerce, and the next generation of AI-native discovery experiences
-* Building zero-shot and cold-start discovery systems for rapidly changing, seasonal retail inventory
-* Solving natural language and long-tail search problems where conversational queries and traditional retrieval systems break against massive unstructured product catalogs
-* Evolving multi-stage retrieval and ranking architectures that balance relevance quality, latency, scalability, and infrastructure efficiency at enterprise scale
-
-We are looking for pragmatic builders and technical leaders who thrive on shipping production systems at scale. Engineering excellence, sub-second latency, operational reliability, infrastructure economics, and seamless integration with core Retrieval and Ranking systems matter just as much as modeling sophistication.
-  
-  
-This role requires deep technical expertise, exceptional product judgment, and the ability to influence organizational strategy while driving measurable customer and business impact
-  
-  
-**As a Principal Data Scientist – Search and Browse you’ll:**
-
-* Define the long-term technical vision and organizational roadmap for Search, Browse, and AI-driven discovery systems
-* Lead architecture strategy for large-scale retrieval, ranking, semantic search, and GenAI systems operating at massive scale
-* Drive innovation across transformers, LLMs, RAG architectures, multi-stage ranking systems, personalization, conversational commerce, and agentic AI
-* Architect search and retrieval systems for external LLM and agentic search ecosystem integration
-* Define the future evolution of semantic retrieval, conversational search, and zero-shot discovery systems
-* Influence organization-wide strategy across relevance, experimentation, evaluation, ML infrastructure, and AI product investments
-* Lead highly ambiguous, multi-quarter initiatives involving Product, Engineering, Applied Science, Infrastructure, and executive stakeholders
-* Establish scalable ML architecture patterns, experimentation standards, and operational best practices across multiple teams
-* Drive foundational investments and technical direction across Search, Retrieval Infrastructure, and AI-powered discovery platforms
-* Balance customer experience, business impact, system reliability, latency, scalability, and infrastructure cost at enterprise scale
-* Mentor Lead scientists and technical leaders across the organization
-* Represent the organization in executive reviews and drive alignment on major technical and product decisions
-* Influence technical direction and investment priorities across multiple teams and organizations
-
-Core responsibilities of this job are articulated within this job description. Job duties may change at any time due to business needs.
-  
-  
-**About You**
-
-* PhD or MS in Computer Science, Statistics, Applied Mathematics, Physics or related quantitative discipline
-* 8+ years of industry experience building and scaling ML systems for Search, Recommendation, Personalization, Ads, or AI platforms
-* Strong experience with semantic retrieval, vector search, RAG systems, conversational search or agentic AI systems
-* Deep expertise in retrieval/ranking architectures, recommendation systems, semantic search, NLP/LLMs, experimentation and ML infrastructure (VertexAI)
-* Demonstrated Python programming and technical ML problem-solving skills
-* Proven experience defining architecture and long-term strategy for large-scale production AI systems
-* Experience operating large-scale online systems with strict latency, scalability, reliability, and infrastructure cost requirements
-* Strong understanding of retrieval/ranking system tradeoffs, experimentation strategy, and operational excellence
-* Strong track record driving measurable business impact through ML innovation
-* Experience leading cross-functional initiatives spanning multiple teams or organizations
-* Ability to influence executive stakeholders and drive organizational technical direction
-* Exceptional communication, technical leadership, strategic thinking, and mentoring skills
-
-This position will operate as a Hybrid/Flex for Your Day work arrangement based on Target’s needs. A Hybrid/Flex for Your Day work arrangement means the team member’s core role will need to be performed both onsite at the Target HQ in Sunnyvale, CA or MN location the role is assigned to and virtually, depending upon what your role, team and tasks require for that day. Work duties cannot be performed outside of the country of the primary work location, unless otherwise prescribed by Target. Click here if you are curious to learn more about Minnesota.
-  
-  
-This position may be considered for a Remote or Hybrid (known internally at Target as "Flex for Your Day") work arrangement based on Target's needs.  A Remote work arrangement means the team member works full-time from home or an alternate location that's not a Target location, does not have a desk at a Target location and may travel to HQ up to 4 times a year.  A Hybrid/Flex for Your Day work arrangement means the team member's core role may be performed either remote or onsite at a Target location depending upon what your role, team and tasks require for that day. Work duties cannot be performed outside of the country of the primary work location, unless otherwise prescribed by Target.Target will consider for employment qualified applicants with crimi</description>
-        <pubDate>2026-11-24</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Research Data Scientist - Google</title>
-        <link>https://www.linkedin.com/jobs/view/4486043254</link>
-        <description>None</description>
-        <pubDate>2026-11-24</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Research Data Scientist - Google</title>
-        <link>https://www.linkedin.com/jobs/view/4486038327</link>
-        <description>Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.
-  
-  
-Note: By applying to this position you will have an opportunity to share your preferred working location from the following:
-**San Francisco, CA, USA; Sunnyvale, CA, USA**
-.
-**Minimum qualifications:**
-
-* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.
-* 8 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis.
-* Experience with Machine Learning research and developing new methodologies or algorithms.
-* Experience with Large Language Models (LLMs), Natural Language Processing (NLP), or Generative AI.
-* Experience with Machine Learning algorithms and statistical modeling.
-* Experience with cyber threat research.
-
-**Preferred qualifications:**
-
-* PhD in Computer Science, Data Science, Statistics, Electrical Engineering, or a related quantitative field.
-* 7 years of experience designing, validating, and deploying machine learning models, statistical methods, or generative AI systems into production.
-* 2 years of applied experience within cybersecurity, security operations, threat intelligence, fraud/abuse, or vulnerability research.
-* Experience acting as a Technical Lead, workstream owner, or principal researcher directing technical projects end-to-end across cross-functional teams.
-* Experience addressing distribution shifts, concept drift, or adversarial attacks in high-stakes or non-stationary environments.
-* Experience in production-grade development using programming languages and modern deep learning ecosystems.
-
-**About The Job**
-The Google Cloud GUSTO AI Data Science Research team develops innovative, data-driven solutions to today’s most challenging cybersecurity problems. By leveraging data derived from Google's unparalleled view of the threat landscape, our cross-functional, applied research team experiments and delivers impactful findings for both our customers and the broader cybersecurity industry.
-  
-  
-As a Staff Research Data Scientist (Tech Lead) you will define the technical goal, drive applied research agendas, and lead the technical execution of machine learning, deep learning, and generative AI initiatives across Google SecOps, Google Threat Intelligence, and other key cybersecurity product areas in Google Cloud.
-  
-  
-In this role, you will manage high-ambiguity, adversarial security problems at Google scale. You will act as the principal research driver and technical lead across initiatives such as agentic security operations, threat intelligence reasoning and contextualization, security-specialized LLMs/foundation models, and dark web threat detection. As a Tech Lead, you will bridge the gap between breakthrough AI research and enterprise-grade deployment: architecting novel research prototypes, steering data strategy, aligning roadmaps with cross-functional SWE and Product leaders, and mentoring junior researchers. You will represent Google's security research externally through high-impact publications, patents, and conference presentations, shaping how the broader AI Security industry defends against advanced threat actors.
-  
-  
-Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
-  
-  
-US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits
-  
-  
-**Responsibilities**
-Learn more about benefits at Google .
-  
-  
-
-* Define and drive the multi-quarter research strategy and technical roadmap at the nexus of machine learning for security, AI-powered security operations, and autonomous threat investigation and response.
-* Serve as the Technical Lead (TL) for applied research workstreams, translating ambiguous threat challenges into structured, high-impact AI/ML modeling solutions with landed product impact.
-* Architect state-of-the-art model architectures and agentic systems, balancing theoretical novelty with low-latency, resilient inference in adversarial environments.
-* Architect end-to-end data acquisition and curation strategies across massive, heterogeneous security telemetry; establish benchmarks and evaluation pipelines for robust model assessment.
-* Partner with Engineering (SWE) and Product Management (PM) leadership to establish shared architectural roadmaps, govern production ML deployments, and lead continuous post-deployment telemetry and feedback loops.
-
-Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .</description>
-        <pubDate>2026-11-24</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Data and Applied Scientist, Finance and Spend Autonomous Suite, Palo Alto - SAP</title>
-        <link>https://www.linkedin.com/jobs/view/4458683543</link>
-        <description>None</description>
-        <pubDate>2026-11-23</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Applied Scientist - Robotics - Oracle</title>
-        <link>https://www.linkedin.com/jobs/view/4448070557</link>
-        <description>**Job Description**
-The IC4 Applied Scientist for Robotics, Perception, and Embodied AI will serve as a senior technical leader responsible for defining, prototyping, and delivering AI capabilities for commercially viable robotic systems. This role partners across science, software engineering, product, and hardware teams to identify high-impact opportunities, translate ambiguous product needs into research and engineering roadmaps, and guide end-to-end solution development from data collection and experimentation through production deployment. The scientist will lead applied research in multi-sensor fusion, real-time signals, perception, multimodal reasoning, reinforcement learning, and action-conditioned planning, with a strong bias for hands-on execution and full-stack delivery.
-  
-  
-**Responsibilities**
-**Key Responsibilities**
-Solution Identification and Strategy
-  
-  
-
-* Partner with science, engineering, product, and hardware leaders to identify strategic product needs where robotics, perception, and embodied AI can create measurable customer and business impact.
-* Evaluate academic literature, industry benchmarks, robotics platforms, and commercially viable robot APIs to assess feasibility, technical difficulty, and delivery risks.
-* Break down ambiguous robotics and AI problems into clear research plans, model architectures, data requirements, evaluation criteria, and production milestones.
-* Set science quality standards for applied robotics workstreams, including perception accuracy, latency, robustness, safety, reliability, and operational feedback metrics.
-* Prioritize solutions using the scientific process, including modeling approaches, evaluation techniques, data collection strategies, and risk/reward tradeoffs.
-
-Applied Research and Model Development
-  
-  
-
-* Lead the design and execution of research programs and POCs for sensors, multi-sensor fusion, real-time signal processing, and perception systems.
-* Develop and guide approaches for object detection, tracking, activity recognition, scene understanding, and related perception capabilities in real-world environments.
-* Advance multimodal AI systems that combine signals such as camera, depth, lidar, audio, telemetry, proprioception, and task context.
-* Apply reinforcement learning, action-conditioned planning, decision-making, and reasoning methods to enable robot behaviors that are robust, measurable, and product-relevant.
-* Define dataset strategy, data quality criteria, labeling approaches, simulation or synthetic data opportunities, and evaluation protocols for robotics and embodied AI use cases.
-* Guide model training, fine-tuning, optimization, inference design, and compute/latency tradeoffs for real-time or near-real-time deployment scenarios.
-
-Solution Delivery and Production Integration
-  
-  
-
-* Lead full-stack execution across experimentation, data pipelines, model development, evaluation, deployment integration, and production monitoring.
-* Partner closely with software engineering, machine learning engineering, hardware teams, and product stakeholders to integrate AI capabilities into robotic systems and services.
-* Evaluate and review high-complexity code, establish best practices for repositories, version control, code review, documentation, testing, and delivery readiness.
-* Define operational metrics and user feedback loops to assess delivered solutions in production and inform future technical strategy.
-* Serve as an escalation point for complex robotics, AI, perception, and systems integration issues, driving root-cause analysis and durable solutions.
-
-Research Leadership and Influence
-  
-  
-
-* Demonstrate thought leadership in at least one business-critical area such as robot perception, multimodal systems, sensor fusion, reinforcement learning, or embodied AI.
-* Translate research insights into clear technical recommendations, patents, white papers, design documents, demos, or conference-quality publications where appropriate.
-* Mentor and guide scientists and engineers, raising the bar for applied research rigor, experimentation quality, and production readiness.
-* Establish productive collaborations with internal teams, external research groups, academic partners, or commercial robotics ecosystem partners where relevant.
-
-Core Competencies
-  
-  
-
-* Bias for action with a strong hands-on orientation; able to move from ambiguous idea to prototype, evaluation, and production path quickly.
-* Ability to execute full-stack AI workflows spanning data, experimentation, modeling, evaluation, APIs, deployment, and feedback loops.
-* Strong cross-functional collaboration with hardware teams, software engineering, ML engineering, product, operations, and leadership stakeholders.
-* Excellent judgment in balancing scientific rigor, product urgency, systems constraints, safety, reliability, and customer impact.
-* Clear executive-level communication; able to explain complex robotics and AI tradeoffs to technical and non-technical audiences.
-
-Required Technical Expertise
-  
-  
-
-* Deep experience in machine learning, artificial intelligence, computer vision, perception, robotics, sensor fusion, real-time signal processing, or a closely related field.
-* Experience with perception capabilities such as object detection, tracking, activity recognition, scene understanding, localization, or state estimation.
-* Experience designing multimodal AI systems that combine heterogeneous data sources and reason over context, actions, and temporal signals.
-* Practical knowledge of reinforcement learning, planning, sequential decision-making, robotics control interfaces, or action-conditioned model behavior.
-* Strong programming capability in applicable languages such as Python and/or C++, and experience with modern ML frameworks and production-oriented software practices.
-* Familiarity with APIs, SDKs, or integration patterns from commercially viable robotics platforms.
-
-**Minimum Qualifications**
-
-* 15 years of experience in data science, machine learning, artificial intelligence, robotics, computer vision, signal processing, statistical modeling, data mining, or a related field; OR
-* Bachelor's degree in Mathematics , Statistics, Computer Science, Data Science, Physics, Robotics, Electrical Engineering, Mechanical Engineering, or related field and 11 years of relevant experience; OR
-* Master's degree in one of the above or related fields and 9 years of relevant experience; OR
-* Doctorate in one of the above or related fields and 7 years of relevant experience.
-* 7+ years of hands-on experience with Python, C++, PyTorch , and ROS for software development, machine learning, and robotics applications.
-* Demonstrated technical leadership guiding teams and stakeholders toward strategic goals.
-
-**Preferred Qualifications**
-
-* 16 years of experience in data science, machine learning, artificial intelligence, robotics, computer vision, perception, signal processing, or related field; OR equivalent degree-based experience aligned to Oracle IC5 guidelines.
-* 2 years of leadership experience with or without direct reports, including technical direction, mentoring, project planning, or cross-functional execution.
-* 2 years of experience working with operating budgets and/or project financials, where applicable.
-* 5+ years of experience creating technical publications, patents, white papers, peer-reviewed conference or journal articles, or equivalent technical documentation.
-* Demonstrated experience delivering robotics, embodied AI, perception, or multimodal systems from research concept into production or customer-facing environments.
-* Hands-on experience with commercial robot platforms, robot SDKs/APIs, simulation environments, telemetry pipelines, and real-time deployment constraints.
-
-**Success Profile**
-
-* Builds credibility as a senior applied science leader who can bridge research depth with pragmatic product delivery.
-* Operates comfortably across sensors, models, APIs, hardware/software bou</description>
-        <pubDate>2026-11-22</pubDate>
-    </item>
-    
-    <item>
-        <title>Principal Data Scientist - Cloud Gaming and AI - NVIDIA</title>
-        <link>https://www.linkedin.com/jobs/view/4431440928</link>
-        <description>None</description>
-        <pubDate>2026-11-21</pubDate>
-    </item>
-    
-    <item>
-        <title>Staff Data Scientist - Infrastructure - Databricks</title>
-        <link>https://www.linkedin.com/jobs/view/4300367915</link>
-        <description>P-57
-  
-  
-At Databricks, we are obsessed with enabling data teams to solve the world's toughest problems. We do this by building and running the world's best data and AI infrastructure platform, so our customers can focus on the high value challenges that are central to their own missions.
-  
-  
-Founded in 2013 by the original creators of Apache Spark, Databricks has grown from a tiny corner office in Berkeley, California to a global organization with over 1000 employees. Thousands of organizations, from small to Fortune 100, trust Databricks with their mission-critical workloads, making us one of the fastest growing SaaS companies in the world.
-  
-  
-Our engineering teams build highly technical products that fulfill real, important needs in the world. We constantly push the boundaries of data and AI technology, while simultaneously operating with the resilience, security and scale that is critical to making customers successful on our platform.
-  
-  
-We develop and operate one of the largest scale software platforms. The fleet consists of millions of virtual machines, generating terabytes of logs and processing exabytes of data per day. At our scale, we regularly observe cloud hardware, network, and operating system faults, and our software must gracefully shield our customers from any of the above.
-  
-  
-As a Data Scientist on the Data Team, you will help build a data-driven culture within Databricks by helping work on top priorities for the company. The Data team also functions as an in-house, production "customer" that dog foods Databricks and drives the future direction of the products.
-  
-  
-**The Impact You Will Have**
-
-* “Analysis at the speed of thought”: Inform decision making by building robust data science tooling for business leaders, analysts, and other data scientists.
-* “Extend capabilities of Databricks”: Work closely with Data Platform and Product Engineering teams to integrate data science tooling with existing Data team offerings and the core product
-* “Strategic business insights”: Lead insight generation for top company priorities, and key Engineering initiatives (reliability, and efficiency).
-* Gather changing requirements, define project OKRs and milestones, and communicate progress and results to both technical and non-technical audiences.
-* Mentor and guide junior data scientists on the team by helping with project planning, technical decisions, and code and document review.
-* Represent the data science discipline throughout the organization, having a powerful voice to make us more data-driven.
-* Represent Databricks at academic and industrial conferences &amp; events.
-
-**What We Look For**
-
-* 7+ years of data science, machine learning, advanced analytics experience in high velocity, high-growth companies
-* Extensive experience in applying Data Science / ML in production to build data-driven products for solving business problems.
-* Experience collaborating with and understanding the needs of Senior level stakeholders from a variety of functions including: Engineering, Product, and Technical Operations.
-* Ability to deal with ambiguity in fast paced environments by clarifying requirements and having a keen sense of 0 to 1 solutions.
-* Adept at operating both as an individual contributor and identifying how to orchestrate the build through peers and investments in scalable tooling.
-* Strong coding skills in Python and SQL
-* Experience with distributed data processing systems like Spark and familiarity with software engineering principles around testing, code reviews and deployment.
-* M.S. or Ph.D. in quantitative fields (e.g., Statistics, Math, Computer Science, Physics, Economics, Operational Research or Engineering)
-
-**Pay Range Transparency**
-Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
-  
-  
-Local Pay Range
-  
-  
-$192,000—$260,000 USD
-  
-  
-**About Databricks**
-Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn, X, YouTube, and Instagram.
-  
-  
-**Benefits**
-At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here.
-  
-  
-**Our Commitment to Diversity and Inclusion**
-At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
-  
-  
-**Compliance**
-**If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.**</description>
         <pubDate>2026-11-21</pubDate>
     </item>
     
